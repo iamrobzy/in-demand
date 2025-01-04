@@ -1,0 +1,49 @@
+
+About the job
+
+Job Description
+
+We are on the journey to transform our digital capabilities, bringing core business processes, people, data & technology together - an enabler for IKEA to become an even better home furnishing retailer in the future. A journey that needs passionate people who embrace change, dare to question and want to make a difference. If that sounds like you, come and join us. Together we can do great things! 
+
+We're on the lookout for passionate doers, idea makers, creative thinkers - people who want to help IKEA find answers to everyday problems in people's lives using Spatial Computing. Do you want to be part of making it happen? Then keep on reading.
+
+The Team 
+
+The Spatial Computing Team drives the digital innovation work in the spatial computing area for all IKEA companies. We are looking for a Research Engineer with knowledge of Spatial Computing / XR Development. In this position you will use your technical expertise to find, explore, evaluate and transfer innovation insights. You are someone with an innovative mind and lateral thinking. Someone who thinks virtual worlds are cool but helping real people is even better. You know why robots and pie go well together and why point clouds on a sunny day don't matter at all.
+
+Your Main Responsibilities Will Be To
+
+    Explore and evaluate new technology and its possibility to improve IKEA customer and co-worker experience 
+    Develop real-time 3D applications to serve as inspiring proof of concepts 
+    Collaborate with external experts and innovators in explorations of technical solutions 
+    Collect and share expertise with IKEA stakeholders 
+
+About You
+
+The person we're looking for is someone passionate about the future of 3D graphics. A person who wants to use game engine for more than just for games. Someone who likes the idea of conceptualizing the utopian future of the digital - human interfaces, to interact with people in a more natural way than ever before. Someone who thinks Swedish meatballs have the potential to taste even better in mixed reality. We're looking for a person who can break down high-level concepts like these and explore them singlehandedly or as part of a team.
+
+To be successful in this role, the following knowledge, skills and experiences would be valuable: 
+
+    Background in real-time 3D graphics with deep interest in the future of Real Time Graphics (VR/MR/AR). 
+    Understanding of graphics pipelines related to real-time 3D environments. 
+    Passion for how sound and audio design and haptics can be used to elevate immersive experiences 
+    Experience with Unreal and/or Unity and/or native IOS/Android 3D development and/or Web based 3D engines 
+    Experience with mobile application development and deployment. 
+    Programming skills building applications communicating with back-ends and building applications of interactive worlds using game engines and 3D Graphics. 
+    Good knowledge of at least 2 different core programming languages such as C,C#, Python, C++ or JavaScript 
+    You'll have a passion for sharing the knowledge you've acquired, with the ability to communicate with both technical and non-technical stakeholders. 
+    Ability to formulate new ideas surrounding technological innovations. 
+    Ability to discuss problems with program code examples. 
+    Strong collaboration skills, with experience developing solutions alongside other teammates. 
+
+Additional Information
+
+This role is full-time (40 hours per week) and based in Älmhult. This role sits in the Range Operations and reports to Innovation Manager. If you would like to know more about the role, please connect with martin.enthed@inter.ikea.com or if you have questions about the recruitment process, please connect with linnea.dietrichson@inter.ikea.com
+
+At IKEA, we are looking for people who believe everyone deserves a seat at the table. You’re welcome no matter where you come from, what you believe, and what you look like. We don’t even care how you have furnished your home. We’re interested in you simply because you’re you. Even if your experience doesn’t align perfectly with every qualification in the job description, we encourage you to apply anyway. We believe that people’s different perspectives, backgrounds, and personalities make us better at understanding our customers dreams and needs. At IKEA, we’re all on the same project.
+
+If you have a special need that requires accommodation in the recruitment process, just let us know.
+
+Please note that due to the upcoming holiday season in December, our recruitment process may take a bit longer than usual. We will do our best to keep all candidates updated on their status before any breaks. Thank you for your patience during this time! 
+
+Interested? Submit your CV and let us know why you would be a good fit for this role, in English, by 7th of January 2025.

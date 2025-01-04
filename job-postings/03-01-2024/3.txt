@@ -1,0 +1,60 @@
+ About the job
+
+Tembi is looking for two senior python developers to help us develop our data collection engine and web scraping tech. Work with SQL, cloud infrastructure, APIs and large volumes of data. We have just secured a €3 million funding round having full focus on taking our Market Intelligence Platform to the next level.
+
+
+Tembi's Market Intelligence platform connects data from multiple industries and uses advanced analytics to create tailored market insights and predictions for various industries. From relocation predictions to i.e. company growth projections, Tembi provides users with actionable market analyses to discover new growth and sales opportunities. With Tembi, B2B companies gain a better overview and understanding of their market's development. They use the data and insights to make more informed strategic decisions, and execute on them with Tembi's lead generation solution.
+
+
+Our platform is developed by an internal team that poses all the competencies involved in building data driven SaaS web products. We have data engineers, data scientists, data analysts, UI/UX designers, front end developers and agile coaches. We are committed to our company values to innovate, collaborate and support each other. We celebrate our wins and take every opportunity there is to improve and to learn new things. We believe in agile ways of working and apply a start-up mentality in everything we do.
+
+
+Location: The role is located in Copenhagen, Denmark. Our office is located 5 min walk from Nørreport station.
+
+
+Who are you?
+
+We are looking for a highly skilled senior backend developer with experience in Python along with infra and database experience. We utilize large-scale scraping technologies built in Python, hosted and being run on containerized environments in the cloud. Data is processed and served to our frontend via APIs written in Typescript running on a node server.
+
+
+You will be a key-player in development and optimization of our scraping technologies, making sure they run smoothly, and data is served to our frontend and the customers. You will work very closely with the rest of the team in optimizing data for both analytics & our SaaS application platform.
+
+
+On a day-to-day basis you will be a key player in our agile development process, and part of sprint planning, team retrospectives and setting the right product vision and road map. We want to take new ideas to our customers quickly and measure the outcome to make sure we create the right value. Your input on delivering fast while safeguarding quality will be a priority and how we will evaluate your success.
+
+
+On a personal side, leadership skills, growth mindset and a get-things-done mentality is something we value a lot. Things move fast and we make adoptions all the time in favor of reaching our goals. There will be many opportunities for the right person to grow, try out new things and be part of a great team with a unicorn vision.
+
+
+Qualifications:
+
+    At least 5+ years within backend development, with great experience in python
+    Experience with SQL and NoSQL databases
+    Experience with web scraping
+    Experience with API development
+    Bonus: Experience working with containerization and running computations in cloud environments. We mostly use Azure
+    Bonus: Experience with data processing in Databricks
+    Bonus: Previous work from start-up companies
+
+
+What we offer:
+
+    A highly entrepreneurial environment with flat hierarchies and short decision paths.
+    We are 25 colleagues today, have clients in fourteen markets, and have an ambition to build a fast-growing organization. You’ll be part of the ride from nearly the start and learn how to build a software company from the ground up.
+    Outstanding engineering and product team, shipping high-quality product incredibly fast.
+    Salary and packages are tailored individually based on experience and fit for the team.
+    An office full of talented, mission-driven people.
+    A position with direct feedback from customers.
+    A strong, collaborative work environment with a history of successful startups.
+    Enjoyable lunches at our Cantina and a multicultural team that communicates in English.
+    Office stocked with free snacks, soda, and coffee
+    Located at Fiolstræde, centrally in Copenhagen near Nørreport. (25 min from Malmö)
+    Diverse team with members from (Denmark, Sweden, Chile, Iran, Spain, Ukraine, and India)
+
+
+Application process:
+
+The application process begins with a review by our team. Following this, candidates will undergo interviews conducted via voice or video calls. Successful candidates will then be invited for an in-person interview where they will have the opportunity to meet the team to ensure a good fit. During this process there may be a technical test and TT38 personality test. We care about finding the right person for the job with best fit for the team. The final stage includes contract negotiations. The entire hiring process is expected to take anywhere from a few days to a couple of weeks.
+
+
+For any questions related to this role please contact our CTO, Joakim Erlandsson. +46 705 53 53 95

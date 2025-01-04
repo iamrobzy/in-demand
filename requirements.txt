@@ -5,4 +5,5 @@ httpx
 idna
 langchain_openai
 python-dotenv
-torch @ https://download.pytorch.org/whl/cpu
+torch
+spacy

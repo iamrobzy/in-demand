@@ -13,7 +13,43 @@ from transformers import AutoTokenizer, AutoModelForTokenClassification
 import torch
 import sys
 from tabulate import tabulate
+import spacy
+import re
+
 load_dotenv(".env")
+
+nlp = spacy.load("en_core_web_sm")
+
+def split_text_recursively(text):
+    if '\n' not in text:
+        return [text]
+    parts = text.split('\n', 1)
+    return [parts[0]] + split_text_recursively(parts[1])
+
+
+def tokenize_to_sent(path):
+
+    # Read the file
+
+    with open(path, 'r') as file:
+        text = file.read()
+
+    # Sentence tokenization
+
+    str_list = split_text_recursively(text)
+    str_list = [i.strip() for i in str_list]
+    str_list = list(filter(None, str_list))
+
+    count = 0
+    sents = []
+
+    for line in str_list:
+        doc = nlp(line)
+        for sent in doc.sents:
+            # print(f"{sent.text}")
+            sents.append(sent.text)
+    
+    return sents
 
 
 ### LLM-based tag extraction with few-shot learning
@@ -88,10 +124,63 @@ def convert(text):
 
     skill_cls = [mapping[i.item()] for i in skill_cls]
     knowledge_cls = [mapping[i.item()] for i in knowledge_cls]
-    return skill_cls, knowledge_cls
+
+    if len(decoded_tokens) != len(skill_cls) or len(decoded_tokens) != len(knowledge_cls):
+        raise ValueError("Error: Length mismatch")
+
+    return skill_cls, knowledge_cls, decoded_tokens
+
+
+from transformers import pipeline
+pipe = pipeline("token-classification", model="jjzha/jobbert_knowledge_extraction")
+
+def convert2(text):
+    output = pipe(text)
+    tokens = [i['word'] for i in output]
+    skill_cls = [i['entity'] for i in output]
+    knowledge_cls = [i['entity'] for i in output]
+
+    return skill_cls, knowledge_cls, tokens
+    
+
+
+
+def tag_posting(path, llm_extract = True):
+
+    # Reading & sentence tokenization
+    sents = tokenize_to_sent(path)
+
+    for sent in sents:
+        # print(f"Sent: {sent}")
+        skill_cls, knowledge_cls, tokens = convert(sent)
+           
+
+    # Pre-trained
+    # skill_cls, knowledge_cls, _ = convert(text)
+
+    if llm_extract:
+
+        # LLM-based tag extraction
+        tokens, output = extract_tags(text, tokenize=True)
+        table = zip(tokens, output['skill_labels'], output['knowledge_labels'], skill_cls, knowledge_cls)
+        headers = ["Token", "Skill Label", "Knowledge Label", "Pred Skill Label", "Pred Knowledge Label"]
+        print(tabulate(table, headers=headers, tablefmt="pretty"))
+
+    else:
+
+        # Only pre-trained
+        table = zip(tokens, output['skill_labels'], output['knowledge_labels'])
+        headers = ["Token", "Skill Label", "Knowledge Label"]
+        print(tabulate(table, headers=headers, tablefmt="pretty"))
+
 
 
 if __name__ == "__main__":
+
+    path = './job-postings/03-01-2024/1.txt'
+    tag_posting(path, llm_extract = False)
+
+    quit()
     text = input('Enter text: ')
 
     # LLM-based tag extraction
