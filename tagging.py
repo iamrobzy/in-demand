@@ -1,31 +1,3 @@
-few_shot_examples = """
-Example #96
-Tokens: ['Public']
-Skill Labels: ['O']
-Knowledge Labels: ['O']
-
-Example #97
-Tokens: ['Technologies']
-Skill Labels: ['O']
-Knowledge Labels: ['O']
-
-Example #98
-Tokens: ['cloud', 'java', 'amazon-web-services']
-Skill Labels: ['O', 'O', 'O']
-Knowledge Labels: ['B', 'B', 'B']
-
-Example #99
-Tokens: ['Job', 'description']
-Skill Labels: ['O', 'O']
-Knowledge Labels: ['O', 'O']
-
-Example #100
-Tokens: ['As', 'a', 'member', 'of', 'our', 'Software', 'Engineering', 'Group', 'we', 'look', 'first', 'and', 'foremost', 'for', 'people', 'who', 'are', 'passionate', 'about', 'solving', 'business', 'problems', 'through', 'innovation', 'and', 'engineering', 'practices', '.']
-Skill Labels: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B', 'I', 'I', 'I', 'I', 'I', 'I', 'I', 'O']
-Knowledge Labels: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
-"""
-
-
 import os
 from langchain_openai import ChatOpenAI
 from pydantic import BaseModel
@@ -41,9 +13,7 @@ from transformers import AutoTokenizer, AutoModelForTokenClassification
 import torch
 import sys
 from tabulate import tabulate
-
 load_dotenv(".env")
-# ChatOpenAI.api_key = OPENAI_API_KEY
 
 
 ### LLM-based tag extraction with few-shot learning
@@ -60,6 +30,8 @@ model = ChatOpenAI(model_name="gpt-4o", temperature=0.0, api_key=os.getenv('OPEN
 tokenizer = AutoTokenizer.from_pretrained("jjzha/jobbert_skill_extraction")
 parser = JsonOutputParser(pydantic_object=TokenTaggingResult)
 
+# Definitions
+
 skill_definition = """
 Skill means the ability to apply knowledge and use know-how to complete tasks and solve problems.
 """
@@ -67,6 +39,10 @@ Skill means the ability to apply knowledge and use know-how to complete tasks an
 knowledge_definition = """
 Knowledge means the outcome of the assimilation of information through learning. Knowledge is the body of facts, principles, theories and practices that is related to a field of work or study.
 """
+
+# Few-shot examples
+with open('few-shot.txt', 'r') as file:
+    few_shot_examples = file.read()
 
 prompt = PromptTemplate(
     template="""You are an expert in tagging tokens with skill and knowledge labels. Use the following definitions to tag the input tokens:
@@ -92,6 +68,7 @@ def extract_tags(text: str, tokenize = True) -> TokenTaggingResult:
     output = parser.invoke(output)
     return tokens, output
 
+
 ### Pre-trained model from Hugging Face
 
 mapping = {0: 'B', 1: 'I', 2: 'O'}
@@ -112,7 +89,6 @@ def convert(text):
     skill_cls = [mapping[i.item()] for i in skill_cls]
     knowledge_cls = [mapping[i.item()] for i in knowledge_cls]
     return skill_cls, knowledge_cls
-
 
 
 if __name__ == "__main__":
