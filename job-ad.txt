@@ -1,0 +1,40 @@
+About the job
+Grow with us
+
+About This Opportunity
+
+Ericsson is a world-leading provider of telecommunications equipment and services to mobile and fixed network operators. Over 1,000 networks in more than 180 countries use Ericsson equipment, and more than 40 percent of the world's mobile traffic passes through Ericsson networks. Using innovation to empower people, business and society, Ericsson is working towards the Networked Society: a world connected in real time that will open opportunities to create freedom, transform society and drive solutions to some of our planet’s greatest challenges.
+
+Ericsson's 6G vision, first introduced in 2020, remains pivotal for transforming business and society in the 2030s through secure, efficient, and sustainable communication services. As 6G development progresses into a more concrete phase of regulation and standardization we are looking for researchers that would like to join us, co-creating a cyber-physical world
+
+Within Ericsson, Ericsson Research develops new communication solutions and standards which have made Ericsson the industry leader in defining five generations of mobile communication. As we gear up for the 6th generation, we would like to fully embrace and utilize cloud native principles, hyperscalers and internal cloud infrastructure in our research. We are now looking for a MLOps research engineer to develop and support our workflows.
+
+In this role, you will
+
+Contribute to the direction and implementation of ML-based ways of working
+Study, design and develop workflows and solutions for AI based R&D
+Work across internal compute and external cloud platforms
+Working closely with researchers driving 6G standardization
+
+Join our Team
+
+Qualifications
+
+MSc in Data Science or related field, or have equivalent practical experience
+Technical skills and/or professional experience, particularly in:
+Programming in various languages (Python, Go, etc)
+MLOps technologies and tooling (e.g. MLFlow, Kubeflow)
+Dispatching and computational Python packages (Hydra, numpy, TensorFlow, etc.)
+DevOps and CI/CD experience, runner deployment & management, pipeline creation, testing etc. for validating ML-driven code
+Familiarity in the following is a plus:
+ML frameworks (PyTorch, TensorFlow, or Jax)
+Containers technologies (engines, orchestration tools and frameworks such as Docker, Kaniko, Kubernetes, Helm, etc.)
+Cloud ecosystems along with the respective infrastructure, in particular AWS
+Infrastructure management (Ansible, Terraform, etc.)
+Team skills is a necessity. Daily cross-functional collaboration and interaction with other skilled researchers are the basis for our ways of working.
+You should enjoy working with people having diverse backgrounds and competences. 
+It is important that you have strong personal drive and a strong focus on the tasks at hand.
+Ability to translate high-level objectives into detailed tasks and actionable steps.
+Location: Luleå, Sweden
+
+

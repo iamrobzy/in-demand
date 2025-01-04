@@ -1,0 +1,7 @@
+transformers
+gradio
+gradio-client
+httpx
+idna
+langchain_openai
+python-dotenv

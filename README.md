@@ -1,6 +1,6 @@
 # Compilation of in-demand tech skills
 
-# Project overview
+# Project outline
 
 ## Model: skills extraction model
 
