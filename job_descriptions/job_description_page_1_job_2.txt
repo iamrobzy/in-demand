@@ -1,0 +1,45 @@
+Senior Researcher
+- job post
+Ericsson
+4.1
+4.1 av 5 stjärnor
+Lund
+Skapa ett Indeed-konto innan du fortsätter till företagets webbplats.
+Ansök på företagets webbplats
+Ort
+Lund
+Fullständig jobbeskrivning
+Join our Team
+About the opportunity
+
+We are thrilled to offer an exciting opportunity for a Researcher to join our team and contribute to Ericsson commitment to technological excellence. In this role, you will play a crucial part in building and transferring technology competence to ensure our leadership in the industry and support our profitable growth. By bringing your technical expertise and insights, you will actively participate in Ericsson research activities, developing innovative concepts, solutions, and algorithms with a strong focus on sensor-centric computing.
+
+Your work will communicate research findings through prototypes, concept demonstrations, publications, and patent applications, showcasing and protecting groundbreaking innovations. This is your chance to make a significant impact on advancing Ericsson's technological capabilities and shaping the future of our research initiatives.
+
+What you will do
+Complete research projects and perform studies in the area of sensors, sensor close computing involving multimedia algorithms and co-optimization with hardware.
+Design and extend multimodal sensor solutions to strengthen algorithms for ML and AI applications, e.g. eXtended Reality (XR) use cases.
+Investigate, experiment, and study emerging XR solutions to improve, and understand the new eco- systems within consumer and industry markets.
+Create new technical solutions and protect them with Intellectual Property Rights (IPR).
+Engage with experts across the world, and participate in innovation workshops to come up with new concepts.
+Opportunities to participate in impactful collaborations with both industries and internationally top-ranked universities.
+
+Skills you bring;
+Expertise in sensor technologies and multimedia algorithms, with the ability to conduct deep research in sensor-close computing, integrating hardware with AI/ML applications, including XR use cases.
+Deep understanding and experience in AI/ML theory, capable of designing, developing, and optimizing algorithms for sensor-based systems and machine learning applications, especially in the context of emerging XR solutions.
+Strong programming skills in Python and C++, enabling the development of efficient software solutions, prototypes, and algorithmic models to support research objectives and practical implementations.
+Create new technical solutions and protect them with Intellectual Property Rights (IPR) publications.
+A solid understanding of compact, energy-efficient hardware design principles, especially in sensor-based hardware acceleration, and the ability to integrate this with software solutions for optimized performance.
+Skilled at documenting research findings clearly and effectively, including writing technical patent applications and presenting work.
+A proactive "Decide & Initiate Action!" attitude to drive new concepts and solutions. Strong communication and collaboration skills, eager to work with creative teams and experts across the world to foster innovation and deliver impactful research outcomes.
+MSc or equivalent, with relevant work experience in areas such as sensor technology, computer architecture design,
+What happens once you apply?
+Click Here to find all you need to know about what our typical hiring process looks like.
+We encourage you to consider applying to jobs where you might not meet all the criteria. We recognize that we all have transferrable skills, and we can support you with the skills that you need to develop.
+Encouraging a diverse and inclusive organization is core to our values at Ericsson, that's why we champion it in everything we do. We truly believe that by collaborating with people with different experiences we drive innovation, which is essential for our future growth. We encourage people from all backgrounds to apply and realize their full potential as part of our Ericsson team. Ericsson is proud to be an Equal Opportunity Employer. learn more.
+Primary country and city: [[Sweden]] || [[Lund]]
+Job Stage: [[6]]
+Primary Recruiter: [[Anitha Pulluru]]
+Hiring Manager: [[Anitha Pulluru]]
+Rapportera jobb
+Information om annonstransparens

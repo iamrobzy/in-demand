@@ -1,0 +1,31 @@
+Machine Learning engineer
+- job post
+Professional Galaxy AB
+111 20 Stockholm
+Ansök nu
+Ort
+111 20 Stockholm
+Fullständig jobbeskrivning
+Job description
+The primary tasks as a Machine Learning Engineer are:
+Develop AI/ML software products including but not limited to explore large data set, try out new algorithms, feature engineering, test and evaluate model output, deploy the solution for production usage and scale out to the comprehensive fashion network of the company.
+Design, develop and maintain the large-scale data infrastructure required for the AI/ML projects.
+Leverage on understanding of software architecture and software design patterns to write scalable, maintainable, well-designed, and future-proof code.
+Develop solutions, components, services and frameworks to address common needs in AI/ML projects, like feature reuse, model traceability, A/B test, etc.
+Work in cross-functional agile team of highly skilled engineers, data scientists, business stakeholders to build the AI ecosystem within the company.
+Required skills and experiences:
+Have a BSc or MSc degree in computer science, engineering or related field, or equivalent practical experience.
+Have 4+ years professional experience working in relevant role(s) for a Machine Learning Engineer.
+A hands-on person who loves coding, and like applying software engineering practices to machine learning projects.
+Have experience in developing software products that have been successfully deployed to production.
+Have several years of coding experience in modern programming languages, and strong background in Python programming, i.e. 3+ years.
+Have great experience with cloud technologies for ML development, preferably Google Cloud.
+Have solid experience in MLOps practices, developing ML pipelines, and deploying ML applications to production.
+Have a strong working knowledge of a variety of AI/ML techniques and experience working with different frameworks.
+Have experience handling high volume heterogeneous data (both batch and stream) and a solid understanding of data structures, databases, and data storage technologies.
+Familiar with agile ways of working team collaboration, data-driven development, reliable and responsible experimentation.
+
+Remote: 50%
+Assignment Period: 2024.10.21 - 2025.03.31
+Submission deadline: 2024-10-20
+Rapportera jobb
