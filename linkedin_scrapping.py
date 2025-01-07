@@ -1,5 +1,5 @@
 import http.client
-from config import *
+# from config import *
 import json
 import os
 from datetime import datetime
