@@ -55,9 +55,9 @@ def scrape_jobs():
                 print(f"Error processing job {i + 1}: {e}")
             
             # Scroll slightly down
-            driver.execute_script("window.scrollBy(0, 200);")  # Scrolls down by 200 pixels
+            driver.execute_script("window.scrollBy(0, 250);")  # Scrolls down by 200 pixels
             time.sleep(1)  # Add a short delay to ensure the page loads correctly
-            
+
     except Exception as e:
         print(f"Error scraping jobs on page {current_page}: {e}")
 
