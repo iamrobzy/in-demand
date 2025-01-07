@@ -1,0 +1,104 @@
+By clicking the “Apply” button, I understand that my employment application process with Takeda will commence and that the information I provide in my application will be processed in line with Takeda’s Privacy Notice and Terms of Use. I further attest that all information I submit in my employment application is true to the best of my knowledge.
+
+Job Description
+
+Takeda has been translating science into breakthrough medicines for 240 years. Every step of the way, our teams have worked together to tackle some of the most challenging problems in drug discovery and development. Today, we’re a driving force behind innovative therapies that make a lasting difference to millions of patients around the world.
+
+In R&D, all of our history and potential comes together in an environment that welcomes diversity of thought and amplifies every voice. Working closely with colleagues, you’ll play a key role in bringing our rich pipeline of products forward to help patients. Come join a team that’s earned trust for more than two centuries, and find out how advancing transformative therapies at Takeda will shape your bright future.
+
+The Computational Oncology group within the Precision & Translational Medicine (PTM) function in the Oncology Therapeutic Area Unit (OTAU) at Takeda has the accountability for driving end-to-end computational innovation and excellence from discovery through development, launch, and beyond as needed to advance our pipeline to patients in need. It consists of talented computational biologists who derive actionable scientific insights from large, diverse, and complex biological datasets including clinical trials and external datasets. They partner closely with teams within PTM and across the enterprise, such as Oncology Discovery, the Data Sciences Institute (including Statistics, Global Evidence and Outcomes, Data Architecture), Clinical Pharmacology, Clinical Sciences, as well as with other computational functions at Takeda as needed. Their collaboration guides robust drug target identification and validation, proof-of-concept in the clinic, and the development of pharmacodynamic and predictive markers to inform data-driven decisions. They also propose actionable solutions to be tested in the laboratory and/or the clinic to identify and advance our innovative cancer therapies.
+
+Job Description 
+
+We are seeking a highly motivated and talented graduate student intern with a background applying convolutional neural networks, autoencoders, or transformer models to solve problems in digital pathology and single cell transcriptomics to join our team. You will work on predicting RNA features from H&E images and fine-tuning single cell foundational models for downstream tasks, contributing to biomarker development, and the advancement of therapies for patients in need. This role includes training deep neural networks, transfer learning and shallow machine learning using H&E images and single cell transcriptomics to understand the tumor microenvironment and predicting therapeutic responses. This internship is designed to immerse you in the forefront of medical research, offering hands-on experience and the opportunity to collaborate with leading industry professionals in a dynamic and collaborative environment.
+
+How You Will Contribute 
+
+Collaborate with internal and external teams to build machine learning models using multi-modal data, including single cell transcriptomics and medical images. 
+Contribute to the development of innovative quantitative biomarkers related to the tumor microenvironment to help build patient selection strategies. 
+Analyze complex data sets to extract actionable insights, inform strategic decisions, and effectively communicate findings to the team and stakeholders. 
+Partner with cross-functional teams to develop and implement innovative approaches for data analysis, aiming for continuous research process improvements. 
+Help translate preclinical observations into the clinic to benefit patients with unmet need. 
+
+Internship Development Opportunities 
+
+Understanding of drug discovery & development 
+Application of AI/ML approaches to real problems in drug discovery & development 
+Working collaboratively with cross-functional teams on a common problem 
+
+Job Requirements 
+
+This position will be Hybrid and require 2-3 days in the Cambridge office per week. 
+Experience of working in laboratory environment with good safety and practices (Chemistry/Biology/Biochemistry or other related major). 
+Basic understanding of computer skills including MS Office (PowerPoint, Words, Excel) 
+Internet skills including use of e-mails, group messaging and information gathering 
+Highly reliable and a strong team player 
+Flexible with an attention to detail 
+Strong verbal and written communication skills 
+Must be currently enrolled in a PhD program with a focus on quantitative fields such as bioinformatics, biomedical engineering, machine learning, math or statistics or equivalent. 
+
+Internship Eligibility
+
+Must be authorized to work in the U.S. on a permanent basis without requiring sponsorship 
+Must be currently enrolled in a degree program graduating December 2025 or later 
+The internship program is 10-12 weeks depending on the two start dates (June 2nd- August 29th) or (June 16th - August 22nd 
+The intern must be able to commit to one of these time frames 
+Able to work full time 40 hours a week during internship dates 
+Takeda does not provide a housing stipend or relocation support for the U.S Summer Internship Program 
+
+Program Highlights 
+
+Hands-on experience with real projects and responsibilities 
+Dedicated mentorship program pairing interns with experienced professionals 
+Networking opportunities with industry professionals and fellow interns 
+Internship events focused on professional and skills development 
+Exposure to multiple business areas or departments within a Pharmaceutical Organization 
+
+Applications will be accepted between January 6th and January 31st
+
+Takeda Compensation And Benefits Summary
+
+We understand compensation may be an important factor as you consider an internship opportunity. We are committed to equitable pay for all employees, and we strive to be more transparent with our pay practices.
+
+For Location 
+
+Boston, MA
+
+U.S. Hourly Wage Range 
+
+$21.00 - $46.00
+
+The estimated hourly range reflects an anticipated range for this position. The actual hourly wage offered will depend on the candidate’s school year/level to be entered following completion of internship. The actual hourly wage offered will be in accordance with state or local minimum wage requirements for the job location.
+
+U.S. internship benefits vary by location and may include
+
+Paid sick time 
+Civic Duty paid time off 
+Participation at company volunteer events 
+Participation at company sponsored special events 
+Access to on-site fitness center (where available) 
+Commuter Benefit To offset your work-commute expenses, Takeda provides U.S. employees with a fixed monthly subsidy to be used for either public transportation (transit) or parking. 
+
+EEO Statement
+
+Takeda is proud in its commitment to creating a diverse workforce and providing equal employment opportunities to all employees and applicants for employment without regard to race, color, religion, sex, sexual orientation, gender identity, gender expression, parental status, national origin, age, disability, citizenship status, genetic information or characteristics, marital status, status as a Vietnam era veteran, special disabled veteran, or other protected veteran in accordance with applicable federal, state and local laws, and any other characteristic protected by law.
+
+Locations
+
+Boston, MA
+
+Worker Type
+
+Employee
+
+Worker Sub-Type
+
+Paid Intern (Fixed Term) (Trainee)
+
+Time Type
+
+Full time
+
+Job Exempt
+
+No

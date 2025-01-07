@@ -1,0 +1,30 @@
+We are looking for a talented Machine Learning Engineer with a strong focus on Deep Learning and MLOps to join our client's engineering team. As an integral part of their MLOps initiatives, you will work on building, deploying, and maintaining deep learning models in production environments, using best practices in model management, automation, and continuous integration. You will leverage cutting-edge deep learning techniques to solve real-world problems while ensuring that these models can be efficiently deployed, monitored, and scaled.
+This is an exciting opportunity for someone who thrives in an entrepreneurial, fast-paced startup environment and is passionate about combining deep learning expertise with MLOps to bring AI to life at scale.
+
+Key Responsibilities:
+Deep Learning Model Development: Design, train, and optimize deep learning models (e.g., CNNs, RNNs, Transformers) for various applications like NLP, computer vision, and predictive analytics.
+MLOps Pipeline Development: Build and maintain scalable and automated MLOps pipelines for model training, validation, deployment, and monitoring in production environments.
+Model Deployment & Monitoring: Implement best practices for deploying deep learning models using CI/CD pipelines, ensuring that models are continuously integrated, deployed, and monitored across environments (staging, production, etc.).
+Model Versioning & Management: Implement robust model versioning and lifecycle management practices, ensuring that models can be easily tracked, retrained, and rolled back if necessary.
+Collaboration with Data Scientists: Work closely with data scientists to refine models, integrate new features, and ensure models meet business requirements while maintaining operational scalability.
+Model Performance & Optimization: Monitor and optimize the performance of models in production, adjusting hyperparameters, retraining models, and improving inference speed while maintaining accuracy.
+Automation & Infrastructure: Build automated systems for data preprocessing, model training, evaluation, and deployment. Use technologies like Kubernetes, Docker, and cloud platforms (AWS, Azure, GCP) to ensure model deployment and scaling.
+Cloud Platform Expertise: Deploy deep learning models on cloud platforms using services like AWS SageMaker, Google AI Platform, or Azure Machine Learning, ensuring that solutions are scalable and cost-effective.
+Research & Continuous Improvement: Stay up-to-date with the latest trends in deep learning and MLOps, contributing to the development of new techniques for model deployment, monitoring, and optimization.
+Cross-Functional Collaboration: Collaborate with DevOps engineers, software engineers, and product teams to ensure seamless integration of machine learning solutions into production systems.
+
+Required Skills & Experience:
+Experience: 3+ years of hands-on experience in machine learning, with a strong focus on deep learning and MLOps practices.
+Deep Learning Frameworks: Proficiency with deep learning frameworks such as TensorFlow, Keras, or PyTorch for building and optimizing models.
+MLOps Tools & Technologies: Experience in building and managing MLOps pipelines using tools like Kubeflow, MLflow, TFX, Jenkins, Docker, Kubernetes, and Terraform.
+Programming Skills: Strong programming skills in Python and experience with data manipulation libraries such as Pandas, NumPy, and SciPy.
+Cloud Computing: Hands-on experience with cloud platforms (AWS, GCP, or Azure) for deploying machine learning models at scale, including using tools like AWS SageMaker, Google AI Platform, or Azure ML.
+
+Preferred Skills:
+AI Specializations: Expertise in specific deep learning domains like NLP, computer vision, or reinforcement learning.
+MLOps Frameworks: Experience with open-source MLOps frameworks such as Kubeflow, MLflow, or TFX for managing the end-to-end machine learning lifecycle.
+Automation: Familiarity with infrastructure as code tools (e.g., Terraform, CloudFormation) for managing MLOps infrastructure.
+Continuous Learning: A passion for staying up-to-date with the latest research in deep learning, MLOps practices, and model deployment strategies.
+
+Education:
+Degree Requirements: A Master's or PhD in Computer Science, Data Science, Electrical Engineering, or a related field is preferred but not required.

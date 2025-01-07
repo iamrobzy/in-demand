@@ -1,0 +1,47 @@
+Job Description
+
+Arm's Machine Learning Group is seeking highly motivated and creative Software Engineers to join the Cambridge-based ML Content, Algorithms and Tools team!
+
+This Machine Learning Engineer role focuses on advancing the field of AI by optimizing and deploying pioneering models, particularly Large Language Models (LLMs) and Generative AI algorithms. This involves deep analysis of neural networks, optimizing software and hardware, developing innovative solutions, and collaborating with teams to build high-performance AI systems.
+
+Responsibilities
+
+Your responsibilities involve working with major ML frameworks (PyTorch, TensorFlow, etc.) to port and develop ML networks, optimize and quantize models for efficient execution on Arm platforms, and help ensure multiple Arm products are designed to perform effectively for machine learning. As an in-depth technical responsibility, you will need to deeply understand the complex applications you analyze and communicate them in their simplest form to contribute to product designs, allowing you to influence both IP and system architecture.
+
+Required Skills And Experience
+
+A background in computer science, software engineering or other comparable skills
+Experience training and debugging neural networks with TensorFlow and PyTorch using Python
+Understanding, deploying, and optimizing Large Language Models (LLMs) and Generative AI algorithms.
+Experience using software development platforms and continuous integration systems
+Familiarity with Linux and cloud services
+Have a strong attention to detail to ensure use cases you investigate are well understood and the critical areas needing improvement are understood 
+
+Nice To Have Skills And Experience
+
+Experience of the inner workings of Pytorch, Tensorflow, Executorch and Tensorflow Lite
+Experience of developing and maintaining CI/testing components to improve automation of model analysis
+Good knowledge of Python for working with ML frameworks
+Good knowledge of C++ for working with optimised ML libraries
+Previous experience of machine learning projects
+Experience with deployment optimizations on machine learning models 
+
+In Return 
+
+From research to proof-of-concept development, to deployment on ARM IPs, joining this team would be a phenomenal opportunity to contribute to the full life cycle of machine learning projects and understand how innovative machine learning is used to solve real word problems.
+
+Working closely with experts in ML and software and hardware optimisation - a truly multi-discipline environment - you will have the chance to explore existing or build new machine learning techniques, while helping unpick the complex world of use-cases spanning mobile phones, servers, autonomous driving vehicles, and low-power embedded devices
+
+!
+
+Accommodations at Arm
+
+At Arm, we want our people to Do Great Things. If you need support or an accommodation to Be Your Brilliant Self during the recruitment process, please email accommodations@arm.com . To note, by sending us the requested information, you consent to its use by Arm to arrange for appropriate accommodations. All accommodation requests will be treated with confidentiality, and information concerning these requests will only be disclosed as necessary to provide the accommodation. Although this is not an exhaustive list, examples of support include breaks between interviews, having documents read aloud or office accessibility. Please email us about anything we can do to accommodate you during the recruitment process.
+
+Hybrid Working at Arm
+
+Arm’s approach to hybrid working is designed to create a working environment that supports both high performance and personal wellbeing. We believe in bringing people together face to face to enable us to work at pace, whilst recognizing the value of flexibility. Within that framework, we empower groups/teams to determine their own hybrid working patterns, depending on the work and the team’s needs. Details of what this means for each role will be shared upon application. In some cases, the flexibility we can offer is limited by local legal, regulatory, tax, or other considerations, and where this is the case, we will collaborate with you to find the best solution. Please talk to us to find out more about what this could look like for you.
+
+Equal Opportunities at Arm
+
+Arm is an equal opportunity employer, committed to providing an environment of mutual respect where equal opportunities are available to all applicants and colleagues. We are a diverse organization of dedicated and innovative individuals, and don’t discriminate on the basis of race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or status as a protected veteran.

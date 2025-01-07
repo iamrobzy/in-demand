@@ -1,0 +1,62 @@
+We are on a mission to spark connections and bring people together.
+
+Dcard is a social media platform devoted to creating a safe and free environment for ever-flowing ideas and extraordinary stories. Garnering the trust of the younger generation, our service attracts millions of active users and up to 20 million unique visitors per month. We have substantial influence and high penetration amongst the youth of Taiwan, but our ambitions do not stop here.
+
+As a strong and emerging international company, we are on a mission to spark connections and bring people together. We continue to make impactful influence in the social media, advertising and e-commerce fields. Continuing our success in the Taiwan market, we are now expanding to Hong Kong, Japan, and the APAC market.
+
+As a Senior Machine Learning Engineer at Dcard, you will collaborate closely with product managers and developers to build products that matter and create tools that accelerate growth. Join our team of developers to build the social network of the next generation. We code in a fresh monolithic repository and ship code every few hours, and most importantly, we're never afraid of using new and bold approaches to conquer challenges.
+
+If you are ready to take the leap, join us in creating an experience that connects people all around the world!
+
+Why should you join Dcard?
+
+Dcard's products have expanded from the card-pairing feature to community, e-commerce, and other services targeting university students and young people. We are building a rapidly growing and continuously expanding organization with a growth mindset. The team focuses on long-term mission vision and strategy, working together to stay focused on goals and continuously break through barriers. We are reaching out to the world, creating more opportunities and development in different fields, and we are not satisfied with the current boundaries. We need you to provide value to our users in more aspects of life!
+
+About The Dcard Engineering Team
+
+As a member of the Dcard Engineering Team, you will not only focus on feature development but also optimize the developer experience and architecture, and evaluate the adoption of new technologies. At Dcard, you will face many interesting challenges, working on high-traffic products, constantly adjusting and improving the existing architecture to provide smooth services to millions of users. We are -
+
+Data Driven - Any analysis and decision-making within the team revolve around important metrics, and product development goals are based on OKRs to measure their value, ensuring that everyone is on the same track and moving towards the same goal. We value data-driven thinking over relying on intuition.
+Fast-Paced - Working with a talented team, you will experience significant growth in both technical and collaborative abilities. The team operates at a fast pace, and we expect the product to move forward quickly. Consequently, we face daily challenges such as setting up an ad system to handle high traffic or ensuring real-time and fast data updates.
+Process Optimization - The team pays great attention to the smoothness of processes and continuously thinks about how to collaborate more efficiently. We roll up our sleeves and directly change things that bother us, optimizing the development and life experiences as a whole.
+Continuous Growth - In addition to regular study sessions, we learn about the projects undertaken by team members in different domains through Developer Sessions within the team. We also invite external members to share successful case studies or development processes from other teams.
+
+What you'll do
+
+Participate in the development and evolution of machine learning-related products at Dcard, involving tasks such as algorithm development, model training, feature pipeline design, and maintaining the smooth operation of services.
+Collaborate with other Data Component developers to build machine learning-related systems at Dcard.
+Analyze and extract insights from a large volume of user data to iteratively optimize algorithms.
+Design and conduct A/B testing experiments to validate the effectiveness of algorithms.
+
+What We're Looking For
+
+Passionate about understanding user needs and transforming algorithms into products.
+Proficient in Python and open to learning new languages.
+Enjoy striving for high-quality code and can propose minimal viable system architectures and understand the tradeoffs involved when facing requirements.
+Possess excellent communication and collaboration skills, able to articulate ideas clearly and work seamlessly with other teams.
+Have a basic understanding of machine learning algorithms and workflows, such as NLP, Deep Learning, Recommendation Systems, and more.
+Demonstrated Competence in Conversational English
+
+Bonus Points If You Have 
+
+Have more than two years of working experience in recommendation systems, search, e-commerce, or advertising systems, with familiarity in relevant application scenarios.
+Proficient in designing distributed systems, capable of handling large-scale data or developing large-scale systems.
+Have experience in NLP and Chinese text analysis.
+Familiar with business applications and system design of machine learning systems.
+Able to address challenges encountered when developing with mainstream ML frameworks and handling massive data.
+Proficient in several of the following technologies:
+PyTorch / Scikit-Learn / XGBoost / Tensorflow
+Airflow
+GCP / Kubernetes
+SQL / NoSQL / Redis
+Linux
+Compensation
+
+Negotiable
+
+Things to Consider
+
+Only shortlisted candidates will be notified.
+The job opening may close ahead of schedule if positions are filled.
+Dcard reserves the right to withdraw a job offer if any false information is discovered during the application process.
+At Dcard, we celebrate diversity and strive to provide an inclusive environment where everyone is respected. We believe that equality and diversity drive innovation and creativity. Dcard is committed to maintaining a non-discriminatory employment environment and providing equal opportunities to all candidates.
