@@ -28,4 +28,4 @@ jobs:
       env:
         RAPID_API_KEY: ${{ secrets.RAPID_API_KEY }}
       run: |
-        python linkedin_scraping.py
+        python linkedin_scrapping.py
