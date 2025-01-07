@@ -29,3 +29,6 @@ jobs:
         RAPID_API_KEY: ${{ secrets.RAPID_API_KEY }}
       run: |
         python linkedin_scrapping.py
+    - name: List job-postings folder
+      run: ls -R job-postings || echo "job-postings folder not found"
+
