@@ -4,13 +4,14 @@ import json
 import os
 from datetime import datetime
 
+api_key = os.getenv('RAPID_API_KEY')
 
 def scrape_jobs():
 
     conn = http.client.HTTPSConnection("linkedin-job-search-api.p.rapidapi.com")
 
     headers = {
-        'x-rapidapi-key': RAPID_API_KEY,
+        'x-rapidapi-key': api_key,
         'x-rapidapi-host': "linkedin-job-search-api.p.rapidapi.com"
     }
 
