@@ -43,7 +43,11 @@ def extract_job_descriptions(jobs):
                 file.write(jd)
             print("Job {} saved".format(str(idx)))
         else:
-            print("Job description not available")
+            print("Job description not available")=\]
+# jobs = scrape_jobs()
+# extract_job_descriptions(jobs)
 
-jobs = scrape_jobs()
-extract_job_descriptions(jobs)
+current_date = datetime.now().strftime('%d-%m-%Y')
+folder_path = os.path.join("job-postings", current_date)
+print(f"Creating folder at: {folder_path}")
+os.makedirs(folder_path, exist_ok=True)
