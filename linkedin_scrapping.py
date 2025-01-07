@@ -29,6 +29,7 @@ def extract_job_descriptions(jobs):
     # Get the current date in YYYY-MM-DD format and create folder
     current_date = datetime.now().strftime('%d-%m-%Y')
     folder_path = os.path.join("job-postings", current_date)
+    print(f"Creating folder at: {folder_path}")
     os.makedirs(folder_path, exist_ok=True)
 
     for idx, job in enumerate(jobs, start=1):
