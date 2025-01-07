@@ -43,7 +43,7 @@ def extract_job_descriptions(jobs):
                 file.write(jd)
             print("Job {} saved".format(str(idx)))
         else:
-            print("Job description not available")=\]
+            print("Job description not available")
 # jobs = scrape_jobs()
 # extract_job_descriptions(jobs)
 
