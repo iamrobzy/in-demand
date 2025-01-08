@@ -10,3 +10,4 @@ spacy
 sentence-transformers
 umap-learn
 scikit-learn
+matplotlib
