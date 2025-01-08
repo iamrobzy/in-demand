@@ -8,3 +8,5 @@ python-dotenv
 torch
 spacy
 sentence-transformers
+umap-learn
+scikit-learn
