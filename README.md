@@ -95,12 +95,10 @@ We generate embeddings for technical skills listed in .txt files and visualizes 
 - **3D Projection**: Saved as interactive HTML files in the `./plots` folder.
 - **3D Clustering Visualization**: Saved as HTML files, showing clusters with different colors.
 
+# Scheduling
 
+- scrapping: We run scrapping weekly to fetch job descriptions for machine learning from LinkedIn
+- LLM tagging:
+- Training:
+- Embedding and visualization: On weekly basis, we also use the skills extracted to create their embeddings and visualize them using KMeans clustering
 
-
-
-1. Scraping
-2. Tagging of JP
-    - tag date
-3. Training
-4. Visualisation
