@@ -50,6 +50,33 @@ You should define your own project by writing at most one page description of th
 ### What to deliver
 You should deliver your project as a stand alone serverless ML system. You should submit a URL for your service, a zip file containing your code, and a short report (two to three pages) about what you have done, the dataset, your method, your results, and how to run the code. I encourage you to have the README.md for your project in your Github report as the report for your project.
 
+# Skill Embeddings and Visualization
+
+We generate embeddings for technical skills listed in .txt files and visualizes their relationships using dimensionality reduction and clustering techniques. The visualizations are created for both 2D and 3D embeddings, and clustering is performed using KMeans to identify groups of similar skills.
+
+## Workflow
+
+### 1. Input Data
+- Skills are loaded from `.txt` files located in date-based subfolders under the `./tags` directory.
+- Each subfolder corresponds to a specific date (e.g., `03-01-2024`).
+
+### 2. Embedding Generation
+- The script uses the `SentenceTransformer` model (`paraphrase-MiniLM-L3-v2`) to generate high-dimensional embeddings for the unique skills.
+
+### 3. Dimensionality Reduction
+- UMAP (Uniform Manifold Approximation and Projection) is used to reduce the embeddings to:
+  - **2D**: For creating simple scatter plots.
+  - **3D**: For interactive visualizations.
+
+### 4. Clustering
+- KMeans clustering is applied to the 3D embeddings to group similar skills into clusters.
+- The number of clusters can be specified in the script.
+
+### 5. Visualization and Outputs
+- **2D Projection**: Saved as PNG images in the `./plots` folder.
+- **3D Projection**: Saved as interactive HTML files in the `./plots` folder.
+- **3D Clustering Visualization**: Saved as HTML files, showing clusters with different colors.
+
 
 
 
