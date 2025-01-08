@@ -90,6 +90,8 @@ def perform_kmeans_and_visualize(reduced_embeddings, skills, n_clusters, output_
 base_folder = "./tags"
 output_folder = "./plots"
 specific_date = "03-01-2024"  # Example date folder to process
+# Get today's date in the desired format
+# specific_date = datetime.now().strftime("%d-%m-%Y")
 n_clusters = 5
 
 # Load skills from the specified date folder
