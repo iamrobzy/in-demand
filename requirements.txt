@@ -7,3 +7,5 @@ langchain_openai
 python-dotenv
 torch
 spacy
+umap-learn
+plotly

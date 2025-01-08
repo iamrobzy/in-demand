@@ -4,6 +4,8 @@ import numpy as np
 import umap
 import matplotlib.pyplot as plt
 import plotly.express as px
+from sklearn.cluster import KMeans
+import pickle
 
 # Step 1: Load skills from all files in a specific date folder
 def load_skills_from_date(base_folder, date):
@@ -65,9 +67,7 @@ def visualize_embeddings_3d(reduced_embeddings, skills, output_folder, date):
     
     fig.show()
 
-def perform_kmeans_and_visualize(reduced_embeddings, skills, n_clusters, output_folder, date):
-    kmeans = KMeans(n_clusters=n_clusters, random_state=42)
-    labels = kmeans.fit_predict(reduced_embeddings)
+def visualize3D(reduced_embeddings, labels, skills, n_clusters, output_folder, date):
     
     fig = px.scatter_3d(
         x=reduced_embeddings[:, 0],
@@ -84,30 +84,43 @@ def perform_kmeans_and_visualize(reduced_embeddings, skills, n_clusters, output_
     fig.write_html(plot_path)
     print(f"3D clustered plot saved at {plot_path}")
     
-    fig.show()
+    # fig.show()
+    return fig
 
-# Main execution
-base_folder = "./tags"
-output_folder = "./plots"
-specific_date = "03-01-2024"  # Example date folder to process
+if __name__ == "__main__":
 
-# Load skills from the specified date folder
-skills = load_skills_from_date(base_folder, specific_date)
-if not skills:
-    print(f"No skills found for the date: {specific_date}")
-else:
-    print(f"Loaded {len(skills)} unique skills for the date: {specific_date}")
-    
-    # Generate embeddings
-    embeddings = generate_embeddings(skills)
-    
-    # Reduce dimensions to 2D and visualize
-    reduced_embeddings_2d = reduce_dimensions(embeddings, n_components=2)
-    visualize_embeddings_2d(reduced_embeddings_2d, skills, output_folder, specific_date)
-    
-    # Reduce dimensions to 3D and visualize
-    reduced_embeddings_3d = reduce_dimensions(embeddings, n_components=3)
-    visualize_embeddings_3d(reduced_embeddings_3d, skills, output_folder, specific_date)
+    # Main execution
+    base_folder = "./tags"
+    output_folder = "./plots"
+    vector_store = "./vectorstore"
+    specific_date = "03-01-2024"  # Example date folder to process
+    n_clusters = 5
 
-    # Perform KMeans clustering and visualize in 3D
-    perform_kmeans_and_visualize(reduced_embeddings_3d, skills, n_clusters, output_folder, specific_date)
+    # Load skills from the specified date folder
+    skills = load_skills_from_date(base_folder, specific_date)
+    if not skills:
+        print(f"No skills found for the date: {specific_date}")
+    else:
+        print(f"Loaded {len(skills)} unique skills for the date: {specific_date}")
+        
+        # Generate embeddings
+        embeddings = generate_embeddings(skills)
+        
+        # Reduce dimensions to 2D and visualize
+        # reduced_embeddings_2d = reduce_dimensions(embeddings, n_components=2)
+        # visualize_embeddings_2d(reduced_embeddings_2d, skills, output_folder, specific_date)
+        
+        # Reduce dimensions to 3D, cluster, and visualize
+        reduced_embeddings_3d = reduce_dimensions(embeddings, n_components=3)
+        kmeans = KMeans(n_clusters=n_clusters, random_state=42)
+        labels = kmeans.fit_predict(reduced_embeddings_3d)
+        visualize3D(reduced_embeddings_3d, labels, skills, n_clusters, output_folder, specific_date)
+
+        # Save the reduced embeddings and metadata
+        np.save(os.path.join(vector_store, f"{specific_date}_embeddings.npy"), reduced_embeddings_3d)
+        with open(os.path.join(vector_store, f"{specific_date}_metadata.pkl"), 'wb') as f:
+            pickle.dump({'labels': labels, 'skills': skills}, f)
+        
+
+        # Perform KMeans clustering and visualize in 3D
+        # perform_kmeans_and_visualize(reduced_embeddings_3d, skills, n_clusters, output_folder, specific_date)

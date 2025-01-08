@@ -16,6 +16,10 @@ from tabulate import tabulate
 import spacy
 import re
 import json
+from datetime import datetime
+from tqdm import tqdm
+import time
+
 
 load_dotenv(".env")
 nlp = spacy.load("en_core_web_sm")
@@ -29,8 +33,9 @@ def split_text_recursively(text):
 
 def tokenize_to_sent(path):
 
-    # Read the file
+    print(f"Tokenizing {path} to sentences...")
 
+    # Read the file
     with open(path, 'r') as file:
         text = file.read()
 
@@ -47,6 +52,8 @@ def tokenize_to_sent(path):
         doc = nlp(line)
         for sent in doc.sents:
             sents.append(sent.text)
+
+    print(f"Tokenization completed. {len(sents)} sentences found.")
     
     return sents
 
@@ -92,14 +99,23 @@ prompt = PromptTemplate(
                        "knowledge_definition": knowledge_definition},
 )
 
-def extract_tags(text: str, tokenize = True) -> Results:
+def extract_tags(sents: str, tokenize = True) -> Results:
+
+    print("Extracting tags...")
+    print(f"Tokenizing {len(sents)} sentences...")
+
+    start_time = time.time()
 
     if tokenize:
-        tokens = [tokenizer.tokenize(t) for t in text]
+        tokens = [tokenizer.tokenize(t) for t in sents]
 
     prompt_and_model = prompt | model
     output = prompt_and_model.invoke({"input": tokens})
     output = parser.invoke(output)
+
+    time_taken = time.time() - start_time
+    print(f"Tags extracted in {time_taken} seconds.")
+
     return tokens, output
 
 
@@ -111,13 +127,43 @@ def tag_posting(job_path, output_path):
     # LLM-based tag extraction
     tokens, output = extract_tags(sents, tokenize=True)
 
-    with open("./data/data.jsonl", "w") as file:
+    with open(output_path, "w") as file:
         for entry in output['results']:
             json.dump(entry, file)
             file.write("\n")
 
+def tag_all_today():
+
+    date = datetime.today().strftime('%d-%m-%Y')
+    date = "04-01-2025"
+
+    jobs = os.listdir(f'./job-postings/{date}')
+    output_path = f'./data/tags-{date}.jsonl'
+    count = 0
+
+    for job in tqdm(jobs, desc="Tagging job postings"):
+
+        job_path = f'./job-postings/{date}/{job}'
+        
+        # Reading & sentence tokenization
+        sents = tokenize_to_sent(job_path)
+
+        # LLM-based tag extraction
+        tokens, output = extract_tags(sents, tokenize=True)
+
+        with open(output_path, "a") as file:
+            for entry in output['results']:
+                json.dump(entry, file)
+                file.write("\n")
+        
+        count += 1
+        if count > 2:
+            break
+        
+
+    print(f"Tagging completed. Output saved to {output_path}")
+
+    
 if __name__ == "__main__":
 
-    job_path = './job-postings/03-01-2024/1.txt'
-    output_path = './data/data.json'
-    tag_posting(job_path, output_path)
+    tag_all_today()

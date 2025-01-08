@@ -215,6 +215,10 @@ def backfill():
 
             print(f"Saved skills to: {tag_path}")
 
+def tag_date():
+
+    pass
+
 if __name__ == '__main__':
 
     # Backfill
@@ -224,4 +228,5 @@ if __name__ == '__main__':
     # path = './job-postings/03-01-2024/2.txt'
     # sents = parse_post(path)
     # skills = extract_skills(sents)
-    # skills_save('./tags/03-01-2024/2.txt',skills)
+    # skills_save('./tags/03-01-2024/2.txt',skills)RAPID_API_KEY : 60a10b11e6msh821d32f6e1e955ep15b5b1jsnf61a46680409
+1

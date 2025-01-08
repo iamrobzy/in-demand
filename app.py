@@ -1,14 +1,16 @@
 import gradio as gr
 from transformers import pipeline
+from embedding_gen import load_skills_from_date, visualize3D
+import numpy as np
+import pickle
 
 token_skill_classifier = pipeline(model="jjzha/jobbert_skill_extraction", aggregation_strategy="first")
-token_knowledge_classifier = pipeline(model="jjzha/jobbert_knowledge_extraction", aggregation_strategy="first")
+token_knowledge_classifier = pipeline(model="Robzy/jobbert_knowledge_extraction", aggregation_strategy="first")
 
 
 examples = [
-        "Knowing Python is a plus",
-        "Recommend changes, develop and implement processes to ensure compliance with IFRS standards",
-        "Experience with Unreal and/or Unity and/or native IOS/Android 3D development and/or Web based 3D engines",
+        "High proficiency in Python and AI/ML frameworks, i.e. Pytorch.",
+        "Experience with Unreal and/or Unity and/or native IOS/Android 3D development",
         ]
 
 
@@ -29,11 +31,7 @@ def aggregate_span(results):
     return new_results
 
 def ner(text):
-    output_skills = token_skill_classifier(text)
-    for result in output_skills:
-        if result.get("entity_group"):
-            result["entity"] = "Skill"
-            del result["entity_group"]
+
 
     output_knowledge = token_knowledge_classifier(text)
     for result in output_knowledge:
@@ -41,17 +39,37 @@ def ner(text):
             result["entity"] = "Knowledge"
             del result["entity_group"]
 
-    if len(output_skills) > 0:
-        output_skills = aggregate_span(output_skills)
     if len(output_knowledge) > 0:
         output_knowledge = aggregate_span(output_knowledge)
 
-    return {"text": text, "entities": output_skills}, {"text": text, "entities": output_knowledge}
+    return {"text": text, "entities": output_knowledge}
 
 
-demo = gr.Interface(fn=ner,
-                    inputs=gr.Textbox(placeholder="Enter sentence here..."),
-                    outputs=["highlight", "highlight"],
-                    examples=examples)
+import plotly.express as px
+import numpy as np
+
+specific_date = "03-01-2024"  # Example date folder to process
+skills = load_skills_from_date('./tags', specific_date)
+embeddings = np.load(f"./vectorstore/{specific_date}_embeddings.npy")
+with open(f"./vectorstore/{specific_date}_metadata.pkl", "rb") as f:
+    metadata =   pickle.load(f)
+labels, skills = metadata["labels"], metadata["skills"]
+fig = visualize3D(embeddings, labels, skills, n_clusters=5, output_folder="./plots", date=specific_date)
+fig.update_layout(
+     height=900
+)
+
+with gr.Blocks() as demo:
+    
+    gr.Interface(fn=ner,
+        inputs=gr.Textbox(placeholder="Enter sentence here..."),
+        outputs=["highlight"],
+        examples=examples,
+        title="In-demand skills in machine learning (ML) industry"
+    )
+
+    # gr.Markdown("Embedding visualisation of sought skills in ML job posting in Stockholm, Sweden on LinkedIn")
+    gr.Plot(fig)
+    
 
 demo.launch()

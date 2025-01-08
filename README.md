@@ -31,7 +31,7 @@ Save all skills. Make a comprehensive overview by:
 1. Embed skills to a vector with an embedding model
 2. Perform clustering with HDBSCAN
 2. Visualize clustering with dimensionality reduction (UMAP)
-
+    
 Inspiration: [link](https://dylancastillo.co/posts/clustering-documents-with-openai-langchain-hdbscan.html)
 
 
@@ -46,3 +46,12 @@ You should define your own project by writing at most one page description of th
 ### What to deliver
 You should deliver your project as a stand alone serverless ML system. You should submit a URL for your service, a zip file containing your code, and a short report (two to three pages) about what you have done, the dataset, your method, your results, and how to run the code. I encourage you to have the README.md for your project in your Github report as the report for your project.
 
+
+
+
+
+1. Scraping
+2. Tagging of JP
+    - tag date
+3. Training
+4. Visualisation

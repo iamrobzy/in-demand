@@ -1,0 +1,34 @@
+ML
+-
+AI based R & D
+MSc in Data Science
+Python
+Go
+MLOps
+MLFlow
+Kubeflow )
+Hydra
+numpy
+TensorFlow
+DevOps
+CI
+/
+CD
+runner deployment & management
+pipeline creation
+testing
+ML
+ML
+PyTorch
+TensorFlow
+Containers
+engines, orchestration tools and
+Docker
+Kaniko
+Kubernetes
+Helm
+Cloud ecosystems
+AWS
+Infrastructure management
+Ansible
+Terraform
