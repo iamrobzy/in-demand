@@ -33,7 +33,7 @@ Extract ground truth via LLM and few-shot learning.
 Save all skills. Make a comprehensive overview by:
 
 1. Embed skills to a vector with an embedding model
-2. Perform clustering with HDBSCAN
+2. Perform clustering with KMeans
 2. Visualize clustering with dimensionality reduction (UMAP)
     
 Inspiration: [link](https://dylancastillo.co/posts/clustering-documents-with-openai-langchain-hdbscan.html)
