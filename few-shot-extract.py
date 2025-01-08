@@ -1,6 +1,7 @@
 import requests
 import os
-repo_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+repo_dir = os.getcwd()
+print(repo_dir)
 
 def show_examples(n = 10):
 
@@ -10,16 +11,14 @@ def show_examples(n = 10):
     if response.status_code == 200:
 
         data = response.json()
-        for i in range(n):
-            row = data['rows'][i]['row']
-            tokens = row['tokens']
-            skill_labels, knowledge_labels = row['tags_skill'], row['tags_knowledge']
 
-            with open(f"{repo_dir}/examples.txt", 'w') as file:
-                file.write(f'Example #{i+1}\n')
-                file.write(f'Tokens: {str(tokens)}\n')
-                file.write(f'Skill Labels: {str(skill_labels)}\n')
-                file.write(f'Knowledge Labels: {str(knowledge_labels)}\n')
+        tags_knowledge = [str(a['row']['tags_knowledge']) for a in data['rows']]
+        tokens = [str(a['row']['tokens']) for a in data['rows']]
+
+        with open(f"{repo_dir}/few_shot.txt", 'w') as file:
+            for i in range(n):
+                file.write(f'tags_knowledge: {tags_knowledge[i]}\n')
+                file.write(f'tokens: {tokens[i]}\n')
                 file.write('\n')
 
 

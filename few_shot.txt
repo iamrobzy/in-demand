@@ -1,0 +1,299 @@
+Tags Knowledge: ['O', 'O', 'O', 'O', 'O', 'O', 'O']
+Tokens: ['Senior', 'QA', 'Engineer', '(', 'm/f/d', ')', '<ORGANIZATION>']
+
+Tags Knowledge: ['O', 'O', 'O', 'O', 'O']
+Tokens: ['<ADDRESS>', '<ADDRESS>', '<ADDRESS>', '<ADDRESS>', '<LOCATION>']
+
+Tags Knowledge: ['O', 'O', 'O']
+Tokens: ['Date', 'posted:', '2021-07-14']
+
+Tags Knowledge: ['O', 'O', 'O', 'O', 'O', 'O']
+Tokens: ['Likes:', '0', 'Dislikes:', '0', 'Love:', '0']
+
+Tags Knowledge: ['O', 'O']
+Tokens: ['Job', 'description:']
+
+Tags Knowledge: ['O', 'O']
+Tokens: ['Location', 'options:']
+
+Tags Knowledge: ['O', 'O', 'O', 'O', 'O']
+Tokens: ['Remote', 'Visa', 'sponsor', 'Paid', 'relocation']
+
+Tags Knowledge: ['O', 'O']
+Tokens: ['Job', 'type:']
+
+Tags Knowledge: ['O']
+Tokens: ['Full-time']
+
+Tags Knowledge: ['O', 'O']
+Tokens: ['Experience', 'level:']
+
+Tags Knowledge: ['O']
+Tokens: ['Senior']
+
+Tags Knowledge: ['O']
+Tokens: ['Role:']
+
+Tags Knowledge: ['O', 'O']
+Tokens: ['QA/Test', 'Developer']
+
+Tags Knowledge: ['O']
+Tokens: ['Industry:']
+
+Tags Knowledge: ['B', 'I', 'I', 'B', 'I', 'B', 'I']
+Tokens: ['Business', 'to', 'Business', 'Information', 'Technology', 'Web', 'Technology']
+
+Tags Knowledge: ['O', 'O']
+Tokens: ['Company', 'size:']
+
+Tags Knowledge: ['O', 'O']
+Tokens: ['501-1k', 'people']
+
+Tags Knowledge: ['O', 'O']
+Tokens: ['Company', 'type:']
+
+Tags Knowledge: ['O']
+Tokens: ['Private']
+
+Tags Knowledge: ['O']
+Tokens: ['Technologies']
+
+Tags Knowledge: ['B', 'B', 'B', 'B', 'B']
+Tokens: ['docker', 'agile', 'selenium', 'circleci', 'jenkins']
+
+Tags Knowledge: ['O', 'O']
+Tokens: ['Job', 'description']
+
+Tags Knowledge: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+Tokens: ['In', 'order', 'to', 'support', 'our', 'ongoing', 'international', 'growth', 'we', 'are', 'looking', 'for', 'a', 'Senior', 'QA', 'Engineer', 'to', 'join', 'our', 'Engineering', 'department', '.']
+
+Tags Knowledge: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B', 'O', 'O', 'O', 'O', 'O', 'O']
+Tokens: ['You', 'will', 'be', 'working', 'in', 'an', 'end-to-end', 'cross-functional', 'team', 'being', 'responsible', 'for', 'implementing', 'and', 'promoting', 'all', 'QA', 'relevant', 'topics', 'on', 'team', 'level', '.']
+
+Tags Knowledge: ['O']
+Tokens: ['Responsibilities']
+
+Tags Knowledge: ['O', 'O', 'O', 'O', 'O', 'O', 'O']
+Tokens: ['Design', 'and', 'implement', 'complex', 'end-to-end', 'tests', '.']
+
+Tags Knowledge: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B', 'I', 'I', 'I', 'I', 'I', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+Tokens: ['Work', 'hands-on', 'together', 'with', 'the', 'other', 'engineers', 'within', 'the', 'Agile', 'team', '-', 'to', 'ensure', 'continuous', 'quality', 'delivery', 'of', 'automated', 'acceptance', 'API', 'and', 'performance', 'tests', '-', 'while', 'constantly', 'collaborating', 'with', 'the', 'QA', 'Engineers', 'of', 'the', 'other', 'teams', '.']
+
+Tags Knowledge: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+Tokens: ['Own', 'a', 'thought-leadership', 'influence', 'regarding', 'QA', 'relevant', 'topics', 'within', 'the', 'Agile', 'team', '.']
+
+Tags Knowledge: ['O']
+Tokens: ['Requirements']
+
+Tags Knowledge: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B', 'O', 'B', 'O', 'B', 'O', 'B', 'O', 'O', 'O', 'B', 'I', 'O', 'B', 'B', 'O', 'O']
+Tokens: ['At', 'least', '5', 'years', 'of', 'combined', 'experience', 'in', 'Java', 'or', 'Kotlin', 'and', 'JavaScript', 'or', 'TypeScript', 'programming', 'and', 'related', 'test', 'frameworks', '(', 'Selenium', 'TestCafe', 'etc.)', '.']
+
+Tags Knowledge: ['O', 'O', 'O', 'B', 'I', 'O', 'B', 'I', 'O']
+Tokens: ['Good', 'understanding', 'of', 'Agile', 'methodologies', 'and', 'Continuous', 'Delivery', '.']
+
+Tags Knowledge: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+Tokens: ['Experience', 'in', 'testing', 'applications', 'on', 'every', 'level', 'of', 'the', 'testing', 'pyramid', '.']
+
+Tags Knowledge: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+Tokens: ['Great', 'communicator', 'being', 'able', 'to', 'relate', 'to', 'the', 'different', 'challenges', 'that', 'developers', 'product', 'managers', 'and', 'other', 'stakeholders', 'within', 'the', 'engineering', 'department', 'face', '.']
+
+Tags Knowledge: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B', 'O']
+Tokens: ['Experience', 'in', 'working', 'on', 'a', 'cloud-based', 'application', 'running', 'on', 'Docker', '.']
+
+Tags Knowledge: ['O', 'B', 'I', 'I', 'I', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+Tokens: ['A', 'degree', 'in', 'Computer', 'Science', 'or', 'related', 'fields', 'or', 'equivalent', 'practical', 'experience', '.']
+
+Tags Knowledge: ['O', 'O', 'O', 'O', 'B', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B', 'O', 'O', 'O', 'O']
+Tokens: ['Experience', 'in', 'working', 'with', 'CircleCI', 'pipelines', 'on', 'running', 'tests', 'automatically', 'prior', 'to', 'the', 'deployment;', 'Jenkins', 'is', 'a', 'plus', '.']
+
+Tags Knowledge: ['B', 'I', 'I', 'I', 'O', 'O', 'O', 'O', 'O']
+Tokens: ['Performance', 'and', 'security', 'testing', 'experience', 'is', 'a', 'plus', '.']
+
+Tags Knowledge: ['O', 'O', 'O']
+Tokens: ['What', 'we', 'offer']
+
+Tags Knowledge: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+Tokens: ['We', 'keep', 'things', 'open', 'agile', 'and', 'communicative', '.']
+
+Tags Knowledge: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+Tokens: ['It', 'is', 'all', 'based', 'on', 'trust', 'not', 'micromanaging', '.']
+
+Tags Knowledge: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+Tokens: ['The', 'whole', 'department', 'is', 'located', 'together', 'in', 'one', 'office', 'in', 'beautiful', '<LOCATION>', 'however', 'due', 'to', 'the', 'current', 'situation', 'we', 'work', 'and', 'onboard', '100%', 'remotely', 'to', 'keep', 'our', 'employees', 'safe', '.']
+
+Tags Knowledge: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+Tokens: ['Our', 'team', 'members', 'are', 'self-organized', 'within', 'their', 'teams', 'working', 'on', 'independent', 'projects', 'or', 'closely', 'with', 'Product', 'Leads', 'developers', 'and', 'UX', 'designers', '.']
+
+Tags Knowledge: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+Tokens: ['We', 'value', 'your', 'thoughts', 'and', 'ideas', 'and', 'will', 'give', 'you', 'the', 'freedom', 'to', 'push', 'and', 'implement', 'them!']
+
+Tags Knowledge: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+Tokens: ['We', 'offer', 'competitive', 'salaries', 'and', 'support', 'personal', 'growth', 'with', 'functional', 'in-house', 'coaching', 'and', 'a', 'personal', 'development', 'budget', 'that', 'includes', 'three', 'days', 'off', 'per', 'year', '.']
+
+Tags Knowledge: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+Tokens: ['You', 'will', 'gain', '–', 'and', 'share', '–', 'knowledge', 'during', 'recurring', 'learning', 'groups', 'jours', 'fixes', 'and', 'our', 'annual', 'Code', 'Camp', '.']
+
+Tags Knowledge: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+Tokens: ['You', 'are', 'free', 'to', 'use', 'the', 'OS', 'of', 'your', 'choice', 'the', 'tooling', 'you', 'are', 'comfortable', 'with', 'and', 'set', 'up', 'your', 'workspace', 'the', 'way', 'you', 'like', 'it', '.']
+
+Tags Knowledge: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+Tokens: ['<ORGANIZATION>', 'will', 'support', 'you', 'with', 'all', 'the', 'necessary', 'office', 'equipment', 'even', 'when', 'working', 'from', 'home!']
+
+Tags Knowledge: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+Tokens: ['We', 'get', 'that', 'balancing', 'a', 'family', 'and', 'work', 'can', 'be', 'a', 'challenge', 'so', 'everyone', 'gets', 'flexible', 'working', 'hours', 'and', '30', 'days', 'of', 'holidays', 'per', 'year', '.']
+
+Tags Knowledge: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+Tokens: ['Moreover', '<ORGANIZATION>', 'will', 'support', 'you', 'in', 'case', 'of', 'relocation', 'and', 'visa', 'application', '.']
+
+Tags Knowledge: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+Tokens: ['Note:', 'We', 'support', 'your', 'relocation', 'but', 'due', 'to', 'tax', 'reason', 'you’d', 'be', 'required', 'to', 'be', 'resident', 'in', 'one', 'of', 'the', 'following', 'countries:', '<LOCATION>', '<LOCATION>', '<LOCATION>', '<LOCATION>', '<LOCATION>', '<LOCATION>', '.']
+
+Tags Knowledge: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+Tokens: ['Visa', 'support', 'can', 'currently', 'be', 'offered', 'only', 'for', '<LOCATION>', '.']
+
+Tags Knowledge: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+Tokens: ['*Do', 'I', 'need', 'to', 'meet', 'all', 'the', 'requirements', 'to', 'apply?']
+
+Tags Knowledge: ['O']
+Tokens: ['*']
+
+Tags Knowledge: ['O']
+Tokens: ['Studies']
+
+Tags Knowledge: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+Tokens: ['by', 'several', 'different', 'sources', 'have', 'shown', 'that', 'on', 'average', 'men', 'will', 'apply', 'for', 'a', 'job', 'if', 'they', 'meet', '60%', 'of', 'the', 'application', 'requirements', '.']
+
+Tags Knowledge: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+Tokens: ['In', 'contrast', 'women/non-binary', 'people', 'will', 'seek', 'to', 'match', 'a', 'much', 'higher', 'percentage', 'of', 'the', 'requirements', 'before', 'applying', '.']
+
+Tags Knowledge: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+Tokens: ['We', 'encourage', 'everyone', 'to', 'apply', 'and', 'give', 'us', 'a', 'chance', 'to', 'evaluate', 'your', 'skills', 'and', 'experience', '.']
+
+Tags Knowledge: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+Tokens: ['We', 'are', 'all', 'learning', 'on', 'the', 'job', 'and', 'although', 'the', 'listing', 'above', 'has', 'been', 'carefully', 'compiled', 'we', 'are', 'also', 'open-minded', 'and', 'interested', 'to', 'hear', 'about', 'the', 'value', 'you', 'can', 'bring', 'to', 'the', 'role', 'and', '<ORGANIZATION>', '.']
+
+Tags Knowledge: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+Tokens: ['*How', 'can', 'I', 'demonstrate', 'that', 'I', 'have', 'particular', 'needs', 'in', 'the', 'application', 'process?']
+
+Tags Knowledge: ['O']
+Tokens: ['*']
+
+Tags Knowledge: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+Tokens: ['For', 'people', 'living', 'with', 'disabilities', 'chronic', 'illnesses', 'or', 'neurodiversity', 'adjustments', 'and', 'support', 'can', 'make', 'a', 'decisive', 'difference', 'in', 'the', 'application', 'process', '.']
+
+Tags Knowledge: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+Tokens: ['If', 'you', 'need', 'any', 'specific', 'accommodations', '(', 'tools', 'time', 'etc.', ')', 'and', 'feel', 'comfortable', 'disclosing', 'this', 'please', 'let', 'us', 'know', '.']
+
+Tags Knowledge: ['O', 'O']
+Tokens: ['Job', 'benefits:']
+
+Tags Knowledge: ['O', 'O', 'O']
+Tokens: ['Flexible', 'working', 'hours']
+
+Tags Knowledge: ['O', 'O']
+Tokens: ['Flat', 'hierarchies']
+
+Tags Knowledge: ['O', 'O', 'O', 'O', 'O']
+Tokens: ['Mentoring', '&', 'personal', 'development', 'program']
+
+Tags Knowledge: ['O', 'O', 'O', 'O', 'O']
+Tokens: ['Fruits', '&', 'drinks', 'for', 'free']
+
+Tags Knowledge: ['O', 'O', 'O']
+Tokens: ['Excellent', 'transport', 'connections']
+
+Tags Knowledge: ['O', 'O']
+Tokens: ['Sports', 'offers']
+
+Tags Knowledge: ['O', 'O']
+Tokens: ['Subsidised', 'lunches']
+
+Tags Knowledge: ['O', 'O', 'O', 'O']
+Tokens: ['30', 'days', 'of', 'holidays']
+
+Tags Knowledge: ['O', 'O']
+Tokens: ['Child-care', 'support']
+
+Tags Knowledge: ['O', 'O', 'O', 'O']
+Tokens: ['30', 'days', 'of', 'holiday']
+
+Tags Knowledge: ['O', 'O']
+Tokens: ['Company', 'description:']
+
+Tags Knowledge: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+Tokens: ['<ORGANIZATION>', 'is', 'the', 'leading', 'SaaS-based', 'business', 'process', 'management', 'application', 'suite', 'in', 'the', 'world', '.']
+
+Tags Knowledge: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+Tokens: ['<ORGANIZATION>', 'enables', 'organisations', 'to', 'keep', 'up', 'with', 'the', 'pace', 'volume', 'and', 'complexity', 'of', 'change', '.']
+
+Tags Knowledge: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+Tokens: ['Our', 'Business', 'Transformation', 'Suite', 'is', 'the', 'smarter', 'way', 'to', 'continuously', 'translate', 'between', 'strategy', 'and', 'execution', '.']
+
+Tags Knowledge: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+Tokens: ['With', '<ORGANIZATION>', 'companies', 'of', 'all', 'sizes', 'can', 'document', 'automate', 'and', 'analyse', 'processes', 'which', 'allows', 'them', 'to', 'make', 'smarter', 'business', 'decisions', '.']
+
+Tags Knowledge: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+Tokens: ['Headquartered', 'in', '<LOCATION>', 'with', 'offices', 'in', 'the', '<LOCATION>', '<LOCATION>', '<LOCATION>', '<LOCATION>', '<LOCATION>', 'and', '<LOCATION>', '<ORGANIZATION>', 'serves', 'more', 'than', '1,300', 'customers', 'around', 'the', 'globe', 'across', 'all', 'industries', 'and', 'employs', '300', 'employees', 'globally', '.']
+
+Tags Knowledge: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+Tokens: ['Are', 'you', 'interested', 'in', 'joining', 'one', 'of', 'the', 'world’s', 'leading', 'Business', 'Process', 'Management', 'companies?', 'As', 'we', 'expand', 'our', 'presence', 'into', 'new', 'markets', 'across', 'the', 'globe', 'we', 'are', 'looking', 'to', 'add', 'to', 'our', 'team!', 'across', 'all', 'departments.']
+
+Tags Knowledge: ['O', 'O', 'O']
+Tokens: ['Cloud', 'DevOps', 'Engineer']
+
+Tags Knowledge: ['O', 'O', 'O', 'O', 'O']
+Tokens: ['<ORGANIZATION>', '<ORGANIZATION>', '<ORGANIZATION>', '<ORGANIZATION>', '<ORGANIZATION>']
+
+Tags Knowledge: ['O', 'O', 'O', 'O', 'O']
+Tokens: ['<ADDRESS>', '<ADDRESS>', '<LOCATION>', '-', '<LOCATION>']
+
+Tags Knowledge: ['O', 'O', 'O']
+Tokens: ['Date', 'posted:', '2021-01-21']
+
+Tags Knowledge: ['O', 'O', 'O', 'O', 'O', 'O']
+Tokens: ['Likes:', '0', 'Dislikes:', '0', 'Love:', '0']
+
+Tags Knowledge: ['O', 'O']
+Tokens: ['Job', 'description:']
+
+Tags Knowledge: ['O', 'O']
+Tokens: ['Job', 'type:']
+
+Tags Knowledge: ['O']
+Tokens: ['Full-time']
+
+Tags Knowledge: ['O']
+Tokens: ['Role:']
+
+Tags Knowledge: ['O']
+Tokens: ['DevOps']
+
+Tags Knowledge: ['O']
+Tokens: ['Industry:']
+
+Tags Knowledge: ['B', 'I']
+Tokens: ['Financial', 'Services']
+
+Tags Knowledge: ['O', 'O']
+Tokens: ['Company', 'size:']
+
+Tags Knowledge: ['O', 'O']
+Tokens: ['10k+', 'people']
+
+Tags Knowledge: ['O', 'O']
+Tokens: ['Company', 'type:']
+
+Tags Knowledge: ['O']
+Tokens: ['Public']
+
+Tags Knowledge: ['O']
+Tokens: ['Technologies']
+
+Tags Knowledge: ['B', 'B', 'B']
+Tokens: ['cloud', 'java', 'amazon-web-services']
+
+Tags Knowledge: ['O', 'O']
+Tokens: ['Job', 'description']
+
+Tags Knowledge: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+Tokens: ['As', 'a', 'member', 'of', 'our', 'Software', 'Engineering', 'Group', 'we', 'look', 'first', 'and', 'foremost', 'for', 'people', 'who', 'are', 'passionate', 'about', 'solving', 'business', 'problems', 'through', 'innovation', 'and', 'engineering', 'practices', '.']
