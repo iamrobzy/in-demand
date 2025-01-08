@@ -4,6 +4,7 @@ import numpy as np
 import umap
 import matplotlib.pyplot as plt
 import plotly.express as px
+from sklearn.cluster import KMeans
 
 # Step 1: Load skills from all files in a specific date folder
 def load_skills_from_date(base_folder, date):
