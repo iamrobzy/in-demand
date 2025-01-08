@@ -65,6 +65,27 @@ def visualize_embeddings_3d(reduced_embeddings, skills, output_folder, date):
     
     fig.show()
 
+def perform_kmeans_and_visualize(reduced_embeddings, skills, n_clusters, output_folder, date):
+    kmeans = KMeans(n_clusters=n_clusters, random_state=42)
+    labels = kmeans.fit_predict(reduced_embeddings)
+    
+    fig = px.scatter_3d(
+        x=reduced_embeddings[:, 0],
+        y=reduced_embeddings[:, 1],
+        z=reduced_embeddings[:, 2],
+        color=labels,
+        text=skills,
+        title=f"KMeans Clustering with {n_clusters} Clusters ({date})"
+    )
+    
+    # Save the clustered plot
+    os.makedirs(output_folder, exist_ok=True)
+    plot_path = os.path.join(output_folder, f"{date}_3D_clustering.html")
+    fig.write_html(plot_path)
+    print(f"3D clustered plot saved at {plot_path}")
+    
+    fig.show()
+
 # Main execution
 base_folder = "./tags"
 output_folder = "./plots"
@@ -87,3 +108,6 @@ else:
     # Reduce dimensions to 3D and visualize
     reduced_embeddings_3d = reduce_dimensions(embeddings, n_components=3)
     visualize_embeddings_3d(reduced_embeddings_3d, skills, output_folder, specific_date)
+
+    # Perform KMeans clustering and visualize in 3D
+    perform_kmeans_and_visualize(reduced_embeddings_3d, skills, n_clusters, output_folder, specific_date)
