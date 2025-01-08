@@ -90,6 +90,7 @@ def perform_kmeans_and_visualize(reduced_embeddings, skills, n_clusters, output_
 base_folder = "./tags"
 output_folder = "./plots"
 specific_date = "03-01-2024"  # Example date folder to process
+n_clusters = 5
 
 # Load skills from the specified date folder
 skills = load_skills_from_date(base_folder, specific_date)
