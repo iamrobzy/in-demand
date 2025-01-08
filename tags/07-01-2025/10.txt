@@ -1,0 +1,44 @@
+feature development
+Data Drivens
+machine learning
+algorithm development
+model training
+feature pipeline design
+A
+/
+B testing
+Python
+machine learning algorithms and workflows
+NLP
+Deep Learning
+Recommendation Systems
+Conversational
+English
+recommendation systems
+search
+e
+-
+commerce
+advertising
+NLP
+Chinese text analysis
+business applications
+system design
+machine learning systems
+ML
+Scikit
+-
+Learn
+/
+XGBoost
+/
+Tensorflow
+GCP
+/
+Kubernetes
+SQL
+/
+NoSQL
+/
+Redis
+Linux

@@ -1,0 +1,38 @@
+PhD degree in Computer Science
+Python
+JavaScript
+R
+Java
+C
++
++
+Machine Learning
+Python
+JavaScript
+R
+Java
+C
++
++
+automated algorithm discovery methods
+learning to learn
+program synthesis
+digital hardware
+machine learning
+computational neuroscience
+non
+-
+gradient
+-
+based optimization techniques
+hand
+-
+automated discovery
+machine learning
+modern programming languages
+Python
+computation methods
+machine learning libraries
+JAX
+PyTorch
+)

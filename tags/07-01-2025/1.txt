@@ -1,0 +1,53 @@
+commodity recommendations
+live stream recommendations
+short video recommendations
+TikTok
+feature engineering
+model optimization
+Master
+'
+s degree
+Phd
+'
+s Degree
+Software Development
+Computer Science
+Computer Engineering
+machine learning
+deep learning
+data mining
+programming language
+C
++
++
+/
+Python
+Deep Learning Tools
+tensorflow
+/
+pytorch
+Collaborative Filtering
+Matrix Factorization
+Factorization Machines
+Word2vec
+Logistic Regression
+Gradient Boosting
+Trees
+Deep Neural Networks
+Wide and Deep
+KDD
+NeurlPS
+WWW
+SIGIR
+WSDM
+ICML
+IJCAI
+AAAI
+RECSYS
+data mining
+machine learning
+Kaggle
+/
+KDD
+-
+cup

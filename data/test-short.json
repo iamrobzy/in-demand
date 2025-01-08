@@ -1,0 +1,20 @@
+{"idx": 1, "tokens": ["Full", "Stack", "Software", "Engineer", "-", "Java", "/", "JavaScript"], "tags_skill": ["O", "O", "O", "O", "O", "O", "O", "O"], "tags_knowledge": ["O", "O", "O", "O", "O", "O", "O", "O"], "source": "tech"}
+{"idx": 1, "tokens": ["<ORGANIZATION>", "<ORGANIZATION>", "<ORGANIZATION>", "<ORGANIZATION>", "."], "tags_skill": ["O", "O", "O", "O", "O"], "tags_knowledge": ["O", "O", "O", "O", "O"], "source": "tech"}
+{"idx": 1, "tokens": ["<ADDRESS>", "<ADDRESS>", "<LOCATION>", "-", "<LOCATION>"], "tags_skill": ["O", "O", "O", "O", "O"], "tags_knowledge": ["O", "O", "O", "O", "O"], "source": "tech"}
+{"idx": 1, "tokens": ["Date", "posted:", "2021-03-04"], "tags_skill": ["O", "O", "O"], "tags_knowledge": ["O", "O", "O"], "source": "tech"}
+{"idx": 1, "tokens": ["Likes:", "0", "Dislikes:", "0", "Love:", "0"], "tags_skill": ["O", "O", "O", "O", "O", "O"], "tags_knowledge": ["O", "O", "O", "O", "O", "O"], "source": "tech"}
+{"idx": 1, "tokens": ["Salary:", "<SALARY>"], "tags_skill": ["O", "O"], "tags_knowledge": ["O", "O"], "source": "tech"}
+{"idx": 1, "tokens": ["Job", "type:", "FULL_TIME"], "tags_skill": ["O", "O", "O"], "tags_knowledge": ["O", "O", "O"], "source": "tech"}
+{"idx": 1, "tokens": ["Experience", "level:", "<EXPERIENCE>"], "tags_skill": ["O", "O", "O"], "tags_knowledge": ["O", "O", "O"], "source": "tech"}
+{"idx": 1, "tokens": ["Industry:", "<INDUSTRY>"], "tags_skill": ["O", "O"], "tags_knowledge": ["O", "O"], "source": "tech"}
+{"idx": 1, "tokens": ["Company", "size:", "<SIZE>"], "tags_skill": ["O", "O", "O"], "tags_knowledge": ["O", "O", "O"], "source": "tech"}
+{"idx": 1, "tokens": ["Company", "type:", "<COMPANY_TYPE>"], "tags_skill": ["O", "O", "O"], "tags_knowledge": ["O", "O", "O"], "source": "tech"}
+{"idx": 1, "tokens": ["Technologies:"], "tags_skill": ["O"], "tags_knowledge": ["O"], "source": "tech"}
+{"idx": 1, "tokens": ["javascript", "reactjs", "java"], "tags_skill": ["O", "O", "O"], "tags_knowledge": ["B", "B", "B"], "source": "tech"}
+{"idx": 1, "tokens": ["Job", "description:"], "tags_skill": ["O", "O"], "tags_knowledge": ["O", "O"], "source": "tech"}
+{"idx": 1, "tokens": ["Job", "type:"], "tags_skill": ["O", "O"], "tags_knowledge": ["O", "O"], "source": "tech"}
+{"idx": 1, "tokens": ["Full-time"], "tags_skill": ["O"], "tags_knowledge": ["O"], "source": "tech"}
+{"idx": 1, "tokens": ["Role:"], "tags_skill": ["O"], "tags_knowledge": ["O"], "source": "tech"}
+{"idx": 1, "tokens": ["Full", "Stack", "Developer"], "tags_skill": ["O", "O", "O"], "tags_knowledge": ["O", "O", "O"], "source": "tech"}
+{"idx": 1, "tokens": ["Technologies"], "tags_skill": ["O"], "tags_knowledge": ["O"], "source": "tech"}
+{"idx": 1, "tokens": ["javascript", "reactjs", "java"], "tags_skill": ["O", "O", "O"], "tags_knowledge": ["B", "B", "B"], "source": "tech"}

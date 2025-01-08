@@ -1,4 +1,6 @@
 import requests
+import os
+repo_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
 def show_examples(n = 10):
 
@@ -13,11 +15,12 @@ def show_examples(n = 10):
             tokens = row['tokens']
             skill_labels, knowledge_labels = row['tags_skill'], row['tags_knowledge']
 
-            print(f'Example #{i+1}')
-            print('Tokens:', tokens)
-            print('Skill Labels:', skill_labels)
-            print('Knowledge Labels:', knowledge_labels)
-            print('')
+            with open(f"{repo_dir}/examples.txt", 'w') as file:
+                file.write(f'Example #{i+1}\n')
+                file.write(f'Tokens: {str(tokens)}\n')
+                file.write(f'Skill Labels: {str(skill_labels)}\n')
+                file.write(f'Knowledge Labels: {str(knowledge_labels)}\n')
+                file.write('\n')
 
 
 show_examples(n=100)
