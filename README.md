@@ -50,6 +50,24 @@ You should define your own project by writing at most one page description of th
 ### What to deliver
 You should deliver your project as a stand alone serverless ML system. You should submit a URL for your service, a zip file containing your code, and a short report (two to three pages) about what you have done, the dataset, your method, your results, and how to run the code. I encourage you to have the README.md for your project in your Github report as the report for your project.
 
+
+# Job Scraping
+
+This component scrapes job descriptions from the LinkedIn Job Search API for Machine Learning, and saves them in text files for further analysis.
+
+## Workflow
+
+1. **API Configuration**:
+   - The script uses the `linkedin-job-search-api.p.rapidapi.com` endpoint to fetch job data.
+   - API access is authenticated using a RapidAPI key stored as an environment variable `RAPID_API_KEY`.
+
+2. **Data Retrieval**:
+   - The script fetches jobs matching the keyword `machine learning`.
+   - It retrieves job details including the description, which is saved for further analysis.
+
+3. **Job Description Extraction**:
+   - Each job description is saved in a `.txt` file under the `job-postings/<date>` folder.
+   
 # Skill Embeddings and Visualization
 
 We generate embeddings for technical skills listed in .txt files and visualizes their relationships using dimensionality reduction and clustering techniques. The visualizations are created for both 2D and 3D embeddings, and clustering is performed using KMeans to identify groups of similar skills.
