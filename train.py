@@ -160,7 +160,7 @@ def train(json_path: str):
 def train_today():
 
     date = datetime.today().strftime('%d-%m-%Y')
-    date = "04-01-2025"
+    # date = "04-01-2025"
     json_path = os.path.join(os.getcwd(),f'data/tags-{date}.jsonl')
     print(f"Training on {json_path}")
     train(json_path=json_path)

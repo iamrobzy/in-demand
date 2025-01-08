@@ -135,7 +135,7 @@ def tag_posting(job_path, output_path):
 def tag_all_today():
 
     date = datetime.today().strftime('%d-%m-%Y')
-    date = "04-01-2025"
+    # date = "04-01-2025"
 
     jobs = os.listdir(f'./job-postings/{date}')
     output_path = f'./data/tags-{date}.jsonl'
