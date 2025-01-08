@@ -87,7 +87,13 @@ def visualize3D(reduced_embeddings, labels, skills, n_clusters, output_folder, d
     # fig.show()
     return fig
 
-if __name__ == "__main__":
+# Main execution
+base_folder = "./tags"
+output_folder = "./plots"
+specific_date = "03-01-2024"  # Example date folder to process
+# Get today's date in the desired format
+# specific_date = datetime.now().strftime("%d-%m-%Y")
+n_clusters = 5
 
     # Main execution
     base_folder = "./tags"

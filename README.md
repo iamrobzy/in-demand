@@ -10,7 +10,11 @@ pinned: false
 ---
 
 
-# Compilation of in-demand tech skills
+# In-demand Skill Monitoring for Machine Learning Industry
+
+## About
+
+This projects strives to monitor in-demand skills for machine learning roles based in Stockholm, Sweden. 
 
 # Project outline
 

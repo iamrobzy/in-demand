@@ -46,6 +46,7 @@ top_skills = total_counts.nlargest(3).index
 
 # Step 5: Plot and save separate graphs for the top 3 skills
 for skill in top_skills:
+    print(f"Trend of {skill} Over Time")
     plt.figure(figsize=(8, 5))
     plt.plot(df.index, df[skill], marker="o", label=skill)
     
