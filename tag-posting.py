@@ -4,6 +4,7 @@ from transformers import AutoTokenizer, BertForTokenClassification, TrainingArgu
 import torch
 from typing import List
 import os
+from datetime import datetime
 
 
 ### Parsing job posting
@@ -215,18 +216,33 @@ def backfill():
 
             print(f"Saved skills to: {tag_path}")
 
-def tag_date():
+def tag_date(date):
 
-    pass
+    tag_dir = os.path.join(os.getcwd(), 'tags', date)
+    job_dir = os.path.join(os.getcwd(), 'job-postings', date)
+
+    for job in os.listdir(job_dir):
+            
+            job_path = os.path.join(job_dir, job)
+            tag_path = os.path.join(tag_dir, job)
+
+            print(f"Processing job file: {job_path}")
+
+            if not os.path.exists(tag_dir):
+                os.makedirs(tag_dir)
+                print(f"Created directory: {tag_dir}")
+
+            sents = parse_post(job_path)
+            skills = extract_skills(sents)
+            skills_save(tag_path, skills)
+
+            print(f"Saved skills to: {tag_path}")
 
 if __name__ == '__main__':
 
-    # Backfill
-    backfill()
+    # Backfill all job postings
+    # backfill()
 
-
-    # path = './job-postings/03-01-2024/2.txt'
-    # sents = parse_post(path)
-    # skills = extract_skills(sents)
-    # skills_save('./tags/03-01-2024/2.txt',skills)RAPID_API_KEY : 60a10b11e6msh821d32f6e1e955ep15b5b1jsnf61a46680409
-1
+    # Tag today's job postings
+    date = datetime.today().strftime('%m-%d-%Y')
+    tag_date(date)

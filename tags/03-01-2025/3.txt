@@ -1,10 +1,20 @@
+data
+web
 SQL
 cloud infrastructure
 APIs
+data
+Market
 Python
 infra
 database
-Types
+scraping
+Python
+cloud
+APIs
+Typescript
+node
+anals
 SaaS
 agile development
 sprint planning
@@ -20,3 +30,5 @@ Azure
 data processing
 Databricks
 English
+T
+contract

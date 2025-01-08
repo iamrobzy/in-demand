@@ -1,33 +1,48 @@
+Ericsson
+mobile
+Ericsson
+Ericsson
+Networked Society
+Eric
+6
+6G
+regulation
+standardization
+6th
+cloud
+cloud
+MLOps
 ML
--
-AI based R & D
+AI
+cloud
+6G
+standard
 MSc in Data Science
 Python
 Go
 MLOps
 MLFlow
-Kubeflow )
+Kubeflow
+Python
 Hydra
 numpy
 TensorFlow
-DevOps
+Dev
 CI
-/
 CD
-runner deployment & management
-pipeline creation
-testing
+deployment
+pipeline
 ML
 ML
 PyTorch
 TensorFlow
-Containers
-engines, orchestration tools and
+Jax
+Con
 Docker
 Kaniko
 Kubernetes
 Helm
-Cloud ecosystems
+Cloud
 AWS
 Infrastructure management
 Ansible

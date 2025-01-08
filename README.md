@@ -17,37 +17,39 @@ This projects aims to monitor in-demand skills for machine learning roles. Skill
 
 ![Header Image](header.png)
 
-### [Monitoring Platform Link](https://huggingface.co/spaces/jjzha/skill_extraction_demo)
+### [Monitoring Platform Link](https://huggingface.co/spaces/Robzy/jobbert_knowledge_extraction)
 
 ## Architecture & Frameworks
 
-
-- ** Hugging Face Spaces **
-- ** Gradio ** 
-- ** GitHub Actions **
-- ** Rapid API **
-- ** Weight & Biases **
-- ** Rapid API **
-- ** OpenAI API **
+- **Hugging Face Spaces**: Used as an UI to host interactive visualisation of skills embeddings and their clusters.
+- **GitHub Actions**: Used to schedule training, inference and visualisation-updating scripts.
+- **Rapid API**: The API used to scrape job descriptions from LinkedIn
+- **Weights & Biases**: Used for model training monitoring as well as model storing.
+- **OpenAI API**: Used to extract ground-truth from job descriptions by leveraging multi-shot learning and prompt engineering.
 
 
 # High-Level Overview
 
-## Model: skills extraction model
+## Models
+* **BERT** - finetuned skill extraction model, lightweight.
+* **LLM** - gpt-4o for skill extraction with multi-shot learning. Computationally expensive.
+* **Embedding model** - [SentenceTransformers](https://sbert.net/) used to embed skills into vectors.
+* [**spaCy**](https://spacy.io/models/en#en_core_web_sm) - sentence tokenization model. 
 
-## Inference
-1. Extracting new job abs from Indeed/LinkedIn
-2. Extract skills from job ads via skills extraction model
+## Pipeline
 
-## Online training
-Continual training, extract ground truth via LLM with multi-shot learning with examples. 
+The follow scripts are scheduled to automate the skill monitoring and model tranining processes continually. 
 
-## Skill compilation
-Save all skills. Make a comprehensive overview by:
-
-1. Embed skills to a vector with an embedding model
-2. Perform clustering with KMeans
-2. Visualize clustering with dimensionality reduction (UMAP)
+### 1. Job-posting scraping
+Fetching job descriptions for machine learning from LinkedIn via Rapid API.
+### 2. Skills tagging with LLM
+We opinionately extract the ground truth of skills from the job descriptions by leveraging multi-shot learning and prompt engineering.
+### 3. Model training
+The skill extraction model is finetuned with respect to the extracted groundtruth.
+### 4. Skills tagging with JobBERT
+Skills are extracted from job-postings with finetuned model
+### 5. Embedding & visualization
+Extracted skills are embedded, reduced and clustered with an embedding model, UMAP and K-means respectively.
 
 
 # Job Scraping
@@ -94,11 +96,3 @@ We generate embeddings for technical skills listed in .txt files and visualizes 
 - **3D Projection**: Saved as interactive HTML files in the `./plots` folder.
 - **3D Clustering Visualization**: Saved as HTML files, showing clusters with different colors.
 
-# Scheduling
-
-To monitor the in-demand skills and update our model continously, scheduling is employed. The following scripts are scheduled every Sunday:
-
-1. Job-posting scraping: fetching job descriptions for machine learning from LinkedIn
-2. Skills tagging with LLM: we decide to extract the ground truth of skills from the job descriptions by leveraging multi-shot learning and prompt engeneering.
-3. Training
-4. Embedding and visualizatio -  skills are embedded and visualized with KMeans clustering
