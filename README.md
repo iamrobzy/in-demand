@@ -9,25 +9,38 @@ app_file: app.py
 pinned: false
 ---
 
-
 # In-demand Skill Monitoring for Machine Learning Industry
 
 ## About
 
-This projects strives to monitor in-demand skills for machine learning roles based in Stockholm, Sweden. 
+This projects aims to monitor in-demand skills for machine learning roles. Skills are extracted with a BERT-based skill extraction model called JobBERT, which is continously fine-tuned on the job postings. The skills are monitored/visualized 1. embedding the extracted skills tokens into vector form, 2. performing dimensionality reduction with UMAP, 3. visualizing the reduced embeddings. 
 
-# Project outline
+![Header Image](header.png)
+
+### [Monitoring Platform Link](https://huggingface.co/spaces/jjzha/skill_extraction_demo)
+
+## Architecture & Frameworks
+
+
+- ** Hugging Face Spaces **
+- ** Gradio ** 
+- ** GitHub Actions **
+- ** Rapid API **
+- ** Weight & Biases **
+- ** Rapid API **
+- ** OpenAI API **
+
+
+# High-Level Overview
 
 ## Model: skills extraction model
-
-[Model: skills extraction model from HuggingFace](https://huggingface.co/spaces/jjzha/skill_extraction_demo)
 
 ## Inference
 1. Extracting new job abs from Indeed/LinkedIn
 2. Extract skills from job ads via skills extraction model
 
 ## Online training
-Extract ground truth via LLM and few-shot learning. 
+Continual training, extract ground truth via LLM with multi-shot learning with examples. 
 
 ## Skill compilation
 Save all skills. Make a comprehensive overview by:
@@ -35,20 +48,6 @@ Save all skills. Make a comprehensive overview by:
 1. Embed skills to a vector with an embedding model
 2. Perform clustering with KMeans
 2. Visualize clustering with dimensionality reduction (UMAP)
-    
-Inspiration: [link](https://dylancastillo.co/posts/clustering-documents-with-openai-langchain-hdbscan.html)
-
-
-## Project requirements:
-
-You should define your own project by writing at most one page description of the project. The proposed project should be approved by the examiner. The project proposal should cover the following headings:
-
-### Problem description: what are the data sources and the prediction problem that you will be building a ML System for?
-### Tools: what tools you are going to use? In the course we mainly used Decision Trees and PyTorch/Tensorflow, but you are free to explore new tools and technologies.
-### Data: what data will you use and how are you going to collect it?
-### Methodology and algorithm: what method(s) or algorithm(s) are you proposing?
-### What to deliver
-You should deliver your project as a stand alone serverless ML system. You should submit a URL for your service, a zip file containing your code, and a short report (two to three pages) about what you have done, the dataset, your method, your results, and how to run the code. I encourage you to have the README.md for your project in your Github report as the report for your project.
 
 
 # Job Scraping
@@ -97,8 +96,9 @@ We generate embeddings for technical skills listed in .txt files and visualizes 
 
 # Scheduling
 
-- scrapping: We run scrapping weekly to fetch job descriptions for machine learning from LinkedIn
-- LLM tagging:
-- Training:
-- Embedding and visualization: On weekly basis, we also use the skills extracted to create their embeddings and visualize them using KMeans clustering
+To monitor the in-demand skills and update our model continously, scheduling is employed. The following scripts are scheduled every Sunday:
 
+1. Job-posting scraping: fetching job descriptions for machine learning from LinkedIn
+2. Skills tagging with LLM: we decide to extract the ground truth of skills from the job descriptions by leveraging multi-shot learning and prompt engeneering.
+3. Training
+4. Embedding and visualizatio -  skills are embedded and visualized with KMeans clustering
