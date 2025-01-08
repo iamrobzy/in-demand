@@ -13,7 +13,7 @@ pinned: false
 
 ## About
 
-This projects aims to monitor in-demand skills for machine learning roles. Skills are extracted with a BERT-based skill extraction model called JobBERT, which is continously fine-tuned on the job postings. The skills are monitored/visualized 1. embedding the extracted skills tokens into vector form, 2. performing dimensionality reduction with UMAP, 3. visualizing the reduced embeddings. 
+This projects aims to monitor in-demand skills for machine learning roles. Skills are extracted with a BERT-based skill extraction model called JobBERT, which is continously fine-tuned on the job postings. The skills are monitored/visualized by: 1. embedding the extracted skills tokens into vector form, 2. performing dimensionality reduction with UMAP, 3. visualizing the reduced embeddings. 
 
 ![Header Image](header.png)
 
