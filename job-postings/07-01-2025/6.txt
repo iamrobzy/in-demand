@@ -1,59 +1,47 @@
-Overview
+Job Description
 
-Working at Atlassian
+Arm's Machine Learning Group is seeking highly motivated and creative Software Engineers to join the Cambridge-based ML Content, Algorithms and Tools team!
 
-Atlassians can choose where they work – whether in an office, from home, or a combination of the two. That way, Atlassians have more control over supporting their family, personal goals, and other priorities. We can hire people in any country where we have a legal entity. Interviews and onboarding are conducted virtually, a part of being a distributed-first company.
-
-Responsibilities
-
-Atlassian is looking for a Principal Data Scientist to be the wizard who will uncover valuable insights from customer friction which will help the business improve our products. We're looking for someone with superb business instincts, comfort with executive stakeholders, proficiency in statistical analyses, expertise in NLP/LLM, experience partnering with cross-functional teams, and mentoring others on the team. This role aims to leverage basic analytics, NLP/LLM, and data science methods to identify areas of customer friction from variety of customer interaction channels and build tools and solutions that will help us identify areas to improve our products. This role is part of Service Enablement Team within Customer Support Organization.
+This Machine Learning Engineer role focuses on advancing the field of AI by optimizing and deploying pioneering models, particularly Large Language Models (LLMs) and Generative AI algorithms. This involves deep analysis of neural networks, optimizing software and hardware, developing innovative solutions, and collaborating with teams to build high-performance AI systems.
 
 Responsibilities
 
-Influence strategy & important decisions around customer friction by surfacing data driven insights.
-Define, set and report on department level metrics or KRs to the CSS Executive team
-Build and implement measurement frameworks, machine learning models and NLP/LLM tooling to accelerate Atlassian’s growth and improve product quality.
-Foster a world-class Data Science culture by leading training on technical concepts, driving continuous learning and mentoring Data Scientists on the team
+Your responsibilities involve working with major ML frameworks (PyTorch, TensorFlow, etc.) to port and develop ML networks, optimize and quantize models for efficient execution on Arm platforms, and help ensure multiple Arm products are designed to perform effectively for machine learning. As an in-depth technical responsibility, you will need to deeply understand the complex applications you analyze and communicate them in their simplest form to contribute to product designs, allowing you to influence both IP and system architecture.
 
+Required Skills And Experience
 
-Qualifications
+A background in computer science, software engineering or other comparable skills
+Experience training and debugging neural networks with TensorFlow and PyTorch using Python
+Understanding, deploying, and optimizing Large Language Models (LLMs) and Generative AI algorithms.
+Experience using software development platforms and continuous integration systems
+Familiarity with Linux and cloud services
+Have a strong attention to detail to ensure use cases you investigate are well understood and the critical areas needing improvement are understood 
 
-Experience applying your Data Science skills to identify and lead projects which have had impact on business strategy and performance
-8+ years of experience in Data Science or related fields. (Preferred - 10+ years experience with a post-graduate degree in a quantitative discipline like Statistics, Mathematics, Econometrics, Computer science)
-Expertise in applying a broad variety of ML methods including NLP and LLM to solve business problems and a strong sense of when to apply them to the problem at hand
-Experience in managing ML projects end-to-end including deployment and monitoring.
-Expertise in SQL and a high level of proficiency in another data science programming language (e.g Python, R) with expertise in libraries like Pandas, Numpy, Scikit-learn etc.
-A very high bar for output quality, while balancing "having something now" vs. "perfection in the future"
-Comfort explaining complex concepts to diverse audiences and creating compelling stories for non-data experts
-Proficiency in visualization tools (e.g. Streamlit, Tableau) 
+Nice To Have Skills And Experience
 
+Experience of the inner workings of Pytorch, Tensorflow, Executorch and Tensorflow Lite
+Experience of developing and maintaining CI/testing components to improve automation of model analysis
+Good knowledge of Python for working with ML frameworks
+Good knowledge of C++ for working with optimised ML libraries
+Previous experience of machine learning projects
+Experience with deployment optimizations on machine learning models 
 
-Qualifications
+In Return 
 
-Compensation
+From research to proof-of-concept development, to deployment on ARM IPs, joining this team would be a phenomenal opportunity to contribute to the full life cycle of machine learning projects and understand how innovative machine learning is used to solve real word problems.
 
-At Atlassian, We Strive To Design Equitable, Explainable, And Competitive Compensation Programs. To Support This Goal, The Baseline Of Our Range Is Higher Than That Of The Typical Market Range, But In Turn We Expect To Hire Most Candidates Near This Baseline. Base Pay Within The Range Is Ultimately Determined By a Candidate's Skills, Expertise, Or Experience. In The United States, We Have Three Geographic Pay Zones. For This Role, Our Current Base Pay Ranges For New Hires In Each Zone Are:
+Working closely with experts in ML and software and hardware optimisation - a truly multi-discipline environment - you will have the chance to explore existing or build new machine learning techniques, while helping unpick the complex world of use-cases spanning mobile phones, servers, autonomous driving vehicles, and low-power embedded devices
 
-Zone A: $175,100 - $233,400
+!
 
-Zone B: $157,500 - $210,100
+Accommodations at Arm
 
-Zone C: $145,300 - $193,700
+At Arm, we want our people to Do Great Things. If you need support or an accommodation to Be Your Brilliant Self during the recruitment process, please email accommodations@arm.com . To note, by sending us the requested information, you consent to its use by Arm to arrange for appropriate accommodations. All accommodation requests will be treated with confidentiality, and information concerning these requests will only be disclosed as necessary to provide the accommodation. Although this is not an exhaustive list, examples of support include breaks between interviews, having documents read aloud or office accessibility. Please email us about anything we can do to accommodate you during the recruitment process.
 
-This role may also be eligible for benefits, bonuses, commissions, and equity.
+Hybrid Working at Arm
 
-Please visit go.atlassian.com/payzones for more information on which locations are included in each of our geographic pay zones. However, please confirm the zone for your specific location with your recruiter.
+Arm’s approach to hybrid working is designed to create a working environment that supports both high performance and personal wellbeing. We believe in bringing people together face to face to enable us to work at pace, whilst recognizing the value of flexibility. Within that framework, we empower groups/teams to determine their own hybrid working patterns, depending on the work and the team’s needs. Details of what this means for each role will be shared upon application. In some cases, the flexibility we can offer is limited by local legal, regulatory, tax, or other considerations, and where this is the case, we will collaborate with you to find the best solution. Please talk to us to find out more about what this could look like for you.
 
-Our Perks & Benefits
+Equal Opportunities at Arm
 
-Atlassian offers a variety of perks and benefits to support you, your family and to help you engage with your local community. Our offerings include health coverage, paid volunteer days, wellness resources, and so much more. Visit go.atlassian.com/perksandbenefits to learn more.
-
-About Atlassian
-
-At Atlassian, we're motivated by a common goal: to unleash the potential of every team. Our software products help teams all over the planet and our solutions are designed for all types of work. Team collaboration through our tools makes what may be impossible alone, possible together.
-
-We believe that the unique contributions of all Atlassians create our success. To ensure that our products and culture continue to incorporate everyone's perspectives and experience, we never discriminate based on race, religion, national origin, gender identity or expression, sexual orientation, age, or marital, veteran, or disability status. All your information will be kept confidential according to EEO guidelines.
-
-To provide you the best experience, we can support with accommodations or adjustments at any stage of the recruitment process. Simply inform our Recruitment team during your conversation with them.
-
-To learn more about our culture and hiring process, visit go.atlassian.com/crh .
+Arm is an equal opportunity employer, committed to providing an environment of mutual respect where equal opportunities are available to all applicants and colleagues. We are a diverse organization of dedicated and innovative individuals, and don’t discriminate on the basis of race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or status as a protected veteran.

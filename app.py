@@ -7,7 +7,8 @@ token_knowledge_classifier = pipeline(model="jjzha/jobbert_knowledge_extraction"
 
 examples = [
         "Knowing Python is a plus",
-        "Recommend changes, develop and implement processes to ensure compliance with IFRS standards"
+        "Recommend changes, develop and implement processes to ensure compliance with IFRS standards",
+        "Experience with Unreal and/or Unity and/or native IOS/Android 3D development and/or Web based 3D engines",
         ]
 
 

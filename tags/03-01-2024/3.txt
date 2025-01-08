@@ -1,1 +1,22 @@
-tags
+SQL
+cloud infrastructure
+APIs
+Python
+infra
+database
+Types
+SaaS
+agile development
+sprint planning
+backend development
+python
+SQL
+NoSQL databases
+web scraping
+API development
+containerization
+cloud environments
+Azure
+data processing
+Databricks
+English

@@ -1,16 +1,17 @@
 import http.client
-from config import *
+# from config import *
 import json
 import os
 from datetime import datetime
 
+api_key = os.getenv('RAPID_API_KEY')
 
 def scrape_jobs():
 
     conn = http.client.HTTPSConnection("linkedin-job-search-api.p.rapidapi.com")
 
     headers = {
-        'x-rapidapi-key': RAPID_API_KEY,
+        'x-rapidapi-key': api_key,
         'x-rapidapi-host': "linkedin-job-search-api.p.rapidapi.com"
     }
 
@@ -28,6 +29,7 @@ def extract_job_descriptions(jobs):
     # Get the current date in YYYY-MM-DD format and create folder
     current_date = datetime.now().strftime('%d-%m-%Y')
     folder_path = os.path.join("job-postings", current_date)
+    print(f"Creating folder at: {folder_path}")
     os.makedirs(folder_path, exist_ok=True)
 
     for idx, job in enumerate(jobs, start=1):
@@ -42,6 +44,10 @@ def extract_job_descriptions(jobs):
             print("Job {} saved".format(str(idx)))
         else:
             print("Job description not available")
-
 jobs = scrape_jobs()
 extract_job_descriptions(jobs)
+
+# current_date = datetime.now().strftime('%d-%m-%Y')
+# folder_path = os.path.join("job-postings", current_date)
+# print(f"Creating folder at: {folder_path}")
+# os.makedirs(folder_path, exist_ok=True)

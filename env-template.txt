@@ -1,0 +1,3 @@
+OPENAI_API_KEY=<openai api key>
+HF_USERNAME=<hugging face username>
+WANDB_API_KEY=<weights & biases api key>

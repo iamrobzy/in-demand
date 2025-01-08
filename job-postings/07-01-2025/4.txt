@@ -1,82 +1,42 @@
-About The Team
+Note: By applying to this position you will have an opportunity to share your preferred working location from the following: Mountain View, CA, USA; Seattle, WA, USA; San Francisco, CA, USA.Minimum qualifications:
 
-Come help us build the world's most reliable on-demand, logistics engine for delivery! We're bringing on talented engineers to help us create and maintain a 24x7, no downtime, global infrastructure system that powers DoorDash’s three-sided marketplace of consumers, merchants, and dashers.
+PhD degree in Computer Science, a related field, or equivalent practical experience. 
+One or more scientific publication submission(s) for conferences, journals, or public repositories.
+Coding experience in Python, JavaScript, R, Java, or C++.
+Machine Learning experience.
 
-About The Role
+Preferred qualifications:
 
-At DoorDash, our Data Scientists and ML Engineers have the opportunity to dive into a wealth of delivery data to improve company-wide ML workflows such as Search & Recommendations, Dasher Assignment, ETA Prediction, and Dasher Capacity Planning. You will join a small team to build systems that empower efficient machine learning at scale. This is a hybrid opportunity in San Francisco, Sunnyvale or Seattle.
+2 years of coding experience in Python, JavaScript, R, Java, or C++. 
+1 year of experience owning and initiating research agendas.
+Experience with automated algorithm discovery methods, learning to learn, or program synthesis.
+Experience with digital hardware or hardware intended for machine learning.
+Knowledge of computational neuroscience.
+Familiarity with non-gradient-based optimization techniques.
 
-You’re Excited About This Opportunity Because You Will…
+About The Job
 
-Build a world-class ML platform where models are developed, trained, and deployed seamlessly
-Work closely with Data Scientists and Product Engineers to evolve the ML platform as per their use cases 
-You will help build high performance and flexible pipelines that can rapidly evolve to handle new technologies, techniques and modeling approaches
-You will work on infrastructure designs and solutions to store trillions of feature values and power hundreds of billions of predictions a day
-You will help design and drive directions for the centralized machine learning platform that powers all of DoorDash's business.
-Improve the reliability, scalability, and observability of our training and inference infrastructure.
+As an organization, Google maintains a portfolio of research projects driven by fundamental research, new product innovation, product contribution and infrastructure goals, while providing individuals and teams the freedom to emphasize specific types of work. As a Research Scientist, you'll setup large-scale tests and deploy promising ideas quickly and broadly, managing deadlines and deliverables while applying the latest theories to develop new and improved products, processes, or technologies. From creating experiments and prototyping implementations to designing new architectures, our research scientists work on real-world problems that span the breadth of computer science, such as machine (and deep) learning, data mining, natural language processing, hardware and software performance analysis, improving compilers for mobile platforms, as well as core search and much more.
 
-We’re Excited About You Because…
+As a Research Scientist, you'll also actively contribute to the wider research community by sharing and publishing your findings, with ideas inspired by internal projects as well as from collaborations with research programs at partner universities and technical institutes all over the world.
 
-B.S., M.S., or PhD. in Computer Science or equivalent
-Exceptionally strong knowledge of CS fundamental concepts and OOP languages
-6+ years of industry experience in software engineering
-Prior experience building machine learning systems in production such as enabling data analytics at scale
-Prior experience in machine learning - you've developed and deployed your own models - even if these are simple proof of concepts
-Systems Engineering - you've built meaningful pieces of infrastructure in a cloud computing environment. Bonus if those were data processing systems or distributed systems
+To advance the field of artificial intelligence by exploring alternative computational paradigms beyond those currently trending. In particular, our team is interested in the discovery of learning algorithms for experimental, energy efficient hardware paradigms. We use both hand-design and automated discovery methods.
 
-Nice To Haves
+Google Research is building the next generation of intelligent systems for all Google products. To achieve this, we’re working on projects that utilize the latest computer science techniques developed by skilled software developers and research scientists. Google Research teams collaborate closely with other teams across Google, maintaining the flexibility and versatility required to adapt new projects and foci that meet the demands of the world's fast-paced business needs.
 
-Experience with challenges in real-time computing
-Experience with large scale distributed systems, data processing pipelines and machine learning training and serving infrastructure
-Familiar with Pandas and Python machine learning libraries and deep learning frameworks such as PyTorch and TensorFlow
-Familiar with Spark, MLLib, Databricks,MLFlow, Apache Airflow, Dagster and similar related technologies.
-Familiar with large language models like GPT, LLAMA, BERT, or Transformer-based architectures
-Familiar with a cloud based environment such as AWS
+[For US Applicants]
 
-Notice to Applicants for Jobs Located in NYC or Remote Jobs Associated With Office in NYC Only
+The US base salary range for this full-time position is $136,000-$200,000 + bonus + equity + benefits. Our salary ranges are determined by role, level, and location. The range displayed on each job posting reflects the minimum and maximum target salaries for the position across all US locations. Within the range, individual pay is determined by work location and additional factors, including job-related skills, experience, and relevant education or training. Your recruiter can share more about the specific salary range for your preferred location during the hiring process.
 
-We use Covey as part of our hiring and/or promotional process for jobs in NYC and certain features may qualify it as an AEDT in NYC. As part of the hiring and/or promotion process, we provide Covey with job requirements and candidate submitted applications. We began using Covey Scout for Inbound from August 21, 2023, through December 21, 2023, and resumed using Covey Scout for Inbound again on June 29, 2024.
+Please note that the compensation details listed in US role postings reflect the base salary only, and do not include bonus, equity, or benefits. Learn more about benefits at Google .
 
-The Covey tool has been reviewed by an independent auditor. Results of the audit may be viewed here: Covey
+Responsibilities
 
-Compensation
+Explore thoroughly into a project for an extended period of time.
+Design, execute, and interpret machine learning experiments, selecting appropriate algorithms, models, and evaluation metrics.
+Review literature, identify key questions, think creatively, iterate on experiments, and employ scientific accuracy.
+Be proficient in one or more modern programming languages (e.g., Python), learn new programming languages. Learn technologies such as large-scale computation methods, be experienced with one or more machine learning libraries (e.g., JAX or PyTorch).
+Write clear academic papers, give formal research talks, and have informal discussions with colleagues.
 
-The successful candidate's starting pay will fall within the pay range listed below and is determined based on job-related factors including, but not limited to, skills, experience, qualifications, work location, and market conditions. Base salary is localized according to an employee’s work location. Ranges are market-dependent and may be modified in the future.
 
-In addition to base salary, the compensation for this role includes opportunities for equity grants. Talk to your recruiter for more information.
-
-DoorDash cares about you and your overall well-being. That’s why we offer a comprehensive benefits package for all regular employees that includes a 401(k) plan with an employer match, paid time off, paid parental leave, wellness benefits, and several paid holidays. Paid sick leave in compliance with applicable laws (i.e. Colorado Healthy Families and Workplaces Act).
-
-Additionally, for full-time employees, DoorDash offers medical, dental, and vision benefits, disability and basic life insurance, family-forming assistance, a commuter benefit match, and a mental health program, among others.
-
-To learn more about our benefits, visit our careers page here.
-
-The base pay for this position ranges from our lowest geographical market up to our highest geographical market within California, Colorado, District of Columbia, Hawaii, Maryland, New Jersey, New York and Washington.
-
-I4
-
-$119,100—$175,100 USD
-
-I5
-
-$145,000—$213,200 USD
-
-I6
-
-$171,600—$252,400 USD
-
-About DoorDash
-
-At DoorDash, our mission to empower local economies shapes how our team members move quickly, learn, and reiterate in order to make impactful decisions that display empathy for our range of users—from Dashers to merchant partners to consumers. We are a technology and logistics company that started with door-to-door delivery, and we are looking for team members who can help us go from a company that is known for delivering food to a company that people turn to for any and all goods.
-
-DoorDash is growing rapidly and changing constantly, which gives our team members the opportunity to share their unique perspectives, solve new challenges, and own their careers. We're committed to supporting employees’ happiness, healthiness, and overall well-being by providing comprehensive benefits and perks including premium healthcare, wellness expense reimbursement, paid parental leave and more.
-
-Our Commitment to Diversity and Inclusion
-
-We’re committed to growing and empowering a more inclusive community within our company, industry, and cities. That’s why we hire and cultivate diverse teams of people from all backgrounds, experiences, and perspectives. We believe that true innovation happens when everyone has room at the table and the tools, resources, and opportunity to excel.
-
-Statement of Non-Discrimination: In keeping with our beliefs and goals, no employee or applicant will face discrimination or harassment based on: race, color, ancestry, national origin, religion, age, gender, marital/domestic partner status, sexual orientation, gender identity or expression, disability status, or veteran status. Above and beyond discrimination and harassment based on “protected categories,” we also strive to prevent other subtler forms of inappropriate behavior (i.e., stereotyping) from ever gaining a foothold in our office. Whether blatant or hidden, barriers to success have no place at DoorDash. We value a diverse workforce – people who identify as women, non-binary or gender non-conforming, LGBTQIA+, American Indian or Native Alaskan, Black or African American, Hispanic or Latinx, Native Hawaiian or Other Pacific Islander, differently-abled, caretakers and parents, and veterans are strongly encouraged to apply. Thank you to the Level Playing Field Institute for this statement of non-discrimination.
-
-Pursuant to the San Francisco Fair Chance Ordinance, Los Angeles Fair Chance Initiative for Hiring Ordinance, and any other state or local hiring regulations, we will consider for employment any qualified applicant, including those with arrest and conviction records, in a manner consistent with the applicable regulation.
-
-If you need any accommodations, please inform your recruiting contact upon initial connection.
+Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also Google's EEO Policy and EEO is the Law. If you have a disability or special need that requires accommodation, please let us know by completing our Accommodations for Applicants form .

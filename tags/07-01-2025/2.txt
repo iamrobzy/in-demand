@@ -1,0 +1,96 @@
+Deep Learning
+MLOps
+production environments
+model management
+automation
+continuous integration
+deep
+MLOps
+Deep
+CNNs
+RNNs
+Transformers
+NLP
+computer vision
+predictive analytics
+MLOps
+Pipeline Development
+M
+model training
+Model De
+CI
+/
+CD
+model versioning
+lifecycle management
+Kubernetes
+Docker
+cloud platforms
+AWS
+,
+Azure
+GCP
+cloud platforms
+AWS SageMaker
+Google AI Platform
+Azure
+Machine Learning
+Cross
+-
+Functional Collaboration
+machine learning
+deep learning
+MLOps
+TensorFlow
+Keras
+PyTorch
+MLOps
+Kubeflow
+MLflow
+TFX
+Jenkins
+Docker
+Kubernetes
+Terraform
+Python
+data manipulation libraries
+Pandas
+NumPy
+SciPy
+cloud platforms
+AWS
+GCP
+Azure
+machine learning
+AWS
+SageMaker
+Google AI Platform
+Azure
+ML
+NLP
+computer vision
+reinforcement learning
+MLOps
+open
+-
+source
+MLOps
+Kubeflow
+MLflow
+TFX
+end
+machine learning lifecycle
+infrastructure as code tools
+Terraform
+CloudFormation
+MLOps
+Continuous Learning
+deep learning
+MLOps practices
+model deployment strategies
+Master
+'
+s or PhD in
+Computer Science
+Data Science
+Electrical Engineering

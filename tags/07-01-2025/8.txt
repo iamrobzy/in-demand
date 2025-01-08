@@ -1,0 +1,45 @@
+convolutional
+neural networks
+autoencoders
+transformer models
+digital pathology
+single cell transcriptomics
+H
+E
+transfer learning
+shallow machine learning
+H
+&
+E images
+single cell transcriptomics
+multi
+-
+modal
+single cell transcriptomics
+medical images
+tumor microenvironment
+drug discovery & development
+AI
+/
+ML
+Chemistry
+/
+Biology
+/
+Biochemistry
+MS Office
+PowerPoint
+Words
+Excel
+e
+-
+mails
+group messaging
+information gathering
+quantitative
+bioinformatics
+biomedical engineering
+machine learning
+math
+statistics
+real projects

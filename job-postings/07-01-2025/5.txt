@@ -1,52 +1,42 @@
-Affirm is reinventing credit to make it more honest and friendly, giving consumers the flexibility to buy now and pay later without any hidden fees or compounding interest.
+Note: By applying to this position you will have an opportunity to share your preferred working location from the following: Mountain View, CA, USA; Seattle, WA, USA; San Francisco, CA, USA.Minimum qualifications:
 
-Join Affirm’s ML Fraud team as a Machine Learning Engineer II and advance our capabilities in detecting and preventing online fraud. Leverage cutting-edge algorithms and proprietary data to outsmart fraudsters while ensuring seamless experiences for genuine customers. Your work will directly impact Affirm's financial performance by developing sophisticated models for real time transaction decisions.
+PhD degree in Computer Science, a related field, or equivalent practical experience. 
+One or more scientific publication submission(s) for conferences, journals, or public repositories.
+Coding experience in Python, JavaScript, R, Java, or C++.
+Machine Learning experience.
 
-Collaborate with experts to tackle complex challenges, create innovative solutions for emerging fraud patterns, and advance our fraud detection capabilities. If you're passionate about machine learning, thrive on challenges, and want to make a tangible difference in fintech, Affirm is your opportunity. Help us create honest financial products that improve lives while growing your career in a dynamic, impactful environment.
+Preferred qualifications:
 
-What You'll Do
+2 years of coding experience in Python, JavaScript, R, Java, or C++. 
+1 year of experience owning and initiating research agendas.
+Experience with automated algorithm discovery methods, learning to learn, or program synthesis.
+Experience with digital hardware or hardware intended for machine learning.
+Knowledge of computational neuroscience.
+Familiarity with non-gradient-based optimization techniques.
 
-Use Affirm’s proprietary and other third party data to develop machine learning models that predict the likelihood of fraud. These models will protect victims’ identities from being stolen, prevent Affirm from incurring financial loss, and increase the trust that consumers and partners have in the Affirm ecosystem. 
-Partner with the ML platform team to build fraud specific ML infrastructure 
-Research ground breaking solutions and develop prototypes that drive the future of fraud decisioning at Affirm 
-Implement and scale data pipelines, new features, and algorithms that are essential to our production models 
-Collaborate with the engineering, fraud, and product teams to define requirements for new products 
-Develop fraud models to maximize user conversion while minimizing fraud losses and data costs. 
+About The Job
 
-What We Look For
+As an organization, Google maintains a portfolio of research projects driven by fundamental research, new product innovation, product contribution and infrastructure goals, while providing individuals and teams the freedom to emphasize specific types of work. As a Research Scientist, you'll setup large-scale tests and deploy promising ideas quickly and broadly, managing deadlines and deliverables while applying the latest theories to develop new and improved products, processes, or technologies. From creating experiments and prototyping implementations to designing new architectures, our research scientists work on real-world problems that span the breadth of computer science, such as machine (and deep) learning, data mining, natural language processing, hardware and software performance analysis, improving compilers for mobile platforms, as well as core search and much more.
 
-2+ years of experience as a machine learning engineer or PhD in a relevant field 
-Proficiency in machine learning with experience in areas such as gradient boosting, online learning, and deep learning. Domain knowledge in fraud risk is a plus 
-Strong programming skills in Python 
-Experience using large scale distributed systems like Spark and Ray 
-Experience using machine learning frameworks such as scikit-learn, pandas, numpy, xgboost, and pytorch 
-Excellent written and oral communication skills and the capability to drive cross-functional requirements with product and engineering teams 
-The ability to present technical concepts and results in an audience-appropriate way 
-Persistence, patience and a strong sense of responsibility – we build the decision making that enables consumers and partners to place their trust in Affirm! 
+As a Research Scientist, you'll also actively contribute to the wider research community by sharing and publishing your findings, with ideas inspired by internal projects as well as from collaborations with research programs at partner universities and technical institutes all over the world.
 
-Base Pay Grade - L
+To advance the field of artificial intelligence by exploring alternative computational paradigms beyond those currently trending. In particular, our team is interested in the discovery of learning algorithms for experimental, energy efficient hardware paradigms. We use both hand-design and automated discovery methods.
 
-Equity Grade - 5
+Google Research is building the next generation of intelligent systems for all Google products. To achieve this, we’re working on projects that utilize the latest computer science techniques developed by skilled software developers and research scientists. Google Research teams collaborate closely with other teams across Google, maintaining the flexibility and versatility required to adapt new projects and foci that meet the demands of the world's fast-paced business needs.
 
-Employees new to Affirm typically come in at the start of the pay range. Affirm focuses on providing a simple and transparent pay structure which is based on a variety of factors, including location, experience and job-related skills.
+[For US Applicants]
 
-Base pay is part of a total compensation package that may include monthly stipends for health, wellness and tech spending, and benefits (including 100% subsidized medical coverage, dental and vision for you and your dependents). In addition, the employees may be eligible for equity rewards offered by Affirm Holdings, Inc. (parent company).
+The US base salary range for this full-time position is $136,000-$200,000 + bonus + equity + benefits. Our salary ranges are determined by role, level, and location. The range displayed on each job posting reflects the minimum and maximum target salaries for the position across all US locations. Within the range, individual pay is determined by work location and additional factors, including job-related skills, experience, and relevant education or training. Your recruiter can share more about the specific salary range for your preferred location during the hiring process.
 
-CAN base pay range per year: $125,000 - $175,000
+Please note that the compensation details listed in US role postings reflect the base salary only, and do not include bonus, equity, or benefits. Learn more about benefits at Google .
 
-Affirm is proud to be a remote-first company! The majority of our roles are remote and you can work almost anywhere within the country of employment. Affirmers in proximal roles have the flexibility to work remotely, but will occasionally be required to work out of their assigned Affirm office. A limited number of roles remain office-based due to the nature of their job responsibilities.
+Responsibilities
 
-Benefits
+Explore thoroughly into a project for an extended period of time.
+Design, execute, and interpret machine learning experiments, selecting appropriate algorithms, models, and evaluation metrics.
+Review literature, identify key questions, think creatively, iterate on experiments, and employ scientific accuracy.
+Be proficient in one or more modern programming languages (e.g., Python), learn new programming languages. Learn technologies such as large-scale computation methods, be experienced with one or more machine learning libraries (e.g., JAX or PyTorch).
+Write clear academic papers, give formal research talks, and have informal discussions with colleagues.
 
-We’re extremely proud to offer competitive benefits that are anchored to our core value of people come first. Some key highlights of our benefits package include:
 
-Health care coverage - Affirm covers all premiums for all levels of coverage for you and your dependents 
-Flexible Spending Wallets - generous stipends for spending on Technology, Food, various Lifestyle needs, and family forming expenses
-Time off - competitive vacation and holiday schedules allowing you to take time off to rest and recharge
-ESPP - An employee stock purchase plan enabling you to buy shares of Affirm at a discount
-
-We believe It’s On Us to provide an inclusive interview experience for all, including people with disabilities. We are happy to provide reasonable accommodations to candidates in need of individualized support during the hiring process.
-
-[For U.S. positions that could be performed in Los Angeles or San Francisco] Pursuant to the San Francisco Fair Chance Ordinance and Los Angeles Fair Chance Initiative for Hiring Ordinance, Affirm will consider for employment qualified applicants with arrest and conviction records.
-
-By clicking "Submit Application," you acknowledge that you have read Affirm's Global Candidate Privacy Notice and hereby freely and unambiguously give informed consent to the collection, processing, use, and storage of your personal information as described therein.
+Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also Google's EEO Policy and EEO is the Law. If you have a disability or special need that requires accommodation, please let us know by completing our Accommodations for Applicants form .
