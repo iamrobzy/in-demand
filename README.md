@@ -27,7 +27,7 @@ This projects aims to monitor in-demand skills for machine learning roles. Skill
 - **Weights & Biases**: Used for model training monitoring as well as model storing.
 - **OpenAI API**: Used to extract ground-truth from job descriptions by leveraging multi-shot learning and prompt engineering.
 
-
+   
 # High-Level Overview
 
 ## Models
