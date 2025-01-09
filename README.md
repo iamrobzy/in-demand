@@ -10,7 +10,7 @@ pinned: false
 ---
 
 <h1>
-  <img src="./skills_logo.png" alt="Logo" width="30" height="30">
+  <img src="./images/skills_logo.png" alt="Logo" width="30" height="30">
   In-demand Skill Monitoring for Machine Learning Industry
 </h1>
 
@@ -18,12 +18,12 @@ pinned: false
 
 This projects aims to monitor in-demand skills for machine learning roles. Skills are extracted with a BERT-based skill extraction model called JobBERT, which is continously fine-tuned on the job postings. The skills are monitored/visualized by: 1. embedding the extracted skills tokens into vector form, 2. performing dimensionality reduction with UMAP, 3. visualizing the reduced embeddings. 
 
-![Header Image](header.png)
+![Header Image](./images/header.png)
 
 ### [Monitoring Platform Link](https://huggingface.co/spaces/Robzy/jobbert_knowledge_extraction)
 
 <h2>
-  <img src="./skills_logo.png" alt="Logo" width="30" height="30">
+  <img src="./images/skills_logo.png" alt="Logo" width="30" height="30">
   Architecture & Frameworks
 </h2>
 
@@ -58,7 +58,7 @@ Skills are extracted from job-postings with finetuned model
 Extracted skills are embedded, reduced and clustered with an embedding model, UMAP and K-means respectively.
 ### 6. Pipeline Flow
 <div align="center">
-    <img src="in-demand-flow.png" alt="Flow Image">
+    <img src="./images/in-demand-flow.png" alt="Flow Image">
 </div>
 
 # Job Scraping
