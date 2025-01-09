@@ -53,6 +53,10 @@ This projects aims to monitor in-demand skills for machine learning roles. Skill
 
 The follow scripts are scheduled to automate the skill monitoring and model tranining processes continually. 
 
+<div align="center">
+    <img src="./images/in-demand-flow.png" alt="Flow Image">
+</div>
+
 ### 1. Job-posting scraping
 Fetching job descriptions for machine learning from LinkedIn via Rapid API.
 ### 2. Skills tagging with LLM
@@ -63,10 +67,6 @@ The skill extraction model is finetuned with respect to the extracted groundtrut
 Skills are extracted from job-postings with finetuned model
 ### 5. Embedding & visualization
 Extracted skills are embedded, reduced and clustered with an embedding model, UMAP and K-means respectively.
-### 6. Pipeline Flow
-<div align="center">
-    <img src="./images/in-demand-flow.png" alt="Flow Image">
-</div>
 
 
 <h1>

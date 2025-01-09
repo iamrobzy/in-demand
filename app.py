@@ -98,15 +98,10 @@ fig.update_layout(
 
 with gr.Blocks() as demo:
     
-    # gr.Interface(fn=ner,
-    #     inputs=gr.Textbox(placeholder="Enter sentence here..."),
-    #     outputs=["highlight"],
-    #     examples=examples,
-    #     title="In-demand skills in machine learning (ML) industry"
-    # )
-
+    gr.Markdown("# 3D Visualization of Skills in ML Job Postings", elem_id="title")
     # gr.Markdown("Embedding visualisation of sought skills in ML job posting in Stockholm, Sweden on LinkedIn")
     gr.Plot(fig)
+
     
 
 demo.launch()
