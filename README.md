@@ -9,7 +9,10 @@ app_file: app.py
 pinned: false
 ---
 
-# In-demand Skill Monitoring for Machine Learning Industry
+<h1>
+  <img src="./skills_logo.png" alt="Logo" width="30" height="30">
+  In-demand Skill Monitoring for Machine Learning Industry
+</h1>
 
 ## About
 
@@ -19,7 +22,10 @@ This projects aims to monitor in-demand skills for machine learning roles. Skill
 
 ### [Monitoring Platform Link](https://huggingface.co/spaces/Robzy/jobbert_knowledge_extraction)
 
-## Architecture & Frameworks
+<h2>
+  <img src="./skills_logo.png" alt="Logo" width="30" height="30">
+  Architecture & Frameworks
+</h2>
 
 - **Hugging Face Spaces**: Used as an UI to host interactive visualisation of skills embeddings and their clusters.
 - **GitHub Actions**: Used to schedule training, inference and visualisation-updating scripts.
@@ -50,7 +56,10 @@ The skill extraction model is finetuned with respect to the extracted groundtrut
 Skills are extracted from job-postings with finetuned model
 ### 5. Embedding & visualization
 Extracted skills are embedded, reduced and clustered with an embedding model, UMAP and K-means respectively.
-
+### 6. Pipeline Flow
+<div align="center">
+    <img src="in-demand-flow.png" alt="Flow Image">
+</div>
 
 # Job Scraping
 
