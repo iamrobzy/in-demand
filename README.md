@@ -68,7 +68,11 @@ Extracted skills are embedded, reduced and clustered with an embedding model, UM
     <img src="./images/in-demand-flow.png" alt="Flow Image">
 </div>
 
-# Job Scraping
+
+<h1>
+  <img src="./images/scraping_logo.png" alt="Logo" width="30" height="30">
+  Job Scraping
+</h1>
 
 This component scrapes job descriptions from the LinkedIn Job Search API for Machine Learning, and saves them in text files for further analysis.
 
