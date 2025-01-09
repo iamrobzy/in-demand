@@ -23,7 +23,7 @@ This projects aims to monitor in-demand skills for machine learning roles. Skill
 ### [Monitoring Platform Link](https://huggingface.co/spaces/Robzy/jobbert_knowledge_extraction)
 
 <h2>
-  <img src="./images/skills_logo.png" alt="Logo" width="30" height="30">
+  <img src="./images/arch_frame.png" alt="Logo" width="30" height="30">
   Architecture & Frameworks
 </h2>
 
@@ -35,14 +35,21 @@ This projects aims to monitor in-demand skills for machine learning roles. Skill
 
    
 # High-Level Overview
+<h2>
+  <img src="./images/model.png" alt="Logo" width="30" height="30">
+  Models
+</h2>
 
-## Models
 * **BERT** - finetuned skill extraction model, lightweight.
 * **LLM** - gpt-4o for skill extraction with multi-shot learning. Computationally expensive.
 * **Embedding model** - [SentenceTransformers](https://sbert.net/) used to embed skills into vectors.
 * [**spaCy**](https://spacy.io/models/en#en_core_web_sm) - sentence tokenization model. 
 
 ## Pipeline
+<h2>
+  <img src="./images/pipeline.png" alt="Logo" width="30" height="30">
+  Pipeline
+</h2>
 
 The follow scripts are scheduled to automate the skill monitoring and model tranining processes continually. 
 
