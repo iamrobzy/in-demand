@@ -50,7 +50,10 @@ The skill extraction model is finetuned with respect to the extracted groundtrut
 Skills are extracted from job-postings with finetuned model
 ### 5. Embedding & visualization
 Extracted skills are embedded, reduced and clustered with an embedding model, UMAP and K-means respectively.
-
+### 6. Pipeline Flow
+<div align="center">
+    <img src="in-demand-flow.png" alt="Flow Image">
+</div>
 
 # Job Scraping
 
