@@ -9,7 +9,10 @@ app_file: app.py
 pinned: false
 ---
 
-# In-demand Skill Monitoring for Machine Learning Industry
+<h1>
+  <img src="./skills_logo.png" alt="Logo" width="30" height="30">
+  In-demand Skill Monitoring for Machine Learning Industry
+</h1>
 
 ## About
 
