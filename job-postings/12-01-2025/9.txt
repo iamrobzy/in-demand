@@ -1,0 +1,31 @@
+Overview
+
+Come join Intuit as a Staff Machine Learning Engineer!
+
+In this role, you’ll work alongside data scientists and machine learning engineers to create AI-powered experiences. You’ll be expected to help conceive, code, and deploy models at scale using the latest industry tools. Important skills include creating data pipelines, developing and deploying models, and machine learning operations.
+
+What you'll bring
+
+BS, MS, or PhD degree in Computer Science or related field, or equivalent work experience.
+6+ years of experience
+Knowledgeable with Data Science tools and frameworks (i.e. Python, Scikit, NLTK, Numpy, Pandas, TensorFlow, Keras, R, Spark).
+Knowledge of machine learning techniques (i.e. classification, regression, and clustering).
+Understand machine learning principles (training, validation, etc.)
+Knowledge of data query and data processing tools (i.e. SQL)
+Computer science fundamentals: data structures, algorithms, performance complexity, and implications of computer architecture on software performance (e.g., I/O and memory tuning).
+Software engineering fundamentals: version control systems (i.e. Git, Github) and workflows, and ability to write production-ready code.
+Experience deploying highly scalable software supporting millions or more users
+Experience with integrating applications and platforms with cloud technologies (i.e. AWS and GCP)
+Strong oral and written communication skills. Ability to conduct meetings and make professional presentations, and to explain complex concepts and technical material to non-technical users
+
+How you will lead
+
+Work with data scientists to create and refine features from the underlying data and build pipelines to train and deploy models.
+Build "machine learning ready" feature pipelines.
+Partner with data scientists to understand, implement, refine and design machine learning and other algorithms.
+Run regular A/B tests, gather data, and draw conclusions on the impact of your models.
+Monitor and maintain production models.
+Work cross functionally with product managers, data scientists and product engineers, and communicate results to peers and leaders.
+Explore new technology shifts in order to determine how they might connect with the customer benefits we wish to deliver.
+
+Intuit provides a competitive compensation package with a strong pay for performance rewards approach. The expected base pay range for this position is New York $191,000 – 258,500, Bay Area California $191,000 – 258,500, Southern California $180,000 – 243,500. This position will be eligible for a cash bonus, equity rewards and benefits, in accordance with our applicable plans and programs (see more about our compensation and benefits at Intuit®: Careers | Benefits). Pay offered is based on factors such as job-related knowledge, skills, experience, and work location. To drive ongoing pay equity for employees, Intuit conducts regular comparisons across categories of ethnicity and gender.
