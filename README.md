@@ -1,12 +1,13 @@
 ---
-title: Tech skill demand
-emoji: 💬
+title: In-demand ML skills
+emoji: 💻
 colorFrom: yellow
 colorTo: purple
 sdk: gradio
 sdk_version: 5.0.1
 app_file: app.py
 pinned: false
+short_description: Monitoring in-demand skills on ML job-postings
 ---
 
 <h1>
