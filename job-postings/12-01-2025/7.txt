@@ -1,0 +1,36 @@
+Overview
+
+Intuit Mailchimp is a leading marketing platform for small businesses. We empower millions of customers around the world to build their brands and grow their companies with a suite of marketing automation, multichannel campaigns, CRM, and analytics tools.
+
+Data Engineering is a highly functional distributed team, supporting data science and product teams for Mailchimp. We create paved paths for classical machine learning patterns and for interaction with large language models. We enable AI-driven product features and enable our leaders to make informed business decisions through data. We build and maintain platforms and services providing access to analytical data and machine-learned predictions.
+
+ML Platform is an established capability for Mailchimp and Intuit. We are looking to accelerate our usage of both tool sets for classical machine learning patterns in addition to interaction with large language models.
+
+The Senior Software Engineer will have experience with cloud architecture and Python. The ideal candidate loves to learn new things, ask questions, and collaborates well with others to discover and build out the best solution.
+
+Intuit Mailchimp is a hybrid workplace, giving employees the opportunity to collaborate in person with team members in our Atlanta and Brooklyn offices two or more days per week.
+
+What you'll bring
+
+We’d Love To Hear From You If
+
+You have a passion for cloud engineering and platform development.
+You have a level of resourcefulness that sets you apart from your peers.
+You collaborate well with others to discover and build out the best solution. 
+You have a collaborative attitude to not only share ideas and resources, but to help others meet their goals and grow the collective knowledge of the team.
+You have an ability to interact with well-documented web APIs through scripting and code.
+You have a Bachelor’s Degree in Computer Science, Machine Learning, Data Science, or equivalent experience.
+You have experience with Python, Cloud Dev, Docker, Kubernetes, experience with popular ML libraries like sk-learn and PyTorch.
+You have experience with ETL and distributed computing tools such as Spark, SQL, etc.
+It is a bonus if you have experience in Java, Airlow, Kubeflow, MLFlow, BigQuery
+
+How you will lead
+
+What You’ll Do
+
+Develop machine learning patterns for building and training classical machine learning models and interaction with large language models.
+Developing ingestion/pre-compute jobs using container orchestration tools ( Airflow )
+Collaborate with the Data Science and Machine Learning teams to gather requirements, and work through implementing solutions
+Iterate on Mailchimp’s Prompt Management platform to accelerate the ability of our product teams to use LLM’s effectively and responsibly. 
+
+Intuit provides a competitive compensation package with a strong pay for performance rewards approach. The expected base pay range for this position is New York $152,000 - $205,500. This position will be eligible for a cash bonus, equity rewards and benefits, in accordance with our applicable plans and programs (see more about our compensation and benefits at Intuit®: Careers | Benefits). Pay offered is based on factors such as job-related knowledge, skills, experience, and work location. To drive ongoing pay equity for employees, Intuit conducts regular comparisons across categories of ethnicity and gender.

@@ -1,0 +1,57 @@
+About Us
+
+We are a cutting-edge, fully remote team disrupting the world of algorithmic trading by leveraging large language models (LLMs).
+
+Our mission is to develop fully autonomous trading agents and make advanced AI more accessible.
+
+We foster an open and collaborative environment, valuing diversity, continuous learning, and intellectual curiosity.
+
+Role Summary
+
+
+As a Senior Quantitative Researcher, you will be responsible for researching, developing, and implementing state-of-the-art algorithms to optimize the performance of LLMs for algorithmic trading. This includes:
+
+Designing and developing innovative methods to enhance LLM architectures for financial market prediction and decision-making.
+Building scalable and efficient pipelines for training and deploying LLMs.
+Collaborating with software developers and data scientists to improve trading infrastructure.
+Analyzing historical and real-time market data to identify trading opportunities and enhance strategy performance.
+Optimizing and monitoring live trading algorithms to ensure consistent profitability.
+Staying ahead of market trends, industry regulations, and emerging technologies.
+Publishing research papers and presenting findings at top-tier conferences.
+Ideal Candidate Profile
+
+
+Education:
+
+PhD or Master's Degree in Computer Science, Statistics, Mathematics, Electrical Engineering, Physics, or related fields.
+Technical Expertise:
+
+Proven expertise in natural language processing (NLP) and generative AI.
+Strong background in deep learning, particularly in LLM architectures.
+Experience with large-scale LLM training frameworks such as PyTorch or TensorFlow.
+Proficiency with GPU acceleration (CUDA) and distributed computing.
+Solid programming skills in Python or C++ and familiarity with frameworks like Hugging Face or similar.
+Strong mathematical understanding of AI principles and their integration into LLMs.
+Experience with algorithmic trading platforms and statistical modeling.
+Strong knowledge of market microstructure and financial instruments.
+Proven success in developing and executing trading strategies.
+Understanding of risk management practices in trading.
+Skills and Mindset:
+
+Strong analytical and problem-solving capabilities.
+Self-driven, innovative, and collaborative.
+Ability to work independently in a remote, cross-cultural environment.
+Ability to thrive in a fast-paced, results-driven environment.
+Demonstrated ability to generate impactful research in academic and professional pursuits.
+What We Offer
+
+The opportunity to work on groundbreaking LLM technologies in the exciting field of algorithmic trading.
+Fully remote work environment with flexible hours.
+Competitive salary and equity package.
+Regular virtual team-building events and knowledge-sharing sessions.
+Support for continued learning, conference attendance, and professional development.
+A chance to make a significant impact in a rapidly growing field.
+To Apply
+
+
+Interested candidates should submit their resume, project portfolio, and publication list.

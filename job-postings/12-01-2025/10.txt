@@ -1,0 +1,29 @@
+Overview
+
+In this role, you’ll be embedded inside a vibrant team of data scientists. You’ll be expected to help conceive, code, and deploy data science models at scale using the latest industry tools. Important skills include data wrangling, feature engineering, developing models, and testing metrics. You can expect to...
+
+What you'll bring
+
+BS, MS, or PhD degree in Computer Science or related field, or equivalent practical experience.
+6+ years of experience
+Knowledgeable with Data Science tools and frameworks (i.e. Python, Scikit, NLTK, Numpy, Pandas, TensorFlow, Keras, R, Spark).
+Basic knowledge of machine learning techniques (i.e. classification, regression, and clustering).
+Understand machine learning principles (training, validation, etc.)
+Knowledge of data query and data processing tools (i.e. SQL)
+Computer science fundamentals: data structures, algorithms, performance complexity, and implications of computer architecture on software performance (e.g., I/O and memory tuning).
+Software engineering fundamentals: version control systems (i.e. Git, Github) and workflows, and ability to write production-ready code.
+Experience deploying highly scalable software supporting millions or more users
+Experience with GPU acceleration (i.e. CUDA and cuDNN)
+Experience with integrating applications and platforms with cloud technologies (i.e. AWS and GCP)
+Strong oral and written communication skills. Ability to conduct meetings and make professional presentations, and to explain complex concepts and technical material to non-technical users
+
+How you will lead
+
+Discover data sources, get access to them, import them, clean them up, and make them machine learning-ready.
+Work with data scientists to create and refine features from the underlying data and build pipelines to train and deploy models.
+Partner with data scientists to understand, implement, refine and design machinelearning and other algorithms.
+Run regular A/B tests, gather data, perform statistical analysis, draw conclusions on the impact of your models.
+Work cross functionally with product managers, data scientists and product engineers, and communicate results to peers and leaders.
+Explore new technology shifts in order to determine how they might connect with the customer benefits we wish to deliver
+
+Intuit provides a competitive compensation package with a strong pay for performance rewards approach. The expected base pay range for this position is New York $161,500 – 219,000, Bay Area California $161,500 – 219,000, Southern California $149,500 – 202,000. This position will be eligible for a cash bonus, equity rewards and benefits, in accordance with our applicable plans and programs (see more about our compensation and benefits at Intuit®: Careers | Benefits). Pay offered is based on factors such as job-related knowledge, skills, experience, and work location. To drive ongoing pay equity for employees, Intuit conducts regular comparisons across categories of ethnicity and gender.

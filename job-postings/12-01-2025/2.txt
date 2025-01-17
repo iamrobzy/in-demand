@@ -1,0 +1,20 @@
+Actualmente nos encontramos en la búsqueda del mejor talento para ocupar el puesto de Especialista Junior en Google Cloud y Machine Learning. 
+
+Perfil: Ing. De Sistemas o afines. 
+
+Requisitos:
+•Conocimientos en Google Cloud Platform (especialmente en AI Platform).
+•Experiencia con modelos de machine learning y AutoML.
+•Familiaridad con lenguajes de programación como Python.
+•Habilidades en el manejo de datos y almacenamiento en la nube.
+
+Responsabilidades:
+•Desarrollar y entrenar modelos de machine learning usando Google AI Platform.
+•Gestionar y analizar grandes volúmenes de datos en Google Cloud.
+•Implementar y mantener modelos en producción.
+
+Competencias:
+•Capacidad para resolver problemas.
+•Habilidad para trabajar en equipo y comunicarse efectivamente.
+
+**Los interesados enviar su CV y certiadulto al siguiente correo: recursoshumanos@hergonsa.pe // asunto: Especialista Junior en Google Cloud y Machine Learning. **
