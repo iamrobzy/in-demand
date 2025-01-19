@@ -1,0 +1,35 @@
+< Back
+
+Senior Machine Learning Engineer
+
+Apply Now
+
+Skopje,Macedonia
+
+Job Type
+
+Full Time
+
+ITQuarks is a research and development company that provides a unique combination of expertise in machine learning, optimization and data processing. We are expanding our team for working in on-the-go automotive software fixes and predictive maintenance for connected vehicles.
+
+In one sentence
+
+Grow in innovative company culture and work on the next generation of Artificial Immune systems.
+
+What will your job look like?
+
+Work on algorithms in the area of anomaly detection and LLM.
+Probabilistic programming and Bayesian Inference.
+Technologies you will meet during work in Python, Keras, Tensorflow, PyTorch.
+Data transformation and analysis.
+
+All You need is ...
+
+Good background in Probabilistic mathematics.
+Machine Learning experience with Tensorflow or PyTorch.
+Python libraries with Pandas , Scipy, Numpy.
+Background in traning and finetuning Transformers or Autoencoders networks.
+
+Apply at mycareer@itquarks.com
+
+Apply Now

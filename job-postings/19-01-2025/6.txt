@@ -1,0 +1,23 @@
+Ref Number B04-05786 Professional Expertise Research and Research Support Department UCL BEAMS (B04) Location London Working Pattern Full time Salary £43,124–£51,610 Contract Type Fixed-term Working Type On site Available for Secondment No Closing Date 24-Jan-2025
+
+About Us
+
+University College London (UCL) UCL is a multi-disciplinary university with a population of over 13,000 staff and 42,000 students from 150 different countries. Degree programmes are provided in Arts and Humanities, Built Environment, Brain Sciences, Engineering Sciences, Education, Laws, Life Sciences, Mathematical & Physical Sciences, Medical Sciences, Population Health Sciences and Social and Historical Sciences. For more information, please visit http://www.ucl.ac.uk/about UCL Mechanical Engineering UCL Mechanical Engineering has been pioneering the development of engineering education, having taught the core discipline for over 165 years. UCL was home to the UK’s first ever Professor of the Mechanical Principles of Engineering, Eaton Hodgkinson, in 1847. It was also where Sir Alexander Blackie William Kennedy introduced organized laboratory practicals in university education training; a world-leading educational innovation at the time.
+
+About The Role
+
+Do you want to work in a team integrated cutting edge imaging and spatial transcriptomics of the human heart with state-of-the-art ML models to? We are looking for a Post-doctoral Research Fellow with an image analysis/Machine Learning (ML) background to work at integrating correlative high resolution 3D X-ray imaging and Spatial Transcriptomics. You will be based at University College London developing ML based piplines to i) segment 3D tissue strucutres from Hierarchical Phase-Contrast Tomography (HiP-CT) data (see mecheng.ucl.ac.uk/HiP-CT), ii) use these structures as a base line to perform registration between 3D HiP-CT, 2D histological sections and spatial transcriptomic. You will collaborate closely with the project team at Cambridge where spatial transciptomic data is being acquired and with collegues at the European Synchrotron (ESRF) in France where HiP-CT scans are performed.. This post is funded for 2 years in the first instance, with the possibility of extension. A job description and person specification can be accessed at the bottom of this page. If you wish to discuss the post informally, please contact Claire Walsh (c.walsh.11@ucl.ac.uk ) or for application process queries Ruikang Xue (ruikang.xue@ucl.ac.uk).
+
+About You
+
+The post will require a motivated researcher with experience in machine learning for segmentation and image registration. You will have a PhD and extensive knowledge and expertise in a relevant field. It is desirable to have experience in handling large imaging data. Your expertise should be at a level appropriate for the conduct of research and publishing new knowledge in leading international research journals. The post-holder will need to show a high level of initiative and an ability to work collaboratively and independently. Applicants should have good team-working skills and a strong command of English. You will join a dynamic international multidisciplinary group of academics, clinicians, beamline scientists, post-docs and PhD students developing and applying synchrotron X-ray and other techniques to study biological systems. You will report to Dr Claire Walsh & Prof. Peter Lee at UCL.
+
+What we offer
+
+For information about our rewards and benefits please visit https://www.ucl.ac.uk/work-at-ucl/reward-and-benefits.
+
+Our commitment to Equality, Diversity and Inclusion
+
+As London’s Global University, we know diversity fosters creativity and innovation, and we want our community to represent the diversity of the world’s talent. We are committed to equality of opportunity, to being fair and inclusive, and to being a place where we all belong. We therefore particularly encourage applications from candidates who are likely to be underrepresented in UCL’s workforce. These include people from Black, Asian, and ethnic minority backgrounds; disabled people and LGBTQI+ people.
+
+,

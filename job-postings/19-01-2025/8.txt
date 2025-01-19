@@ -1,0 +1,74 @@
+The team at Advanced Space is leading humanity back to the Moon and pioneering innovative solutions in the space industry. Based in Westminster Colorado, this incredible team is looking for a Staff Machine Learning Engineer who’s eager to push the state of the art in the aerospace industry.
+
+This position is responsible for designing, building, and testing machine learning models and systems that can solve real-world problems in domains such as spacecraft autonomy, anomaly detection and classification, natural language processing, uncertainty quantification, and multimodal signal detection & characterization. This position will be headquartered at our Westminster, Colorado offices and is primarily an on-premises position.
+
+The Machine Learning Engineer will work closely with an engineering team composed primarily of aerospace and software engineers. The ideal candidate has a strong background in software development best practices, mathematics, and statistics, as well as experience with machine learning frameworks such as TensorFlow or PyTorch. Candidates should also have excellent programming skills in Python and be familiar with data processing and analysis tools. Candidates should be able to work independently and collaboratively. Candidates should also have a passion for learning, innovation, and furthering Advanced Space’s mission to support the sustainable exploration, development, and settlement of space.
+
+Advanced Space is a rapidly growing, privately held business that incorporates our core values in all that we do. Advanced Space exists to support the sustainable exploration, development, and settlement of space and operates with four core values: We are customer obsessed and mission focused; when we see it, we solve it; we are one team, motivated by our vision; and we bring technical excellence and inexhaustible curiosity. Look at the Sr. DevOps position to see the placement.
+
+Responsibilities:
+
+Research and implement state-of-the-art machine learning algorithms and techniques
+Design, develop, and deploy machine learning models and systems that can address various engineering problems and opportunities
+Perform data analysis, preprocessing, feature engineering, and model evaluation
+Optimize the performance, scalability, and reliability of machine learning solutions
+Collaborate with cross-functional teams to understand the requirements and deliver high- quality products
+Document and communicate the results and insights of machine learning projects
+
+
+Required Skills & Qualifications:
+
+3-5 years of hands-on professional experience. Master’s degree or PhD research may contribute to this experience.
+Bachelor’s degree or higher in Computer Science, Engineering, Mathematics, Statistics, or related field
+Proficient with one or more machine learning model development frameworks, especially PyTorch or TensorFlow.
+Familiar with the basics of machine learning (i.e. linear layers, activation functions, recurrence, convolution, attention).
+Proficiency in Python programming language
+Expertise in a programming language (Python preferred)
+Familiar with data processing and analysis tools such as Pandas, NumPy, Scikit-learn, etc.
+Knowledge of machine learning concepts such as supervised and unsupervised learning, classification, regression, clustering, dimensionality reduction, etc.
+Experience with applying machine learning to real-world problems, such as aerospace engineering or another discipline in the sciences.
+Strong problem-solving and analytical skills
+Excellent communication and presentation skills
+Ability to work independently and collaboratively in a fast-paced environment
+Proficient with git version control
+Familiar with the principles and practice of aerospace engineering and/or another engineering field. Examples include nonlinear estimation, numerical simulation, nonlinear optimization, and control theory.
+
+
+Experience in the following would be beneficial but not mandatory:
+
+CUDA C/C++ GPU computing
+High performance computing
+Scientific computing
+Natural language processing
+Computer vision
+
+
+Compensation and Benefits:
+
+Base Salary Range - $88,906- $115,646 based on role, employee experience, and location
+Signing bonus
+Quarterly Performance bonuses
+Company provided health insurance and 401K plan upon eligibility
+Unlimited vacation time and extensive flexibility
+Relocation Assistance
+
+
+Eligibility Requirements
+
+Applicants must be a US Person (citizen or Green Card Holder/permanent resident, or protected individual)
+
+Applicants must be able to work in office in Westminster, CO 3-5 days/week.
+
+About the company:
+
+About the Company:
+
+Advanced Space exists to enable the sustainable exploration, development, and settlement of space through software and services that leverage unique subject matter expertise. The company is actively supporting mission and cutting-edge capabilities spanning commercial, civil, and national security customers. Our core business is focused on three areas: (1) mission enabling services, (2) technology solutions and (3) mission solutions. Through its mission enabling services, Advanced Space provides mission and flight optimization, mission design, mission systems engineering. With its technology solutions Advanced Space provides its customers with trusted AI/ML/autonomy expertise, flight-demonstrated applications, and analysis at scale. Advanced Space offers Mission Solutions with unique turn-key missions, data and capabilities purchases and demonstrated cislunar and Martian success. Advanced Space is mission focused as the owner and operator of CAPSTONE™ for NASA and Prime contractor for Oracle for AFRL.These competencies are leveraged by a dynamic, flexible, and agile team with cross domain knowledge. We have a small but growing team that works collaboratively across projects. We provide flexibility, and an opportunity for passionate employees to contribute directly to meaningful projects. Trusted to take on the challenge, the team at Advanced Space is Delivering Innovation to Orbit™ to the Moon, Mars, and beyond.
+
+Advanced Space, LLC is an equal opportunity employer.
+
+Advanced Space, LLC recruits, employs, trains, compensates and promotes regardless of race, religion,
+
+color, national origin, sex, disability, age, veteran status, and other protected status as required by
+
+applicable law.
