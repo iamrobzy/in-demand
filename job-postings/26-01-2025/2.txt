@@ -1,0 +1,69 @@
+Are you interested in leading programs that deliver on critical business goals and build large scale products & platforms?
+
+At Capital One, we believe that Machine Learning (ML) represents the biggest opportunity in financial services today, and is a chance to revolutionize the industry. Capital One’s commitment to Machine Learning has sponsorship from the CEO, the Board of Directors, and the executive committee of the company. The Machine Learning Experience (MLX) org is at the heart of this effort, and is leading the way in building and delivering platforms, intelligent customer experiences that supercharge responsible ML across Capital One.
+
+As a Senior Manager of Technical Program Management (TPM) on Capital One’s Enterprise Machine Learning team, you will execute on high priority enterprise level initiatives, and influence across our organization. Specifically, you will be partnering closely with product, engineering, data scientists, and other cross functional teams to create roadmaps, scope programs aligning them with business priorities, define milestones and success metrics, and build scalable, secure, reliable, efficient ML products and platforms. This role will be responsible for big picture thinking, presenting to executive stakeholders, and holding engineering teams accountable for overarching delivery goals.
+
+In addition to the technical program, you will also work to pave the way for an expanding TPM discipline within the team, by leveraging your industry knowledge and experience to teach the organization what a great TPM can achieve.
+
+Our TPM Sr. Managers have:
+
+Strong technical backgrounds (ideally building highly scalable platforms, products, or services) with the ability to proactively identify and mitigate technical risks throughout delivery life-cycle 
+Exceptional communication and collaboration skills 
+Excellent problem solving and influencing skills 
+A quantitative approach to problem solving and a collaborative implementer to holistic solutions; a systems thinker 
+Ability to simplify the technically complex and drive well-educated decisions across product, engineering, design, and data science representatives 
+Deep focus on execution, follow-through, accountability, and results 
+Exceptional cross-team collaboration; able to work across different functions, organizations, and reporting boundaries to get the job done. 
+Highly tuned emotional intelligence, good listener, and deep seated empathy for teams and partners 
+Previous experience with machine learning (building models, deploying models, setting up cloud infrastructure and/or data pipelines) and familiarity with major ML frameworks such as XGBoost, PyTorch, AWS SageMaker, etc. 
+Manage program communications with key stakeholders at all levels across the company to enable transparency and timely information sharing 
+Serve as the connective tissue across functions, business units, bringing teams together to foster collaboration, improve decision-making, and deliver value for customers, end to end 
+
+Basic Qualifications:
+
+At least 5 years of experience managing technical programs 
+Bachelor's degree 
+
+Preferred Qualifications:
+
+5+ years of experience designing and building data-intensive solutions using distributed computing 
+3+ years of experience in building distributed systems & highly available services using cloud computing services / architecture - preferably using AWS 
+3+ years experience building highly scalable mobile products & platforms 
+3+ years of experience with Agile delivery 
+3+ years experience delivering large and complex programs - where you own the business or technical vision, collaborate with large cross-functional teams, secure commitments on deliverables, and unblock teams to land business impact 
+4+ years of Technical Program Management experience 
+2+ years of Machine Learning experience 
+Experience in building systems & solutions within a highly regulated environment 
+Bachelor's degree or higher in a related technical field (Computer Science, Software Engineering) 
+PMP, Lean, Agile, or Six Sigma certification 
+
+At this time, Capital One will not sponsor a new applicant for employment authorization for this position.
+
+The minimum and maximum full-time annual salaries for this role are listed below, by location. Please note that this salary information is solely for candidates hired to perform work within one of these locations, and refers to the amount Capital One is willing to pay at the time of this posting. Salaries for part-time roles will be prorated based upon the agreed upon number of hours to be regularly worked.
+
+Cambridge, MA: $193,000 - $220,300 for Sr. Manager, Technical Program Management
+
+McLean, VA: $193,000 - $220,300 for Sr. Manager, Technical Program Management
+
+New York, NY: $210,500 - $240,300 for Sr. Manager, Technical Program Management
+
+Richmond, VA: $175,500 - $200,300 for Sr. Manager, Technical Program Management
+
+San Francisco, CA: $210,500 - $240,300 for Sr. Manager, Technical Program Management
+
+Candidates hired to work in other locations will be subject to the pay range associated with that location, and the actual annualized salary amount offered to any candidate at the time of hire will be reflected solely in the candidate’s offer letter.
+
+This role is also eligible to earn performance based incentive compensation, which may include cash bonus(es) and/or long term incentives (LTI). Incentives could be discretionary or non discretionary depending on the plan.
+
+Capital One offers a comprehensive, competitive, and inclusive set of health, financial and other benefits that support your total well-being. Learn more at the Capital One Careers website . Eligibility varies based on full or part-time status, exempt or non-exempt status, and management level.
+
+This role is expected to accept applications for a minimum of 5 business days.No agencies please. Capital One is an equal opportunity employer committed to diversity and inclusion in the workplace. All qualified applicants will receive consideration for employment without regard to sex (including pregnancy, childbirth or related medical conditions), race, color, age, national origin, religion, disability, genetic information, marital status, sexual orientation, gender identity, gender reassignment, citizenship, immigration status, protected veteran status, or any other basis prohibited under applicable federal, state or local law. Capital One promotes a drug-free workplace. Capital One will consider for employment qualified applicants with a criminal history in a manner consistent with the requirements of applicable laws regarding criminal background inquiries, including, to the extent applicable, Article 23-A of the New York Correction Law; San Francisco, California Police Code Article 49, Sections 4901-4920; New York City’s Fair Chance Act; Philadelphia’s Fair Criminal Records Screening Act; and other applicable federal, state, and local laws and regulations regarding criminal background inquiries.
+
+If you have visited our website in search of information on employment opportunities or to apply for a position, and you require an accommodation, please contact Capital One Recruiting at 1-800-304-9102 or via email at RecruitingAccommodation@capitalone.com . All information you provide will be kept confidential and will be used only to the extent required to provide needed reasonable accommodations.
+
+For technical support or questions about Capital One's recruiting process, please send an email to Careers@capitalone.com
+
+Capital One does not provide, endorse nor guarantee and is not liable for third-party products, services, educational tools or other information available through this site.
+
+Capital One Financial is made up of several different entities. Please note that any position posted in Canada is for Capital One Canada, any position posted in the United Kingdom is for Capital One Europe and any position posted in the Philippines is for Capital One Philippines Service Corp. (COPSSC).

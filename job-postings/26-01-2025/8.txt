@@ -1,0 +1,57 @@
+Inkitt is building the Disney of the 21st Century, standing at the forefront of technology and entertainment. Leveraging AI and predictive algorithms, Inkitt discovers unknown stories and turns them into blockbuster hits, producing a new $1M ebook every 4 weeks and selling directly to consumers through its Galatea app. Inkitt has become the 11th most bestseller-generating publisher in the world, boasting a 40x higher hit-rate than traditional publishers. Recently raising a Series C and backed by some of the top VC’s such as: Khosla, Kleiner Perkins, and NEA Ventures, our recent expansion into GalateaTV is only the beginning of our journey to becoming the next-gen entertainment powerhouse.
+
+What You'll Do:
+
+Collaborate with cross-functional teams, including Product, Data Science, and Engineering, to design and implement scalable recommendation systems that deliver hyper-personalized experiences to users
+Develop and optimize machine learning models for recommendation engines, utilizing techniques such as collaborative filtering, content-based filtering, and deep learning
+Build and maintain infrastructure for model training, deployment, and real-time/batch inference, ensuring high performance and reliability
+Conduct A/B tests and analyze experiment results to iterate on recommendation strategies and improve key metrics such as user engagement and retention
+Contribute to the design and implementation of robust APIs and services, primarily in Python, Go, and TypeScript, to support recommendation features across our apps (Inkitt, Galatea, and GalateaTV)
+Ensure code and systems meet stringent reliability and performance standards, scaling seamlessly to support millions of users
+
+
+What You'll Bring:
+
+Master’s or PhD in Computer Science, Machine Learning, or a related field
+5+ years of experience in developing and deploying recommendation systems at scale
+Proficiency in Python and experience with frameworks such as TensorFlow, PyTorch, or Scikit-learn. Familiarity with GoAPI and TypeScript is a plus
+Deep understanding of machine learning algorithms and their application in personalized content recommendations
+Proven ability to move from theoretical models to practical, scalable application logic in production environments
+Experience with distributed systems and cloud infrastructure, such as AWS, GCP, or Azure
+A strong focus on reliability, performance, and maintainability in engineering practices
+
+
+Who We Are Looking For:
+
+Autonomous
+Bring solutions instead of problems
+Data driven
+Quick to action
+A high functioning workaholic
+Looking for exponential career growth
+Have lots of fun building a generational AI x Entertainment company
+
+
+What We'll Offer: 
+
+401k plan, designed to help you save for the future
+Health benefits tailored to your needs, including medical, dental, and vision coverage
+Professional coaching for everyone
+Team-building events, including our annual Tulum trip
+Unlimited access to our Galatea app and Galatea TV app
+Unlimited budget for self-development books
+Charity donation of your choice at your one year anniversary
+Free lunch in office everyday
+Class Pass membership for US based employee and gym access for Berlin employees
+Dog/cat friendly offices in Berlin and San Francisco
+
+
+180,000 - 250,000 a year
+
+At Inkitt, we strive to build a company culture and provide employment opportunities based on diversity and inclusion. We believe every author should have an equal opportunity to succeed, as should our team members. As a growing team from 20+ countries, we welcome everyone to apply.
+
+We look forward to hearing from you!
+
+Check out our Careers Blog 💼
+
+Follow us on Instagram & LinkedIn! 💻

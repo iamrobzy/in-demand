@@ -1,0 +1,44 @@
+The Position
+
+The Position
+
+A healthier future. It’s what drives us to innovate. To continuously advance science and ensure everyone has access to the healthcare they need today and for generations to come. Creating a world where we all have more time with the people we love. That’s what makes us Genentech.
+
+The Opportunity
+
+At Genentech Computational Sciences (gCS) Prescient Design, we are revolutionizing drug discovery with cutting-edge machine learning techniques. We are seeking talented engineers with a passion for building large-scale, distributed machine-learning algorithms and systems that will transform the drug discovery process.
+
+The Frey lab within the Large Molecule AI/ML Department of Prescient is looking for exceptional machine learning scientists who want to perform high-quality research at the cross-section of machine learning and biology that have a direct impact in large molecule drug discovery. Researchers will primarily focus on the deep learning subfield of machine learning and should have a strong interest in fundamental research in self-supervised learning and training and fine-tuning foundation models.
+
+In this role, you will:
+
+Develop novel Computational Biology/Machine Learning methods to answer challenging research questions in LMDD
+Work with the Genentech Large Language Model team to build and apply LLMs for therapeutic molecule design
+Work with biological data from heterogeneous sources
+Form close working relationships with research teams across the gRED organization
+Contribute to and drive publications and present scientific findings at internal/external venues.
+
+Who You Are
+
+You have a PhD degree in Computer Science, Computational Biology, Physics or related disciplines, or an MS degree in the above disciplines with 3+ years of industry research experience.
+You have demonstrated experience with Python and deep learning libraries such as Pytorch and/or Jax.
+You have demonstrated research experience, including at least one first-author publication or equivalent.
+You have strong communication and collaboration skills
+
+Preferred
+
+Experience working with data from biology, immunology or related disciplines
+Experience with research related to large language models
+Public portfolio of computational projects (available on e.g. GitHub)
+
+#gCS
+
+#tech4lifeAI
+
+Relocation benefits are available for this job posting
+
+The expected salary range for this position based on the primary location of New York City is $144,900 - 269,100 of hiring range. Actual pay will be determined based on experience, qualifications, geographic location, and other job-related factors permitted by law. A discretionary annual bonus may be available based on individual and Company performance. This position also qualifies for the benefits detailed at the link provided below. 
+
+Benefits
+
+Genentech is an equal opportunity employer, and we embrace the increasingly diverse world around us. Genentech prohibits unlawful discrimination based on race, color, religion, gender, sexual orientation, gender identity or expression, national origin or ancestry, age, disability, marital status and veteran status.

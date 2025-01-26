@@ -1,0 +1,39 @@
+Workana is the largest remote work platform for talents in Latin America. Our new segment Workana Premium focuses on matching the most exceptional professionals with leading and innovative companies around the globe. Enjoy competitive compensation, dedicated support, and the flexibility of remote work within a dynamic environment that fosters collaboration and professional advancement.
+
+We are proud to present you with the following opportunity.
+
+About Our Client:
+
+The client is redefining the AdTech landscape with its innovative platform that leverages real-time, consumer-permissioned data to drive actionable outcomes. Their solutions empower businesses to tap into rich insights, customizable audience segments, and measurable results, creating a transparent and efficient ecosystem for advertisers. Through their platform's three core products—Insights, Activation, and Measurement—they equip businesses with the tools to unlock the full potential of first-party data while enabling consumers to benefit from equitable financial opportunities. By connecting businesses with high-quality, permissioned data, they deliver impactful campaigns and measurable ROI.
+
+Role Overview:
+
+As a Machine Learning Engineer, you will play a key role in developing and deploying machine learning models that power the AdTech platform's core functionalities, including insights generation, audience segmentation, and campaign measurement. You will work on designing scalable ML pipelines, experimenting with advanced algorithms, and leveraging first-party data to drive impactful business outcomes. This role is perfect for someone passionate about creating cutting-edge machine learning solutions and working in a fast-paced, mission-driven environment.
+
+Responsibilities:
+
+Design, develop, and deploy machine learning models to enhance audience segmentation, insights generation, and performance measurement
+Build and maintain end-to-end ML pipelines, including data preprocessing, feature engineering, model training, and deployment
+Collaborate with data engineers to ensure seamless integration of ML models with real-time data pipelines using tools like BigQuery and SpannerDB
+Experiment with advanced algorithms in areas such as predictive modeling, recommendation systems, and natural language processing to drive platform innovation
+Optimize ML models for scalability and performance, ensuring they deliver actionable insights and measurable outcomes in real-time
+Monitor and maintain deployed models, implementing retraining pipelines to ensure models stay accurate and relevant
+
+
+Requirements
+
+4+ years of experience as a Machine Learning Engineer, Data Scientist, or a similar role
+Strong proficiency in Python and familiarity with ML libraries such as TensorFlow, PyTorch, or Scikit-learn
+Hands-on experience building and deploying ML pipelines in production environments
+Knowledge of data preprocessing techniques and experience working with large datasets
+Familiarity with containerization tools like Docker and orchestration platforms like Kubernetes
+Strong understanding of supervised and unsupervised learning techniques, including predictive modeling and clustering algorithms
+Experience with MLOps practices, including CI/CD for ML pipelines and model monitoring
+
+
+Benefits
+
+Compensation in USD
+Fully remote work
+Challenging project - one of the first of that kind in the region
+Growth and Learning Opportunity

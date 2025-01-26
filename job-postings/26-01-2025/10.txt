@@ -1,0 +1,38 @@
+Job Title/Role MLOPS Architect (Machine Learning / AI Architect) Experience level required (Years) 10&plus; Mandatory required skills AWS, Python, Airflow, Kedro, or Luigi Preferred/Desired skills Hadoop, Spark, or similar frameworks. Experience with graph databases a plus Please share the Detailed Job Description 
+
+Designing Cloud Architecture:
+As an AWS Cloud Architect, you’ll be responsible for designing cloud architectures, preferably on AWS, Azure, or multi-cloud environments.
+Your architecture design should enable seamless scalability, flexibility, and efficient resource utilization for MLOps implementations.
+Data Pipeline Design:
+Develop data taxonomy and data pipeline designs to ensure efficient data management, processing, and utilization across the AI/ML platform.
+These pipelines are critical for ingesting, transforming, and serving data to machine learning models.
+MLOps Implementation:
+Collaborate with data scientists, engineers, and DevOps teams to implement MLOps best practices.
+This involves setting up continuous integration and continuous deployment (CI/CD) pipelines for model training, deployment, and monitoring.
+Infrastructure as Code (IaC):
+Use tools like AWS CloudFormation or Terraform to define and provision infrastructure resources.
+Infrastructure as Code allows you to manage your cloud resources programmatically, ensuring consistency and reproducibility.
+Security and Compliance:
+Ensure that the MLOps architecture adheres to security best practices and compliance requirements.
+Implement access controls, encryption, and monitoring to protect sensitive data and models.
+Performance Optimization:
+Optimize cloud resources for cost-effectiveness and performance.
+Consider factors like auto-scaling, load balancing, and efficient use of compute resources.
+Monitoring and Troubleshooting:
+Set up monitoring and alerting for the MLOps infrastructure.
+Be prepared to troubleshoot issues related to infrastructure, data pipelines, and model deployments.
+Collaboration and Communication:
+Work closely with cross-functional teams, including data scientists, software engineers, and business stakeholders.
+Effective communication is essential to align technical decisions with business goals.
+Activities –
+
+Strong experience in Python
+
+Experience in data product development, analytical models, and model governance
+Experience with AI workflow management tools such as Airflow, Kedro, or Luigi
+Exposure statistical modeling, machine learning algorithms, and predictive analytics.
+Highly structured and organized work planning skills
+Strong understanding of the AI development lifecycle and Agile practices
+Proficiency in big data technologies like Hadoop, Spark, or similar frameworks. Experience with graph databases a plus.
+Extensive Experience in working with cloud computing platforms - AWS
+Proven track record of delivering data products in environments with strict adherence to security and model governance standards.
