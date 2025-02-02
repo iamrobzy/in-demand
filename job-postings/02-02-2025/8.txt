@@ -1,0 +1,36 @@
+Machine Learning Engineer (Time Series Data Analysis)
+
+Industry leading tech company has immediate need for a Machine Learning Engineer with expertise in time series data analysis. This engineer will drive the development and optimization of machine learning solutions, focusing on time series forecasting, anomaly detection, and predictive analytics. This person will use advanced machine learning concepts to design and build impactful real-world applications that drive the business and create opportunities for growth.
+
+Responsibilities
+Develop and implement machine learning models and algorithms specifically for time series data analysis.
+Design and build scalable data pipelines to preprocess and transform time series data.
+Conduct exploratory data analysis to uncover trends, patterns, and insights from time series data.
+Optimize and fine-tune models for performance, accuracy, and scalability.
+Experiment with and implement state-of-the-art techniques for time series forecasting and anomaly detection.
+Develop RESTful APIs and interfaces for time series-based services.
+Analyze complex datasets to create actionable insights, employing advanced machine learning and statistical models.
+Design end-to-end machine learning pipelines, including data collection, preprocessing, model training, and deployment.
+Solve business challenges using predictive analytics, anomaly detection, and recommendation systems.
+Contribute to research publications, patents, and technical workshops.
+Partner with cross-functional teams to define and deliver machine learning-based solutions.
+Ensure machine learning systems meet ethical guidelines, focusing on transparency, fairness, and accountability.
+Adhere to privacy laws and regulations, implementing measures to safeguard sensitive data.
+
+Qualifications
+5+ years of hands-on, professional experience with time series data analysis and deploying machine learning models and pipelines in a production environment.
+Hands on development skills with Python or R and experience with RESTful API design
+Bachelor's or master's degree in Computer Science, Data Science, Statistics, or a related field with specialization in AI, NLP, or Data Science.
+Proficiency in machine learning development using frameworks such as TensorFlow, PyTorch, or Keras.
+Experience developing and optimizing machine learning models for time series forecasting and anomaly detection.
+Strong data engineering and analytics skills, with tools such as Pandas, NumPy, Spark, or SQL.
+Familiarity with big data technologies (Hadoop, Kafka, or cloud platforms like AWS/GCP/Azure).
+Bonus points for familiarity with LLMs, Vector DBs, and RAG.
+Practical knowledge of statistical methods and techniques for time series analysis.
+Ability to work in a fast-paced, collaborative team environment and adapt to evolving priorities.
+Knowledge of CI/CD practices (experience developing and setting up a continuous integration/continuous delivery pipeline).
+Preferred Skills
+HTML/JS/CSS
+React
+Java
+MySQL or similar relational database (Postgres, SQL Server)

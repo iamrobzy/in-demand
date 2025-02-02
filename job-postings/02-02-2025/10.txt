@@ -1,0 +1,58 @@
+Roche fosters diversity, equity and inclusion, representing the communities we serve. When dealing with healthcare on a global scale, diversity is an essential ingredient to success. We believe that inclusion is key to understanding people’s varied healthcare needs. Together, we embrace individuality and share a passion for exceptional care. Join Roche, where every voice matters.
+
+The Position
+
+Prescient Design has joined Genentech’s Research and Early Development organization (gRED) in order to apply their cutting-edge technology and machine learning approach to our drug discovery efforts. We believe that Prescient Design’s platform and expertise, combined with our growing internal computational capabilities, can ultimately help us bring better medicines to patients, faster.
+
+Our Machine Learning for Drug Discovery team is focused on advancing fundamental machine learning, especially generative models, and their application to real-world challenges in drug discovery. Our mission is to uncover ideas and technologies that will make a meaningful impact on healthcare, shaping the future of how treatments are developed. Instead of focusing on incremental improvements, we tackle complex problems that require creative thinking and a broad perspective, working at a level that enables solutions to be applied across multiple areas.
+
+In biology, many exciting research questions cannot yet be addressed with off-the-shelf ML approaches—they demand not only novel solutions but also new ways of framing the questions themselves, often beyond existing ML paradigms.
+
+If you’re excited about advancing research at this intersection, join us on an impactful journey of innovation at Prescient.
+
+This internship position is located in Basel, Switzerland, on site.
+
+The Opportunity
+
+You will develop generative methods aimed at optimally diverse sample generation at very large sampling scales.
+You will collaborate closely with our team in Basel, New York, and San Francisco.
+You are expected to contribute to and drive publications, and present your results at internal and external scientific conferences.
+
+Program Highlights
+
+Intensive 6-12 months, full time (40 hours per week) internship with a possibility of extension.
+Program start dates are in May/June (Summer)
+Ownership of challenging and impactful business-critical projects.
+Work with some of the most talented people in the biotechnology industry.
+
+Who You Are (Required)
+
+Must be pursuing a Ph.D. in Computer Science, Statistics, Applied Mathematics, Computational Biology, Physics, related technical field, or equivalent practical experience. In cases of outstanding excellence, we will also consider applications of master students.
+Good knowledge of machine learning fundamentals. Familiarity with generative models and/or out-of-distribution generalization would be helpful. Experience with ML on biological data is desired, but not necessary.
+Proven publication record and experience contributing to research communities, including relevant journals or conferences like NeurIPS, ICML, ICLR, AISTATS, UAI, CVPR, ACL, etc.
+Detailed hands-on experience on building and training neural networks - experience with at least one DL framework (preferably Pytorch), keen to build unconventional models, a knack for getting things to work.
+
+Required Majors
+
+You are an enrolled university student in your Master’s or PhD program, or alternatively have pursued your Master’s degree not longer than 12 months prior to the start date.
+
+Due to regulations, non-EU/EFTA citizens must provide a certificate from the university stating that an internship is mandatory as part of the application documents, and must be continuously enrolled in their university program for the whole duration of this internship.
+
+Preferred Knowledge, Skills, And Qualifications
+
+Excellent communication, collaboration, and interpersonal skills.
+Complements our culture and the standards that guide our daily behavior & decisions: Integrity, Courage, and Passion.
+
+Who we are
+
+At Roche, more than 100,000 people across 100 countries are pushing back the frontiers of healthcare. Working together, we’ve become one of the world’s leading research-focused healthcare groups. Our success is built on innovation, curiosity and diversity.
+
+Basel is the headquarters of the Roche Group and one of its most important centres of pharmaceutical research. Over 10,700 employees from over 100 countries come together at our Basel/Kaiseraugst site, which is one of Roche`s largest sites. Read more.
+
+Besides extensive development and training opportunities, we offer flexible working options, 18 weeks of maternity leave and 10 weeks of gender independent partnership leave. Our employees also benefit from multiple services on site such as child-care facilities, medical services, restaurants and cafeterias, as well as various employee events.
+
+We believe in the power of diversity and inclusion, and strive to identify and create opportunities that enable all people to bring their unique selves to Roche.
+
+Roche is an Equal Opportunity Employer.
+
+Apply Now

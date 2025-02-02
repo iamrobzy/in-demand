@@ -1,0 +1,39 @@
+Waymo is an autonomous driving technology company with the mission to be the most trusted driver. Since its start as the Google Self-Driving Car Project in 2009, Waymo has focused on building the Waymo Driver—The World's Most Experienced Driver™—to improve access to mobility while saving thousands of lives now lost to traffic crashes. The Waymo Driver powers Waymo One, a fully autonomous ride-hailing service, and can also be applied to a range of vehicle platforms and product use cases. The Waymo Driver has provided over one million rider-only trips, enabled by its experience autonomously driving tens of millions of miles on public roads and tens of billions in simulation across 13+ U.S. states.
+
+Software Engineering builds the brains of Waymo's fully autonomous driving technology. Our software allows the Waymo Driver to perceive the world around it, make the right decision for every situation, and deliver people safely to their destinations. We think deeply and solve complex technical challenges in areas like robotics, perception, decision-making and deep learning, while collaborating with hardware and systems engineers. If you're a software engineer or researcher who's curious and passionate about Level 4 autonomous driving, we'd like to meet you.
+
+Waymo interns work with leaders in the industry on projects that deliver significant impact to the company. We believe learning is a two-way street: applying your knowledge while providing you with opportunities to expand your skillset. Interns are an important part of our culture and our recruiting pipeline. Join us at Waymo for a fun and rewarding internship!
+
+This internship will be based on-site at our headquarters in Mountain View, CA.
+
+You Will
+
+Develop the training infrastructure used by model trainers across Waymo. 
+Evaluate the impact of these features on developer velocity and resource efficiency. 
+Work with model owners to jointly evaluate tradeoffs of training efficiency and model quality. 
+
+You Have
+
+Currently pursuing a MS or PhD degree in Computer Science, Machine Learning, Robotics, or a related technical field. 
+Strong understanding of neural network training and related concepts. 
+Proficient in Python and deep learning frameworks such as PyTorch, JAX, or TensorFlow. 
+
+We Prefer
+
+Proficient in SQL. 
+Familiar with different methods of distributed training for large-scale models, such as data and model parallelism. 
+Experienced with software engineering best practices, version control systems, and writing production-quality code. 
+
+Note: This will be a hybrid onsite internship position. We will accept resumes on a rolling basis until the role is filled. To be in consideration for multiple roles, you will need to apply to each one individually - please apply to the top 3 roles you are interested in.
+
+The expected hourly rate for this full-time position is listed below. Interns are also eligible to participate in the Company’s generous benefits programs, subject to eligibility requirements.
+
+Hourly Masters Pay
+
+$50.48—$50.48 USD
+
+The expected hourly rate for this full-time position is listed below. Interns are also eligible to participate in the Company’s generous benefits programs, subject to eligibility requirements.
+
+Hourly PhD Pay
+
+$60.10—$60.10 USD

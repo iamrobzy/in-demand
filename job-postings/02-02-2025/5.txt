@@ -1,0 +1,38 @@
+Waymo is an autonomous driving technology company with the mission to be the most trusted driver. Since its start as the Google Self-Driving Car Project in 2009, Waymo has focused on building the Waymo Driver—The World's Most Experienced Driver™—to improve access to mobility while saving thousands of lives now lost to traffic crashes. The Waymo Driver powers Waymo One, a fully autonomous ride-hailing service, and can also be applied to a range of vehicle platforms and product use cases. The Waymo Driver has provided over one million rider-only trips, enabled by its experience autonomously driving tens of millions of miles on public roads and tens of billions in simulation across 13+ U.S. states.
+
+Software Engineering builds the brains of Waymo's fully autonomous driving technology. Our software allows the Waymo Driver to perceive the world around it, make the right decision for every situation, and deliver people safely to their destinations. We think deeply and solve complex technical challenges in areas like robotics, perception, decision-making and deep learning, while collaborating with hardware and systems engineers. If you're a software engineer or researcher who's curious and passionate about Level 4 autonomous driving, we'd like to meet you.
+
+Waymo interns partner with leaders in the industry on projects that provide significant impact to the company. We believe learning is a two-way street: applying your knowledge while providing you with opportunities to expand your skill-set. Interns are an important part of our culture and our recruiting pipeline. Join us at Waymo for a fun and rewarding internship!
+
+You Will
+
+Develop a novel co-simulation and verification methodology for ML accelerator pipelines
+Explore automated stimulus generation with constraint solvers, fuzz testing, formal techniques and AI-generated test cases
+Profile, understand and optimize simulator performance to speed up run times
+Gain deep knowledge of the microarchitecture and ISA of a state-of-the-art ML accelerator
+
+You Have
+
+Enrolled in a Masters program in Electrical Engineering, Computer Engineering or equivalent
+Excellent knowledge of computer architecture and microarchitecture
+Proficiency in digital system design using SystemVerilog or other languages
+Software development experience with proficiency in C++ for modeling and verification of digital systems
+
+We Prefer
+
+Enrolled in a PhD program in Electrical Engineering, Computer Engineering or equivalent
+Experience with higher-level languages for digital design such as Chisel, HLS, Python-based HDLs
+Experience with RTL simulation using Verilator
+Experience with CPU performance profiling
+
+The expected hourly rate for this full-time position is listed below. Interns are also eligible to participate in the Company’s generous benefits programs, subject to eligibility requirements.
+
+Hourly Masters Pay
+
+$50.48—$50.48 USD
+
+The expected hourly rate for this full-time position is listed below. Interns are also eligible to participate in the Company’s generous benefits programs, subject to eligibility requirements.
+
+Hourly PhD Pay
+
+$60.10—$60.10 USD

@@ -1,0 +1,34 @@
+Estamos em busca de uma pessoa Desenvolvedora Full Stack. Você vai se destacar se tiver interesse em novas tecnologias de IA e Machine Learning.
+
+Responsabilidades
+
+Desenvolvimento de aplicações web e mobile utilizando Java no backend e frameworks modernos no frontend (React, Angular, etc.).
+Desenvolver projetos que envolvem a integração de modelos de IA em sistemas de produção, seja para automação de processos, otimização de fluxo de trabalho, ou aumento de produtividade.
+Automação de processos repetitivos e intensivos em tempo utilizando IA, como automação de atendimento ao cliente, classificação de documentos, ou otimização de processos industriais.
+
+Requisitos obrigatórios
+
+Sólida experiência com backend utilizando Java, com frameworks como Spring Boot e Hibernate;
+Experiência com tecnologias frontend, como HTML5, CSS3, JavaScript, React.js, Angular, ou Vue.js;
+Habilidade para desenvolver e consumir API RESTful, integrando-as com sistemas existentes;
+Conhecimento em banco de dados SQL (PostgreSQL, MySQL) e NoSQL (MongoDB, Cassandra);
+Experiência com testes automatizados (JUnit, Selenium);
+Desejável conhecimento em integração de modelos de Machine Learning e IA em sistemas Java, utilizando APIs ou serviços de IA (como TensorFlow Serving ou AWS SageMaker);
+Desejável experiência no desenvolvimento de soluções de automação, utilizando algoritmos de IA para otimizar processos repetitivos e aumentar a produtividade.
+
+Benefícios
+
+Assistência Médica Amil;
+Assistência Odontológica Porto Seguro;
+Vale Refeição: R$ 30,00 por dia útil pago no cartão Flash;
+Seguro de Vida;
+Vale academia;
+Auxílio Home office;
+Presente de Aniversário Personalizado + Day Off;
+Curso Espanhol e Inglês In Company (Sem custo ao colaborador);
+Incentivo a educação para cursos e capacitações;
+Vale transporte.
+
+Modalidade de trabalho
+
+Regime híbrido (presencial 1 vez por mês)
