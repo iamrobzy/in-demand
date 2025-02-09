@@ -1,0 +1,49 @@
+Design and implement novel solutions to challenges in ML and NLP with a rapid growth SaaS startup.
+
+This Jobot Job is hosted by: Charles Simmons
+
+Are you a fit? Easy Apply now by clicking the "Apply Now" button and sending us your resume.
+
+Salary: $140,000 - $180,000 per year
+
+A bit about us:
+
+Well funded b2b SaaS startup working to modernize the manual nature of working with clients to track project progress and interact with customers.
+
+Why join us?
+
+Work on novel applications of ML and LLMs in a small collaborative team environment
+Unlimited PTO, flexible work hours
+Comprehensive health, vision, and dental plans for individuals and families
+Competitive salary and equity
+
+Job Details
+
+Job Details:
+
+Our company is seeking a dedicated and passionate Machine Learning Engineer to join our dynamic team. As a Machine Learning Engineer, you will work closely with our data scientists and engineers to design, develop, and implement cutting-edge machine learning algorithms. You will have the opportunity to work on exciting projects in the technology industry, using your skills to shape the future of our company and the industry as a whole. This is a permanent, full-time position that offers an excellent opportunity for growth and advancement.
+
+Responsibilities:
+
+Design and develop machine learning systems: You will be responsible for researching, designing, and implementing machine learning algorithms to solve complex problems and improve our products and services.
+Collaborate with data scientists and engineers: You will work closely with our team of data scientists and engineers to understand their needs and design solutions that meet those needs.
+Analyze and interpret complex data: You will need to analyze and interpret complex data sets to identify trends and patterns that can be used to improve our machine learning algorithms.
+Stay up-to-date with the latest machine learning developments: You will need to stay up-to-date with the latest developments in machine learning and incorporate these developments into your work.
+Present your findings to stakeholders: You will need to present your findings and recommendations to stakeholders in a clear and concise manner.
+
+Qualifications:
+
+Bachelor's degree in Computer Science, Mathematics, or a related field. A Master's degree or PhD would be an advantage.
+A minimum of 5 years of experience working as a Machine Learning Engineer or in a similar role.
+Strong knowledge of machine learning algorithms and principles. Experience with TensorFlow, PyTorch, Hugging Face, LangChain, or similar.
+Experience with Natural Language Processing (NLP) is a must, practical experience applying LLMs would be great.
+Proficiency in programming languages such as Python, Java, or C++.
+Strong analytical and problem-solving skills.
+Excellent communication skills, with the ability to present complex information in a clear and concise manner.
+A passion for machine learning and a desire to stay up-to-date with the latest developments in the field.
+The ability to work well in a team and collaborate with colleagues from different backgrounds and disciplines.
+A proactive attitude, with the ability to take initiative and work independently when needed.
+
+Join our team and use your skills and passion for machine learning to shape the future of the technology industry. We are excited to see what you will bring to our company!
+
+Interested in hearing more? Easy Apply now by clicking the "Apply Now" button.
