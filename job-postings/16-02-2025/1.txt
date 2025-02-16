@@ -1,0 +1,51 @@
+Who is Recruiting from Scratch : 
+
+Recruiting from Scratch is a talent firm that focuses on placing the best candidate for our clients. Our team is 100% remote and we work with teams across North America, South America, and Europe to help them hire.
+
+https://www.recruitingfromscratch.com/
+
+Lead Machine Learning Engineer - AI-Powered Customer Experience Platform Silicon Valley (San Mateo, CA) | $200K + 0.25% Equity | H1B Transfers Welcome
+
+Our client, a rapidly growing AI startup in the customer experience space, is seeking a Lead Machine Learning Engineer to drive their AI innovation and build their ML team from the ground up. They've seen 4x growth in 2024 and are backed by prominent Silicon Valley investors including Village Global (backed by Jeff Bezos, Bill Gates, and Reid Hoffman) and Bling Capital, having raised $7.5M to date.
+
+The Company:
+
+Innovating in the CX space with AI agents, automation, and GenAI solutions 
+Empowering non-technical teams to build sophisticated customer support automation 
+20+ person team led by repeat founders (ex-Uber, Stanford MBA, ex-Plug & Play) 
+Impressive customer roster including Dollar Shave Club, Minted, and NomNomNow (acquired for $1B) 
+Series A fundraise planned for Q1 2025 
+
+The Role: As Lead Machine Learning Engineer, you'll spearhead the development of cutting-edge AI solutions that transform customer support automation. This is a unique opportunity to build and lead a team while working directly on product innovation that impacts major brands.
+
+Key Responsibilities:
+
+Drive ML/AI strategy development and implementation 
+Build and lead a high-performing machine learning team 
+Pioneer innovations in AI-powered customer support automation 
+Collaborate across product and engineering teams 
+Stay at the forefront of AI/ML advancements, particularly in NLP and GenAI 
+Shape overall technical vision and strategy 
+
+Required Qualifications:
+
+5+ years of ML/AI experience 
+Strong startup background, ideally pre-Series A 
+Deep expertise in NLP and large language models 
+Full-stack ML capabilities from training to deployment 
+Proficiency in Python, Scikit-Learn, TensorFlow, and PyTorch 
+Experience with AWS services (S3, Kinesis, EC2) 
+Demonstrated leadership experience (tech lead, EM, or similar) 
+
+Preferred Qualifications:
+
+Experience in CX or support automation 
+Master's or PhD in Computer Science, ML, or related field 
+Technical co-founder or early startup experience 
+
+Location & Benefits:
+
+Hybrid work model (3+ days in San Mateo office) 
+Competitive salary ($200K) 
+Meaningful equity (0.25%) 
+Opportunity to join a fast-moving team that values transparency and ownership

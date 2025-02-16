@@ -1,0 +1,24 @@
+About us:
+AMIT Learning is a leading training and consulting company located in Egypt. Our service is the cornerstone of our business, and we strive to stay at the contemporary edge of new training methodologies. With a focus on predicting and forecasting areas of training for growth, we are committed to providing high-quality training solutions to our clients.
+
+Qualifications
+Bachelor's degree in Computer Science, Information Technology, or related field
+1 to 3 years of experience in AI and Machine Learning
+Demonstrated ability to deliver effective and engaging training sessions
+Strong knowledge of current trends and best practices in AI and Machine Learning
+Excellent communication and presentation skills
+Experience working in the field of education or training
+Excellent interpersonal and communication skills
+Experience with Python and (NumPy, pandas, Skfearn, Matpolitlip)
+Experience with Statistics, Probability, Linear Algebra
+Experience in Deep Learning libraries ( Keras, Tensorflow), CNN, NLP, RNN, Calculus, LSTM
+
+Responsibilities:
+• Conducting and delivering direct training sessions online and offline for internal and external students.
+• Prepare and evaluate diploma assignment, graduation project and the final exam.
+• Answer students’ questions and provide quick support.
+
+AMIT Learning Website:
+https://www.amit-learning.com
+
+If you see yourself as a fit candidate or anyone who might fit in this position, kindly send your CV here or to bassma.yousef@amit-learning.com, mentioning in the subject “AI and Machine Learning Instructor" Or WhatsApp: +201066824250

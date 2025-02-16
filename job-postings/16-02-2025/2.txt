@@ -1,0 +1,91 @@
+At EY, you’ll have the chance to build a career as unique as you are, with the global scale, support, inclusive culture and technology to become the best version of you. And we’re counting on your unique voice and perspective to help EY become even better. Join us and build an exceptional experience for yourself, and a better working world for all.
+
+The exceptional EY experience. It's yours to build.
+
+EY focuses on high-ethical standards and integrity among its employees and expects all candidates to demonstrate these qualities.
+
+AI/Machine Learning Engineer – TMT – Manager - Consulting
+
+The opportunity
+
+Our Artificial Intelligence and Data team helps apply cutting edge technology and techniques to bring solutions to our clients. As part of that, you'll sit side-by-side with clients and diverse teams from EY to create a well-rounded approach to advising and solving challenging problems, some of which have not been solved before. No two days will be the same, and with constant research and development, you'll find yourself building knowledge that can be applied across a wide range of projects now, and in the future. You'll need to have a passion for continuous learning, stay ahead of the trends, and influence new ways of working so you can position solutions in the most relevant and innovative way for our clients. You can expect heavy client interaction in a fast-paced environment and the opportunity to develop your own career path for your unique skills and ambitions.
+
+Your Key Responsibilities
+
+You will work with a wide variety of clients to deliver the latest data science and big data technologies. Your teams will design and build scalable solutions that unify, enrich, and derive insights from varied data sources across a broad technology landscape. You will help our clients navigate the complex world of modern data science, analytics, and software engineering. We'll look to you to provide guidance and perform technical development tasks to ensure data science solutions are properly engineered and maintained to support the ongoing business needs of our clients.
+
+You will be joining a dynamic and interdisciplinary team of scientists and engineers who love to tackle the most challenging computational problems for our clients. We love to think creatively, build applications efficiently, and collaborate in both the ideation of solutions and the pursuit of new opportunities. Many on our team have advanced academic degrees or equivalent experience in industry.
+
+Skills And Attributes For Success
+
+This role will work to deliver tech at speed, innovate at scale and put humans at the center. Provide technical guidance and share knowledge with team members with diverse skills and backgrounds. Consistently deliver quality client services focusing on more complex, judgmental and/or specialized issues surrounding emerging technology. Demonstrate technical capabilities and professional knowledge. Learn about EY and its service lines and actively assess and present ways to apply knowledge and services.
+
+To qualify for the role you must have
+
+Bachelor's degree and 6-10 years of full-time working experience in AI, Data Science, and/or Machine Learning 
+2-4 years of experience directly managing technical teams 
+Extensive experience in telecommunications, media, or technology sectors, with a strong understanding of industry trends. 
+Strong skills in Python. 
+Experience using Generative AI models and frameworks e.g. OpenAI family, open source LLMs, Dall-e, LlamaIndex, Langchain, Retrieval Augmented Generation (RAG). 
+Experience working with popular ML packages such as scikit-learn, Pytorch and ONNX, or related ML libraries. 
+Extensive experience using DevOps tools like GIT, Azure Devops and Agile tools such as Jira to develop and deploy analytical solutions with multiple features, pipelines, and releases. 
+Proven ability to design and implement machine learning solutions that enhance network performance and customer experience. 
+Familiarity with telecommunications protocols (e.g., 5G, LTE) and their implications for data science. 
+Experience analyzing large-scale datasets from telecommunications networks, including call detail records and performance metrics. 
+Knowledge of streaming video and audio technologies, including analytics and content recommendation systems. 
+Experience with multi-modal models, including vision-language models. 
+Understanding of customer segmentation, churn prediction, and recommendation systems tailored to media and telecommunications. 
+Knowledge of regulatory and compliance considerations specific to the TMT sector. 
+Experience with real-time data processing frameworks (e.g., Apache Kafka). 
+Familiarity with cloud-based telecommunications solutions (e.g., AWS, Azure). 
+Experience with network optimization algorithms and techniques. 
+Knowledge of emerging technologies such as edge computing and IoT. 
+A solid understanding of Machine Learning (ML) workflows including ingesting, analysing, transforming data and evaluating results to make meaningful predictions. 
+Experience with MLOps methods and platforms such as MLFlow. 
+Experience with CI/CD and test-driven development. 
+Experience designing, building, and maintaining ML models, frameworks, and pipelines. 
+Experience designing and deploying end to end ML workflows on at least one major cloud computing platform. 
+Understanding of data structures, data modelling and software engineering best practices. 
+Proficiency using data manipulation tools and libraries such as SQL, Pandas, and Spark. 
+Clearly communicating findings, recommendations, and opportunities to improve data systems and solutions. 
+Experience with containerization and scaling models. 
+Integrating models and feedback from downstream consumption systems - reporting and dashboards, AI driven applications. 
+Strong mathematical and quantitative skills including calculus, linear algebra, and statistics. 
+Willingness to travel to meet client obligations. 
+
+Ideally, you'll also have
+
+A deep understanding of and ability to teach concepts, tools, features, functions, and benefits of different approaches to apply them. 
+Master's degree Computer Science, Mathematics, Physical Sciences, or other quantitative field. 
+Experience working with diverse teams to deliver complex solutions. 
+Strong skills in languages beyond Python: R, JavaScript, Java, C++, C. 
+Experience fine-tuning Generative AI models. 
+
+What We Look For
+
+You have an agile, growth-oriented mindset.What you know matters. But the right mindset is just as important in determining success. We're looking for people who are innovative, can work in an agile way and keep pace with a rapidly changing world. 
+You are curious and purpose driven. We're looking for people who see opportunities instead of challenges, who ask better questions to seek better answers that build a better working world. 
+You are inclusive. We're looking for people who seek out and embrace diverse perspectives, who value differences, and team inclusively to build safety and trust. 
+
+What We Offer
+
+We offer a comprehensive compensation and benefits package where you’ll be rewarded based on your performance and recognized for the value you bring to the business. The base salary range for this job in all geographic locations in the US is $141,400 to $259,200. The salary range for New York City Metro Area, Washington State and California (excluding Sacramento) is $169,700 to $294,600. Individual salaries within those ranges are determined through a wide variety of factors including but not limited to education, experience, knowledge, skills and geography. In addition, our Total Rewards package includes medical and dental coverage, pension and 401(k) plans, and a wide range of paid time off options. Join us in our team-led and leader-enabled hybrid model. Our expectation is for most people in external, client serving roles to work together in person 40-60% of the time over the course of an engagement, project or year. Under our flexible vacation policy, you’ll decide how much vacation time you need based on your own personal circumstances. You’ll also be granted time off for designated EY Paid Holidays, Winter/Summer breaks, Personal/Family Care, and other leaves of absence when needed to support your physical, financial, and emotional well-being.
+
+Continuous learning: You’ll develop the mindset and skills to navigate whatever comes next. 
+Success as defined by you: We’ll provide the tools and flexibility, so you can make a meaningful impact, your way. 
+Transformative leadership: We’ll give you the insights, coaching and confidence to be the leader the world needs. 
+Diverse and inclusive culture: You’ll be embraced for who you are and empowered to use your voice to help others find theirs. 
+
+EY accepts applications for this position on an on-going basis. If you can demonstrate that you meet the criteria above, please contact us as soon as possible.
+
+EY exists to build a better working world, helping to create long-term value for clients, people and society and build trust in the capital markets.
+
+Enabled by data and technology, diverse EY teams in over 150 countries provide trust through assurance and help clients grow, transform and operate.
+
+Working across assurance, consulting, law, strategy, tax and transactions, EY teams ask better questions to find new answers for the complex issues facing our world today.
+
+For those living in California, please click here (https://ey-preview.ey.com/content/ey-unified-site/ey-com/local/us/en_us/home/legal-and-privacy/fair-chance-ordinance.html?token=68cf9ed2-94e5-4db9-83cf-5c6aa14619de) for additional information.
+
+EY is an equal opportunity, affirmative action employer providing equal employment opportunities to applicants and employees without regard to race, color, religion, age, sex, sexual orientation, gender identity/expression, pregnancy, genetic information, national origin, protected veteran status, disability status, or any other legally protected basis, including arrest and conviction records, in accordance with applicable law.
+
+EY is committed to providing reasonable accommodation to qualified individuals with disabilities including veterans with disabilities. If you have a disability and either need assistance applying online or need to request an accommodation during any part of the application process, please call 1-800-EY-HELP3, select Option 2 for candidate related inquiries, then select Option 1 for candidate queries and finally select Option 2 for candidates with an inquiry which will route you to EY’s Talent Shared Services Team (TSS) or email the TSS at ssc.customersupport@ey.com

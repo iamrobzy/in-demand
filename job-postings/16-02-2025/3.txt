@@ -1,0 +1,41 @@
+Description
+
+Do you love writing firmware or optimizing signal processing algorithms? Are you a software engineer at heart, but you enjoy working with embedded microcontrollers, SOCS's or dabbled in RTL development? Have you heard about machine learning and want to get your hands dirty? Are you an ML kernel developer who wants to make a big impact by getting closer to the hardware? If any of those are true, awesome - this is the role for you. Come join us!
+
+Custom Amazon designed silicon chips live at the heart of AWS Machine Learning servers, enabling faster, more capable, and more accurate machine learning for our customers. We’re looking for skilled software engineers to scale the team that develops the embedded software stack critical to the functionality of these bleeding-edge system-on-chips (SoCs). Your software will directly drive the execution and management of hardware accelerated neural network models deep within the SOC's Neuron Cores.
+
+You'll also work closely with our architecture and design teams to drive hardware/software co-design, developing both firmware and custom hardware that enables ML within our accelerator chips. Our team's charter is to make deep learning pervasive for everyday software developers and to democratize access to industry leading infrastructure - you'll be enabling that vision from the ground up.
+
+We invite you visit the link below for a glimpse inside our labs to see exactly the incredible technology and people you will work with at Annapurna Labs!
+
+https://www.aboutamazon.com/news/aws/take-a-look-inside-the-lab-where-aws-makes-custom-chips
+
+This is a fast-paced, challenging position, where you'll work with thought-leaders in multiple technology areas. You'll have high standards for yourself and everyone you work with, and you'll be constantly looking for ways to improve our products' performance, quality, and cost. We're searching for individuals who want to reach beyond what is possible today and change an industry.
+
+You'll learn about the inner workings of ML and our accelerators as part of your onboarding, so no prior ML knowledge is required for this role, but any ML background you have will be helpful.
+
+Key job responsibilities
+
+Software / hardware architecture and co-design 
+Embedded software development, testing, debug, and performance improvements 
+Test suite and infrastructure development 
+Developing software which can be maintained, improved upon, documented, tested, and reused 
+Close collaboration with RTL designers, design verification engineers, and other software teams 
+
+Basic Qualifications
+
+3+ years of non-internship professional software development experience 
+2+ years of non-internship design or architecture (design patterns, reliability and scaling) of new and existing systems experience 
+Experience programming with at least one software programming language 
+
+Preferred Qualifications
+
+3+ years of full software development life cycle, including coding standards, code reviews, source control management, build processes, testing, and operations experience 
+Bachelor's degree in computer science or equivalent 
+Experience in embedded development in C/C+Amazon is committed to a diverse and inclusive workplace. Amazon is an equal opportunity employer and does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, or other legally protected status. 
+
+Los Angeles County applicants: Job duties for this position include: work safely and cooperatively with other employees, supervisors, and staff; adhere to standards of excellence despite stressful conditions; communicate effectively and respectfully with employees, supervisors, and staff to ensure exceptional customer service; and follow all federal, state, and local laws and Company policies. Criminal history may have a direct, adverse, and negative relationship with some of the material job duties of this position. These include the duties and responsibilities listed above, as well as the abilities to adhere to company policies, exercise sound judgment, effectively manage stress and work safely and respectfully with others, exhibit trustworthiness and professionalism, and safeguard business operations and the Company’s reputation. Pursuant to the Los Angeles County Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.
+
+Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.
+
+Our compensation reflects the cost of labor across several US geographic markets. The base pay for this position ranges from $129,300/year in our lowest geographic market up to $223,600/year in our highest geographic market. Pay is based on a number of factors including market location and may vary depending on job-related knowledge, skills, and experience. Amazon is a total compensation company. Dependent on the position offered, equity, sign-on payments, and other forms of compensation may be provided as part of a total compensation package, in addition to a full range of medical, financial, and/or other benefits. For more information, please visit https://www.aboutamazon.com/workplace/employee-benefits . This position will remain posted until filled. Applicants should apply via our internal or external career site.
