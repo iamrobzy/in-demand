@@ -1,0 +1,29 @@
+Data Scientist - Machine Learning / AI - North East - £60,000 - Hybrid
+
+Company Overview
+
+My client is a Data-driven e-commerce outfit who are currently seeking a Data Scientist to help them achieve their goals. This client is one of the fastest growing online business in the country and they credit their forward thinking, technology and data first approach to their success. This is a great opportunity to be part of a team who will prioritise cutting-edge technology and give you a level of freedom to transform business operations, while maintaining a great work-life balance with flexible working arrangements.
+
+Role Overview
+
+The client is looking for a talented Data Scientist with a strong background in Machine Learning and analytics. You will build, tune, and deploy ML models to help push the organisation into the future and remain ahead of their competitors.
+
+You will be working closely with the Data Engineering team in order to effectively implement and improve said models, in addition to ML you will leverage a range of AI tools to enhance performance and efficiency.
+
+Requirements
+
+Experience with Machine Learning and model deployment 
+Strong with Python, SQL and ML Frameworks 
+Hands on experience with AWS services 
+
+Nice To Have
+
+Data Pipeline Experience 
+Terraform Experience 
+Databricks Experience
+
+This is an unmissable chance to hone your skills and grow your career working for a top e-commerce organisation, interviews are already underway so don't miss your chance. Apply Now!
+
+Contact - //
+
+Amazon Lambda,AWS,Kafka,Machine learning,Python,SQL,Terraform, AI, ML, Artificial Intelligence, Data Science, Copilot, Chatbot, CI/CD, Data

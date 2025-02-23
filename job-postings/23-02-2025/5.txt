@@ -1,0 +1,53 @@
+Il contributo che può dare
+
+Studiare la teoria della programmazione neurolinguistica (PNL) e identificare i set di dati necessari per valutare i rischi di reputazione dai media online
+Raccogliere dati storici online rilevanti (notizie, social media ecc.) tramite tecniche come web scraping, web crawling o tramite API standard
+Identificare le tecniche adatte di machine learning e implementarle come «sensori» per riconoscere i rischi di reputazione
+Sviluppare software secondo le buone prassi per applicare le tecniche di machine learning precedentemente identificate utilizzando i dati anteriormente individuati
+Garantire uno scambio costante e iterativo e presentare gli sviluppi agli stakeholder
+
+Che cosa La contraddistingue
+
+Diploma universitario (bachelor o master) in ambito tecnico o delle scienze naturali
+Esperienza nella programmazione (in particolare Python)
+L’esperienza nell’applicazione delle tecniche di machine learning, in particolare PNL, costituisce un vantaggio
+Esperienza con Linux OS
+Spiccato spirito di gruppo e doti comunicative
+
+In sintesi
+
+Ti appassionano le possibilità offerte dal machine learning? Ti interesserebbe impegnarti per una Svizzera sicura e libera? Se hai concluso i tuoi studi universitari (bachelor o master) in ambito tecnico o delle scienze naturali, in seno allo Stato maggiore dell’esercito ti aspetta un team altamente motivato. Candidati per uno stage universitario da noi!
+
+Entrata in servizio:in data da convenire
+
+Tipo d’impiego:a tempo determinato
+
+per 12 mesi
+
+N. di riferimento:JRQ$540-13565
+
+Luogo di lavoro:Schermenwaldstrasse 13, 3063 Ittigen
+
+Domande sul posto di lavoro
+
+Zenon Mathews Capo Data Science e Modellazione
+
++41 58 46 02608
+
+Domande sulla candidatura
+
+Claudia Pfister +41 58 46 45432
+
+Il tuo impegno per la sicurezza e la libertà
+
+Lo Stato maggiore dell’esercito (SM Es) fornisce appoggio al capo dell’esercito nella condotta dell’Aggruppamento Difesa ed è responsabile della pianificazione militare globale dell’esercito e del relativo sviluppo. In base alle direttive politiche elabora le basi strategiche, lo sviluppo delle forze armate nonché la pianificazione delle forze armate e dell’armamento e assume compiti nel contesto della sicurezza internazionale. Rientrano nella sua sfera di competenza anche la condotta, la gestione e il coordinamento di tutti i settori trasversali (Personale, Finanze, Immobili).
+
+L’Esercito svizzero dà lavoro a oltre 9000 collaboratori nel quadro di quattro professioni militari e circa 200 professioni civili, in 110 ubicazioni su tutto il territorio nazionale. Inoltre provvede alle nuove leve, formando apprendisti in oltre 30 professioni.
+
+Che cosa offriamo
+
+Lavorare per la SvizzeraCi adoperiamo per il modello di successo svizzero e lavoriamo per il benessere della popolazione.
+
+Vivere la diversitàLa concretizzazione delle pari opportunità ci consente di esprimere al meglio le nostre competenze e di contemplare punti di vista differenti.
+
+In forma sul posto di lavoroForniamo supporto e consulenza alle nostre collaboratrici e ai nostri collaboratori sulla tematica della salute fisica e mentale.

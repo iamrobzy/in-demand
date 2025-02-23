@@ -1,0 +1,24 @@
+Profil: Machine Learning Engineer spécialisé en RAG
+
+Résumé
+Ingénieur expérimenté en Machine Learning et Data Science, spécialisé dans le développement et le déploiement de systèmes Retrieval-Augmented Generation (RAG) à grande échelle. Fort d’une expertise approfondie dans l’optimisation des modèles de LLM et la structuration de données pour une recherche vectorielle efficace, ce profil a mené avec succès plusieurs projets exploitant des architectures RAG sur des jeux de données complexes.
+
+Compétences clés
+• Déploiement de solutions RAG : Expérience prouvée dans la mise en production de plusieurs cas d’usage RAG avec des résultats mesurables.
+• Modèles de langage avancés (LLM) & IA générative : Bonne maîtrise des spécificités, limites et biais des modèles LLM, ainsi que des techniques pour améliorer la pertinence et la robustesse des réponses.
+• Structuration des données pour recherche vectorielle : Conception et optimisation d’index vectoriels (FAISS, Weaviate, Pinecone, etc.), hybrid search, et embeddings pour garantir des performances optimales.
+• Développement et mise en production : Expérience en MLOps et DevOps pour l’intégration, le déploiement et la scalabilité des modèles sur une architecture GPU-intensive.
+• Stack technique : Python, LangChain, LlamaIndex, Hugging Face Transformers, Triton, CUDA, PyTorch, TensorFlow, Kubernetes, FastAPI, Elasticsearch, PostgreSQL, etc.
+
+Missions & Environnement
+Le profil rejoindra une équipe stratégique en charge de la conception et du développement des services IA de nouvelle génération pour un grand groupe. Ces services serviront de core services IA pour l’ensemble des applications du groupe.
+L’environnement technique est exigeant, avec une infrastructure robuste exploitant un grand nombre de GPUs pour assurer des performances optimales. Plusieurs projets sont en cours pour industrialiser les solutions d’IA générative et de RAG sur un écosystème applicatif complexe.
+
+Profil recherché
+• Expérience confirmée (minimum 3 à 5 ans) en Data Science / ML Engineering avec une spécialisation en RAG.
+• A déjà déployé des solutions RAG en production et géré des défis liés à la qualité des données et à l’optimisation des requêtes.
+• Maîtrise des principaux modèles de LLM et des techniques avancées de fine-tuning, prompt engineering et augmentation contextuelle.
+• Très à l’aise avec les problématiques d’indexation et de recherche vectorielle, avec une vision scalable et industrialisable.
+• Capacité à travailler en équipe sur des projets complexes, dans un environnement à forte dimension GPU et Cloud.
+
+Bonus : Expérience avec les architectures distributed training et fine-tuning sur des clusters de GPUs.

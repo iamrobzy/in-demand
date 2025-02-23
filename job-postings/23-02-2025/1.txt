@@ -1,0 +1,13 @@
+Requirements:
+10+ years of experience setting up ML infrastructure from end to end.
+Must be Proficient in Python / SQL and ML frameworks deployed in GCP or AWS (preferred)
+5 years of experience of ML: learning-to-rank, transformer models.
+Experience at a strong startup, scale-up, or FAANG/equivalent company
+Experience in deploying ML models in backend services.
+Experience in leading projects end-to-end and strong communication skills
+Must be able to work fully office based in NYC.
+3 years of experience in crypto
+
+PC.
+This is a fully office-based in NYC.
+This is a Senior position 8+ years of experience in Machine learning is required

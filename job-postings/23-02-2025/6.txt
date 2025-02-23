@@ -1,0 +1,40 @@
+Job Identification: 2243
+Job Category: Trainee
+Posting Date: 17.12.2024
+Job Schedule: Full time
+Company: ELCA Informatique SA
+
+Job Description
+
+PostgresML is a PostgreSQL extension, which inverts the current paradigm of continuously moving the data to the Large Language Models (LLM). Instead, it moves the models to the (local) database. PostgresML allows to take advantage of the fundamental relationship between data and models and thus allows for local access to the latest open-source ML & AI algorithms, eg from Huggingface inside the database with a SQL API. It also provides native language SDKs to access the models as well as support for GPU acceleration.
+
+Your Tasks
+
+ELCA Has Gained Previous Experience With PostgresML And Based On The Resulting Proof Of Concept (PoC) Aims To Revisit The Key Topics In a Follow-up Project
+
+Integrated Learning: Embeds machine learning directly within the PostgreSQL database, reducing latency, improving data processing efficiency, and ensuring a secure data flow
+Retrieval-Augmented Generation (RAG) Framework: Combines generative AI with retrieval systems (vector search) for precise and contextually relevant responses
+Privacy and Security: All data stays within the database, offering robust data privacy—ideal for sectors requiring important data protection
+Design part (UI): Interactive user interface, with planned enhancements for usability
+Get familiar with the features of PostgresML and gain experience with running it on a local machine as well as on AWS (or OKD)
+Document the trade-offs between the quality attributes of the LLMs vs the needed resources to run the LLMs, eg quantization, fine tuning small LLMs
+Rewrite the current PoC to handle more traffic and to become more stable and resilient, eg large context windows
+Extend the current PoC with additional enhancements, eg Agents
+Present the results in an ELCA Brownbag session
+
+Our offer
+
+A dynamic work and collaborative environment with a highly motivated multi-cultural and international sites team
+The chance to make a difference in peoples’ life by building innovative solutions
+Various internal coding events (Hackathon, Brownbags), see our technical blog
+Monthly After-Works organized per locations
+Good work-life balance (2 days per week from home)
+
+Your profile
+
+Good understanding of ML and LLMs
+Basic understanding of Python, Java, TypeScript and SQL
+Interest in application architectures
+Interest in comparing and applying different development approaches
+Fluent in German and English , French is an advantage
+Bachelors degree
