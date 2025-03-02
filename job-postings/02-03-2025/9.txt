@@ -1,0 +1,48 @@
+Are you passionate about AI and eager to make a significant impact in the cybersecurity space? Join us at our cutting-edge AI startup in San Francisco Bay Area, where we are assembling a world-class team to tackle some of the most pressing challenges in cybersecurity.
+
+Why Join Us?
+$25M Seed Funding: We are well-funded, with $25 million raised in our seed round, providing the resources to innovate and scale rapidly.
+Proven Early Success with Fortune 500 Customers: We have started partnering with Fortune 500 companies, marking the early success and growing trust in our innovative solutions. This highlights the immense potential and reliability of our AI-powered cybersecurity offerings.
+Experienced Leadership: Our founding team consists of second and third-time entrepreneurs, each with over 25 years of experience in the cybersecurity industry. They are the owners of successful cybersecurity companies, with previous ventures achieving valuations of over $3 billion. Their proven expertise and vision drive our ambitious goals, positioning us to lead in the AI-powered cybersecurity space.
+World-Class Leadership Team: Our Heads of AI, Engineering, and Product bring extensive experience from some of the world’s most influential companies, ensuring top-tier mentorship, direction, and vision.
+Cutting-Edge AI Solutions: Our team leverages the most advanced AI technologies, including Large Language Models (LLMs) and Generative AI.
+Generous Compensation: We offer highly competitive salaries, equity options, and a supportive work environment. Your contributions will be valued and rewarded as we grow together.
+Cybersecurity Knowledge Preferred but Not Required: While experience in cybersecurity is a plus, we are primarily seeking top-tier talent in AI/ML and data science who are passionate about solving complex problems.
+
+About the Roles
+We are hiring for the following positions at all levels (Junior, Mid-Senior, Senior, and Principal):
+Applied Scientist
+Data Scientist
+Machine Learning Engineer
+
+What You’ll Do
+Build and deploy cutting-edge AI/ML models to solve critical cybersecurity challenges.
+Collaborate with a multidisciplinary team of AI researchers, engineers, and cybersecurity experts.
+Work with cutting-edge tools and frameworks, including:
+Deep Learning Frameworks: PyTorch, TensorFlow, JAX.
+Model Optimization Tools: ONNX, TensorRT, Hugging Face Transformers.
+Distributed Systems: Kubernetes, Apache Spark, Ray.
+Versioning and Collaboration: MLflow, DVC, Git.
+Data Engineering Pipelines: Apache Kafka, Apache Airflow, Snowflake.
+Advanced Visualization: Plotly, Matplotlib, Seaborn, TensorBoard.
+Monitoring and Logging: Prometheus, Grafana, ELK Stack.
+Innovate and experiment with technologies like LLMs, Generative AI, and few-shot learning to create robust solutions.
+
+Our Culture and Team
+Collaborative Environment: You’ll join a dynamic, fast-paced startup where innovation thrives, and every team member's voice is valued.
+World-Class Leadership: Our Heads of AI, Engineering, and Product bring extensive experience from some of the world’s best and most influential companies, ensuring top-tier mentorship and strategic direction.
+Growth Opportunities: We support your professional development through mentorship, access to industry conferences, and opportunities to work on cutting-edge AI projects that make a global impact.
+Diversity and Inclusion: We are committed to building a diverse and inclusive team that brings a variety of perspectives to solving today’s cybersecurity challenges.
+
+Work Location
+Our office is located in Silicon Valley Center in North San Jose, CA, providing a collaborative environment where innovation thrives.
+
+Perks and Benefits
+Comprehensive health benefits (medical, dental, and vision).
+Generous wellness stipends and professional development budgets.
+Equity options, ensuring you have a stake in the company’s success.
+Access to the latest tools and technologies for AI/ML development.
+
+Ready to join us on this groundbreaking journey? Apply today to become part of our mission to revolutionize cybersecurity with AI!
+
+#AI #MachineLearning #DataScience #Cybersecurity #Startup #Hiring #SanFranciscoBayArea #Innovation #TechJobs

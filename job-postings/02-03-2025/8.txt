@@ -1,0 +1,59 @@
+About
+
+Description de l'entreprise
+
+Inetum est un leader européen des services numériques. Pour les entreprises, les acteurs publics et la société dans son ensemble, les 28 000 consultants et spécialistes du groupe visent chaque jour l'impact digital : des solutions qui contribuent à la performance, à l'innovation et au bien commun.
+
+Présent dans 19 pays au plus près des territoires, et avec ses grands partenaires éditeurs de logiciels, Inetum répond aux enjeux de la transformation digitale avec proximité et flexibilité.
+
+Porté par son ambition de croissance et d'industrialisation, Inetum a généré en 2023 un chiffre d'affaires de 2,5 milliards d'€.
+
+Pour répondre à un marché en croissance continue depuis plus de 30ans, Inetum a fait le choix délibéré de se recentrer sur 4 métiers afin de gagner en puissance et proposer des solutions sur mesure, adaptées aux besoins spécifiques de ses clients : le conseil (Inetum Consulting), la gestion des infrastructures et applications à façon (Inetum Technologies), l'implémentation de progiciels (Inetum Solutions) et sa propre activité d'éditeur de logiciels (Inetum Software). Inetum a conclu des partenariats stratégiques avec 4 grands éditeurs mondiaux - Salesforce, ServiceNow, Microsoft et SAP et poursuit une stratégie d'acquisitions dédiée afin d'entrer dans le top 5 européen sur ces technologies et proposer la meilleure expertise à ses clients.
+
+Tous nos postes sont ouverts aux personnes en situation de handicap.
+
+Description du poste
+
+Responsabilités
+
+Développer et déployer des API de machine learning sur le cloud privé du groupe ou sur la plateforme Google Cloud Platform (GCP) pour résoudre des problèmes spécifiques à l'entreprise.
+Orchestrer des API de traitement de données et de machine learning au sein de workflows complexes
+Définir et maintenir l'architecture de machine learning hybride (on-prem et GCP) et portable pour toutes les phases du MLOps (développement, ré-entraînement, inférence, suivi de modèle)
+Participer aux évolutions du framework de développement de machine learning de l'IA factory (pyarchetype)
+Travailler en étroite collaboration avec les équipes de développement logiciel pour intégrer les modèles dans les applications existantes.
+Assurer la surveillance continue des modèles déployés, effectuer la gestion des incidents pour assurer le maintien en conditions opérationnelles.
+Documenter de manière exhaustive le processus de déploiement des modèles, y compris les choix d'architecture, les algorithmes utilisés et les résultats obtenus.
+Rester informé des avancées technologiques et des meilleures pratiques en matière d'apprentissage automatique, en apportant des recommandations pour améliorer constamment les processus et les résultats.
+
+Qualifications
+
+Diplôme en informatique, mathématiques appliquées ou domaine connexe.
+Expérience pratique dans le développement et le déploiement de modèles de machine learning.
+Maîtrise de la programmation en python.
+Expérience en DevOps, avec une spécialisation en IA ou en apprentissage automatique.
+Maîtrise de Google Cloud Platform et de ses services (Kubernetes).
+Si possible, connaissance de gestion de workflows complexes (Outil utilisé : Temporal)
+Compréhension des concepts statistiques et mathématiques sous-jacents aux modèles de machine learning.
+Capacité à travailler en équipe et à collaborer avec les autres services
+Capacité à appréhender les contraintes liées au développement de produits d’IA dans le secteur bancaire et assurantiel
+
+Informations supplémentaires
+
+Poste basé a Rennes avec 2 jours de télétravail par semaine
+
+Nice-to-have skills
+
+Python
+Google Cloud Platform
+Kubernetes
+Machine Learning
+Brest, Brittany, France
+
+Work experience
+
+Machine Learning
+DevOps
+
+Languages
+
+French

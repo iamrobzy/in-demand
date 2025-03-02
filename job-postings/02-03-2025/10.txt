@@ -1,0 +1,22 @@
+About
+
+Die DSV IT Service GmbH gehört zur DSV-Gruppe, dem spezialisierten Dienstleister für die Sparkassen-Finanzgruppe. Wir stellen gruppenweit IT-Leistungen und Services bereit und tragen damit wesentlich zur Unternehmensentwicklung und zum Erfolg der DSV-Gruppe bei. Durch Bündelung und Harmonisierung unterschiedlicher IT-Services, mit Beratung und Entwicklung gewährleisten wir nachhaltig Effizienz und Wirtschaftlichkeit. Gegenüber veränderten internen und externen Anforderungen agieren wir flexibel und anpassungsfähig. Wir bündeln internes Wissen aus der DSV-Gruppe mit ausgewiesener IT-Expertise entlang des gesamten Technologie-Lifecycles, um die Unternehmen der DSV-Gruppe erfolgreich zu machen.
+
+Nice-to-have skills
+
+PyTorch
+Python
+TensorFlow
+Python
+TensorFlow
+PyTorch
+Machine Learning
+Stuttgart, Baden-Württemberg, Germany
+
+Work experience
+
+Machine Learning
+
+Languages
+
+German

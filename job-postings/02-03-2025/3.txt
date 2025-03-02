@@ -1,0 +1,41 @@
+Voyager (94001), India, Bangalore, KarnatakaSenior Lead Machine Learning Engineer
+
+At Capital One India, we work in a fast paced and intellectually rigorous environment to solve fundamental business problems at scale. Using advanced analytics, data science and machine learning, we derive valuable insights about product and process design, consumer behavior, regulatory and credit risk, and more from large volumes of data, and use it to build cutting edge patentable products that drive the business forward.
+
+We’re looking for a Senior Lead Engineer to join the Machine Learning Experience (MLX) team! As a Capital One Senior Lead Engineer, you'll be part of a team focusing on observability and model governance automation for cutting edge generative AI use cases. You will work on building solutions to collect metadata, metrics and insights from the large scale Gen AI platform. And build intelligent and smart solutions to derive deep insights into platform's use-cases performance and compliance with industry standards.
+
+You will contribute to building a system to do this for Capital One models, accelerating the move from fully trained models to deployable model artifacts ready to be used to fuel business decisioning and build an observability platform to monitor the models and platform components.
+
+The MLX team is at the forefront of how Capital One builds and deploys well-managed ML models and features. We onboard and educate associates on the ML platforms and products that the whole company uses. We drive new innovation and research and we’re working to seamlessly infuse ML into the fabric of the company. The ML experience we're creating today is the foundation that enables each of our businesses to deliver next-generation ML-driven products and services for our customers.
+
+What You’ll Do:
+
+Architect and develop full stack solutions for monitoring, logging, and managing Generative AI , machine learning workflows and models. 
+Architect, build and deploy well-managed core APIs and SDKs for observability of LLMs and proprietary Foundation Models including training, pre-training, fine-tuning and prompting. 
+Work with model and platform teams to build systems that ingest large amounts of model and feature metadata and runtime metrics to build an observability platform and to make governance decisions to ensure ethical use, data integrity, and compliance with industry standards for Gen-AI. 
+Partner with product and design teams to develop and integrate advanced observability tools tailored to Gen-AI. 
+Leverage cloud-based architectures and technologies to deliver solutions for platform users providing deep insights into model performance, data flow, and system health. 
+Collaborate as part of a cross-functional Agile team, data scientists, ML engineers, and other stakeholders to understand requirements and translate them into scalable and maintainable solutions. 
+Use programming languages like Python, Scala, or Java
+Leverage continuous integration and continuous deployment best practices, including test automation and monitoring, to ensure successful deployments of machine learning models and application code. 
+
+Basic Qualifications:
+
+Master's Degree in Computer Science or a related field
+12+ years of experience in software engineering and solution architecture
+At least 8+ years of experience designing and building data intensive solutions using distributed computing
+At least 8+ years of experience programming with Python, Go, or Java
+Proficiency in observability tools such as Prometheus, Grafana, ELK Stack, or similar, with a focus on adapting them for Gen AI systems. 
+Excellent knowledge in Open Telemetry and priority experience in building SDKs and APIs. 
+Excellent communication skills, capable of articulating complex technical concepts to diverse audiences and driving cross-functional initiatives. 
+Experience developing and deploying ML platform solutions in a public cloud such as AWS, Azure, or Google Cloud Platform. 
+
+No agencies please. Capital One is an equal opportunity employer committed to diversity and inclusion in the workplace. All qualified applicants will receive consideration for employment without regard to sex (including pregnancy, childbirth or related medical conditions), race, color, age, national origin, religion, disability, genetic information, marital status, sexual orientation, gender identity, gender reassignment, citizenship, immigration status, protected veteran status, or any other basis prohibited under applicable federal, state or local law. Capital One promotes a drug-free workplace. Capital One will consider for employment qualified applicants with a criminal history in a manner consistent with the requirements of applicable laws regarding criminal background inquiries, including, to the extent applicable, Article 23-A of the New York Correction Law; San Francisco, California Police Code Article 49, Sections 4901-4920; New York City’s Fair Chance Act; Philadelphia’s Fair Criminal Records Screening Act; and other applicable federal, state, and local laws and regulations regarding criminal background inquiries.
+
+If you have visited our website in search of information on employment opportunities or to apply for a position, and you require an accommodation, please contact Capital One Recruiting at 1-800-304-9102 or via email at RecruitingAccommodation@capitalone.com . All information you provide will be kept confidential and will be used only to the extent required to provide needed reasonable accommodations.
+
+For technical support or questions about Capital One's recruiting process, please send an email to Careers@capitalone.com
+
+Capital One does not provide, endorse nor guarantee and is not liable for third-party products, services, educational tools or other information available through this site.
+
+Capital One Financial is made up of several different entities. Please note that any position posted in Canada is for Capital One Canada, any position posted in the United Kingdom is for Capital One Europe and any position posted in the Philippines is for Capital One Philippines Service Corp. (COPSSC).

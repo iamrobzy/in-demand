@@ -1,0 +1,76 @@
+VTRAC Consulting Corporation
+Intelligent Solutions
+
+Thank you for applying to VTRAC opportunities. Please e-mail your resume as an MS-WORD document in confidence Subject: Senior Software Engineer (ML/Web Development/Restful API), Attention: mask@vtrac.com or call: (647) 254-0770
+
+
+Position #: 251144
+Position: Senior Software Engineer (ML/Web Development/Restful API)
+Position Type: Contract
+No. of Positions: 1
+Location: Kitchener, ON
+
+
+
+Description
+
+This is a great opportunity for a self-driven problem solver to work on Quality Control Software Systems. As a software engineer consultant, you will be working through full software development cycles, creating new products and features in the Quality Control Software Application Suite. The team you will be on specializes in building microservices for industry 4.0 applications that run both on-prem and AWS. The current projects include Real-time Location Systems Integration and Machine Learning Vision Systems and Integrations. As part of the job, you are expected to participate in system engineering support for the production during our fixed support rotations. You will be expected to visit the production floor to understand the environment and processes in which the application will be used. Additionally, you will be expected to participate as part of the core SCRUM team.
+
+
+
+Responsibilities
+
+Take concepts directly from end users and process them through Agile Methodology
+Implement solutions in a mission-critical industrial environment
+Demonstrate exceptional problem-solving skills in software engineering
+Work in a start-up-like environment with access to cutting-edge AWS tech stacks
+Focus on delivering customer value while enhancing team technical skills
+System Design
+Implementation
+Integration
+Development Testing
+System Support and Maintenance
+
+
+
+Qualifications
+
+8+ years of IT background
+5+ years of hands-on experience with machine learning in computer vision, object detection, and classification.
+Experience in training, optimizing, and deploying object detection models (YOLO, SSD, Faster R-CNN, etc.).
+5+ years of experience with Restful API (.NET or Spring Boot)
+7+ years of experience with SPA web development (Angular or React)
+7+ years of experience with Relational Databases (Postgres, Oracle, MySql, or Microsoft SQL)
+2+ years of experience in developing Multi-threaded & Concurrent applications
+2+ years of experience with Socket programming
+2+ years of experience with Asynchronous applications
+2+ years of experience with implementing design patterns and software architectures
+2+ years of experience with Linux runtime environment
+2+ years of experience with Containers (Docker / Kubernetes)
+2+ years of experience with System Design
+2+ years of experience with Computer Networks
+2+ years of experience with Caches (Redis, Memcached)
+2+ years of experience with Message Queues
+
+
+Nice to Have Technical Skills
+
+Cloud (AWS, Azure, or GCP)
+.NET
+Software build, deployment, and maintenance using build tools, IIS, and Windows Servers
+Java
+NoSql Databases
+Mobile App Development
+Industrial Protocols (OPC, PLC, Modbus, RFID)
+Embedded Systems
+Signal Processing
+Image Processing
+Message Queues (MQTT, Kafka, RabbitMQ, etc.)
+Operating System (Windows, RHEL)
+DevOps (Terraform, Ansible, Jenkins)
+
+
+We thank all candidates in advance. Only selected candidates for interviews will be contacted. For other exciting opportunities, please visit us at www.vtrac.com. VTRAC is an equal-opportunity employer.
+
+
+Toronto . Houston . New York . Palo Alto

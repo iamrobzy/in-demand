@@ -1,0 +1,16 @@
+Company Description
+Gnosis Health is a pioneering digital health company focused on AI-driven solutions for chronic disease management. Our core technology, including the intelligent digital health assistant MAXine, leverages advanced machine learning to provide personalised, real-time support for individuals managing chronic conditions. By integrating federated learning, explainable AI (XAI), and Bayesian adaptive modelling, Gnosis Health delivers secure, scalable, and clinically informed interventions while maintaining a strong commitment to data privacy, user trust, and regulatory compliance.
+
+Role Description
+Gnosis Health is seeking a Machine Learning Engineer to drive the development of AI-powered healthcare solutions. Based in Newcastle upon Tyne with remote work flexibility, this full-time hybrid role will involve designing, training, and optimising machine learning models that enhance MAXine’s predictive capabilities and patient engagement. The role will require deep learning, pattern recognition, and real-time data processing expertise to ensure the system adapts dynamically to individual user needs while meeting healthcare compliance standards.
+Qualifications
+Strong proficiency in machine learning model development and optimisation
+Expertise in pattern recognition, neural networks, and algorithm design
+Solid foundation in computer science, statistics, and data engineering
+Experience with federated learning, Bayesian inference, or explainable AI (XAI) is highly desirable
+Understanding of healthcare data regulations and privacy standards (GDPR, HIPAA, MHRA, FDA) is a plus
+Excellent problem-solving and analytical skills
+Ability to work effectively in a collaborative, hybrid environment
+Master’s or Ph.D. in Computer Science, Machine Learning, AI, or a related field
+
+This is an exciting opportunity to contribute to cutting-edge AI applications that transform chronic disease management and personalised healthcare delivery.

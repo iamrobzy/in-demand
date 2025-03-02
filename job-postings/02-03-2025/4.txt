@@ -1,0 +1,32 @@
+Somos una empresa tecnológica que opera a nivel global. Si te apasiona la tecnología y crees en su capacidad para transformar el mundo, ARQUIMEA es tu sitio. ¡Únete!
+
+ARQUIMEA, we are a technology company operating globally and providing innovate solutions and products in highly demanding sectors.
+
+Our areas of activity are Aerospace, Defense & Security, Big Science, Biotechnology and Fintech.
+
+ARQUIMEA Research Center (ARC), part of ARQUIMEA , was born in 2019 with the aim of inventing the technologies of tomorrow. An environment of innovation and excellence at European level from which senior and junior researchers from around the world develop disruptive technologies and business models that will serve as an engine of socio-economic growth in the medium and long term.
+
+We are looking for a Machine Learning Engineer to develop, train and optimize classical, quantum and hybrid deep neural network models for prediction use cases: time series forecasting and 3D/volumetric reconstruction.
+
+Tasks To Be Performed
+
+Data preparation and analysis for real and synthetic training datasets.
+Collaborate with scientific researchers to design, implement and test deep neural network methods under the classical, quantum, and hybrid neural networks paradigms.
+Collaborate with scientific researchers to analyze the implementation of state-of-the-art methods.
+Conduct hyperparameter tuning of the models and optimize the consumption of resources when training the models.
+Collaborate with scientific researchers to conduct experimental validation of new methods, and benchmarking with respect to state-of-the-art methods.
+
+Required Skills, Experience And Candidate Profile
+
+Degree or Master´s degree in engineering or another relevant field.
+Strong Python programming skills, with experience in ML frameworks like PyTorch.
+Deep understanding of artificial intelligence and machine learning, including deep learning architectures and experience with time series forecasting.
+Experience with version control and containerization, including Git and Docker.
+
+Additionally, we will also value experience in the following areas:
+
+Knowledge of quantum computing, including quantum algorithms, and quantum machine learning approaches.
+
+Think Big, Do the Job & Enjoy Life
+
+At ARQUIMEA, we value diversity and inclusion. We do not discriminate on the basis of race, color, religion, gender, sexual orientation, gender identity, national origin, age, disability, or other protected factors by law. All candidates will be considered equally based on their skills and experience
