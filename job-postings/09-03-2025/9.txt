@@ -1,0 +1,37 @@
+Junior Data Scientist/Machine Learning Engineer 
+
+Location: Cologne, hybrid
+Contract: Permanent
+
+Are you interested in the next big challenge?
+Our client is a big (2k employees in all major cities in Germany) company with several digital products and services on the market that make easier daily life of their customers.
+You will find the dynamics of e-commerce, agile processes, flat hierarchies and steep development curves.
+Now they are looking for a Junior Data Scientist/Machine Learning Engineer with a strong interest in building end-to-end solutions.
+
+
+Requirements:
+
+Good degree, e.g. in data science, (business) informatics, mathematics, physics or statistics
+First practical professional experience in data science projects, preferably with first insights into ranking and recommendation systems
+Sound knowledge of the Python data science stack (Pandas, SKLearn, SciPy) as well as experience with deep learning frameworks (Pytorch, Tensorflow)
+Creativity and curiosity in applying the latest algorithms from the field of data science to optimize their products
+Motivation for interdisciplinary work between IT and product management and for knowledge exchange within the company’s Data Science Community
+Very good written and spoken German and English skills
+
+Responsibilities:
+
+You are significantly involved in setting up a data science department, automating related business processes and delivering individually tailored results to the customers
+You create new machine learning services with a focus on recommendation and ranking systems, information extraction and predictions, including conceptual design, data preparation, model training and evaluation, and subsequent preparation for go-live
+You manage your training experiments with modern MLOps frameworks such as MLFlow and help to take the product to the next level
+You integrate your models into the product both in terms of content and technology, using cloud technologies (AWS) for example and in close cooperation with the development team
+You keep yourself up to date with the latest developments in machine learning and think with your team about how you can use generative AI models such as Transformers or ChatGPT, for example
+You work in a cross-disciplinary team in direct cooperation with product managers, developers and business intelligence managers
+
+Benefits:
+
+Flexible working time model with four days per week in the office and one day flexibly from the office or from home.
+Personal growth: they support your development with further training and regular feedback meetings to recognize and develop your strengths and potential.
+Open-ended contracts with an attractive and performance-oriented salary package including annual bonuses. As well as fitness cooperations, subsidized company bicycle leasing, etc.
+Independent, agile work in small teams with a strong team spirit. Short decision-making processes.
+An ergonomic workplace with modern equipment, including two additional screens and height-adjustable desks, from your first day at work.
+And much more.

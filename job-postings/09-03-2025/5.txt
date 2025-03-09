@@ -1,0 +1,27 @@
+Responsibilities
+About TikTok
+TikTok is the leading destination for short-form mobile video. At TikTok, our mission is to inspire creativity and bring joy. TikTok's global headquarters are in Los Angeles and Singapore, and its offices include New York, London, Dublin, Paris, Berlin, Dubai, Jakarta, Seoul, and Tokyo. 
+
+Why Join Us
+Creation is the core of TikTok's purpose. Our products are built to help imaginations thrive. This is doubly true of the teams that make our innovations possible. Together, we inspire creativity and enrich life - a mission we aim towards achieving every day. To us, every challenge, no matter how ambiguous, is an opportunity; to learn, to innovate, and to grow as one team. Status quo? Never. Courage? Always. At TikTok, we create together and grow together. That's how we drive impact-for ourselves, our company, and the users we serve. Join us.
+
+TikTok-Data Video Recommendation Team is responsible for the personalized recommendation algorithms for TikTok's hundreds of millions of global users. Here, you will collaborate with top algorithm engineers in the industry, leveraging your expertise in deep learning, recommendation algorithms, and large models to continuously transform and enhance the TikTok user experience and content ecosystem.
+In particular, the local service recommendation team focuses on targeting user experience and transaction scale optimization for lifestyle service content, including hotels, travel, dining, and more. This role aims to pioneer new content and revenue streams for the company.
+
+About TikTok Location Products
+We creatively connect various products and services related to life through various products such as Points of Interest (POI), videos, LIVE, and search, making users' daily life experiences richer, more unique, and innovative. At the same time, we will also create a business environment which is inclusive, fair, and healthy, helping businesses, service providers, creators, and other stakeholders to continuously generate more income and improve service efficiency. We firmly believe that through innovation and efforts in life services, we can jointly shape a better and more fulfilling life.
+
+Responsibilities:
+1. Responsible for developing transaction recommendation algorithms for international local services. Collaborate with the team to build an industry-leading recommendation system, accurately recommending local service products to hundreds of millions of global users, increasing transaction volume, and enhancing the user transaction experience.
+2. Proficient in core algorithms related to recommendations, with a deep understanding of machine learning, deep learning, and LLM algorithms applied in video, live streaming, geographic location, and product recommendation systems. Optimize recall strategies, model architectures, and multi-objective optimization mechanisms to improve recommendation efficiency and accuracy.
+3. Drive the integration of local service transaction optimization with industry knowledge. Conduct in-depth analysis of the characteristics of the local services industry, focusing on typical domains such as hotels, travel, and dining. Combine industry knowledge with recommendation algorithms to enhance user transaction experiences, improve conversion efficiency, and facilitate scalable growth of GMV in local services.
+4. Optimize user transaction and decision-making experiences. Conduct in-depth research on user discovery behaviors, leveraging data mining and analytical techniques to improve user interactions during transactions and overall experience. Strengthen user trust and loyalty to the platform.
+
+Qualifications
+Minimum Qualifications:
+1. Master's degree or above in computer science or a related field.
+2. Strong programming skills with a solid foundation in machine learning/deep learning; candidates with experience in recommendation systems, computational advertising, search engines, or LLM-related fields will be preferred.
+3. Passionate about recommendation algorithms and machine learning, with a willingness to learn, think critically, delve deeply, and innovate.
+4. Excellent problem analysis and solving skills, along with strong communication abilities and a collaborative team spirit.
+
+TikTok is committed to creating an inclusive space where employees are valued for their skills, experiences, and unique perspectives. Our platform connects people from across the globe and so does our workplace. At TikTok, our mission is to inspire creativity and bring joy. To achieve that goal, we are committed to celebrating our diverse voices and to creating an environment that reflects the many communities we reach. We are passionate about this and hope you are too.

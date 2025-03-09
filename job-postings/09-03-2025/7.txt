@@ -1,0 +1,52 @@
+Responsibilities
+TikTok is the leading destination for short-form mobile video. At TikTok, our mission is to inspire creativity and bring joy. TikTok's global headquarters are in Los Angeles and Singapore, and its offices include New York, London, Dublin, Paris, Berlin, Dubai, Jakarta, Seoul, and Tokyo. 
+
+Why Join Us
+Creation is the core of TikTok's purpose. Our platform is built to help imaginations thrive. This is doubly true of the teams that make TikTok possible. 
+Together, we inspire creativity and bring joy - a mission we all believe in and aim towards achieving every day. 
+To us, every challenge, no matter how difficult, is an opportunity; to learn, to innovate, and to grow as one team. Status quo? Never. Courage? Always. 
+At TikTok, we create together and grow together. That's how we drive impact - for ourselves, our company, and the communities we serve. 
+Join us. 
+
+Our Trust and Safety RD team is fast-growing and responsible for building machine learning models and systems to identify and defend internet abuse and fraud on our platform. Our mission is to protect billions of users and publishers across the globe every day. We embrace state-of-the-art machine learning technologies and scale them to detect and improve the tremendous amount of data generated on the platform. With the continuous efforts of our team, TikTok can provide the best user experience and bring joy to everyone in the world.
+
+We are looking for people like you with solid experience in designing and deploying state-of-the-art models in the combination of NLP and CV-related areas. This position will work with a team of excellent research scientists and machine learning engineers who can take initiative, design and develop advanced machine learning solutions, and deploy them directly to TikTok's global platform. 
+
+Responsibilities - What You'II Do
+- Responsible for a whole sub-module in moderation system or a research direction including but not limited to LLM and application in Safety, moderation system iteration.
+- Work with team members to design next-generation moderation systems with new technologies.
+- Work on Neural Network models and LLM-based models to solve TikTok online safety problems.
+- Work with engineering teams to implement model pipelines and deploy the service at scale.
+- Collaborate with the product team to define objectives and improve trust and safety strategy.
+- Collaborate with data analysis to understand and find data patterns.
+
+Qualifications
+Minimum Qualifications:
+- Minimum of 3 years experience in one or more of the areas: machine learning, deep learning, computer vision, content understanding.
+- BS/MS degree in Computer Science, Electrical Engineering, Operation Research, Applied Mathematics or similar quantitative fields.
+- Skilled in deep learning model training(CV/NLP/NN), serving, and optimization. 
+- Proficient in deep learning frameworks such as PyTorch and TensorFlow.
+- Hands-on experience in one or more of the following areas: machine learning (CV/NLP/Multimodal), active learning, Large Language Models, Recommendation Systems, and related areas.
+- Strong coding skills, especially in Python and similar languages.
+- Good communication and teamwork skills, passionate about learning new techniques and taking on challenging problems.
+
+Preferred Qualifications:
+- Experienced in large-scale online machine learning platforms is preferred.
+- Experiences in active learning, reinforcement learning, and LLM are a plus.
+- Experience in trust and safety areas is a plus.
+
+TikTok is committed to creating an inclusive space where employees are valued for their skills, experiences, and unique perspectives. Our platform connects people from across the globe and so does our workplace. At TikTok, our mission is to inspire creativity and bring joy. To achieve that goal, we are committed to celebrating our diverse voices and to creating an environment that reflects the many communities we reach. We are passionate about this and hope you are too. 
+
+TikTok is committed to providing reasonable accommodations in our recruitment processes for candidates with disabilities, pregnancy, sincerely held religious beliefs or other reasons protected by applicable laws. If you need assistance or a reasonable accommodation, please reach out to us at https://shorturl.at/cdpT2 
+
+Job Information
+【For Pay Transparency】Compensation Description (Annually)
+The base salary range for this position in the selected city is $184300 - $337250 annually.
+Compensation may vary outside of this range depending on a number of factors, including a candidate’s qualifications, skills, competencies and experience, and location. Base pay is one part of the Total Package that is provided to compensate and recognize employees for their work, and this role may be eligible for additional discretionary bonuses/incentives, and restricted stock units.
+Benefits may vary depending on the nature of employment and the country work location. Employees have day one access to medical, dental, and vision insurance, a 401(k) savings plan with company match, paid parental leave, short-term and long-term disability coverage, life insurance, wellbeing benefits, among others. Employees also receive 10 paid holidays per year, 10 paid sick days per year and 17 days of Paid Personal Time (prorated upon hire with increasing accruals by tenure).
+The Company reserves the right to modify or change these benefits programs at any time, with or without notice.
+For Los Angeles County (unincorporated) Candidates:
+Qualified applicants with arrest or conviction records will be considered for employment in accordance with all federal, state, and local laws including the Los Angeles County Fair Chance Ordinance for Employers and the California Fair Chance Act. Our company believes that criminal history may have a direct, adverse and negative relationship on the following job duties, potentially resulting in the withdrawal of the conditional offer of employment:
+1. Interacting and occasionally having unsupervised contact with internal/external clients and/or colleagues;
+2. Appropriately handling and managing confidential information including proprietary and trade secret information and access to information technology systems; and
+3. Exercising sound judgment.

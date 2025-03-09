@@ -1,0 +1,54 @@
+About Influur
+
+Influur is the first startup that works as an app-based marketplace by directly creating jobs for Influencers, Creators, and Brands around the world. The company was born from the communication struggles between influencers and brands, an experience that like many others, our founding team had at some point in their careers. We have created a streamlined solution built from the influencer perspective, making Influur the first platform where influencers feel they belong in a professional space.
+
+At Influur, our leadership team loves working side by side with our team, providing unique opportunities to grow and develop, professionally and personally. Also, since day one, we have been truly people oriented as we understand the value of co-creating while offering a unique employee experience.
+
+The Role 
+
+We are seeking a highly skilled and motivated Machine Learning Engineer to join our team. As our first dedicated MLE, this role requires a self-driven individual with exceptional leadership and communication abilities. You will be responsible for designing, implementing, and deploying ML models that directly impact our product and customers, collaborating closely with cross-functional teams to drive data-driven decision-making and innovation.
+
+Key Responsibilities
+
+Design, develop, and deploy machine learning models to improve influencer-brand matching, content recommendations, and other core platform features.
+Build scalable and production-ready ML pipelines that support real-time and batch processing.
+Ensure model accuracy, performance, and robustness through rigorous testing and evaluation.
+Work closely with product managers, engineers, and data scientists to define ML objectives and integrate models into our platform.
+Lead ML initiatives and evangelize best practices across the organization.
+Support in the recruiting process of future ML hires.
+Provide mentorship and guidance to future ML hires.
+Partner with data engineers to ensure the availability of high-quality training data.
+Analyze large-scale influencer marketing data to uncover insights and inform ML strategies.
+Develop and maintain feature engineering pipelines to enhance model performance.
+Leverage cloud platforms (AWS, GCP) to deploy and scale ML solutions.
+Optimize ML workflows for efficiency and cost-effectiveness.
+Establish monitoring and continuous improvement frameworks for deployed models.
+
+Desired Background
+
+6+ years of experience in machine learning engineering, with a track record of deploying ML models in production environments.
+Strong proficiency in Python and ML frameworks such as TensorFlow, PyTorch, or Scikit-learn.
+Experience with data processing frameworks such as Spark or distributed computing.
+Knowledge of MLOps best practices, including CI/CD for ML models.
+Strong understanding of deep learning, NLP, recommendation systems, and computer vision.
+Excellent problem-solving skills and ability to work independently in an ambiguous environment.
+Exceptional communication skills and the ability to collaborate effectively with cross-functional teams.
+
+Bonus Skills
+
+Experience in influencer marketing, social media analytics, or similar domains.
+Familiarity with cloud platforms like AWS or GCP.
+Understanding of data engineering tools such as Airflow, dbt, or BigQuery.
+Experience in working with graph-based or recommendation systems.
+
+$200,000 - $250,000 a year
+
+Gross salary
+
+What Makes Us Unique
+
+At Influur, we’re committed to your growth and development every step of the way 🚀
+You’ll thrive in a diverse, fast-paced startup environment ⚡
+You’ll collaborate with a world-class team that pushes boundaries and inspires greatness 👩🚀👨🚀
+Our one-of-a-kind culture will bring out the very best in you! 🧡
+Plus, you’ll have access to real stock options—because we believe in sharing success! 💹

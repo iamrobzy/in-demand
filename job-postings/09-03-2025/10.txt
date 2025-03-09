@@ -1,0 +1,5 @@
+Skill: at least 3 years of experience on the following:
+Machine Learning - Decision Trees, Random Forests, Rule Mining, Clustering, PCA, Support Vector Machine, Ensemble techniques
+Deep Learning - Neural networks, multilayer perceptron, word embeddings, categorical embedding, RNN and LSTM, word2vec, encoder/decoder models, attention and transformer models, transfer learning (ULMFiT), foundation models from Azure Open AI
+Database - Snowflake, Oracle, Graph database
+Programming & Scripting - Python, R, Unix-Shell scripting, PySpark

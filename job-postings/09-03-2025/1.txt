@@ -1,0 +1,35 @@
+About The Role
+
+Customer Obsession AI team's mission is to transform customer support by creating highly efficient and magical support experiences for Uber customers by leveraging the power of data and AI. We specialize in NLP, GenerativeAI and Computer Vision. We are building autonomous GenAI Conversational Assistants for customer support and Agent Co-pilot systems that can provide intelligent, personalized and empathetic support. We are solving challenges such as multilingual (80+ languages) and multi-modal (images + text for now and in future voice) conversational intelligence, autonomous reasoning and policy-adherence, and AgenticAI. We are a full-stack AI team working on LLM research, rapid model prototyping, robust evaluation and monitoring systems, and reliable infrastructure for deployment at Uber scale.
+
+\\-\\-\\-\\- What You Will Do ----
+
+Design and implement machine learning models and algorithms for customer support use cases.
+Apply advanced statistical and machine learning techniques to generate insights and improve customer support experience.
+Define success metrics and develop dashboards to monitor and visualize the performance of ML models in production.
+Work closely with cross-functional teams, including Product, Engineering, and Data Science, to translate business requirements into ML solutions.
+Mentor and provide technical guidance to junior ML engineers and data scientists.
+Stay up-to-date with the latest research and advancements in machine learning, generative AI.
+
+\\-\\-\\-\\- Basic Qualifications ----
+
+Bachelor's degree or equivalent experience in Computer Science, Computer Engineering, Data Science, ML, Statistics, or other quantitative fields.
+Proven experience with designing and implementing machine learning models in production environments applied to generative AI, applications of large language models.
+Proficiency in using Python for developing ML models and handling large-scale data sets.
+Hands-on experience with building batch data pipelines.
+
+\\-\\-\\-\\- Preferred Qualifications ----
+
+PhD in Computer Science with a focus on Machine Learning.
+Experience with the latest NLP and Generative AI technologies.
+2 years of software engineering experience.
+
+For San Francisco, CA-based roles: The base salary range for this role is USD$198,000 per year - USD$220,000 per year.
+
+For Sunnyvale, CA-based roles: The base salary range for this role is USD$198,000 per year - USD$220,000 per year.
+
+For all US locations, you will be eligible to participate in Uber's bonus program, and may be offered an equity award & other types of comp. You will also be eligible for various benefits. More details can be found at the following link [](;br>
+
+Uber is proud to be an Equal Opportunity/Affirmative Action employer. All qualified applicants will receive consideration for employment without regard to sex, gender identity, sexual orientation, race, color, religion, national origin, disability, protected Veteran status, age, or any other characteristic protected by law. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. If you have a disability or special need that requires accommodation, please let us know by completing [this form](;br>
+
+Offices continue to be central to collaboration and Uber's cultural identity. Unless formally approved to work fully remotely, Uber expects employees to spend at least half of their work time in their assigned office. For certain roles, such as those based at green-light hubs, employees are expected to be in-office for 100% of their time. Please speak with your recruiter to better understand in-office expectations for this role.
