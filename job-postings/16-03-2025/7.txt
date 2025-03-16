@@ -1,0 +1,45 @@
+Quadric has created an innovative general purpose neural processing unit (GPNPU) architecture. Quadric's co-optimized software and hardware is targeted to run neural network (NN) inference workloads in a wide variety of edge and endpoint devices, ranging from battery operated smart-sensor systems to high-performance automotive or autonomous vehicle systems. Unlike other NPUs or neural network accelerators in the industry today that can only accelerate a portion of a machine learning graph, the Quadric GPNPU executes both NN graph code and conventional C++ DSP and control code.
+
+Role
+
+The Field Application Engineer (FAE) will work closely with Business Development, Product, and Engineering to provide pre-and post-sales technical customer support. This position requires excellent customer communication and troubleshooting skills to conduct remote and on-site training and product presentations. This position is a technical position that will require additional skills such as system debugging, coding, scripting. Candidates are expected to work independently and acquire expert-level skills with the in-house built product line including HPC Hardware (IP, Chips, Boards), SDK, Algorithms (NN, DSP, Vision, Path Planning, etc.).
+
+Responsibilities
+
+Work with Business Development to sell the technology from quadric.io
+Work with customers to install SDK and algorithms and analyze customer systems to determine the best HW/SW solutions for their system.
+Analyze technological problems brought in by customers and communicate with engineering for the best solution..
+Work with business development to prepare technical proposals and statements of work, working with the customer to gather requirements.
+Set up regular technical discussions with customers to help them understand quadric deliverables and resolving customer issues with engineering support as well as conduct regular follow-up and monitoring.
+Deliver periodic training sessions
+Coordinate with the Sales and Engineering team in designing proper application systems and formulating the product specifications according to the customer's needs.
+Interface with product marketing and engineering
+Conduct project feasibility studies
+Some travel required
+
+Requirements
+
+Bachelor’s in computer science and/or Electronics Engineering field. 
+Minimum 3+ years experience working with customers/business development supporting SDKs. 
+Must be able to demonstrate basic knowledge of software perception systems, and/or Computer Vision. 
+Proficiency in Python.
+Experience describing, building, running and deploying Docker containers.
+Experience with Linux or Unix based operating systems.
+Experience with at least one of the following neural network / machine learning frameworks: PyTorch, Tensorflow, Tensorflow-Lite.
+Experience quantizing, running and debugging neural networks with ONNX runtime a plus.
+Experience supporting parallel C / C++ languages a plus (CUDA, OpenVX, NEON, etc.)
+Solid understanding of intermediate git concepts such as branching, rebasing, merge conflict resolution, etc.
+Ability to methodically debug problems, relay information to the engineering team, and test and deploy system updates and upgrades. 
+
+Benefits
+
+Health Care Plan (Medical, Dental & Vision)
+Retirement Plan (401k, IRA)
+Life Insurance (Basic, Voluntary & AD&D)
+Paid Time Off (Vacation, Sick & Public Holidays)
+Family Leave (Maternity, Paternity)
+Short Term & Long Term Disability
+Training & Development
+Work From Home
+Free Food & Snacks
+Stock Option Plan

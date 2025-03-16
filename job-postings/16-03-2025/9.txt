@@ -1,0 +1,60 @@
+True Zero Technologies, a veteran-owned small business, was founded on the principle that the purposeful enablement of people and technology in an organization directly ties to the quality of its outcomes. True Zero recognizes that said outcomes begin and end with our people, and that is what we have built, a community of like-minded, driven, and passionate individuals and innovators who are aligned in a common goal of delivering top tier services to our customers. In 2023, True Zero was recognized as a “Best Places to Work” in two categories ("Prosperous and Thriving" ($5MM – $50MM in gross revenue) and "Mid-Atlantic Region" (DC, DE, MD, NC, VA, WV)) and in 2022, was recognized as one of Inc. Magazine’s Top 5000 Fastest Growing Companies.
+
+True Zero Technologies is looking for qualified candidates to fulfill the role of Senior AI/ML Engineer
+
+Job Description
+
+As a Senior AI/ML Engineer, you should possess solid industry experience in the public sector and/or commercial spaces; relevant technical certifications; and proven experience implementing and optimizing AI/ML solutions. You should have experience with both traditional ML algorithms and modern generative AI systems, particularly Large Language Models (LLMs). This position requires strong technical, communications, and problem-solving skills, and the ability to engage and interact with numerous teams. The ideal candidate will have a passion for delivering innovative AI solutions, the ability to think outside of the box, and be attentive to detail. Candidates should possess the following qualifications and be able to demonstrate deep competency in most of the requirements listed below:
+
+Qualifications / Requirements
+
+Experience: Minimum 5 years in AI/ML engineering, conducting model development, evaluation, and deployment
+Citizenship: U.S. citizenship required; willing to undergo U.S. Government background investigation
+Technical Proficiency: Experience with PyTorch, TensorFlow, Keras, Hugging Face, LangChain, OpenAI API, and cloud platforms
+Data Management: Experience with vector databases (Pinecone, Weaviate, Qdrant, Chroma) and RAG architectures
+GenAI Expertise: Advanced prompt engineering, LLM fine-tuning, and hands-on experience with GenAI tools (GPT, DALL-E)
+Evaluation: Experience in model evaluation, monitoring, validation, benchmarking, and deployment
+Methodologies: Strong understanding of AI frameworks, deep learning architectures, and supervised/unsupervised learning
+Governance: Familiarity with NIST AI RMF, AI Executive Order, ethical principles, and security best practices
+Communication: Excellent written and verbal skills to convey technical information to diverse audiences
+Testing: Experience with multimodal models, retrieval systems, agent frameworks, and A/B testing
+Education: Bachelor's Degree in Computer Science, Data Science, Engineering, or related field preferred
+Possess three or more of the following: 
+AWS Certified Machine Learning – Specialty
+Microsoft Certified: Azure AI Engineer Associate
+Google Cloud Professional Machine Learning Engineer
+TensorFlow Developer Certificate
+IBM AI Engineering Professional Certificate
+Certified AI Practitioner (CAIP)
+NVIDIA Deep Learning Institute (DLI) Certification
+Certified AI Ethics and Governance Professional (CAEGP)
+
+
+Responsibilities
+
+Model Development: Implement, optimize, and fine-tune GenAI and traditional ML algorithms to meet performance standards
+RAG Expertise: Design, develop, and implement RAG systems for unstructured data analysis
+Technical Leadership: Lead AI/ML projects with focus on GenAI/LLM implementations and emerging technologies
+Performance Management: Monitor, evaluate, and improve model performance; identify optimization opportunities
+Tool Utilization: Leverage common AI/ML tools (AWS Bedrock, TensorFlow, PyTorch) and custom frameworks for specialized applications
+Governance & Risk: Assess model risks, biases, and vulnerabilities according to responsible AI guidelines and regulatory requirements
+Integration: Work with cross-functional teams to integrate AI/ML solutions into broader systems
+Reporting: Deliver technical reports on model performance and actionable recommendations
+Client Collaboration: Engage with clients and stakeholders throughout project lifecycle
+Team Development: Coach, mentor junior AI/ML team members; provide professional development
+MLOps: Implement practices to automate model deployment, monitoring, and lifecycle management
+Security & Privacy: Ensure solutions comply with 2025 regulatory standards and security requirements
+
+
+We’re actively searching for talented security and technology practitioners who are ready to experience the True Zero difference. As a True Zero team member, you'll enjoy:
+
+Competitive salary, paid twice per month
+Best in class medical coverage
+100% of medical premiums covered by True Zero
+Company wide new business incentive programs
+Contribution Incentives (i.e. white papers, blog posts, internal webinars, etc.)
+3 weeks of PTO starting + 11 Paid Holidays Annually
+401k Program with 100% company match on the first 4%
+Monthly reimbursement of Cell Phone and Home Internet costs
+Paternity/Maternity Leave
+Investment in training and certifications to broaden and deepen your technical skills

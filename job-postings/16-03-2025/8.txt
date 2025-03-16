@@ -1,0 +1,46 @@
+Para qual empresa estamos trabalhando?
+
+Se você deseja fazer parte de projetos que utilizam tecnologias de ponta, transformando #inovação em realidade, seu lugar é com a gente!
+
+Na Mobit Tecnologia você encontrará um ambiente que valoriza feedback, equipes de alta performance, aprendizado contínuo e cultura de #colaboração entre os times, pois aqui temos #focoempessoas. Juntos criamos soluções inteligentes com #focoemresultados para sustentabilidade do negócio.
+
+Nosso propósito é promover o bem-estar da sociedade preservando vidas.
+
+O que você irá fazer?
+
+Desenvolver, treinar, implementar e monitorar modelos avançados de Visão Computacional, incluindo redes neurais convolucionais, modelos de segmentação, detecção e classificação.
+Otimizar modelos de aprendizado profundo para reduzir latência e consumo de recursos.
+Garantir a implantação de modelos em diferentes plataformas (nuvem, edge devices, etc).
+Monitorar o desempenho dos modelos em produção e implementar melhorias contínuas.
+Resolver problemas relacionados a desempenho e precisão dos modelos.
+Documentar código, pipelines e experimentos realizados.
+Treinar e acompanhar membros da equipe mais juniores, compartilhando conhecimentos e boas práticas.
+
+O que você precisa ter?
+
+Programação avançada em Python (3.6 ou superior) e C/C++ (11 ou superior).
+Conhecimento em padrões de projeto, TDD, testes automatizados e boas práticas de código (PEP8 e Google C++ Style Guide).
+Experiência com modelagem em Visão Computacional e otimização de modelos de aprendizado profundo.
+Monitoramento e melhoria contínua de modelos em produção.
+Documentação de processos e fluência em inglês intermediário para consulta de literatura.
+
+Diferenciais Desejáveis
+
+Experiência com ferramentas de rastreamento de modelos (Neptune, MLflow, Apache Airflow) e desenvolvimento de APIs (FastAPI, Flask, Streamlit).
+Conhecimento em técnicas de redução de dimensionalidade, otimização de hiperparâmetros e MLOps (Jenkins, GitHub Actions, Kubeflow).
+Familiaridade com sistemas distribuídos e cloud (AWS, GCP, Azure) e integração de grandes volumes de dados (Apache Spark, Hadoop).
+
+O que a empresa oferece?
+
+Um ambiente que valoriza feedbacks;
+Cultura de colaboração entre os times;
+Equipe de alto nível e aprendizado contínuo;
+Plano de saúde e odontológico;
+Cartão benefício / Auxílio home-office.
+Bônus por indicação.
+Convênio com instituições de ensino.
+
+Informações adicionais
+
+Modelo de contrato: CLT ou PJ
+Modelo atuação: híbrido - Fortaleza/CE

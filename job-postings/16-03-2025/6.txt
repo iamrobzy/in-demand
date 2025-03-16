@@ -1,0 +1,51 @@
+FM is a leading property insurer of the world's largest businesses, providing more than one-third of FORTUNE 1000-size companies with engineering-based risk management and property insurance solutions. FM helps clients maintain continuity in their business operations by drawing upon state-of-the-art loss-prevention engineering and research; risk management skills and support services; tailored risk transfer capabilities; and superior financial strength. To do so, we rely on a dynamic, culturally diverse group of employees, working in more than 100 countries, in a variety of challenging roles.
+
+As a Senior Machine Learning Engineer, you will be a key member of our Data Science team, focusing on translating business needs into actionable analytics and advanced AI solutions. This role offers the opportunity to innovate, explore, and build solutions for FM using emerging technologies.
+
+Responsibilities
+
+Engineer and optimize machine learning models for deployment in production environments.
+Develop and deploy machine learning and AI models on cloud platforms.
+Collaborate with Data Scientists, ML Ops Engineers, and Data Engineers to deliver scalable solutions to business problems in property insurance.
+Partner with ML Platform, Data Delivery, and Product teams to ensure smooth deployment and monitoring.
+Coach the team on MLOps best practices to ensure stability and scalability in ML projects.
+Conduct thorough testing to ensure model reliability and performance.
+Maintain reproducibility and consistency of experiments across different environments.
+Implement and manage version control and code management practices for models and data.
+Monitor model performance in production and address any issues promptly, including responding to urgent support tickets. 
+
+Your projects will be interesting, exciting, and challenging! You will use your skills to advance the mission and goals of FM.
+
+Basic Qualifications
+
+Bachelor’s degree in data science, Machine Learning, Computer Science, Software Engineering, Statistics, or a related field.
+8+ years of experience in end-to-end data science/ML product development.
+3+ years of experience leading data science/ML product development.
+Experience with MLflow and ML platforms such as Databricks.
+Proficiency in Python or R.
+Experience in risk management and/or property insurance is strongly preferred.
+
+Preferred Qualifications
+
+Advanced degree in one of the fields listed above.
+8+ years of experience in end-to-end data science/ML product development.
+3+ years of experience leading data science/ML product development.
+Advanced knowledge and working experience in at least one of the following areas:
+Generalized Linear Models (Logistic Regression, Zero-Inflated Models, etc.)
+Model Regularization
+Probability Distributions
+Hypothesis Testing
+Statistical Inference
+Machine Learning (Random Forest, Clustering, Gradient Descent, Gradient Boosting, etc.)
+Simulation
+Experiment Design
+Non-Parametric Statistics
+Experience in risk management and/or property insurance is strongly preferred.
+
+Qualified candidates will be considered for a Machine Learning Engineer or a Senior Machine Learning Engineer role.
+
+The final salary offer will vary based on geographic location, individual education, skills, and experience. The position is eligible to participate in FM’s comprehensive Total Rewards program that includes an incentive plan, generous health and well-being programs, a 401(k) and pension plan, career development opportunities, tuition reimbursement, flexible work, time off allowances and much more.
+
+FM is an Equal Opportunity Employer and is committed to attracting, developing, and retaining a diverse workforce.
+
+#FMG

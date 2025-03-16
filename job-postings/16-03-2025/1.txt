@@ -1,0 +1,43 @@
+About The Role
+
+We are looking for exceptional engineers to build systems for our very own employees and our customers. Our mission is to enhance Uber's corporate speed, reliability and worker happiness by building products, integrations and platforms. You will work closely with a highly capable team of engineers, data scientists, designers and product managers to ensure Uber's internal products and platforms are a powerful and innovative business advantage. The uSearch team is a part of BizTech that builds scalable, reliable, near realtime and robust enterprise integrations of a plethora of applications and services we build and use at Uber.
+
+What You'll Do
+
+Apply leading Models to solve business problems
+Use models from GPT-* to LLama-* to solve wide range of business problems from sales tech, employee productivity, coding and automation
+Build RAG frameworks 
+Build Langchain modules
+Model Development and Implementation:
+Design, develop, and deploy machine learning models to solve complex problems and improve user experiences, operational efficiency, or system performance. 
+Utilize a variety of data sources, types, and structures to extract actionable insights through predictive analytics and data mining techniques. 
+Research and Innovation:
+Stay abreast of the latest developments in the field of machine learning and artificial intelligence. Evaluate emerging trends and technologies for potential adoption to maintain and expand competitive advantage. 
+Lead research initiatives that test new algorithms, evaluate new methodologies, and explore innovative uses of data that can lead to scalable solutions. 
+Team Leadership and Development:
+Lead and mentor a team of machine learning engineers and data scientists. Ensure the continuous professional growth of team members through clear goal-setting, regular feedback, and development opportunities. 
+Foster a collaborative and inclusive team environment that encourages innovation and iterative learning. 
+Cross-Functional Collaboration:
+Work closely with product management, software engineering, and data engineering teams to integrate machine learning models into larger software systems and product offerings. 
+Partner with stakeholders across the organization to understand business needs and translate them into technical requirements and actionable machine learning projects. 
+Project Management:
+Oversee the full project lifecycle for multiple machine learning initiatives, from ideation and data collection to model development and deployment. 
+Manage resources, timelines, and risks effectively, ensuring that projects meet their objectives and are delivered on schedule. 
+Performance Monitoring and Model Optimization:
+Continuously monitor the performance of deployed models, identifying opportunities for improvement and optimization. 
+Implement robust testing and validation strategies to ensure model accuracy and reliability over time. 
+What You'll Need:
+
+Experience in applying Gen-AI/LLM in production
+Education: Bachelor's degree in Computer Science, Engineering, or a closely related field. Advanced degrees (Master's or PhD) in fields that emphasize software engineering or machine learning are preferred. 
+Professional Experience: At least 7 years of experience in software development with a proven track record in both software engineering and research or applied machine learning projects. 
+Technical Expertise:
+Expertise in programming using languages such as Python, Java, C++, or Scala. 
+Proficient with modern software engineering tools and methodologies (e.g., version control, CI/CD, agile development practices). 
+Extensive experience with machine learning libraries and frameworks like TensorFlow, PyTorch, or Keras. 
+Data Proficiency:
+Strong capabilities in handling large datasets, with skills in SQL, NoSQL databases, data modeling, and ETL processes. 
+Experience designing and implementing systems that collect, manage, and convert raw data into actionable insights through machine learning models. 
+Machine Learning Application Experience:
+Solid foundation in applying machine learning algorithms to real-world problems, optimizing algorithms for scalability and performance. 
+Hands-on experience in building, scaling, and maintaining production-level machine learning models.

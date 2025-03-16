@@ -1,0 +1,55 @@
+Company
+
+Qualcomm India Private Limited
+
+Job Area
+
+Engineering Group, Engineering Group > Software Engineering
+
+General Summary
+
+Job Overview 
+
+Join a new and growing team at Qualcomm focused on advancing state-of-the-art in Machine Learning. The team uses Qualcomm chips’ extensive heterogeneous computing capabilities and engineers them to allow the running of trained neural networks on device without a need for connection to the cloud. Our inference engine is designed to help developers run neural network models trained in a variety of frameworks on Snapdragon platforms at blazing speeds while still sipping the smallest amount of power. See your work directly impact billions of mobile devices around the world & also most advanced Autonomous features for AUTO industry. In this position, you will be responsible for the development of test frameworks for Qualcomm Neural Network (QNN). You will work with neural network frameworks like TensorFlow, Pytorch and develop the validation framework to gauge functionality, performance, precision, and power of QNN. You will work with the latest and greatest DNNs emerging from the research community. You will also have to keep up with the fast pace development happening in the industry and academia to continuously enhance our benchmarking and validation infrastructure from software engineering as well as machine learning standpoint.
+
+Qualifications
+
+Minimum Qualifications 
+
+Expertise in Developing test cases, automating the tests, test case execution and troubleshooting/analyzing problems
+Strong development skills in Python.
+Strong understanding of Machine learning/Deep learning workflows..
+Experience with at least one machine learning framework like TensorFlow, Pytorch, etc.
+Live and breathe quality software development with excellent analytical and debugging skills.
+Excellent communication skills (verbal, presentation, written)
+Ability to collaborate across a globally diverse team and multiple interests 8.Excellent communication skills (verbal, presentation, written), Strong problem-solving skills, Good time management skills,, excellent analytical and debugging skills, must be an effective team player, and should be self-driven.
+
+
+Preferred Qualifications
+
+Strong exposure to software testing methodologies and reporting. Experience with CI tools like Jenkins and Data visualization tools like power BI ,Tableau Development experience in Python & C++
+
+Work Experience
+
+1 to 6 years of relevant work experience in software dev/test development
+
+Requirements
+
+Educational Requirements 
+
+Master’s/Bachelor's Computer Science, Computer Engineering, or Electrical Engineering
+
+Minimum Qualifications
+
+Bachelor's degree in Engineering, Information Systems, Computer Science, or related field.
+
+
+Applicants: Qualcomm is an equal opportunity employer. If you are an individual with a disability and need an accommodation during the application/hiring process, rest assured that Qualcomm is committed to providing an accessible process. You may e-mail disability-accomodations@qualcomm.com or call Qualcomm's toll-free number found here. Upon request, Qualcomm will provide reasonable accommodations to support individuals with disabilities to be able participate in the hiring process. Qualcomm is also committed to making our workplace accessible for individuals with disabilities. (Keep in mind that this email address is used to provide reasonable accommodations for individuals with disabilities. We will not respond here to requests for updates on applications or resume inquiries).
+
+Qualcomm expects its employees to abide by all applicable policies and procedures, including but not limited to security and other requirements regarding protection of Company confidential information and other confidential and/or proprietary information, to the extent those requirements are permissible under applicable law.
+
+To all Staffing and Recruiting Agencies: Our Careers Site is only for individuals seeking a job at Qualcomm. Staffing and recruiting agencies and individuals being represented by an agency are not authorized to use this site or to submit profiles, applications or resumes, and any such submissions will be considered unsolicited. Qualcomm does not accept unsolicited resumes or applications from agencies. Please do not forward resumes to our jobs alias, Qualcomm employees or any other company location. Qualcomm is not responsible for any fees related to unsolicited resumes/applications.
+
+If you would like more information about this role, please contact Qualcomm Careers.
+
+3072329

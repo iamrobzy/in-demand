@@ -1,0 +1,74 @@
+Responsibilities
+
+TikTok is the leading destination for short-form mobile video. At TikTok, our mission is to inspire creativity and bring joy. TikTok's global headquarters are in Los Angeles and Singapore, and its offices include New York, London, Dublin, Paris, Berlin, Dubai, Jakarta, Seoul, and Tokyo.
+
+Why Join Us
+
+Creation is the core of TikTok's purpose. Our platform is built to help imaginations thrive. This is doubly true of the teams that make TikTok possible.
+
+Together, we inspire creativity and bring joy - a mission we all believe in and aim towards achieving every day.
+
+To us, every challenge, no matter how difficult, is an opportunity; to learn, to innovate, and to grow as one team. Status quo? Never. Courage? Always.
+
+At TikTok, we create together and grow together. That's how we drive impact - for ourselves, our company, and the communities we serve.
+
+Join us.
+
+About The Team
+
+The TikTok Video Recommendation Global Algorithm team plays a central role in the company, responsible the personalized recommendation algorithm for Global (Non-US) users, driving critical product decisions and platform growth The team is made up of global machine learning researchers and engineers, who support and innovate in deep learning, production recommendation models ,and large models to continuously transform and enhance the TikTok user experience and content ecosystem.
+
+The team is fast-paced, collaborative, and impact-driven. We have teams dedicated to working on core recommendations, including User Growth, Lemon8, Social, Content Ecosystem Team, In addition, we also explore Foundation Model Applications using cutting-edge technology.
+
+We're looking for Machine Learning Engineers to join the team.
+
+By participating the General Hire , you will have the opportunity to communicate with teams in various business line and choose the team you're most interested in.
+
+Responsibilities:
+
+Build industry-leading recommendation system, improving user experience, content ecosystem and platform security;
+Deliver end-to-end machine learning solution to address critical product challenges;
+Own the full stack machine learning system and optimize algorithms and infrastructure to improve recommendation performance.
+Work with cross functional teams to design product strategies and build solutions to grow TikTok in global markets.
+
+Qualifications
+
+Minimum Qualifications:
+
+BS degree or equivalent degree with a background in computer science, machine learning, or similar fields.
+At least one year Experience in one or more of the following areas: applied machine learning, machine learning infrastructure, large-scale recommendation system, market-facing machine learning product;
+Proficient in C/C++, Python and have a deep understanding of data structure and algorithm design.
+Solid knowledge and experience with at least one popular deep learning framework (e.g., PyTorch, TensorFlow).
+Experience with development tools (e.g. Git, Docker, JIRA etc.)
+Good written and verbal communication skills.
+
+Preferred Qualifications:
+
+Experience in one or more of the following areas: applied machine learning, machine learning infrastructure, large-scale recommendation system, market-facing machine learning product;
+Deep knowledge and practical experience in the following fields: deep machine learning models and large-scale recommendation systems.
+Hands-on experience with data preprocessing, feature engineering, and exploratory data analysis.
+Passion about techniques and solving challenging problems.
+
+TikTok is committed to creating an inclusive space where employees are valued for their skills, experiences, and unique perspectives. Our platform connects people from across the globe and so does our workplace. At TikTok, our mission is to inspire creativity and bring joy. To achieve that goal, we are committed to celebrating our diverse voices and to creating an environment that reflects the many communities we reach. We are passionate about this and hope you are too.
+
+TikTok is committed to providing reasonable accommodations in our recruitment processes for candidates with disabilities, pregnancy, sincerely held religious beliefs or other reasons protected by applicable laws. If you need assistance or a reasonable accommodation, please reach out to us at https://shorturl.at/cdpT2
+
+Job Information
+
+【For Pay Transparency】Compensation Description (Annually)
+
+The base salary range for this position in the selected city is $145000 - $250000 annually.
+
+Compensation may vary outside of this range depending on a number of factors, including a candidate’s qualifications, skills, competencies and experience, and location. Base pay is one part of the Total Package that is provided to compensate and recognize employees for their work, and this role may be eligible for additional discretionary bonuses/incentives, and restricted stock units.
+
+Benefits may vary depending on the nature of employment and the country work location. Employees have day one access to medical, dental, and vision insurance, a 401(k) savings plan with company match, paid parental leave, short-term and long-term disability coverage, life insurance, wellbeing benefits, among others. Employees also receive 10 paid holidays per year, 10 paid sick days per year and 17 days of Paid Personal Time (prorated upon hire with increasing accruals by tenure).
+
+The Company reserves the right to modify or change these benefits programs at any time, with or without notice.
+
+For Los Angeles County (unincorporated) Candidates:
+
+Qualified applicants with arrest or conviction records will be considered for employment in accordance with all federal, state, and local laws including the Los Angeles County Fair Chance Ordinance for Employers and the California Fair Chance Act. Our company believes that criminal history may have a direct, adverse and negative relationship on the following job duties, potentially resulting in the withdrawal of the conditional offer of employment:
+
+Interacting and occasionally having unsupervised contact with internal/external clients and/or colleagues;
+Appropriately handling and managing confidential information including proprietary and trade secret information and access to information technology systems; and
+Exercising sound judgment.

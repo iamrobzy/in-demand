@@ -1,0 +1,107 @@
+Jobbeskrivelse
+
+The Transportation Science Division at the Technical University of Denmark (DTU) invites applications for a 3-year PhD position at the intersection of Social Data Science and Computer Science. The successful candidate will join the Intelligent Transportation Systems Section and will work under the supervision of Associate Professor Carlos Lima Azevedo and Professor Sonja Haustein (Human Behaviour Section).
+
+Understanding the role of transport policies and technologies in shaping urban mobility cultures is crucial for guiding sustainable mobility transitions in European cities. This PhD project aims to map and analyse how mobility cultures vary across Europe and how they evolve over time in response to policy and technological changes.
+
+The PhD student will work on clustering cities based on mobility-related open data, including demographic trends, transport infrastructure and performance, economic indicators, and land use across time. The student will be responsible for collecting large public datasets and supporting the design of micro-surveys for large-scale deployment in multiple cities. For investigating how urban mobility cultures differ spatially and evolve in response to key urban feature changes, we will employ state-of-the-art machine learning methods to analyse high-dimensional (time series) data. For the selected candidate, there will be possibilities to influence the project and develop new project ideas within the project frame.
+
+The position involves conducting research, presenting findings at scientific conferences, writing research articles, participating in PhD courses, and gaining experience in teaching and knowledge dissemination.
+
+The PhD position is one of 13 PhD positions in the Marie Skłodowska Curie Action Doctoral Network Scheme TRANSFORM. TRANSFORM focuses on examining whether and to what extent transformative practices are effective mechanisms for activating and consolidating transitions in urban mobility cultures and their resulting socio-spatial effects. For more information on the project and the other 12 PhD positions, please visit the TRANSFORM homepage: www.transformresearch.eu.
+
+As part of the doctoral network, you will participate in a joint interdisciplinary training programme organized by the participants of TRANSFORM. This includes, e.g., summer schools with your fellow PhDs and secondment at academic and practice partners of the network.
+
+You either have a MSc background in Social Data Science, Computer Science or related areas. Besides showing experience with machine learning, including deep learning, the candidate should be able to demonstrate knowledge about human behaviour, social sciences or psychology (e.g. through courses, applications or student projects), with a preference for experience in handling large survey data.
+
+Responsibilities And Qualifications
+
+Urban mobility is a key determinant of sustainability in European cities, influencing sustainability, economic productivity, and overall quality of life and well-being. As urban areas continue to grow, cities must adopt innovative policies to support efficient and sustainable mobility systems. Mobility cultures — comprising mobility behaviours, transport infrastructure, and societal attitudes toward transportation modes — offer a crucial perspective for understanding urban mobility patterns.
+
+In this study, we introduce a comprehensive typology of mobility cultures spanning several European cities, by integrating large-scale public datasets from various social and economic sectors with machine -learning based analysis. In addition, the study will involve the design and deployment of micro-surveys at the individual level to capture behavioural and attitudinal insights on urban mobility.
+
+To process and analyse these large and complex datasets, we will explore advanced machine learning techniques, including deep-learning, transformer-based and Bayesian clustering for big data. Big data management and processing will be a critical component of the research, ensuring the efficient handling of diverse datasets and optimizing computational workflows.
+
+We explore the implications of this framework for urban planners and policymakers, examining how different mobility cultures influence travel behaviour, modal choices, and sustainability outcomes.
+
+Your Primary Tasks Will Be To
+
+Explore, develop and evaluate different machine-learning methods for defining urban mobility culture typologies
+Big Data analysis and visualizations
+Collect public data at the urban level for cities across Europe on socio-, economic-, demographic- and mobility-related indicators
+Design and support the collection and analyse large scale micro-survey data
+Analysis how different mobility cultures may vary in time, space and populations, predicting or being influenced by specific policies
+Write academic papers aimed at high-impact journals
+Participate in international conferences and workshops
+Disseminate research results and support teaching as part of the overall PhD education
+
+You Must Have a Two-year Master's Degree (120 ECTS Points) Or a Similar Degree With An Academic Level Equivalent To a Two-year Master’s Degree In Social Data Science, Computer Science Or Related Areas. Ideally, You Will Have Experience In Some Of The Following Areas
+
+Strong foundation in statistical analysis
+Working with machine-learning (such as GNN, deep-learning, transformers, etc.)
+Visualising data efficiently and clearly
+Working with databases
+Large-scale data collection using surveys
+Curiosity and interest in behaviour research
+Interest in transport and mobility research and policies
+Strong English communication and interpersonal skills, with the ability to work in a multidisciplinary team
+Enthusiasm to engage in group-work with a multi-national team
+Ability to work both independently and as part of a team
+
+You are an ambitious, self-organized individual with strong project management and communication skills. Proficient English language skills are required.
+
+Approval and Enrolment
+
+The scholarship for the PhD degree is subject to academic approval, and the candidate will be enrolled in one of the general degree programmes at DTU. For information about our enrolment requirements and the general planning of the PhD study programme, please see DTU's rules for the PhD education.
+
+Mobility
+
+The Mare Sklodowska-Curie Doctoral Network aims to increase mobility for students and therefore only accept students who have not lived more than 12 of the last 36 months in the country to which they apply. You can find more information here: https://marie-sklodowska-curie-actions.ec.europa.eu/actions/doctoral-networks.
+
+Assessment
+
+The review of applications and interviews are expected to take place during June 2025.
+
+We offer
+
+DTU is a leading technical university globally recognized for the excellence of its research, education, innovation and scientific advice. We offer a rewarding and challenging job in an international environment. We strive for academic excellence in an environment characterized by collegial respect and academic freedom tempered by responsibility.
+
+Salary and appointment terms
+
+The appointment will be based on the collective agreement with the Danish Confederation of Professional Associations. The allowance will be agreed upon with the relevant union.
+
+The period of employment is 3 years. The starting date is the 1st of September 2025 or by mutual agreement. The position is a full-time position.
+
+The post is offered under the conditions of the Marie Skłodowska Curie Action Doctoral Network Scheme and therefore attracts a salary that is determined by the regulations of this scheme. This minimum salary approximately equates to 49.678 € per year (pre-tax and social security), depending on the chosen candidate’s seniority.
+
+You can read more about career paths at DTU here.
+
+Further information
+
+Further information may be obtained from Associate Professor Carlos Lima Azevedo (climaz@dtu.dk) or Professor Sonja Haustein (sonh@dtu.dk).
+
+You can read more about DTU Management at www.man.dtu.dk/english.
+
+If you are applying from abroad, you may find useful information on working in Denmark and at DTU at DTU – Moving to Denmark. Furthermore, you have the option of joining our monthly free seminar “PhD relocation to Denmark and startup “Zoom” seminar” for all questions regarding the practical matters of moving to Denmark and working as a PhD at DTU.
+
+Application procedure 
+
+Your complete online application must be submitted no later than 31 May 2025 (23:59 Danish time). Applications must be submitted as one PDF file containing all materials to be given consideration. To apply, please open the link "Apply now", fill out the online application form, and attach all your materials in English in one PDF file. The file must include:
+
+A letter motivating the application (cover letter)
+Curriculum vitae 
+Grade transcripts and BSc/MSc diploma (in English) including official description of grading scale
+
+You may apply prior to ob­tai­ning your master's degree but cannot begin before having received it.
+
+Applications received after the deadline will not be considered.
+
+All interested candidates irrespective of age, gender, disability, race, religion or ethnic background are encouraged to apply. As DTU works with research in critical technology, which is subject to special rules for security and export control, open-source background checks may be conducted on qualified candidates for the position.
+
+About The Department
+
+DTU Management conducts excellent research at the intersection of management, technology and economics. We develop solutions in close cooperation with companies and public authorities. Our research aims at strengthening welfare, productivity and sustainability. A key element is the role of technology and its interaction with industry and individuals. The department offers a wide range of courses and programs at bachelor, master, and PhD levels across DTU's study programs. The department has 200+ employees with around half of staff coming from abroad.
+
+Technology for people
+
+DTU develops technology for people. With our international elite research and study programmes, we are helping to create a better world and to solve the global challenges formulated in the UN’s 17 Sustainable Development Goals. Hans Christian Ørsted founded DTU in 1829 with a clear mission to develop and create value using science and engineering to benefit society. That mission lives on today. DTU has 13,500 students and 6,000 employees. We work in an international atmosphere and have an inclusive, evolving, and informal working environment. DTU has campuses in all parts of Denmark and in Greenland, and we collaborate with the best universities around the world.
