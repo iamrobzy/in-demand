@@ -1,0 +1,81 @@
+Responsibilities
+
+Founded in 2023, the ByteDance Doubao (Seed) Team, is dedicated to pioneering advanced AI foundation models. Our goal is to lead in cutting-edge research and drive technological and societal advancements.
+
+With a strong commitment to AI, our research areas span deep learning, reinforcement learning, Language, Vision, Audio, AI Infra and AI Safety. Our team has labs and research positions across China, Singapore, and the US.
+
+Leveraging substantial data and computing resources and through continued investment in these domains, we have developed a proprietary general-purpose model with multimodal capabilities. In the Chinese market, Doubao models power over 50 ByteDance apps and business lines, including Doubao, Coze, and Dreamina, and is available to external enterprise clients via Volcano Engine. Today, the Doubao app stands as the most widely used AIGC application in China.
+
+Why Join Us
+
+Creation is the core of ByteDance's purpose. Our products are built to help imaginations thrive. This is doubly true of the teams that make our innovations possible.
+
+Together, we inspire creativity and enrich life - a mission we aim towards achieving every day.
+
+To us, every challenge, no matter how ambiguous, is an opportunity; to learn, to innovate, and to grow as one team. Status quo? Never. Courage? Always.
+
+At ByteDance, we create together and grow together. That's how we drive impact - for ourselves, our company, and the users we serve.
+
+Join us.
+
+Team Introduction
+
+The AML Machine Learning Systems team provides E2E machine learning experience and machine learning resources for the company. The team builds heterogeneous ML training and inference systems based on GPU and AI chips and advances the state-of-the-art of ML systems technology to accelerate models such as stable diffusion and LLM. The team is also responsible for research and development of hardware acceleration technologies for AI and cloud computing, via technologies such as distributed systems, compilers, HPC, and RDMA networking. The team is reinventing the ML infra for large scale language models. We have published papers at top tier conferences such as SIGCOMM, NSDI, EuroSys, OSDI, SOSP, MLSys, NeurIPS, etc.
+
+We are looking for talented individuals to join us for an internship in 2025. Internships at Bytedance aim to offer students industry exposure and hands-on experience. Turn your ambitions into reality as your inspiration brings infinite opportunities at ByteDance.
+
+Internships at ByteDance aim to provide students with hands-on experience in developing fundamental skills and exploring potential career paths. A vibrant blend of social events and enriching development workshops will be available for you to explore. Here, you will utilize your knowledge in real-world scenarios while laying a strong foundation for personal and professional growth. This Internship Program runs for 12 weeks beginning in May/June 2025.
+
+Candidates can apply to a maximum of two positions and will be considered for jobs in the order you apply. The application limit is applicable to Bytedance and its affiliates' jobs globally. Applications will be reviewed on a rolling basis - we encourage you to apply early.
+
+Responsibilities
+
+Research and develop our machine learning systems, including heterogeneous computing architecture, management, scheduling, and monitoring.
+Manage cross-layer optimization of system and AI algorithms and hardware for machine learning (GPU, ASIC).
+Implement both general purpose training framework features and model specific optimizations (e.g. LLM, diffusions).
+Improve efficiency and stability for extremely large scale distributed training jobs.
+
+Qualifications
+
+Minimum Qualifications
+
+Currently in PhD program in distributed, parallel computing principles and know the recent advances in computing, storage, networking, and hardware technologies.
+Familiar with machine learning algorithms, platforms and frameworks such as PyTorch and Jax.
+Have basic understanding of how GPU and/or ASIC works.
+Expert in at least one or two programmingf languages in Linux environment: C/C++, CUDA, Python.
+Must obtain work authorization in country of employment at the time of hire, and maintain ongoing work authorization during employment.
+
+Preferred Qualifications
+
+The following experiences will be a big plus:
+
+GPU based high performance computing, RDMA high performance network (MPI, NCCL, ibverbs).
+Distributed training framework optimizations such as DeepSpeed, FSDP, Megatron, GSPMD.
+AI compiler stacks such as torch.fx, XLA and MLIR.
+Large scale data processing and parallel computing.
+Experiences in designing and operating large scale systems in cloud computing or machine learning.
+Experiences in in-depth CUDA programming and performance tuning (cutlass, triton).
+
+ByteDance is committed to creating an inclusive space where employees are valued for their skills, experiences, and unique perspectives. Our platform connects people from across the globe and so does our workplace. At ByteDance, our mission is to inspire creativity and enrich life. To achieve that goal, we are committed to celebrating our diverse voices and to creating an environment that reflects the many communities we reach. We are passionate about this and hope you are too.
+
+ByteDance Inc. is committed to providing reasonable accommodations in our recruitment processes for candidates with disabilities, pregnancy, sincerely held religious beliefs or other reasons protected by applicable laws. If you need assistance or a reasonable accommodation, please reach out to us at https://shorturl.at/cdpT2
+
+By submitting an application for this role, you accept and agree to our global applicant privacy policy, which may be accessed here: https://jobs.bytedance.com/en/legal/privacy.
+
+Job Information
+
+【For Pay Transparency】Compensation Description (Hourly) - Campus Intern
+
+The hourly rate range for this position in the selected city is $57- $57.
+
+Benefits may vary depending on the nature of employment and the country work location. Interns have day one access to health insurance, life insurance, wellbeing benefits and more. Interns also receive 10 paid holidays per year and paid sick time (56 hours if hired in first half of year, 40 if hired in second half of year).
+
+The Company reserves the right to modify or change these benefits programs at any time, with or without notice.
+
+For Los Angeles County (unincorporated) Candidates:
+
+Qualified applicants with arrest or conviction records will be considered for employment in accordance with all federal, state, and local laws including the Los Angeles County Fair Chance Ordinance for Employers and the California Fair Chance Act. Our company believes that criminal history may have a direct, adverse and negative relationship on the following job duties, potentially resulting in the withdrawal of the conditional offer of employment:
+
+Interacting and occasionally having unsupervised contact with internal/external clients and/or colleagues;
+Appropriately handling and managing confidential information including proprietary and trade secret information and access to information technology systems; and
+Exercising sound judgment.

@@ -1,0 +1,68 @@
+Responsibilities
+
+About ByteDance
+
+Founded in 2012, ByteDance's mission is to inspire creativity and enrich life. With a suite of more than a dozen products, including TikTok as well as platforms specific to the China market, including Toutiao, Douyin, and Xigua, ByteDance has made it easier and more fun for people to connect with, consume, and create content.
+
+Why Join Us
+
+Creation is the core of ByteDance's purpose. Our products are built to help imaginations thrive. This is doubly true of the teams that make our innovations possible. Together, we inspire creativity and enrich life - a mission we aim towards achieving every day. To us, every challenge, no matter how ambiguous, is an opportunity; to learn, to innovate, and to grow as one team. Status quo? Never. Courage? Always. At ByteDance, we create together and grow together. That's how we drive impact-for ourselves, our company, and the users we serve. Join us.
+
+Team Intro
+
+Founded in 2023, the ByteDance Doubao (Seed) Team, is dedicated to pioneering advanced AI foundation models. Our goal is to lead in cutting-edge research and drive technological and societal advancements.
+
+With a strong commitment to AI, our research areas span deep learning, reinforcement learning, Language, Vision, Audio, AI Infra and AI Safety. Our team has labs and research positions across China, Singapore, and the US.
+
+Leveraging substantial data and computing resources and through continued investment in these domains, we have developed a proprietary general-purpose model with multimodal capabilities. In the Chinese market, Doubao models power over 50 ByteDance apps and business lines, including Doubao, Coze, and Dreamina, and is available to external enterprise clients via Volcano Engine. Today, the Doubao app stands as the most widely used AIGC application in China.
+
+The Machine Learning (ML) System sub-team combines system engineering and the art of machine learning to develop and maintain massively distributed ML training and Inference system/services around the world, providing high-performance, highly reliable, scalable systems for LLM/AIGC/AGI. In our team, you'll have the opportunity to build the large-scale heterogeneous system integrating with GPU/NPU/RDMA/Storage and keep it running stable and reliable, enrich your expertise in coding, performance analysis and distributed system, and be involved in the decision-making process. You'll also be part of a global team with members from the United States, China and Singapore working collaboratively towards unified project direction.
+
+Responsibilities:
+
+Responsible for ensuring our ML systems are operating and running efficiently for large model development, training, evaluation, and inference
+Responsible for the stability of offline tasks/services in multi-data center, multi-region, and multi-cloud scenarios
+Responsible for resource management and planning, cost and budget, including computing and storage resources
+Responsible for global system disaster recovery, cluster machine governance, stability of business services, resource utilisation improvement and operation efficiency improvement
+Build software tools, products and systems to monitor and manage the ML infrastructure and services efficiently
+Be part of the global team roster that ensures system and business on-call support
+
+Qualifications
+
+Minimum Qualifications:
+
+Bachelor's degree or above, major in computer science, computer engineering or related
+Strong proficiency in at least one programming language such as Go/Python/Shell in Linux environment
+Strong hands-on experience with Kubernetes and containers skills, and have more than 2 years of relevant operation and maintenance experience
+Possess excellent logical analysis ability, able to reasonably abstract and split business logic
+Have good documentation principles and habits to be able to write and update workflow and technical documentation as required on time
+Possess a strong sense of responsibility, good learning ability, communication ability and self-drive, good team spirit
+
+Preferred Qualifications
+
+Engaged in the operation and maintenance of large-scale ML distributed systems
+Experience in operation and maintenance of GPU servers
+
+ByteDance is committed to creating an inclusive space where employees are valued for their skills, experiences, and unique perspectives. Our platform connects people from across the globe and so does our workplace. At ByteDance, our mission is to inspire creativity and enrich life. To achieve that goal, we are committed to celebrating our diverse voices and to creating an environment that reflects the many communities we reach. We are passionate about this and hope you are too.
+
+ByteDance Inc. is committed to providing reasonable accommodations in our recruitment processes for candidates with disabilities, pregnancy, sincerely held religious beliefs or other reasons protected by applicable laws. If you need assistance or a reasonable accommodation, please reach out to us at https://shorturl.at/cdpT2
+
+Job Information
+
+【For Pay Transparency】Compensation Description (Annually)
+
+The base salary range for this position in the selected city is $145000 - $355000 annually.
+
+Compensation may vary outside of this range depending on a number of factors, including a candidate’s qualifications, skills, competencies and experience, and location. Base pay is one part of the Total Package that is provided to compensate and recognize employees for their work, and this role may be eligible for additional discretionary bonuses/incentives, and restricted stock units.
+
+Benefits may vary depending on the nature of employment and the country work location. Employees have day one access to medical, dental, and vision insurance, a 401(k) savings plan with company match, paid parental leave, short-term and long-term disability coverage, life insurance, wellbeing benefits, among others. Employees also receive 10 paid holidays per year, 10 paid sick days per year and 17 days of Paid Personal Time (prorated upon hire with increasing accruals by tenure).
+
+The Company reserves the right to modify or change these benefits programs at any time, with or without notice.
+
+For Los Angeles County (unincorporated) Candidates:
+
+Qualified applicants with arrest or conviction records will be considered for employment in accordance with all federal, state, and local laws including the Los Angeles County Fair Chance Ordinance for Employers and the California Fair Chance Act. Our company believes that criminal history may have a direct, adverse and negative relationship on the following job duties, potentially resulting in the withdrawal of the conditional offer of employment:
+
+Interacting and occasionally having unsupervised contact with internal/external clients and/or colleagues;
+Appropriately handling and managing confidential information including proprietary and trade secret information and access to information technology systems; and
+Exercising sound judgment.

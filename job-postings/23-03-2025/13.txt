@@ -1,0 +1,22 @@
+We are looking for college students majoring in CS, EE, Stat, Health/Medical/Bio-informatics, Biostat, or similar quantitative areas to join Advanced Analytics team at IQVIA. As interns, you will be able to leverage IQVIA’s vast amount of real-world patient-level health data and meet exciting and challenging business needs such as physician targeting and segmentation, brand optimization, patient phenotyping in delivering real-world projects.
+
+Summary Of Duty
+
+Conduct real-world study to solve data science problems at IQVIA by leveraging state of art methodologies.
+Write code to automate analytical processes or execute analytical plans
+Deliver analytics projects under supervision.
+Publication is not required as the end deliverable but it’s nice to have
+
+Required Skills
+
+Concrete understanding of data science and advanced analytics in the business world
+Proficiency in programming languages such as Python, R, etc.
+Solid programming skills in PyTorch/Keras/TensorFlow (at least one of them).
+Intimate knowledge in Convolutional Neural Network and Semi-supervised Learning concepts and algorithms
+Interests in using data science technique in the health care industry and answering business questions.
+
+IQVIA is a leading global provider of clinical research services, commercial insights and healthcare intelligence to the life sciences and healthcare industries. We create intelligent connections to accelerate the development and commercialization of innovative medical treatments to help improve patient outcomes and population health worldwide. Learn more at https://jobs.iqvia.com
+
+IQVIA is proud to be an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, status as a protected veteran, or any other status protected by applicable law. https://jobs.iqvia.com/eoe
+
+The potential base pay range for this role, when annualized, is $31,900.00 - $53,100.00. The actual base pay offered may vary based on a number of factors including job-related qualifications such as knowledge, skills, education, and experience; location; and/or schedule (full or part-time). Dependent on the position offered, incentive plans, bonuses, and/or other forms of compensation may be offered, in addition to a range of health and welfare and/or other benefits.

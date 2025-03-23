@@ -1,0 +1,39 @@
+Description
+
+Do you want to join an innovative team of scientists who use deep learning, natural language processing, large language models to help Amazon provide the best seller experience across the entire Seller life cycle, including recruitment, growth, support and provide the best customer and seller experience by automatically mitigating risk?
+
+Do you want to build advanced algorithmic systems that help manage the trust and safety of millions of customer interactions every day? Are you excited by the prospect of analyzing and modeling terabytes of data and creating state-of-the-art algorithms to solve real world problems? Are you excited by the opportunity to leverage GenAI and innovate on top of the state-of-the-art large language models to improve customer and seller experience?
+
+Do you like to build end-to-end business solutions and directly impact the profitability of the company? Do you like to innovate and simplify processes?
+
+If yes, then you may be a great fit to join the Machine Learning Accelerator team in the Amazon Selling Partner Services (SPS) group.
+
+Key job responsibilities
+
+The scope of an Applied Scientist III in the Selling Partner Services (SPS) Machine Learning Accelerator (MLA) team is to research and prototype Machine Learning applications that solve strategic business problems across SPS domains. Additionally, the scientist collaborates with engineers and business partners to design and implement solutions at scale when they are determined to be of broad benefit to SPS organizations. They develop large-scale solutions for high impact projects, introduce tools and other techniques that can be used to solve problems from various perspectives, and show depth and competence in more than one area. They influence the team’s technical strategy by making insightful contributions to the team’s priorities, approach and planning. They develop and introduce tools and practices that streamline the work of the team, and they mentor junior team members and participate in hiring.
+
+Basic Qualifications
+
+4+ years of applied research experience
+3+ years of building machine learning models for business application experience
+PhD, or Master's degree and 6+ years of applied research experience
+Experience programming in Java, C++, Python or related language
+Experience with neural deep learning methods and machine learning
+
+Preferred Qualifications
+
+Experience with modeling tools such as R, scikit-learn, Spark MLLib, MxNet, Tensorflow, numpy, scipy etc.
+Experience with large scale distributed systems such as Hadoop, Spark etc.
+
+Amazon is committed to a diverse and inclusive workplace. Amazon is an equal opportunity employer and does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, or other legally protected status.
+
+Los Angeles County applicants: Job duties for this position include: work safely and cooperatively with other employees, supervisors, and staff; adhere to standards of excellence despite stressful conditions; communicate effectively and respectfully with employees, supervisors, and staff to ensure exceptional customer service; and follow all federal, state, and local laws and Company policies. Criminal history may have a direct, adverse, and negative relationship with some of the material job duties of this position. These include the duties and responsibilities listed above, as well as the abilities to adhere to company policies, exercise sound judgment, effectively manage stress and work safely and respectfully with others, exhibit trustworthiness and professionalism, and safeguard business operations and the Company’s reputation. Pursuant to the Los Angeles County Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.
+
+Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.
+
+Our compensation reflects the cost of labor across several US geographic markets. The base pay for this position ranges from $150,400/year in our lowest geographic market up to $260,000/year in our highest geographic market. Pay is based on a number of factors including market location and may vary depending on job-related knowledge, skills, and experience. Amazon is a total compensation company. Dependent on the position offered, equity, sign-on payments, and other forms of compensation may be provided as part of a total compensation package, in addition to a full range of medical, financial, and/or other benefits. For more information, please visit https://www.aboutamazon.com/workplace/employee-benefits. This position will remain posted until filled. Applicants should apply via our internal or external career site.
+
+
+Company - Amazon.com Services LLC
+
+Job ID: A2791256

@@ -1,0 +1,30 @@
+The Machine Learning Group within Brookhaven National Laboratory's Computational Science Initiative (CSI) invites exceptional candidates to apply for a Research Specialist position focused on machine learning (ML). This position offers a unique opportunity to conduct both basic and applied research in concert with collaborators working on diverse scientific and security problems of interest to Brookhaven Lab and the Department of Energy (DOE). Topics of particular interest include novel development and application of machine learning models, especially the large language models, and multi-modal Foundation Models; ML models for computer vision (CV) and natural language processing (NLP) related tasks; and techniques applied to the scientific discovery, i.e., AI for Science.
+
+This position provides access to world-class computing and data resources, such as Brookhaven Lab's Institutional Cluster and DOE leadership computing facilities. These platforms afford computing at scale, as well as access to unique data sources, ensuring the successful candidate will have the necessary tools to tackle challenging DOE problems of interest. In addition, the successful candidate will join a growing research group with diverse expertise and projects that span laboratory-level and nationally concerned DOE missions. This research staff position presents a distinct opportunity to conduct interdisciplinary collaborative research at Brookhaven Lab.
+
+Essential Duties And Responsibilities
+
+Developing novel machine learning algorithms and conduct computational experiments.
+Disseminating research findings in publications, posters, project reports, and presentations.
+Effectively communicate with supervisor and team members.
+Independently develop solutions and ideas.
+
+Required Knowledge, Skills, And Abilities
+
+Bachelor's degree with five (5+) years or a Master's degree with three (3+) years or a PhD degree in computer science or a related field (e.g., engineering, applied mathematics, statistics).
+Solid programming skills and computer science knowledge.
+Familiar with deep learning libraries.
+Research experience and good publication track record in machine learning field.
+Proficient written and verbal communication skills.
+
+Preferred Knowledge, Skills, And Abilities
+
+Engineering or research experience with programming deep learning models.
+Experience with state-of-the-art foundation models and large vision-language models.
+Experience in large-scale deep learning systems and/or large foundation model, and the ability to train models using GPU/TPU parallelization.
+Experience working as part of multidisciplinary scientific collaborations.
+Familiar with Linux, Bash, Git, Docker, and/or other software development tools.
+
+Compensation
+
+Brookhaven National Laboratory is committed to providing fair, equitable and competitive compensation. The full salary range for this position is $93800 - $155650 / year. Salary offers will be commensurate with your experience. Salary offers will be commensurate with the final candidate's qualification, education and experience and considered with the internal peer group

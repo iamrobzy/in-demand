@@ -1,0 +1,57 @@
+Description
+
+Our Machine Learning training infrastructure (ML Infra) team is responsible for designing, implementing, and optimizing large-scale computing infrastructure that powers our cutting-edge AI and machine learning initiatives. We leverage advanced hardware, innovative software architectures, and distributed computing techniques to enable breakthrough research and product development across the company.
+
+We are seeking a Senior Machine Learning Engineer to join our team and lead the development of our next-generation ML training infrastructure. This is a high impact, high visibility role that will shape the future of our machine learning capabilities and contribute to the advancement of AI technology across the industry.
+
+Key job responsibilities
+
+Lead the definition, design, architecture quality, implementation, and delivery of the most advanced, most difficult, most cross-cutting, and/or most ambiguous challenges spanning across our ML infrastructure.
+
+Align the teams in ML Infrastructure and related organizations to a coherent technical vision and deliver systems that fit well together.
+Exert influence over multiple teams, increasing their productivity and effectiveness. You hold peers and teams to a high bar for performance and efficiency, and aid teams through your expert guidance and example.
+Considered to be an authority on technical issues by both the technical and research community, you are responsible for guiding difficult trade-off decisions and drive awareness about the impact and consequences of technical decisions on AI research and product development.
+Demonstrate significant innovation, creativity, and judgement when solving challenging AI/ML infrastructure problems. Identify future skills needed across your organization and advocate for the development and/or acquisition of those skills to senior leaders. You scout top talent and recruit them to the company.
+Actively mentor senior and Principal engineers, scale yourself by developing and institutionalizing best practices in AI/ML infrastructure and distributed computing across the organization.
+
+A day in the life
+
+8+ years of professional software development experience in distributed systems with emphasis on ML infrastructure
+
+8+ years of current programming experience building ML infrastructure using languages such as Python, C++ or Rust
+Hands-on experience with parallel computing platforms such as CUDA, OpenMP, etc
+Deep understanding of AI frameworks such as PyTorch, TensorFlow, and JAX, and their demands on underlying compute infrastructure, memory bandwidth, network interconnect, and storage as scale goes up
+Knowledge of emerging AI hardware accelerators and architectures
+Experience with containerization and orchestration technologies (Docker, Kubernetes)
+Experience with cloud computing platforms (AWS, Azure, GCP) and their offerings
+
+About The Team
+
+Join our AGI team and work at the forefront of AI. Collaborate with top minds pushing boundaries in deep learning, reinforcement learning, and more. Gain valuable experience and accelerate your career growth. This is a unique opportunity to create history and shape the future of artificial intelligence.
+
+Mission of the team: We leverage our hyper-scalable, general-purpose large model training and inference systems to develop and deploy cutting-edge sensory AI foundational models that revolutionize machine perception, interpretation and interaction, with humans and with the physical world.
+
+Basic Qualifications
+
+5+ years of non-internship professional software development experience
+5+ years of programming with at least one software programming language experience
+5+ years of leading design or architecture (design patterns, reliability and scaling) of new and existing systems experience
+Experience as a mentor, tech lead or leading an engineering team
+
+Preferred Qualifications
+
+5+ years of full software development life cycle, including coding standards, code reviews, source control management, build processes, testing, and operations experience
+Bachelor's degree in computer science or equivalent
+
+Amazon is committed to a diverse and inclusive workplace. Amazon is an equal opportunity employer and does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, or other legally protected status.
+
+Los Angeles County applicants: Job duties for this position include: work safely and cooperatively with other employees, supervisors, and staff; adhere to standards of excellence despite stressful conditions; communicate effectively and respectfully with employees, supervisors, and staff to ensure exceptional customer service; and follow all federal, state, and local laws and Company policies. Criminal history may have a direct, adverse, and negative relationship with some of the material job duties of this position. These include the duties and responsibilities listed above, as well as the abilities to adhere to company policies, exercise sound judgment, effectively manage stress and work safely and respectfully with others, exhibit trustworthiness and professionalism, and safeguard business operations and the Company’s reputation. Pursuant to the Los Angeles County Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.
+
+Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.
+
+Our compensation reflects the cost of labor across several US geographic markets. The base pay for this position ranges from $151,300/year in our lowest geographic market up to $261,500/year in our highest geographic market. Pay is based on a number of factors including market location and may vary depending on job-related knowledge, skills, and experience. Amazon is a total compensation company. Dependent on the position offered, equity, sign-on payments, and other forms of compensation may be provided as part of a total compensation package, in addition to a full range of medical, financial, and/or other benefits. For more information, please visit https://www.aboutamazon.com/workplace/employee-benefits. This position will remain posted until filled. Applicants should apply via our internal or external career site.
+
+
+Company - Amazon.com Services LLC - A57
+
+Job ID: A2782263

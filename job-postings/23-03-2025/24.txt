@@ -1,0 +1,64 @@
+Responsibilities
+
+TikTok is the leading destination for short-form mobile video. At TikTok, our mission is to inspire creativity and bring joy. TikTok's global headquarters are in Los Angeles and Singapore, and its offices include New York, London, Dublin, Paris, Berlin, Dubai, Jakarta, Seoul, and Tokyo.
+
+Creation is the core of TikTok's purpose. Our platform is built to help imaginations thrive. This is doubly true of the teams that make TikTok possible.
+
+Together, we inspire creativity and bring joy - a mission we all believe in and aim towards achieving every day.
+
+To us, every challenge, no matter how difficult, is an opportunity; to learn, to innovate, and to grow as one team. Status quo? Never. Courage? Always.
+
+At TikTok, we create together and grow together. That's how we drive impact - for ourselves, our company, and the communities we serve.
+
+Join us.
+
+About The Team
+
+Our Recommendation Architecture Team is responsible for building up and optimizing the architecture for our recommendation system to provide the most stable and best experience for our TikTok users.
+
+What You Will Be Doing
+
+Participate in the research and optimization of large-scale machine learning online prediction frameworks, supporting the efficient model recommendation of TikTok's products;
+Involve in processing large-scale feature samples, including data flow conversion, model training, and parameter tuning, addressing related issues through research and breakthroughs;
+Collaborate closely with algorithm teams to analyze and solve above challenges, and assist with practical business needs.
+
+Qualifications
+
+Minimum Qualifications:
+
+Bachelor's degree or above, majoring in Computer Science or related fields, with experience building scalable system;
+Proficient in C/C++ programming in a Linux environment;
+Familiar with operating system concepts and computer architecture;
+Understand the underlying framework of mainstream machine learning frameworks (TensorFlow, PyTorch etc);
+Background in one of the following fields: High Performance Computing, Applied ML models(MLP/Transformer/MoE), ML Hardware Acceleration (e.g., GPU/RDMA) or ML Systems.
+
+Preferred Qualifications
+
+Experience in deep learning model training and prediction;
+Experience in algorithm implementation or optimization of existing algorithms;
+Familiar with model pruning, quantization and compression methods;
+Experience in software and hardware integration and optimizations.
+
+TikTok is committed to creating an inclusive space where employees are valued for their skills, experiences, and unique perspectives. Our platform connects people from across the globe and so does our workplace. At TikTok, our mission is to inspire creativity and bring joy. To achieve that goal, we are committed to celebrating our diverse voices and to creating an environment that reflects the many communities we reach. We are passionate about this and hope you are too.
+
+TikTok is committed to providing reasonable accommodations in our recruitment processes for candidates with disabilities, pregnancy, sincerely held religious beliefs or other reasons protected by applicable laws. If you need assistance or a reasonable accommodation, please reach out to us at https://shorturl.at/cdpT2
+
+Job Information
+
+【For Pay Transparency】Compensation Description (Annually)
+
+The base salary range for this position in the selected city is $194000 - $355000 annually.
+
+Compensation may vary outside of this range depending on a number of factors, including a candidate’s qualifications, skills, competencies and experience, and location. Base pay is one part of the Total Package that is provided to compensate and recognize employees for their work, and this role may be eligible for additional discretionary bonuses/incentives, and restricted stock units.
+
+Benefits may vary depending on the nature of employment and the country work location. Employees have day one access to medical, dental, and vision insurance, a 401(k) savings plan with company match, paid parental leave, short-term and long-term disability coverage, life insurance, wellbeing benefits, among others. Employees also receive 10 paid holidays per year, 10 paid sick days per year and 17 days of Paid Personal Time (prorated upon hire with increasing accruals by tenure).
+
+The Company reserves the right to modify or change these benefits programs at any time, with or without notice.
+
+For Los Angeles County (unincorporated) Candidates
+
+Qualified applicants with arrest or conviction records will be considered for employment in accordance with all federal, state, and local laws including the Los Angeles County Fair Chance Ordinance for Employers and the California Fair Chance Act. Our company believes that criminal history may have a direct, adverse and negative relationship on the following job duties, potentially resulting in the withdrawal of the conditional offer of employment:
+
+Interacting and occasionally having unsupervised contact with internal/external clients and/or colleagues;
+Appropriately handling and managing confidential information including proprietary and trade secret information and access to information technology systems; and
+Exercising sound judgment.

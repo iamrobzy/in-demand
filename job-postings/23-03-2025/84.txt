@@ -1,0 +1,22 @@
+Wir gehören zu den Top-Adressen in der IT-Welt und fokussieren uns auf die Optimierung der Kerngeschäfts­prozesse unserer Kunden. Durch den smarten Einsatz maßgeschneiderter IT-Lösungen unterstützen wir unsere Kunden dabei, das Beste aus ihrem Business und aktuellen Technologien herauszuholen. Unseren Erfolg aber erreichen wir nur durch eins: die Menschen bei adesso! Sie bringen Ideen, fachliches Know how und Technologien zusammen. Gemeinsam programmieren wir (deine) Zukunft bei adesso.
+
+DEINE ROLLE
+
+Konzeption und Implementierung: Du konzipierst und implementierst innovative AI-Lösungen für unterschiedliche Branchen mit starkem Fokus auf Cloud-Infrastrukturen. 
+Optimierung und Automatisierung: Du unterstützt uns bei der Optimierung und Automatisierung bestehender AI-Lösungen und sorgst damit für eine kontinuierliche Verbesserung der AI-Produkte unserer Kunden. 
+ML-Modelle und Beratung: Du automatisierst Trainings- und Release-Prozesse von ML-Modellen und berätst unsere Kunden bei der Auswahl und Implementierung moderner AI-Plattformen und -Frameworks. 
+AI Use Cases und Geschäftsmodelle: Du unterstützt uns und unsere Kunden bei der Identifizierung und Umsetzung von innovativen AI Use Cases sowie bei der Entwicklung von neuen datengetriebenen Geschäftsmodellen. 
+Teamarbeit und Weiterentwicklung: Du arbeitest gerne gemeinsam im Team beständig an der Weiterentwicklung unserer AI-Lösungen und bist dabei technologisch stets auf dem neuesten Stand.
+
+DEIN PROFIL
+
+Akademischer Hintergrund: Erfolgreich abgeschlossenes Studium in der Fachrichtung Informatik, Wirtschaftsinformatik oder ein vergleichbares Studium mit relevantem Bezug
+Berufserfahrung: Mindestens zwei Jahre einschlägige Berufserfahrung mit ausgeprägtem ML-Hintergrund und Erfahrung in der Erstellung, Bereitstellung und Pflege von ML-Modellen in der Produktion
+Technische Fähigkeiten: Fortgeschrittene Kenntnisse in Python und den gängigen Machine Learning-Bibliotheken sowie Erfahrungen mit MLOps-Tools wie MLflow, KubeFlow o.ä.
+Zusatzkenntnisse: Von Vorteil sind Erfahrungen im Umgang mit großen Datenmengen sowie im Einsatz von Infrastructure as Code (Terraform, ARM). 
+Teamfähigkeit und Innovationsfreude: Spaß an der Arbeit in einem agilen Team, "Out of the box"-Denken und hohes Interesse daran, sich mit neuen Themen auseinanderzusetzen
+Sprachkenntnisse: Sehr gute Deutsch- und gute Englischkenntnisse 
+
+Unser Versprechen: Du wirst dich bei uns wohlfühlen! Kollegial, familiär und auf Augenhöhe – wir leben Austausch, Teamgeist und einen respektvollen Umgang miteinander. Diversität und verschiedene Blickwinkel werden bei uns genauso geschätzt wie du als Mensch. Das und viel mehr steht für unser ganz besonderes Wir-Gefühl. Für das es sogar ein Wort gibt: adessi.
+
+Unsere Kultur und das Zusammenarbeiten sind geprägt von gegenseitiger Wertschätzung, Anerkennung und Unterstützung. Das verbindet uns hierarchieübergreifend – auch im Home-Office. So belegen wir zum wiederholten Mal den 1. Platz beim Wettbewerb „Deutschlands Beste Arbeitgeber in der ITK“!. Unser umfangreiches Trainingsangebot und ein transparentes Laufbahnstufenmodell für alle sorgen dafür, dass deine Entwicklung bei uns nicht stillsteht. Denn gemeinsam zu wachsen und Chancengeber zu sein, das ist programmiert in unserer DNA.

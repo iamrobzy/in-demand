@@ -1,0 +1,18 @@
+. Principal /Senior Staff /Staff Machine Learning Compiler Engineer
+Bangalore
+Founded in 2023,by Industry veterans HQ in California,US
+We are revolutionizing sustainable AI compute through intuitive software with composable silicon
+. Principal /Senior Staff /Staff Machine Learning Compiler Engineer
+experience-5-20 years
+Responsibilities: Develop and maintain compilers specifically designed for optimizing ML models. This
+includes translating high-level ML model descriptions into efficient mapping to our hardware
+architecture, optimizing for performance metrics such as flop utilization, memory bandwidth, and
+memory capacity.
+- Skills Required: Deep understanding of ML compiler design and optimization techniques, proficiency
+in MLIR and programming languages like C/C++, in-depth knowledge of ML frameworks (PyTorch) and
+Python.
+Contact:
+Uday
+Mulya Technologies
+muday_bhaskar@yahoo.com
+"Mining The Knowledge Community"

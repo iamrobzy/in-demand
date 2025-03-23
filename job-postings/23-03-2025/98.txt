@@ -1,0 +1,55 @@
+Our Journey
+
+ShopBack started as a spark of inspiration one night in 2014 when Henry and Joel were brainstorming ideas in Henry’s car. That lightbulb moment — earning Cashback while shopping online — was just the beginning. Fueled by the countless possibilities, the team locked themselves in a hotel room for 24 hours to code the very first prototype. Their mission? To revolutionize shopping by helping advertisers market more cost-effectively, while making every purchase more rewarding for shoppers.
+
+Today, ShopBack is the leading shopping, rewards, and payments platform in Asia-Pacific, empowering 45 million shoppers across 12 markets. With 20,000+ partners and over half a million transactions daily, we’re redefining the way the world shops. As we expand globally, we’re looking for adventurous, driven individuals to help us build The World’s Most Rewarding Way to Shop.
+
+Your Adventure Ahead
+
+Utilize Machine Learning: Enhance our products and improve the shopping experience for both users and merchants. This includes leveraging machine learning in areas such as recommendations, personalization, risk, fraud detection, search, and more.
+Subject Matter Expertise: Be a subject matter expert in a specific ML domain while maintaining a solid understanding of product and user challenges.
+Handle Ambiguity: Navigate and resolve ambiguous problem definitions effectively with or without dedicated Product Manager support.
+Metrics Driven: Understand critical business and product metrics, apply the right tools and technologies, and drive efforts to positively influence those metrics.
+Experimentation Culture: Foster a fast-paced, high-iteration experimental culture to test and refine solutions quickly.
+Collaboration: Work effectively with cross-functional partners and stakeholders to set and achieve optimal outcomes.
+Curious: Interest in exploring and learning the latest technologies in the industry.
+
+
+Essentials To Succeed
+
+Significant prior success as a Machine Learning Engineer working on challenging problems at scale
+2-3 years of industrial ML experience, with expertise in modeling and statistical modeling
+Good understanding of data collection, aggregation, analysis, visualization, productionisation, and monitoring of ML products - aka MLOps
+Ability to develop ML Products with good engineering practice and mindset
+Strong desire to solve tough problems with scientific rigour at scale
+An understanding of the value derived from getting results early and iterating
+Education in a quantitative field such as Computer Science, Operations Research, Statistics, Econometrics or Mathematics
+Strong skills in Python and machine learning and deep learning libraries (Pytorch and Tensorflow)
+Passion to answer Product/Engineering questions with data
+
+
+ShopBackers' DNA
+
+Grit - We tackle all challenges head-on, working together to solve problems and achieve success.
+
+Hunger - We value hard work, and having relentless drive.
+
+Speed - We move fast and have a bias for action, all to deliver maximum impact.
+
+Impact - We focus on results, always aiming for the best possible outcomes and timelines.
+
+Growth - We embrace a growth mindset, constantly striving to learn, improve, and excel in our roles.
+
+Exclusively for ShopBackers
+
+Career progression paths and opportunities to take on greater challenges that help you realise your ambitions.
+
+Be part of a winning team on a journey to global scale.
+
+Competitive compensation based on your performance.
+
+Candid, open, and collaborative culture where feedback is valued, for everyone to grow and improve every day.
+
+Work-From-Anywhere benefit to enable you to thrive personally and professionally.
+
+ShopBack is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees. We do not discriminate on the basis of race, color, religion, sexual orientation, national origin, age, disability, genetic information, veteran status, or any other protected status under applicable laws. Join our team and help us make a difference!

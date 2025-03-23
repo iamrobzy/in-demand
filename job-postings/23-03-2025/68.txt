@@ -1,0 +1,60 @@
+Want to learn more about this role and Jobot? Click our Jobot logo and follow our LinkedIn page!
+
+Job details
+
+Fully Remote, well-funded AI startup with a Greenfield platform. Excellent benefits, cutting edge project!
+
+This Jobot Job is hosted by Grant Greenhalgh
+
+Are you a fit? Easy Apply now by clicking the "Easy Apply" button and sending us your resume.
+
+Salary $180,000 - $225,000 per year
+
+A Bit About Us
+
+Join a high-energy, fast-paced AI start-up that is set to disrupt the industry! We are pioneering cutting-edge AI/ML solutions that transform how large, complex datasets are consumed, interpreted, and utilized. If you are passionate about innovation, thrive in a dynamic environment, and are eager to stay at the forefront of Generative AI (GAI) advancements, this is the perfect opportunity for you.
+
+
+
+Why join us?
+
+
+Fully Remote
+Complex Technical Challenges
+Meaningful equity
+Unlimited PTO
+WFH Stipend
+Competitive Compensation
+
+Job Details
+
+We are seeking an experienced Machine Learning Engineer to design, develop, and implement infrastructure and architecture that supports the consumption and interpretation of vast, complex document corpora, each with a variety of encoded rules. You will work extensively with these documents, modern AI/ML tools, and GAI infrastructure, while collaborating across frontend and backend teams to ensure rapid iteration and deployment of AI solutions.
+
+Responsibilities
+
+Design and implement scalable machine learning infrastructure to support the ingestion, processing, and interpretation of data
+Architect robust systems that accommodate various encoded rules, ensuring accuracy and compliance in AI/ML outputs.
+Develop machine learning models, particularly in the context of knowledge graphs, to enhance the interpretation of complex datasets.
+Implement evaluation frameworks to assess model performance, iterating rapidly based on feedback and results.
+Leverage your deep knowledge of Generative AI (GAI) to stay ahead of industry trends and ensure our solutions are cutting-edge.
+Integrate GAI into existing and new machine learning pipelines, enhancing the overall capability of our products.
+Utilize modern version control systems (e.g., GitHub) to manage code repositories, pushing best practices in code quality
+
+Qualifications
+
+5+ years of experience in machine learning and software development, with a focus on AI/ML infrastructure
+Proven expertise in working with Generative AI (GAI)
+Expert proficiency in Python, with experience in cross-language collaboration and codebase management.
+Strong experience with modern version control systems (e.g., GitHub).
+Advanced knowledge of AI/ML model development, evaluation, and rapid iteration.
+Strong problem-solving skills, with the ability to architect and implement scalable solutions for complex problems.
+
+Interested in hearing more? Easy Apply now by clicking the "Easy Apply" button.
+
+Jobot is an Equal Opportunity Employer. We provide an inclusive work environment that celebrates diversity and all qualified candidates receive consideration for employment without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state or local laws.
+
+Sometimes Jobot is required to perform background checks with your authorization. Jobot will consider qualified candidates with criminal histories in a manner consistent with any applicable federal, state, or local law regarding criminal backgrounds, including but not limited to the Los Angeles Fair Chance Initiative for Hiring and the San Francisco Fair Chance Ordinance.
+
+Want to learn more about this role and Jobot?
+
+Click our Jobot logo and follow our LinkedIn page!

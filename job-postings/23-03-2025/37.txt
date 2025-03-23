@@ -1,0 +1,69 @@
+Want to learn more about this role and Jobot Consulting? Click our Jobot Consulting logo and follow our LinkedIn page!
+
+Job details
+
+This Jobot Consulting Job is hosted by Ashley Elm
+
+Are you a fit? Easy Apply now by clicking the "Easy Apply" button and sending us your resume.
+
+Salary $75 - $94 per hour
+
+A Bit About Us
+
+Leading west coast based healthcare system is looking to add a remote Machine Learning Engineering consultant to their team.
+
+Apply today to learn more about this 12+ month consulting role opportunity.
+
+To be considered, candidates must reside in PST, MTN, or CST time zones.
+
+Please note you must have EHR and Healthcare setting experience to be considered.
+
+
+
+Why join us?
+
+
+12+ Month REMOTE Contract role with options to extend
+
+PST Hours
+
+Job Details
+
+Requirements
+
+3 or more years relevant Machine Learning Engineer Experience
+Bachelor’s Degree computer science, artificial intelligence, informatics or closely related field, Masters preferred
+Healthcare Expertise Understanding of healthcare regulations and standards, and familiarity with Electronic Health Records (EHR) systems, including integrating machine learning models with these systems.
+Certification(s) in Machine Learning a plus
+Experience in managing end-to-end ML lifecycle.
+Experience in managing automation with Terraform.
+Containerization technologies (e.g., Docker) or container orchestration platforms (e.g., Kubernetes).
+CI/CD tools (e.g., Github Actions).
+Programming languages and frameworks (e.g., Python, R, SQL).
+Deep understanding of coding, architecture, and deployment processes.
+Strong understanding of critical performance metrics.
+Extensive experience in predictive modeling, LLMs, and NLP.
+Exhibit the ability to effectively articulate the advantages and applications of the RAG framework with LLMs
+
+Job Description
+
+Production Deployment and Model Engineering Proven experience in deploying and maintaining production-grade machine learning models, with real-time inference, scalability, and reliability.
+Scalable ML Infrastructures Proficiency in developing end-to-end scalable ML infrastructures using on-premise cloud platforms such as Amazon Web Services (AWS), Google Cloud Platform (GCP), or Azure.
+Engineering Leadership Ability to lead engineering efforts in creating and implementing methods and workflows for ML/GenAI model engineering, LLM advancements, and optimizing deployment frameworks while aligning with business strategic directions.
+AI Pipeline Development Experience in developing AI pipelines for various data processing needs, including data ingestion, preprocessing, and search and retrieval, ensuring solutions meet all technical and business requirements.
+Collaboration Demonstrated ability to collaborate with data scientists, data engineers, analytics teams, and DevOps teams to design and implement robust deployment pipelines for continuous improvement of machine learning models.
+Continuous Integration/Continuous Deployment (CI/CD) Pipelines Expertise in implementing and optimizing CI/CD pipelines for machine learning models, automating testing and deployment processes.
+Monitoring and Logging Competence in setting up monitoring and logging solutions to track model performance, system health, and anomalies, allowing for timely intervention and proactive maintenance.
+Version Control Experience implementing version control systems for machine learning models and associated code to track changes and facilitate collaboration.
+Security and Compliance Knowledge of ensuring machine learning systems meet security and compliance standards, including data protection and privacy regulations.
+Documentation Skill in maintaining clear and comprehensive documentation of ML Ops processes and configurations.
+
+Interested in hearing more? Easy Apply now by clicking the "Easy Apply" button.
+
+Jobot is an Equal Opportunity Employer. We provide an inclusive work environment that celebrates diversity and all qualified candidates receive consideration for employment without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state or local laws.
+
+Sometimes Jobot is required to perform background checks with your authorization. Jobot will consider qualified candidates with criminal histories in a manner consistent with any applicable federal, state, or local law regarding criminal backgrounds, including but not limited to the Los Angeles Fair Chance Initiative for Hiring and the San Francisco Fair Chance Ordinance.
+
+Want to learn more about this role and Jobot Consulting?
+
+Click our Jobot Consulting logo and follow our LinkedIn page!

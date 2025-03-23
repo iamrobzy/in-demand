@@ -1,0 +1,74 @@
+Responsibilities
+
+TikTok is the leading destination for short-form mobile video. Our mission is to inspire creativity and bring joy. TikTok has global offices including Los Angeles, New York, London, Paris, Berlin, Dubai, Singapore, Jakarta, Seoul and Tokyo.
+
+Why Join Us
+
+Creation is the core of TikTok's purpose. Our platform is built to help imaginations thrive. This is doubly true of the teams that make TikTok possible.
+
+Together, we inspire creativity and bring joy - a mission we all believe in and aim towards achieving every day.
+
+To us, every challenge, no matter how difficult, is an opportunity; to learn, to innovate, and to grow as one team. Status quo? Never. Courage? Always.
+
+At TikTok, we create together and grow together. That's how we drive impact - for ourselves, our company, and the communities we serve.
+
+Join us.
+
+About The Team
+
+PDPO(Privacy and Data Protection Office) is the organization to lead, supervise, and empower all TikTok's privacy work in an accountable and industry leading way. This team is the expert in the landscape of privacy risks and passionate about consulting across the company on implementing the proper safeguards and technical mitigations to ensure that our users’ privacy is honored across the TikTok's products and platforms.
+
+About The Role
+
+The Machine Learning Scientist will lead and collaborate with cross-functional teams to design, develop, and deploy sophisticated machine learning algorithms to enhance the performance of our business systems.
+
+Formulate end-to-end machine learning models by utilizing ML, NLP techniques to deal with real-world signals generated from privacy products/ incidents/ review areas.
+Analyze extensive, complex datasets to extract meaningful insights, identify opportunities for improvement, and facilitate data-driven decision-making.
+Design and execute experiments, testing and iterating on machine learning models to optimize recommendation functions and boost user satisfaction.
+Communicate final recommendations and drive decision making.
+
+You will utilize data-driven techniques in building solutions to help measure, validate, identify, and envision TikTok's privacy evolution. You will design and scope out projects, build operationalized analytics tools and platforms, and most importantly, use data and AI models to find insights, diagnose problems and tell compelling stories.
+
+Besides the technical side, you will also get the opportunity to work closely with various XFN teams, including but not limited to engineering, legal, audit, security, public, government relations, and products. You will be expected to build deep domain knowledge and build a strong domain expertise in privacy.
+
+Qualifications
+
+Minimum Qualifications:
+
+Requires a Bachelor's degree in Finance, Mathematics, Statistics, Operations Research or other related field and two years of experience in the job offered or in a machine learning-related role.
+Solid background in NLP and analytics, personalization/recommendation and hands-on experience and solid understanding of machine learning and deep learning methods.
+Experience performing data extraction, cleaning, analysis and presentation for medium to large datasets
+Experience with at least one programming language (i.e. Python, R, Java, or C++)
+Experience writing SQL queries
+Experience with scientific computing and analysis packages such as NumPy, SciPy, Pandas, Scikit-learn, dplyr, or ggplot2
+
+Preferred Qualifications
+
+Experience with statistics methods such as forecasting, time series, hypothesis testing, classification, clustering or regression analysis
+Experience with data visualization libraries such as Matplotlib, Pyplot, ggplot2
+Experience with machine learning libraries and deep learning toolkits such as PyTorch, Caffe2, TensorFlow, Keras or Theano.
+Experience with Large Language Model is a plus.
+
+TikTok is committed to creating an inclusive space where employees are valued for their skills, experiences, and unique perspectives. Our platform connects people from across the globe and so does our workplace. At TikTok, our mission is to inspire creativity and bring joy. To achieve that goal, we are committed to celebrating our diverse voices and to creating an environment that reflects the many communities we reach. We are passionate about this and hope you are too.
+
+TikTok is committed to providing reasonable accommodations in our recruitment processes for candidates with disabilities, pregnancy, sincerely held religious beliefs or other reasons protected by applicable laws. If you need assistance or a reasonable accommodation, please reach out to us at https://shorturl.at/cdpT2
+
+Job Information
+
+【For Pay Transparency】Compensation Description (Annually)
+
+The base salary range for this position in the selected city is $145000 - $250000 annually.
+
+Compensation may vary outside of this range depending on a number of factors, including a candidate’s qualifications, skills, competencies and experience, and location. Base pay is one part of the Total Package that is provided to compensate and recognize employees for their work, and this role may be eligible for additional discretionary bonuses/incentives, and restricted stock units.
+
+Benefits may vary depending on the nature of employment and the country work location. Employees have day one access to medical, dental, and vision insurance, a 401(k) savings plan with company match, paid parental leave, short-term and long-term disability coverage, life insurance, wellbeing benefits, among others. Employees also receive 10 paid holidays per year, 10 paid sick days per year and 17 days of Paid Personal Time (prorated upon hire with increasing accruals by tenure).
+
+The Company reserves the right to modify or change these benefits programs at any time, with or without notice.
+
+For Los Angeles County (unincorporated) Candidates
+
+Qualified applicants with arrest or conviction records will be considered for employment in accordance with all federal, state, and local laws including the Los Angeles County Fair Chance Ordinance for Employers and the California Fair Chance Act. Our company believes that criminal history may have a direct, adverse and negative relationship on the following job duties, potentially resulting in the withdrawal of the conditional offer of employment:
+
+Interacting and occasionally having unsupervised contact with internal/external clients and/or colleagues;
+Appropriately handling and managing confidential information including proprietary and trade secret information and access to information technology systems; and
+Exercising sound judgment.

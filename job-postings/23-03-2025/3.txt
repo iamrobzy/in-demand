@@ -1,0 +1,42 @@
+Công việcỨng tuyểnGiới thiệu ứng viên
+
+Job Description
+
+Support multiple departments(operation, sales, finance, marketing, product...) to carry out key deliverables and achieve business objectives.
+Have the ability to consult stakeholders for decision-making by using the right data.
+Manage and deliver analytics projects including advanced statistics methods such as prediction, segmentation, and causal analysis from conception to completion with actionable insights and recommendations.
+Perform analyses to understand user/driver behaviors and find actionable insights for current and future data-focused innovation.
+Research/implement solutions for Dynamic Pricing, Credit Score, Risk Analytics, Fraud Detection... problems.
+Design, implement, and monitor A/B tests.
+
+Job requirement
+
+M.S. (B.S.) in Computer Science, Statistics, Math, Engineering, or related industry experience.
+Good communication and interpersonal skills, storytelling with data, e.g., ability to communicate data science concepts and analysis results to both technical and non-technical audiences
+Experience with one or more programming languages (e.g. = Python)
+Experience with statistical tools (e.g. R, Python) , analysis and advanced statistics as prediction, forecasting, and segmentation
+Experience in machine-learning packages (e.g. supervised and unsupervised learning )
+Good understanding of AB testing,
+Experience with big data: extraction, processing, filtering, and presenting large quantities (100K to Millions of rows) of data using cloud products as Big query, GCS/S3, Dataproc-Pyspark
+Nice to have experience with Computer Vision, NLP, Deep Learning.
+
+Why you'll love working here
+
+At Ahamove, we are always driven by data and recognize it as a fuel for innovation. We collect, analyse and integrate data into every corner of the enterprise.
+
+The data team is the backbone of our company. Just like the “on-demand delivery” segment, our data team provides "on-demand technologies" to serve our fast-changing business needs and evolving market. Our data team has the power to try many up-to-date solutions, tools and technologies such as Cloud Services, Big Data Distributed System, Machine Learning Model...
+
+Currently, we have created different data positions to solve a variety of problems which are fun, challenging and meaningful. We welcome young talents with fresh minds to join us on our way to become a 5-star
+
+company.
+
+Let's grow together
+
+Benefit
+
+Grab/Be for work: 1M/month
+Laptop & PVI insurance
+Competitive salaries and benefits according to experience and education level
+And more
+
+Ứng tuyển ngay

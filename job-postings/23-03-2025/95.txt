@@ -1,0 +1,87 @@
+Job Description
+
+Please note this role is open to candidates willing to relocate to Australia or New Zealand**
+
+
+Join The Team Redefining How The World Experiences Design.
+
+Hey, g'day, mabuhay, kia ora, 你好, hallo, vítejte!
+
+Thanks for stopping by. We know job hunting can be a little time-consuming and you're probably keen to find out what's on offer, so we'll get straight to the point.
+
+Where And How You Can Work
+
+Our flagship campus is in Sydney. We also have a campus in Melbourne and co-working spaces in Brisbane, Perth and Adelaide. But you have a choice in where and how you work. That means if you want to do your thing in the office (if you're near one), at home or a bit of both, it's up to you.
+
+What You’d Be Doing In This Role
+
+As Canva scales change continues to be part of our DNA. But we like to think that's all part of the fun. So this will give you the flavour of the type of things you'll be working on when you start, but this will likely evolve.
+
+At the moment, in this role you will
+
+Partner with our leadership on developing an AI/ML strategy and roadmap to improve the customer support experience.
+Be accountable for the delivery of the primary identified opportunities in UV, partnering with product and engineering teams.
+Lead the ML development of a natural language understanding/processing system that integrates seamlessly into the Canva Product.
+Collaborate with MLEs across the organisation to tap into existing ML capabilities and/or work on cross-organisation problems and solutions.
+
+
+You're probably a match if
+
+You have more than 5 years of Industry experience in the machine learning/software engineering role with a Product/SaaS company.
+You have experience with industry-level high scale Natural Language Systems.
+You have experience building and deploying machine learning models, including a strong understanding of end-to-end machine learning pipelines and components.
+You have strong coding proficiency in Python (note that interviews will be in Python).
+You are familiar with several of the following: TensorFlow, PyTorch, scikit-learn, Langchain and Huggingface.
+You have worked with RAG architectures and/or have a good understanding of its application.
+You have a strong understanding of Computer Science/Engineering fundamentals and first principles covering system design, data structures, architecture, and design patterns.
+You have ideally previously worked in Customer Support and/or Business Process automation role.
+You have excellent collaboration and communication skills. You enjoy pairing with and mentoring other engineers.
+You have a proven ability to set medium to long-term vision for the team in the AI space.
+
+
+About User Voice
+
+At Canva, we believe that supporting our users is a thrilling and intricate puzzle to solve. Our mission is to ensure that every user feels empowered and heard, especially when we're aiming to scale our user base to an incredible 1 billion users! That's where our User Voice super team comes in, acting as the vital link between our users and Canva's most valuable partners.
+
+Our teams work hard to deliver an outstanding customer experience, including streamlined systems, optimised contact flows, and expert support specialists. We also provide tools like our Help Center, Assistant, and Chatbot to enable our users to help themselves. We’re making sure every user can instantly solve their issues or find answers to their questions.
+
+About The Team
+
+We are revolutionising the way users interact with our platform! As a member of our team, you will have the opportunity to work on a cutting-edge natural language understanding system that seamlessly integrates into Canva, enabling users to find help easily.
+
+We are proud to have recently released a milestone of our LLM-powered help system for customer support and we are the first conversational AI product at Canva!
+
+We embrace a remote-friendly work environment, allowing you the flexibility to work from anywhere in Australia. With team members located in Australia, New Zealand, the Philippines and China, you will be joining a diverse and inclusive team that values collaboration and creativity.
+
+The Machine Learning Engineering specialty delivers value to Canva’s users, by designing, building and maintaining complex production systems to apply statistics and machine learning at scale. We're building a highly personalised Canva;
+
+Developing and productionising user modelling that directly drives product features and targeting messaging and marketing.
+Making it easy for users to discover over 100M+ templates, photos, videos and elements;
+Applying ML to label and transform a vast number and variety of images.
+Leveraging our unique data to empower users to design.
+Creating designs using Conversational Experiences.
+
+
+We're looking to grow the team to continue to scale the impact of machine learning across Canva. You'll be joining a fast-moving cross-functional team, rapidly building and shipping machine learning-driven features to users and staff.
+
+What's in it for you?
+
+Achieving our crazy big goals motivates us to work hard - and we do - but you'll experience lots of moments of magic, connectivity and fun woven throughout life at Canva, too. We also offer a range of benefits to set you up for every success in and outside of work.
+
+Here's a Taste Of What's On Offer
+
+Equity packages - we want our success to be yours too
+Inclusive parental leave policy that supports all parents & carers
+An annual Vibe & Thrive allowance to support your wellbeing, social connection, office setup & more
+Flexible leave options that empower you to be a force for good, take time to recharge and support you personally
+
+
+Check out lifeatcanva.com for more info.
+
+Other Stuff To Know
+
+We make hiring decisions based on your experience, skills and passion, as well as how you can enhance Canva and our culture. When you apply, please tell us the pronouns you use and any reasonable adjustments you may need during the interview process.
+
+We celebrate all types of skills and backgrounds at Canva so even if you don’t feel like your skills quite match what’s listed above - we still want to hear from you!
+
+Please note that interviews are conducted virtually.

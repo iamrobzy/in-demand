@@ -1,0 +1,45 @@
+Description
+
+The Artificial General Intelligence (AGI) team is looking for a passionate, talented, and inventive Senior SDE with a strong machine learning background, to lead the development of industry-leading models with multimodal systems.
+
+As a Senior SDE with the AGI team, you will be responsible for leading the development of novel algorithms and modeling techniques to advance the state of the art with multimodal systems. Your work will directly impact our customers and will leverage Amazon’s heterogeneous data sources and large-scale computing resources to accelerate development with multimodal Large Language Models (LLMs) and Generative Artificial Intelligence (Gen AI). You will have significant influence on our overall strategy by working at the intersection of engineering and applied science to scale pre-training workflows and build efficient models. You will drive the system architecture, and spearhead the best practices that enable a quality infrastructure.
+
+The ideal candidate is clearly passionate about new opportunities and has a demonstrable track record of success in delivering new features and products. A commitment to team work, hustle, and strong communication skills (to both business and technical partners) are absolute requirements. Creating reliable, scalable, and high performance products requires exceptional technical expertise, a sound understanding of the fundamentals of Computer Science, and practical experience building large-scale distributed systems. This person has thrived and succeeded in delivering high quality technology products/services in a hyper-growth environment where priorities shift fast.
+
+Key job responsibilities
+
+Responsible for pre-training multimodal LLMs
+Work closely with Applied scientists to scale pre-training of machine learning models on GPUs while optimizing the training workflows using highly distributed training techniques and frameworks (Like FSDP, NVIDIA NeMo, Megatron Core etc)
+Will work with other team members to investigate design approaches, prototype new technology and evaluate technical feasibility.
+Will work in an Agile/Scrum environment to deliver high quality software against aggressive schedules.
+
+About The Team
+
+AGI Foundations team is responsible for building industry leading generative AI models.
+
+Basic Qualifications
+
+5+ years of non-internship professional software development experience
+5+ years of programming with at least one software programming language experience
+5+ years of leading design or architecture (design patterns, reliability and scaling) of new and existing systems experience
+Experience as a mentor, tech lead or leading an engineering team
+2+ years of expertise in Machine Learning and model training
+
+Preferred Qualifications
+
+5+ years of full software development life cycle, including coding standards, code reviews, source control management, build processes, testing, and operations experience
+Bachelor's degree in computer science or equivalent
+Expertise in training Generative AI vision models
+
+Amazon is committed to a diverse and inclusive workplace. Amazon is an equal opportunity employer and does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, or other legally protected status.
+
+Los Angeles County applicants: Job duties for this position include: work safely and cooperatively with other employees, supervisors, and staff; adhere to standards of excellence despite stressful conditions; communicate effectively and respectfully with employees, supervisors, and staff to ensure exceptional customer service; and follow all federal, state, and local laws and Company policies. Criminal history may have a direct, adverse, and negative relationship with some of the material job duties of this position. These include the duties and responsibilities listed above, as well as the abilities to adhere to company policies, exercise sound judgment, effectively manage stress and work safely and respectfully with others, exhibit trustworthiness and professionalism, and safeguard business operations and the Company’s reputation. Pursuant to the Los Angeles County Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.
+
+Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.
+
+Our compensation reflects the cost of labor across several US geographic markets. The base pay for this position ranges from $151,300/year in our lowest geographic market up to $261,500/year in our highest geographic market. Pay is based on a number of factors including market location and may vary depending on job-related knowledge, skills, and experience. Amazon is a total compensation company. Dependent on the position offered, equity, sign-on payments, and other forms of compensation may be provided as part of a total compensation package, in addition to a full range of medical, financial, and/or other benefits. For more information, please visit https://www.aboutamazon.com/workplace/employee-benefits. This position will remain posted until filled. Applicants should apply via our internal or external career site.
+
+
+Company - Amazon.com Services LLC
+
+Job ID: A2894216

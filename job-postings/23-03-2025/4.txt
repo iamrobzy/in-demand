@@ -1,0 +1,18 @@
+A Share People Hub, em parceria com um centro de pesquisa e inovação, buscam por Pessoa Desenvolvedora de Software Sênior (Deep Learning e Machine Learning) para atuação no modelo híbrido em Campinas / SP.
+
+DESAFIOS DA POSIÇÃO | PRINCIPAIS RESPONSABILIDADES:
+
+Pesquisar, projetar, implementar e manter soluções de Processamento de Fala, mais especificamente em Keyword Spotting (KWS), utilizando técnicas state-of-the-art;
+Auxiliar no desenvolvimento técnico dos membros da equipe;
+Participar na definição e na melhoria de produtos, projetos e processos.
+Que Essa Pessoa Precisa Ter
+Graduação completa em Ciência da Computação, Engenharia da Computação, Engenharia Elétrica ou área correlatas;
+Sólido background em desenvolvimento ou pesquisa em Machine Learning / Deep Learning;
+Processamento de Sinais;
+Experiência em técnicas de Processamento de Fala utilizando redes neurais;
+Experiência em Linux, Python e Git;
+Experiência em Frameworks como Pythorch, TensorFlow e TFLite;
+Inglês Avançado
+Que Será Um Diferencial
+Experiência em otimização de modelos de ML embarcados
+Experiência em técnicas de Few Shot Learning

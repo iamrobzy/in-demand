@@ -1,0 +1,75 @@
+Responsibilities
+
+Founded in 2012, ByteDance's mission is to inspire creativity and enrich life. With a suite of more than a dozen products, including TikTok, as well as platforms specific to the China market, including Toutiao, Douyin, and Xigua, ByteDance has made it easier and more fun for people to connect with, consume, and create content.
+
+Why Join Us
+
+Creation is the core of ByteDance's purpose. Our products are built to help imaginations thrive. This is doubly true of the teams that make our innovations possible. Together, we inspire creativity and enrich life - a mission we aim towards achieving every day.
+
+To us, every challenge, no matter how ambiguous, is an opportunity; to learn, to innovate, and to grow as one team. Status quo? Never. Courage? Always.
+
+At ByteDance, we create together and grow together. That's how we drive impact - for ourselves, our company, and the users we serve.
+
+Join us."
+
+About The Team
+
+Founded in 2023, ByteDance Doubao Team is dedicated to crafting the industry's most advanced LLMs. We aim to lead global research and foster both technological and social progress.
+
+With a long-term vision and a strong commitment to the AI field, the Team conducts research in a range of areas including natural language processing (NLP), computer vision (CV), and speech recognition and generation. It boasts a robust international presence with labs and research facilities in China, Singapore, and the US. Leveraging substantial data and computing resources and through continued investment in these domains, our team has built a proprietary general-purpose model with multimodal capabilities. This model supports over 50 downstream business services including Doubao, Coze, and Dreamina, which are available to enterprise customers via the Volcano Engine. Currently, the Doubao App is the most used AIGC application in the China market.
+
+Successful candidates must be able to commit to one of the following start dates below:
+
+January 15, 2024
+February 5, 2024
+March 4, 2024
+May 20, 2024
+June 10, 2024
+July 15, 2024
+August 12, 2024
+
+We will prioritize candidates who are able to commit to these start dates. Please state your availability and graduation date clearly in your resume.
+
+Applications will be reviewed on a rolling basis. We encourage you to apply early.
+
+Candidates can apply for a maximum of TWO positions and will be considered for jobs in the order you applied for. The application limit is applicable to ByteDance and its affiliates' jobs globally.
+
+Responsibilities:
+
+Develop or execute research to push forward the state of the art in LLM.
+Conduct experiments, including designing experimental details, writing reusable code, running evaluations, and organizing results.
+Collaborate with a large and globally distributed team
+Contribute to publications and open-sourcing efforts.
+
+Qualifications
+
+PhD graduate with a background in NLP, experience in areas like LLM pretrain; interpretable LLM; LLM evaluation; responsible LLMs; LLM alignment are preferred.
+Candidates with influential open-source projects or publications at top-tier AI conferences (e.g., NeurIPS, CVPR, ICML, ICLR, ICCV, and ACL) are preferred.
+Strong sense of responsibility, good learning ability, communication ability, and self-motivation.
+Good communication and collaboration skills, able to explore new technologies with the team and promote technological progress.
+
+ByteDance is committed to creating an inclusive space where employees are valued for their skills, experiences, and unique perspectives. Our platform connects people from across the globe and so does our workplace. At ByteDance, our mission is to inspire creativity and enrich life. To achieve that goal, we are committed to celebrating our diverse voices and to creating an environment that reflects the many communities we reach. We are passionate about this and hope you are too.
+
+ByteDance Inc. is committed to providing reasonable accommodations in our recruitment processes for candidates with disabilities, pregnancy, sincerely held religious beliefs or other reasons protected by applicable laws. If you need assistance or a reasonable accommodation, please reach out to us at earlycareers.accommodations@bytedance.com.
+
+By submitting an application for this role, you accept and agree to our global applicant privacy policy, which may be accessed here: https://jobs.bytedance.com/en/legal/privacy.
+
+Job Information
+
+【For Pay Transparency】Compensation Description (Annually)
+
+The base salary range for this position in the selected city is $136800 - $205000 annually.
+
+Compensation may vary outside of this range depending on a number of factors, including a candidate’s qualifications, skills, competencies and experience, and location. Base pay is one part of the Total Package that is provided to compensate and recognize employees for their work, and this role may be eligible for additional discretionary bonuses/incentives, and restricted stock units.
+
+Benefits may vary depending on the nature of employment and the country work location. Employees have day one access to medical, dental, and vision insurance, a 401(k) savings plan with company match, paid parental leave, short-term and long-term disability coverage, life insurance, wellbeing benefits, among others. Employees also receive 10 paid holidays per year, 10 paid sick days per year and 17 days of Paid Personal Time (prorated upon hire with increasing accruals by tenure).
+
+The Company reserves the right to modify or change these benefits programs at any time, with or without notice.
+
+For Los Angeles County (unincorporated) Candidates:
+
+Qualified applicants with arrest or conviction records will be considered for employment in accordance with all federal, state, and local laws including the Los Angeles County Fair Chance Ordinance for Employers and the California Fair Chance Act. Our company believes that criminal history may have a direct, adverse and negative relationship on the following job duties, potentially resulting in the withdrawal of the conditional offer of employment:
+
+Interacting and occasionally having unsupervised contact with internal/external clients and/or colleagues;
+Appropriately handling and managing confidential information including proprietary and trade secret information and access to information technology systems; and
+Exercising sound judgment.

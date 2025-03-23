@@ -1,0 +1,72 @@
+Our Mission
+
+Our mission is to restore cell health and resilience through cell rejuvenation to reverse disease, injury, and the disabilities that can occur throughout life.
+
+For more information, see our website at altoslabs.com.
+
+Our Value
+
+Our Single Altos Value: Everyone Owns Achieving Our Inspiring Mission.
+
+Diversity at Altos
+
+We believe that diverse perspectives are foundational to scientific innovation and inquiry. At Altos, exceptional scientists and industry leaders from around the world work together to advance a shared mission. Our intentional focus is on Belonging, so that all employees know that they are valued for their unique perspectives. We are all accountable for sustaining a diverse and inclusive environment.
+
+What You Will Contribute To Altos
+
+Altos Labs is seeking a Staff Machine Learning Engineer who can accelerate and optimize our progress in developing foundation models for biology. This role is integral to our Computational Systems Modeling & Scaling team, working in a team of experienced ML and infrastructure engineers to deliver compelling internal frameworks, services, and expertise. It will involve close collaboration with computational scientists from a diverse range of disciplines, including molecular modeling, computational biology, discrete simulation, machine learning, and artificial intelligence.
+
+Responsibilities:
+
+Designing, building, and evaluating large-scale machine learning systems including data transformation pipelines, feature stores, distributed training, architecture optimization, model management & serving, etc.
+Motivated to build, deploy, and manage systems to accelerate large-scale machine learning workflows in an integrated, usable framework
+Interested in understanding user needs across a wide range of scientific disciplines, and communicating with users to build systems that they can use productively
+Demonstrated software engineering skills in developing reliable, scalable, performant systems in a cloud environment
+Champion maintainable, scalable, and reusable software engineering techniques and acts as an ambassador to promote effective tools and practices to the research community.
+Mentor software engineers and computational scientists, evangelizing best practices around development tools, CI/CD, and other methods to improve code quality and efficiency.
+
+Who You Are
+
+Minimum Qualifications
+
+M.S. or Ph.D. in Computer Science, or related quantitative field, or equivalent technical experience
+8+ years software development experience
+Extensive experience with large scale machine learning tools and infrastructure.
+Experience applying software engineering practices in a scientific environment, or another environment with similar characteristics
+Excited to design, implement, and evangelize technical and cultural standards across scientific and technical functions.
+Proven track record of delivering high quality software.
+Skilled at working effectively with cross-functional teams, including research and engineering organizations.
+Excellent written and verbal communication skills.
+
+Preferred Qualifications
+
+Familiarity with biological data formats, concepts, and computational models is a plus
+
+The salary range for Redwood City, CA:
+
+Staff Machine Learning Engineer: $232,900 - $315,100
+
+The salary range for San Diego, CA:
+
+Staff Machine Learning Engineer: $221,000 - $299,000
+
+Exact compensation may vary based on skills, experience, and location.
+
+For UK applicants, before submitting your application:
+
+Please click here to read the Altos Labs EU and UK Applicant Privacy Notice (bit.ly/eu_uk_privacy_notice)
+This Privacy Notice is not a contract, express or implied and it does not set terms or conditions of employment.
+
+What We Want You To Know
+
+We are a culture of collaboration and scientific excellence, and we believe in the values of inclusion and belonging to inspire innovation.
+
+Altos Labs provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state or local laws.
+
+This policy applies to all terms and conditions of employment, including recruiting, hiring, placement, promotion, termination, layoff, recall, transfer, leaves of absence, compensation and training.
+
+Altos currently requires all employees to be fully vaccinated against COVID-19, subject to legally required exemptions (e.g., due to a medical condition or sincerely-held religious belief).
+
+Thank you for your interest in Altos Labs where we strive for a culture of scientific excellence, learning, and belonging.
+
+Note: Altos Labs will not ask you to download a messaging app for an interview or outlay your own money to get started as an employee. If this sounds like your interaction with people claiming to be with Altos, it is not legitimate and has nothing to do with Altos. Learn more about a common job scam at https://www.linkedin.com/pulse/how-spot-avoid-online-job-scams-biron-clark/

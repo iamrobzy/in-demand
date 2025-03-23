@@ -1,0 +1,65 @@
+Responsibilities
+
+TikTok is the leading destination for short-form mobile video. At TikTok, our mission is to inspire creativity and bring joy. TikTok's global headquarters are in Los Angeles and Singapore, and its offices include New York, London, Dublin, Paris, Berlin, Dubai, Jakarta, Seoul, and Tokyo.
+
+Why Join Us
+
+Creation is the core of TikTok's purpose. Our platform is built to help imaginations thrive. This is doubly true of the teams that make TikTok possible.
+
+Together, we inspire creativity and bring joy - a mission we all believe in and aim towards achieving every day.
+
+To us, every challenge, no matter how difficult, is an opportunity; to learn, to innovate, and to grow as one team. Status quo? Never. Courage? Always.
+
+At TikTok, we create together and grow together. That's how we drive impact - for ourselves, our company, and the communities we serve.
+
+Join us.
+
+TikTok's advertising business is built on leveraging external signals to create features and labels that train personalized ad models. As signal loss becomes a growing challenge in online advertising, our Ads Identity and Attribution team is at the forefront of addressing this shift. We focus on identity matching (deriving user identification from signals) and ad attribution (assigning signals to ad touchpoints), both critical to the data foundation of TikTok's ad delivery system. What began as a technical engineering problem has evolved into a large-scale system challenge, requiring both cutting-edge data processing technologies and innovative machine learning algorithms.
+
+Responsibilities:
+
+By joining us, you'll have the opportunity to participate in the development of algorithms and systems for one of the world's leading ranking and recommendation services. Your work will mainly include:
+
+Developing advanced ML and LLM algorithms (including retrieval, ranking, calibration modules) for signal matching systems at the scale of millions of QPS
+Iterating and optimizing ranking algorithms and strategies through data analysis and experimentation.
+Leading the development and operational work of large-scale, distributed real-time systems for testing, integrating, and deploying machine learning models.
+Creating algorithms and data-driven solutions that utilize one of the world’s richest user behavior datasets for various ads-related use cases, such as ads ranking, targeting, bidding, calibration, and reporting.
+Collaborating with product teams to define product strategies and features.
+
+Qualifications
+
+Qualifications:
+
+Bachelor's or Master's degree in Computer Science, Computer Engineering, or related fields from an internationally renowned university.
+Proficient in one or more general-purpose programming languages, including but not limited to: Go, C/C++, Python.
+Experience in machine learning/deep learning algorithm development at large internet companies in one of the following areas: search, ads, or recommendation.
+
+Preferred Qualifications (for senior positions, must meet at least one):
+
+PhD and research experience in AI fields such as ML, NLP, CV, with papers published in top-tier conferences/journals (e.g., ICML, NIPS, KDD).
+Experience of engineering development experience for systems at millions of QPS scale
+Experience leading complex projects with successful delivery.
+
+TikTok is committed to creating an inclusive space where employees are valued for their skills, experiences, and unique perspectives. Our platform connects people from across the globe and so does our workplace. At TikTok, our mission is to inspire creativity and bring joy. To achieve that goal, we are committed to celebrating our diverse voices and to creating an environment that reflects the many communities we reach. We are passionate about this and hope you are too.
+
+TikTok is committed to providing reasonable accommodations in our recruitment processes for candidates with disabilities, pregnancy, sincerely held religious beliefs or other reasons protected by applicable laws. If you need assistance or a reasonable accommodation, please reach out to us at https://shorturl.at/cdpT2
+
+Job Information
+
+【For Pay Transparency】Compensation Description (Annually)
+
+The base salary range for this position in the selected city is $210000 - $358000 annually.
+
+Compensation may vary outside of this range depending on a number of factors, including a candidate’s qualifications, skills, competencies and experience, and location. Base pay is one part of the Total Package that is provided to compensate and recognize employees for their work, and this role may be eligible for additional discretionary bonuses/incentives, and restricted stock units.
+
+Benefits may vary depending on the nature of employment and the country work location. Employees have day one access to medical, dental, and vision insurance, a 401(k) savings plan with company match, paid parental leave, short-term and long-term disability coverage, life insurance, wellbeing benefits, among others. Employees also receive 10 paid holidays per year, 10 paid sick days per year and 17 days of Paid Personal Time (prorated upon hire with increasing accruals by tenure).
+
+The Company reserves the right to modify or change these benefits programs at any time, with or without notice.
+
+For Los Angeles County (unincorporated) Candidates:
+
+Qualified applicants with arrest or conviction records will be considered for employment in accordance with all federal, state, and local laws including the Los Angeles County Fair Chance Ordinance for Employers and the California Fair Chance Act. Our company believes that criminal history may have a direct, adverse and negative relationship on the following job duties, potentially resulting in the withdrawal of the conditional offer of employment:
+
+Interacting and occasionally having unsupervised contact with internal/external clients and/or colleagues;
+Appropriately handling and managing confidential information including proprietary and trade secret information and access to information technology systems; and
+Exercising sound judgment.

@@ -1,0 +1,39 @@
+🚀Ready to Dive into the Future of Technology?🚀
+
+Join our team and become a key player in shaping the future of Machine Learning, Deep Learning, and cutting-edge data science. We’re looking for a passionate and curious intern who’s ready to roll up their sleeves, learn, and make an impact. If you’re excited about solving complex problems, building cool ML/AI solutions, and getting hands-on with real-world data, this is the opportunity for you!
+
+What You'll Be Doing
+
+🎯 Algorithm Mastermind: Research, design, and implement cool ML, DL, and statistical models to solve problems that matter.
+
+📊 Time Series Magic: Work on innovative projects analyzing time series process data — your chance to bring data to life!
+
+🔧 Pipeline Pro: Tinker with and improve existing ML/DL data pipelines to make them faster, smarter, and more efficient.
+
+💡 Collaborative Innovator: Team up with our Data Engineering squad to build AI solutions that meet client needs — teamwork makes the dream work!
+
+📝 Documentation Rockstar: Document your breakthroughs, architecture designs, and lessons learned, making sure we all grow together.
+
+🌟 Feedback Guru: Collaborate with stakeholders and project teams, giving and receiving feedback to help fine-tune products and performance.
+
+What We’re Looking For
+
+Skills & Experience:
+
+ML/DL Wizardry: Experience building systems using machine learning and deep learning methods.
+Python Pro: Strong hands-on experience with Python (we know you love it as much as we do!).
+Data Enthusiast: Solid experience with pandas, NumPy, Matplotlib, and scikit-learn — your toolkit for working magic on data!
+Deep Learning Know-How: Practical experience with frameworks like TensorFlow and PyTorch.
+Time Series Expert: Comfortable with state-of-the-art ML/DL models specifically for time series data.
+Database Savvy: Experience working with SQL and NoSQL databases — because data needs a home.
+Cloud Explorer: Familiar with cloud environments (bonus points if you’ve worked with Azure!).
+Team Player: You’re a self-starter who thrives in a collaborative, fast-paced, results-driven environment.
+
+Eligibility Requirements
+
+Degree: You’ve got a degree (or are on track to get one) in Computer Science, Electrical Engineering, Robotics, or a related field with a focus on Deep Learning, Machine Learning, or Data Engineering.
+Availability: Ready to jump in a full-time internship? Your adventure starts here! Specific start dates will be shared during the recruiting process.
+
+Ready to Make an Impact?
+
+If you’re passionate about ML, love working with data, and want to dive into an internship that will challenge and excite you, we’d love to hear from you!

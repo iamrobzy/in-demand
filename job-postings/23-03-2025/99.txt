@@ -1,0 +1,14 @@
+We are seeking a skilled Machine Learning Engineer to join our team and contribute to the development of our technologies in data processing and automation in GenAI. The ideal candidate will have expertise in natural language processing (NLP) and deep learning techniques. You will be responsible for designing and implementing AI models that enable seamless and intelligent algorithms to enhance our platform's capabilities.
+
+Responsibilities:
+Develop and optimize NLP systems to improve understanding and generation capabilities of a GenAI engine
+Implement and maintain deep learning models with a focus on scalability and efficiency.
+Collaborate with data scientists to interpret findings and integrate machine learning algorithms.
+Conduct continuous model testing and iterations to enhance performance.
+Stay updated with the latest advancements in machine learning and NLP.
+
+Qualifications:
+Advanced degree in Computer Science, AI, or a related field.
+Strong programming skills in Python, with experience in TensorFlow or PyTorch.
+Demonstrable experience with machine learning applications.
+Excellent problem-solving and analytical skills.

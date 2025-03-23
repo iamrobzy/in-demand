@@ -1,0 +1,43 @@
+Want to learn more about this role and Jobot? Click our Jobot logo and follow our LinkedIn page!
+
+Job details
+
+ML Engineer Tysons Corner, VA
+
+This Jobot Job is hosted by Charles Simmons
+
+Are you a fit? Easy Apply now by clicking the "Easy Apply" button and sending us your resume.
+
+Salary $150,000 - $200,000 per year
+
+A Bit About Us
+
+Our client is a well-funded deep tech company headquartered in Northern Virginia, building a suite of autonomous software reliability and testing products. Their team is collaborative, highly technical, and customer focused. They prioritize the long-term in our structure, our products, and our relationships.
+
+Their team is in the office daily, which helps us tackle the difficult challenges we're working on, together. They are building something ambitious and valuable, and having fun doing it! Take a look at the positions below and reach out if you're interested.
+
+
+
+Why join us?
+
+
+Our client is looking for senior engineers to join our effort to build our autonomous testing product. As a Lead ML Engineer, you will work with a small, focused team on open-ended and novel applications of unsupervised representation learning. As part of Antithesis’s mission to revolutionize autonomous software testing, you will push the boundaries on fundamental questions of software exploration and guided fuzzing.
+
+They are doing things nobody has done before, so they don't require expertise with any specific language or framework, etc. Mainly we care that you're smart, get things done, a joy to work with, and are comfortable dealing with open-ended/poorly-defined problems.
+
+Job Details
+
+3+ years of Python experience
+2+ years of PyTorch or a similar framework
+Cloud Experience
+BS or MS or PHd in CS, Mathematics, Physics or similar
+
+Interested in hearing more? Easy Apply now by clicking the "Easy Apply" button.
+
+Jobot is an Equal Opportunity Employer. We provide an inclusive work environment that celebrates diversity and all qualified candidates receive consideration for employment without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state or local laws.
+
+Sometimes Jobot is required to perform background checks with your authorization. Jobot will consider qualified candidates with criminal histories in a manner consistent with any applicable federal, state, or local law regarding criminal backgrounds, including but not limited to the Los Angeles Fair Chance Initiative for Hiring and the San Francisco Fair Chance Ordinance.
+
+Want to learn more about this role and Jobot?
+
+Click our Jobot logo and follow our LinkedIn page!

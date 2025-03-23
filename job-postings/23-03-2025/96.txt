@@ -1,0 +1,45 @@
+About Rippling
+
+Rippling gives businesses one place to run HR, IT, and Finance. It brings together all of the workforce systems that are normally scattered across a company, like payroll, expenses, benefits, and computers. For the first time ever, you can manage and automate every part of the employee lifecycle in a single system.
+
+Take onboarding, for example. With Rippling, you can hire a new employee anywhere in the world and set up their payroll, corporate card, computer, benefits, and even third-party apps like Slack and Microsoft 365—all within 90 seconds.
+
+Based in San Francisco, CA, Rippling has raised $1.4B+ from the world’s top investors—including Kleiner Perkins, Founders Fund, Sequoia, Greenoaks, and Bedrock—and was named one of America's best startup employers by Forbes.
+
+We prioritize candidate safety. Please be aware that all official communication will only be sent from @Rippling.com addresses.
+
+About The Role
+
+We are seeking a highly skilled and experienced Senior Staff Machine Learning Engineer to join our team. As an engineer working on large language models (LLMs) at Rippling, you will work closely with product teams to build tools that people use. The work is necessarily cross-functional, and successful individuals on our team have an unusually high degree of ownership. Your expertise will contribute to the advancement of our organization's machine learning capabilities and drive innovation in our products and services.
+
+What You Will Do
+
+Collaborate with cross-functional teams to translate business requirements into models. 
+Design and develop scalable machine learning pipelines for data preprocessing, feature engineering, model training, and evaluation. You will work with data engineers to collect and preprocess data sets for model training. 
+Implement models in our production code base (primarily Python, Go). 
+Stay up-to-date with the latest research in ML and related fields, and apply this knowledge to improve Rippling products. 
+
+Qualifications
+
+Ph.D. or equivalent in Computer Science, Engineering, Mathematics, or related field AND 6 or more years full-time Software Engineering work experience; OR
+10 years full-time Software Engineering work experience, which includes 4+ years of software engineering experience in one or more of the following areas: advertising, recommendation systems, risk/fraud modeling, or natural language processing. 
+Comfortable with hands-on programming (eg, Python, Go, Java, C/C++) 
+Ability to communicate complex technical ideas with clarity and precision. 
+
+Additional Qualifications
+
+Experience with developing things that use large language models (LLMs) and familiarity with pre-training and fine-tuning techniques. 
+
+Additional Information
+
+Rippling is an equal opportunity employer. We are committed to building a diverse and inclusive workforce and do not discriminate based on race, religion, color, national origin, ancestry, physical disability, mental disability, medical condition, genetic information, marital status, sex, gender, gender identity, gender expression, age, sexual orientation, veteran or military status, or any other legally protected characteristics, Rippling is committed to providing reasonable accommodations for candidates with disabilities who need assistance during the hiring process. To request a reasonable accommodation, please email accomodations@rippling.com
+
+Rippling highly values having employees working in-office to foster a collaborative work environment and company culture. For office-based employees (employees who live within a defined radius of a Rippling office), Rippling considers working in the office, at least three days a week under current policy, to be an essential function of the employee's role.
+
+This role will receive a competitive salary + benefits + equity. The salary for US-based employees will be aligned with one of the ranges below based on location; see which tier applies to your location here.
+
+A variety of factors are considered when determining someone’s compensation–including a candidate’s professional background, experience, and location. Final offer amounts may vary from the amounts listed below.
+
+The pay range for this role is:
+
+201,000 - 351,750 USD per year(US Tier 1)

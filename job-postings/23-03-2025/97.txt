@@ -1,0 +1,25 @@
+Description
+
+Amazon is looking for a passionate, talented, and inventive Scientist with a strong machine learning background to help build industry-leading Speech and Language technology. Our mission is to push the envelope in Automatic Speech Recognition (ASR), Natural Language Understanding (NLU), and Audio Signal Processing, in order to provide the best-possible experience for our customers.
+
+As a Speech and Language Scientist, you will work with talented peers to develop novel algorithms and modeling techniques to advance the state of the art in spoken language understanding. Your work will directly impact our customers in the form of products and services that make use of speech and language technology. You will leverage Amazon’s heterogeneous data sources and large-scale computing resources to accelerate advances in spoken language understanding.
+
+We are hiring in the area of speech recognition (ASR) and associated technologies.
+
+Basic Qualifications
+
+3+ years of building models for business application experience
+PhD, or Master's degree and 4+ years of CS, CE, ML or related field experience
+Experience in patents or publications at top-tier peer-reviewed conferences or journals
+Experience programming in Java, C++, Python or related language
+Experience in any of the following areas: algorithms and data structures, parsing, numerical optimization, data mining, parallel and distributed computing, high-performance computing
+
+Preferred Qualifications
+
+Experience using Unix/Linux
+Experience in professional software development
+
+
+Company - ADCI - Karnataka
+
+Job ID: A2826940

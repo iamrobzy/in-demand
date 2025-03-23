@@ -1,0 +1,50 @@
+About MarketEngine.ai
+MarketEngine.ai is a Silicon-Valley company revolutionizing marketing demand generation for startups and SMBs. Our cutting-edge platform integrates all marketing functions into one seamless solution, empowering entrepreneurs, marketers and sales executives to generate the marketing-qualified leads ten times faster and at 75% lower cost compared to traditional marketing agencies. Led by Silicon Valley leaders, experts in Marketing, Software and AI/ML, we’re on a mission to help startups and SMBs not just survive, but thrive.
+
+Role Overview
+We're looking for a passionate and experienced AIML Engineering Lead to join our Pune team and spearhead the development of production-grade LLM-based agentic platform. In this role, you'll be instrumental in designing scalable infrastructure for our LLM systems and developing robust frameworks for prompt management. As a key team member, you'll have significant influence on our system architecture and technical direction.
+
+Key Responsibilities
+Architect and implement production-grade LLMOps pipelines
+Develop and maintain prompt engineering and evaluation systems
+Establish comprehensive monitoring and observability for ML system performance
+Drive continuous improvement in prompt accuracy using quantitative and qualitative feedback
+Lead system architecture decisions and guide technical strategy
+Implement efficient data processing and integration solutions
+Ensure code quality through rigorous testing, code reviews, and LLM best practices
+
+Required Qualifications
+B.Tech/B.E. in Computer Science, IT, or related field from a reputed institute
+5+ years of software development experience, with 2+ years in MLOps/LLMOps
+Proven experience implementing CI/CD, MLOps, or LLMOps pipelines
+Production-level expertise with Azure Cloud, AI, ML, and Data Pipeline services
+Strong proficiency in Python and experience with FastAPI
+Solid understanding of ML algorithms and solutions
+Excellent problem-solving skills and ability to work independently
+Strong communication skills in English
+Willingness to work U.S. East Coast hours
+
+Desired Skills
+Advanced degree in Data Science, Machine Learning, or Computer Science
+Experience in productionizing GenerativeAI systems
+Expertise in optimizing ML-based systems
+Familiarity with Bicep, Terraform, or related infrastructure automation tools
+Advanced proficiency in Azure and Python
+
+Why Join MarketEngine.ai?
+- Be part of a high-growth Silicon-Valley startup revolutionizing SMB marketing technology. 
+- Collaborate with industry leaders in AI/ML and marketing experts. 
+- Competitive salary package (Best in industry)
+- Flexible work arrangements and a dynamic, intellectually stimulating environment
+- Opportunity to shape the future of demand generation technology for startups and SMBs
+Selection Process
+1. Resume shortlisting
+2. Technical round
+3. Problem-solving round focused on algorithms and system design
+4. Final interview with company leadership
+
+If you’re passionate about transforming Marketing Demand Generation for the startups and SMBs, send their updated CV to jobs@marketengine.ai with the subject line "Application forAIML Engineering Lead - [Your Name]".
+
+Note: Only shortlisted candidates will be contacted.
+
+MarketEngine.ai is an equal opportunity employer and values diversity in our workforce.

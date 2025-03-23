@@ -1,0 +1,39 @@
+Why Octopus Digital?
+
+Octopus Digital is leading the charge in Industry 4.0 across Pakistan and the Middle East, revolutionizing industries with smart factory solutions, AI, big data, and IoT. Our cloud-native, AI-powered platforms deliver actionable insights, making complex data accessible for all professionals. We help businesses digitize manufacturing, supply chain, and financial processes, offering 24/7 support and business intelligence through flexible subscription services. With a global presence and a focus on continuous innovation, we empower companies to thrive in the digital age and stay ahead of the competition. Let us help you unlock the future of your business.
+
+Job Overview
+
+Ready to make an impact with Machine Learning? We’re looking for a Machine Learning Lead to join our team! You'll develop cutting-edge ML models, collaborate with Data Engineering to build efficient ETL architectures, and guide stakeholders through powerful data insights. If you're passionate about ML, love taking the lead, and enjoy learning on the go, this is the perfect role for you! 🚀🤖
+
+Responsibilities
+
+Take the lead in customer data meetings and suggest innovative ways to improve data insights. 💬📈
+Collaborate with the Data Engineering Team to create powerful ETL architecture. 🔄💡
+Research and develop ML models to solve unique customer challenges and enhance datasets. 🔍📊
+Build ML models from the ground up and help product managers and stakeholders truly understand their power and results. 💥🤓
+Deploy models and interfaces that deliver real value to external customers. 🌍💻
+Be a mentor! Train data teams and analysts on ML modeling capabilities and how to drive value through data-driven KPIs for various industries. 🎓💪
+
+Skills & Experience
+
+2-3 years of hands-on programming experience, particularly with enterprise products. 🖥️
+Mastery of multiple programming languages and a strong foundation in statistical platforms like Python, R, or MatLab, SQL & Azure Data Tools. 🐍📊
+Experience in building datasets and ML models.
+Quick learner who takes initiative, loves leading the charge, and thrives in the world of data! 🚀
+Experience in Numpy, Pandas, sickit-learn, Seaborn. 📉
+Experience in Jupyter, Colab & Vs Code. 🔧
+
+💡 What’s in It for You?
+
+🌟 Competitive Compensation – We value your expertise and reward it accordingly.
+
+🩺 Comprehensive Health & Life Insurance – Your well-being is our priority.
+
+🚗 Travel Support – Making your commute smoother and stress-free.
+
+📈 Exciting Career Growth – Work on game-changing projects in a rapidly expanding company.
+
+🤝 Collaborative & Innovative Culture – Be part of a highly skilled team that values creativity and problem-solving.
+
+If you're ready to shape the future with your ML expertise, and have fun while doing it, we'd love to have you on board! 😎👩💻

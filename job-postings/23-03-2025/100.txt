@@ -1,0 +1,45 @@
+Location: Poland
+
+We Are
+
+RTB House is a global company that provides state-of-the-art marketing technologies for top brands and agencies worldwide. Its proprietary ad-buying engine is the first in the world to be powered entirely by Deep Learning algorithms, enabling advertisers to generate outstanding results and reach their goals at every stage of the funnel.
+
+Desired Experience
+
+Expertise in designing and implementing complex IT systems.
+Ability to develop user-friendly, versatile tools.
+Proficiency in at least one programming language, such as Python, C++, Java, or Scala, along with expertise in Linux.
+Strong skills in evaluating and optimizing system performance, from initial design through to production troubleshooting.
+Deep understanding of algorithms and data structures.
+Initiative and creativity to improve existing solutions.
+Ability to work effectively both within and across teams.
+
+Additional Advantages
+
+Previous experience in the field of Machine Learning is not required, but would be an asset.
+Solid foundation in mathematics.
+Experience with GPU programming and Machine Learning frameworks such as Torch, PyTorch, or TensorFlow.
+Proven experience with distributed systems.
+Familiarity with Big Data technologies such as Hadoop, Kafka, Storm, Spark, or Flink.
+Hands-on experience with Google Cloud Platform (GCP) or similar cloud providers.
+
+We Offer
+
+A highly competitive salary.
+The opportunity to work with a team of enthusiasts experienced in Machine Learning, Big Data, and distributed systems, who are eager to share their knowledge and skills.
+Flexible working hours, with the possibility of remote work or working from our office in Warsaw.
+Access to the latest technologies, with the opportunity to apply them in a large-scale and fast-paced project.
+An opportunity to apply your expertise in optimizing algorithms that support hundreds of millions of internet users and billions of ad views per month within the RTB model.
+The ability to see the immediate impact of your work on the company's business outcomes.
+The possibility of publishing your results.
+
+Daily Responsibilities
+
+Developing and maintaining the ML training platform and the bidding infrastructure that evaluates ML models in the production environment.
+Identifying performance bottlenecks and optimizing critical, low-level parts of the system.
+Ensuring the reliability and scalability of implementations, and creating performance and correctness tests for new system components.
+Testing and benchmarking open-source Big Data and ML technologies to assess their suitability for the production environment.
+
+Apply now!
+
+You don't need to tick every box to apply. If you are passionate about digital marketing, send us your CV, and we'll review it.

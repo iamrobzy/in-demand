@@ -1,0 +1,90 @@
+Responsibilities
+
+Founded in 2012, ByteDance's mission is to inspire creativity and enrich life. With a suite of more than a dozen products, including TikTok, Helo, and Resso, as well as platforms specific to the China market, including Toutiao, Douyin, and Xigua, ByteDance has made it easier and more fun for people to connect with, consume, and create content.
+
+Why Join Us
+
+Creation is the core of ByteDance's purpose. Our products are built to help imaginations thrive. This is doubly true of the teams that make our innovations possible.
+
+Together, we inspire creativity and enrich life - a mission we aim towards achieving every day.
+
+To us, every challenge, no matter how ambiguous, is an opportunity; to learn, to innovate, and to grow as one team. Status quo? Never. Courage? Always.
+
+At ByteDance, we create together and grow together. That's how we drive impact - for ourselves, our company, and the users we serve.
+
+Join us.
+
+The Applied Machine Learning Enterprise team combines system engineering and machine learning to develop and operate massively distributed machine learning training, inference systems and services to serve both the big model vendors and users around the world. You'll have the opportunity to build and enrich your expertise in coding, performance analysis and large system management, and get heavily involved in the process of hardware/capacity decision-making.
+
+In the engineering team, you'll have the opportunity to build the large scale heterogeneous system integrating with GPU/RDMA/Storage and keep it running steady and reliable, enrich your expertise in coding, performance analysis and distributed system, be involved in the process of hardware/capacity decision-making.
+
+We are looking for talented individuals to join us for an internship in 2025. Internships at TikTok aim to offer students industry exposure and hands-on experience. Turn your ambitions into reality as your inspiration brings infinite opportunities at ByteDance.
+
+Applications will be reviewed on a rolling basis. We encourage you to apply early. Candidates can apply to a maximum of TWO positions and will be considered for jobs in the order you apply. The application limit is applicable to ByteDance (select one) and its affiliates' jobs globally.
+
+Internships At ByteDance Aim To Provide Students With Hands-on Experience In Developing Fundamental Skills And Exploring Potential Career Paths. A Vibrant Blend Of Social Events And Enriching Development Workshops Will Be Available For You To Explore. Here, You Will Utilize Your Knowledge In Real-world Scenarios While Laying a Strong Foundation For Personal And Professional Growth. It Runs For 12-24 Weeks And Begins In May/June 2025 Or August/September 2025. Successful Candidates Must Be Able To Commit To One Of The Following Start Dates Below:
+
+(Select below options for Summer)
+
+Monday, May 12
+Monday, May 19
+Tuesday May 27 (Memorial Day May 27)
+Monday, June 9
+Monday, June 23
+
+(Select below options for Fall)
+
+Monday, August 11
+Monday, August 25
+Monday, September 8
+Monday, September 22
+
+Please state your availability clearly in your resume (Start date, End date).
+
+Applications will be reviewed on a rolling basis. We encourage you to apply early. Candidates can apply to a maximum of TWO positions and will be considered for jobs in the order you apply. The application limit is applicable to ByteDance and its affiliates' jobs globally.
+
+Responsibilities:
+
+Building a next-generation big model as a service platform to serve hundreds of LLMs based applications;
+To develop and maintain the big model as a service platform, including offline training/finetuning, online inference, model management, and resource orchestration, etc.;
+To manage a huge number of GPU resources and provide computing power efficiently.
+
+Qualifications
+
+Minimum Qualifications:
+
+Currently pursuing a PhD in Computer Science or related technical field;
+Proficient in deep learning frameworks such as PyTorch or TensorFlow;
+Experience with software development in at least one of the following programming languages: C++, Python, Go;
+Good sense of teamwork and communication skills, practical experience in relevant business scenarios is preferred;
+Strong software programming capabilities, exhibits good code design and coding style;
+Must obtain work authorization in country of employment at the time of hire, and maintain ongoing work authorization during employment.
+
+Preferred Qualifications:
+
+Experience in NLP and LLM technologies;
+Experience or research in Alignment for Large language models;
+Experience in ModelOps, for example large model management, finetuning workflow management, etc.;
+Contribution to top-tier conference papers, including NeurIPS, ICML, ICLR, CVPR, ICCV, ACL, KDD, etc. is a big plus.
+
+ByteDance is committed to creating an inclusive space where employees are valued for their skills, experiences, and unique perspectives. Our platform connects people from across the globe and so does our workplace. At ByteDance, our mission is to inspire creativity and bring joy. To achieve that goal, we are committed to celebrating our diverse voices and to creating an environment that reflects the many communities we reach. We are passionate about this and hope you are too.
+
+ByteDance Inc. is committed to providing reasonable accommodations in our recruitment processes for candidates with disabilities, pregnancy, sincerely held religious beliefs or other reasons protected by applicable laws. If you need assistance or a reasonable accommodation, please reach out to us at https://shorturl.at/cdpT2
+
+Job Information
+
+【For Pay Transparency】Compensation Description (Hourly) - Campus Intern
+
+The hourly rate range for this position in the selected city is $75- $75.
+
+Benefits may vary depending on the nature of employment and the country work location. Interns have day one access to health insurance, life insurance, wellbeing benefits and more. Interns also receive 10 paid holidays per year and paid sick time (56 hours if hired in first half of year, 40 if hired in second half of year).
+
+The Company reserves the right to modify or change these benefits programs at any time, with or without notice.
+
+For Los Angeles County (unincorporated) Candidates:
+
+Qualified applicants with arrest or conviction records will be considered for employment in accordance with all federal, state, and local laws including the Los Angeles County Fair Chance Ordinance for Employers and the California Fair Chance Act. Our company believes that criminal history may have a direct, adverse and negative relationship on the following job duties, potentially resulting in the withdrawal of the conditional offer of employment:
+
+Interacting and occasionally having unsupervised contact with internal/external clients and/or colleagues;
+Appropriately handling and managing confidential information including proprietary and trade secret information and access to information technology systems; and
+Exercising sound judgment.

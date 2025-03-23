@@ -1,0 +1,65 @@
+Responsibilities
+
+Founded in 2012, ByteDance's mission is to inspire creativity and enrich life. With a suite of more than a dozen products, including TikTok, Helo, and Resso, as well as platforms specific to the China market, including Toutiao, Douyin, and Xigua, ByteDance has made it easier and more fun for people to connect with, consume, and create content.
+
+Why Join Us
+
+Creation is the core of ByteDance's purpose. Our products are built to help imaginations thrive. This is doubly true of the teams that make our innovations possible.
+
+Together, we inspire creativity and enrich life - a mission we aim towards achieving every day.
+
+To us, every challenge, no matter how ambiguous, is an opportunity; to learn, to innovate, and to grow as one team. Status quo? Never. Courage? Always.
+
+At ByteDance, we create together and grow together. That's how we drive impact - for ourselves, our company, and the users we serve.
+
+Join us.
+
+What You'll Do
+
+The AML Machine Learning Systems team provides E2E machine learning experience and machine learning resources for the company. The team builds heterogeneous ML training and inference systems based on GPU and AI chips and advances the state-of-the-art of ML systems technology to accelerate models such as stable diffusion and LLM. The team is also responsible for research and development of hardware acceleration technologies for AI and cloud computing, via technologies such as distributed systems, compilers, HPC, and RDMA networking. The team is reinventing the ML infra for large scale language models. We have published papers at top tier conferences such as SIGCOMM, NSDI, EuroSys, OSDI, SOSP, MLSys, NeurIPS, etc.
+
+Successful candidates must be able to commit to one of the following start dates below:
+
+January 15, 2024
+February 5, 2024
+March 4, 2024
+May 20, 2024
+June 10, 2024
+July 15, 2024
+August 12, 2024
+
+We will prioritize candidates who are able to commit to these start dates. Please state your availability and graduation date clearly in your resume.
+
+Applications will be reviewed on a rolling basis. We encourage you to apply early.
+
+Candidates can apply for a maximum of TWO positions and will be considered for jobs in the order you applied for. The application limit is applicable to ByteDance and its affiliates' jobs globally.
+
+Responsibilities
+
+Research and develop our machine learning systems, including heterogeneous computing architecture, management, and monitoring
+Deploy machine learning systems, distributed task scheduling, machine learning training
+Manage cross-layer optimization of system and AI algorithms and hardware for machine learning (GPU, ASIC)
+Implement both general purpose training framework features and model specific optimizations (e.g. LLM, diffusions)
+Improve efficiency and stability for extremely large scale distributed training jobs
+
+Qualifications
+
+Minimum Qualifications:
+
+Master or above degree in distributed, parallel computing principles and know the recent advances in computing, storage, networking, and hardware technologies;
+Familiar with machine learning algorithms, platforms and frameworks such as PyTorch and Jax.
+Have basic understanding of how GPU and/or ASIC works;
+Expert in at least one or two programming languages in Linux environment: C/C++, CUDA, Python;
+The following experiences will be a big plus:
+GPU based high performance computing, RDMA high performance network (MPI, NCCL, ibverbs);
+Distributed training framework optimizations such as DeepSpeed, FSDP, Megatron, GSPMD
+AI compiler stacks such as torch.fx, XLA and MLIR;
+Large scale data processing and parallel computing;
+Experiences in designing and operating large scale systems in cloud computing or machine learning;
+Experiences in in-depth CUDA programming and performance tuning (cutlass, triton)
+
+ByteDance is committed to creating an inclusive space where employees are valued for their skills, experiences, and unique perspectives. Our platform connects people from across the globe and so does our workplace. At ByteDance, our mission is to inspire creativity and bring joy. To achieve that goal, we are committed to celebrating our diverse voices and to creating an environment that reflects the many communities we reach. We are passionate about this and hope you are too.
+
+ByteDance Inc. is committed to providing reasonable accommodations in our recruitment processes for candidates with disabilities, pregnancy, sincerely held religious beliefs or other reasons protected by applicable laws. If you need assistance or a reasonable accommodation, please reach out to us at earlycareers.accommodations@bytedance.com.
+
+By submitting an application for this role, you accept and agree to our global applicant privacy policy, which may be accessed here: https://jobs.bytedance.com/en/legal/privacy.

@@ -1,0 +1,27 @@
+We are a well-funded biotech startup that has developed a proprietary single cell platform that resolves a bottleneck for immunotherapy. We are currently looking for a machine learning scientist with experience in Immuno-oncology to join our interdisciplinary team. The candidate is expected to adapt quickly and communicate well, especially in a fast-paced startup environment. He/she will collaborate with other team members and be part of an exciting journey. We pay competitive salaries with bonus and equity, plus full benefits that include medical, dental, vision, 401k match, commuter benefits and daily lunch.
+
+Responsibilities
+
+Develop and apply machine learning-based models to study TCR-pMHC interactions. 
+Apply protein structure modeling and machine learning techniques to develop novel computational solutions. 
+Collaborate with experimental team to validate model predictions. 
+
+Skills And Qualifications
+
+Doctoral (PhD) degree in computational biology, bioengineering, computer science, applied physics and mathematics, or an equivalent field. 
+Expert in machine learning-based protein design/engineering. 
+Strong background in protein modeling and structure biology. 
+Expert in machine learning frameworks and programming languages. 
+Experience in building computational models to predict TCR-pMHC interactions preferred. 
+
+Compensation
+
+Compensation and Benefits:
+
+$120,000 - $160,000 (depending on the depth of expertise) + 10% performance bonus + equity. 
+
+Benefits
+
+4% Salary 401K match; Daily lunches; Commuter Benefits; Unlimited snacks and drinks. 
+Medical, Dental, Vision; 100% Premium Covered. 
+Disability Insurance, Life Insurance; Workplace Insurance
