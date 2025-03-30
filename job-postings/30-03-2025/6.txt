@@ -1,0 +1,37 @@
+We’re on a mission to democratize AI by building the definitive AI data development platform. The AI landscape has gone through incredible change between 2016, when Snorkel started as a research project in the Stanford AI Lab, to the generative AI breakthroughs of today. But one thing has remained constant: the data you use to build AI is the key to achieving differentiation, high performance, and production-ready systems. We work with some of the world’s largest organizations to empower scientists, engineers, financial experts, product creators, journalists, and more to build custom AI with their data faster than ever before. Excited to help us redefine how AI is built? Apply to be the newest Snorkeler!
+
+As an Applied Machine Learning Engineer on the Go to Market team you’ll research and utilize established and state-of-the-art Gen AI and ML techniques to successfully deliver solutions to our customers. You'll engage new Gen AI and ML use cases through hands-on customer problems and help generalize learnings into the core Snorkel Flow platform. We move fast and are constantly prototyping new ways to deliver value to our customers. This position is ideal for someone who enjoys solving complex problems, working directly with customers, and bridging the gap between AI technology and business value.
+
+Main Responsibilities
+
+Design and implement customer AI projects from end to end, with a focus on Generative AI and ML solutions. This includes defining the business case, scoping the project, applying techniques such as retrieval-augmented generation (RAG), fine-tuning, prompt tuning, ML model training, and optimizing model performance for real-world deployment to maximize business impact
+Present findings and recommendations to customer stakeholders, assist with program ideation and technical program management, and brief materials.
+Design, develop, and deploy enterprise AI/ML solutions across various industries like finance, healthcare, insurance, retail and more
+Serve as the voice of our customers for new AI paradigms, data science workflows, and share customer feedback to product teams
+Deliver training and enablement to customers
+
+Preferred Qualifications
+
+5+ years of professional experience with machine learning, or 2+ years of professional experience with machine learning with an advanced degree in a relevant field
+1+ year of professional experience working directly with external customers to scope out build machine learning models, tools, or services
+Experience running strategic projects or professional services engagements with a strong orientation towards teaching and enablement.
+Strong experience working with Generative AI models (LLMs, transformers, embeddings, etc.).
+Proficiency in Python and AI/ML libraries (e.g., TensorFlow, PyTorch, Hugging Face, LangChain, XGBoost, ScikitLearn)
+Experience building and maintaining large scale, production data pipelines for machine learning applications
+Ability to work in a fast-paced environment and strong technical communication skills
+
+The salary range for our Tier 1 locations of San Francisco, Seattle, Los Angeles & New York is $140,000.00 - $200,000.00. All offers include equity compensation in the form of employee stock options.
+
+Salary Range
+
+$140,000—$210,000 USD
+
+Be Your Best At Snorkel
+
+Snorkel AI is on a mission to make machine learning practical for everyone, and it starts with building a team that welcomes, represents and gives opportunity to all. We work at the frontier of AI and software engineering, and believe that underrepresented communities need to play a part in shaping the future of these fields. At Snorkel AI, we actively work to create an environment that values end-to-end ownership, diverse forms of impact, and opportunities for personal growth.
+
+Snorkelers are supported by an amazing team and an amazing set of benefits. For Full-time employees, we offer comprehensive medical, dental, and vision plans for Snorkelers and their families, plus a yearly wellness stipend. Our 401k program lets Snorkelers plan for their future and our parental leave program lets new parents take up to 20 weeks of paid time off. Learn more about these benefits and more — like our workstation setup allowance — on our Careers page.
+
+Snorkel AI is proud to be an Equal Employment Opportunity employer and is committed to building a team that represents a variety of backgrounds, perspectives, and skills. Snorkel AI embraces diversity and provides equal employment opportunities to all employees and applicants for employment. Snorkel AI prohibits discrimination and harassment of any type on the basis of race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state, or local law. All employment is decided on the basis of qualifications, performance, merit, and business need.
+
+We will ensure that individuals with disabilities are provided reasonable accommodation to participate in the job application or interview process, to perform essential job functions, and to receive other benefits and privileges of employment. Please contact us to request accommodation.

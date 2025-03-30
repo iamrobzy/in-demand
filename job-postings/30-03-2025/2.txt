@@ -1,0 +1,64 @@
+Job Description
+(What you will be doing)
+As a Senior Machine Learning Engineer at Future Facts Conclusion you love to solve real-world problems with data & algorithms. You can bridge the gap between Data Scientists, Data Engineers & DevOps. Through using Machine Learning (ML), MLOps and Cloud technologies, you create valuable solutions for our customers. 
+
+You are at the center of productionizing our AI solutions and will coach, train and lead the team on the latest innovations in ML. Another important part of your role is orchestrating data pipelines for model training and prediction, industrialize and train ML algorithms and build high performance, low latency API's. It is key that your knowledge of code and CI/CD best practices is solid. 
+
+Project examples
+
+At Dura Vermeer, a smart building concept has been set up in Azure by means of AI & IoT, in which occupancy rate and atmosphere are calculated and processed in real-time. This is crucial for the health of the company's employees.
+
+For a large waste processor we use computer vision and camera-wide inspection to detect the different waste flows and to find out how they can be optimized for processing.
+
+
+Who we are
+Future Facts Conclusion is part of the Hot ITem Group and specializes in AI solutions. We guide data-driven organizations in further growth by using the latest technology in the field of Artificial Intelligence, Machine Learning, Cloud Solutions and Internet of Things. With a team of highly qualified professionals, we realize sustainable impact for people, organizations and society.
+
+Requirements
+(What we offer you)
+
+The possibility to work part-time if that suits you better
+
+A salary that matches your experience and expertise
+
+An attractive bonus scheme based on your performance and that of the company
+
+A generous lease or mobility budget
+
+Reimbursement for expenses, internet, and mobile
+
+Sabbatical options and an excellent pension scheme
+
+27 vacation days and 2 extra performance leave days
+
+Your growth is central with a personal development plan and a wide range of courses, training, and education
+
+Flexible working: control over your own working hours – in addition to working from home and at the client’s site, we offer you an easily accessible workplace in Amsterdam with a beautiful view over the IJ
+
+Unique extras: weekly chair massage, fully equipped gym, (electric) canal boat, rooftop terrace, and café where you can always have a chat with your colleagues
+
+250+ colleagues to rely on and to do fun activities with. Curious about what we do? Take a look at our
+
+
+
+Your talent
+
+A Master of Science or PhD in e.g. Computer Science or other STEM related fields
+
+3+ years experience as a Machine Learning- or Software Engineer
+
+Knowledge of Azure, AWS or Google Cloud platforms
+
+Experience with ML frameworks (e.g. Tensorflow and PyTorch), preferably on large scale projects
+
+Great understanding of Machine Learning and Deep Learning related concepts
+
+Hands-on programming skills in Python, experience with API design and the DevOps and CI/CD way of working
+
+Knowledge of big data processing tools, platforms and infrastructures such as Spark, PySpark, Kafka, AWS EMR, Databricks Linux, Docker, Kubernetes (nice to have)
+
+Experience with both SQL and NoSQL
+
+Be able to communicate complex concepts and make them understandable for technical and non-technical disciplines
+
+Knowledge of Dutch to some extent and have the willingness to learn it

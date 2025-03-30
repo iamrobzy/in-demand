@@ -1,0 +1,46 @@
+About
+
+Senior Machine Learning Engineer
+
+Job Locations
+
+US-VA-Crystal City
+
+Job ID
+
+2025-2573
+
+Clearance Level
+
+Top Secret SCI
+
+Overview
+
+Iron EagleX (IEX), a wholly owned subsidiary of General Dynamics Information Technology, delivers agile IT and Intelligence solutions. Combining small-team flexibility with global scale, IEX leverages emerging technologies to provide innovative, user-focused solutions that empower organizations and end users to operate smarter, faster, and more securely in dynamic environments. Responsibilities
+
+Job Description
+
+Iron EagleX is seeking a highly skilled Senior Machine Learning Engineer to join our dynamic team in Crystal City, VA. The ideal candidate will specialize in AI-driven automation, prompt engineering, and machine learning model optimization to deliver innovative solutions to real-world challenges. This role requires expertise in large language models (LLMs), AI agent workflows, and the development of efficient AI solutions. The position is primarily on-site, with potential for hybrid work based on project needs. Job Duties
+
+Include (but not limited to): Develop, optimize, and implement AI workflows with a strong focus on prompt engineering and automation.
+
+Design and fine-tune machine learning models to enhance performance and effectiveness. Research and apply best practices for large language model (LLM) utilization, including prompt orchestration and fine-tuning techniques. Develop and integrate AI agents into data workflows, leveraging state-of-the-art frameworks. Apply advanced prompt engineering techniques such as few-shot learning, chain-of-thought reasoning, self-consistency, and retrieval-augmented generation. Utilize frameworks like LangChain and DSPy to design, test, and optimize prompts. Address token limitations, cost trade-offs, and model-specific constraints across various LLMs (ChatGPT, Claude, Llama, Mistral, etc.). Implement model fine-tuning methods, including soft prompting, adapters, and supervised fine-tuning. Develop AI-driven automation workflows using agent-based architectures and frameworks such as LangGraph and OpenAI function calling. Write, test, and maintain Python code for AI model development and integration. Utilize version control systems (Git) to manage code changes and collaboration
+
+Qualifications
+
+Required Skills & Experience: Minimum of 5 years of experience in machine learning, AI model development, or related fields. Proficiency in prompt engineering and LLM optimization techniques. Hands-on experience with frameworks such as LangChain, DSPy, and LangGraph. Strong understanding of AI workflow automation and agent-based architectures. Solid Python programming skills and experience with version control (Git). Familiarity with Agile development methodologies. Due to US Government Contract Requirements, only US Citizens are eligible for this role. Desired Skills and Experience: Master's, Ph.D, or coursework/certifications in a related field Familiarity with reinforcement learning and other advanced ML techniques. Experience deploying AI models in production environments. Education & Certifications: Bachelor's degree in Computer Science, Information Systems, Engineering, or a related field (or equivalent experience). Advanced degrees are a plus. Security Clearance: An active TS/SCI security clearance is REQUIRED. Candidates without this clearance will not be considered. Benefits: National Health, vision and dental plans 20 days of PTO and 11 paid holidays Life Insurance Short - and long-term disability plans 401(K) retirement plans Incentive and recognition programs Relocation opportunities Equal Opportunity Employer / Individuals with Disabilities / Protected Veterans
+
+Nice-to-have skills
+
+Prompt Engineering
+Python
+Git
+Virginia, United States
+
+Work experience
+
+Machine Learning
+
+Languages
+
+English

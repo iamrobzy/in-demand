@@ -1,0 +1,95 @@
+Reference: 88_25_ES_CES_RE1
+
+Job title: Research engineer – Machine Learning (RE1)
+
+About BSC
+
+The Barcelona Supercomputing Center – Centro Nacional de Supercomputación (BSC-CNS) is the leading supercomputing center in Spain.
+
+It houses MareNostrum, one of the most powerful supercomputers in Europe, was a founding and hosting member of the former European HPC infrastructure PRACE (Partnership for Advanced Computing in Europe), and is now hosting entity for EuroHPC JU, the Joint Undertaking that leads large-scale investments and HPC provision in Europe.
+
+The mission of BSC is to research, develop and manage information technologies in order to facilitate scientific progress.
+
+BSC combines HPC service provision and R&D into both computer and computational science (life, earth and engineering sciences) under one roof, and currently has over 1000 staff from 60 countries.
+
+We are particularly interested for this role in the strengths and lived experiences of women and underrepresented groups to help us avoid perpetuating biases and oversights in science and IT research.
+
+In instances of equal merit, the incorporation of the under-represented sex will be favoured.
+
+We promote Equity, Diversity and Inclusion, fostering an environment where each and every one of us is appreciated for who we are, regardless of our differences.
+
+Context And Mission
+
+We are seeking a highly motivated Research Engineer with expertise in machine learning, data science, or computational environmental sciences to contribute to cutting-edge research in Earth Sciences.
+
+The selected candidate will play a key role in developing and optimizing machine learning workflows for large-scale land-use, land-cover, and Leaf Area Index (LAI) reconstruction, supporting both historical and future climate scenarios.
+
+This position involves integrating deep learning models, refining data workflows, and contributing to predictive modeling efforts within multiple European projects, including TerraDT and CONCERTO.
+
+It builds upon methodologies established in the CERISE project and aims to generate high-resolution, temporally extended datasets to improve climate model simulations and advanced Earth system modeling capabilities.
+
+This role provides a unique opportunity to work with an interdisciplinary team of machine learning researchers and climate scientists.
+
+The team will focus on developing scalable solutions for processing and analyzing high-dimensional environmental data.
+
+The selected candidate will also contribute to scientific publications, project documentation, and technical reporting, collaborating on research efforts within international projects.
+
+Key Duties Develop and optimize large-scale machine learning workflows for Earth Science applications, focusing on land-use, land-cover, and LAI downscaling for both historical and future scenarios.Implement and evaluate deep learning architectures for predictive modeling of land-use, land-cover, and climate-related variables, while developing model evaluation methodologies, including visualization and validation tools to compare deep learning models with traditional baselines.Refactor and modularize existing machine learning pipelines to improve scalability, efficiency, and deep learning integration.Work with large geospatial datasets (NetCDF, Zarr) and optimize data processing workflows for high-performance computing (HPC) environments.Ensure that reconstructed land-use, land-cover, and LAI datasets align with Earth system modeling requirements.Participate in scientific publications and technical reporting, contributing to documentation, with opportunities to be involved in academic publications and project reporting.Requirements Education: Bachelor or Master's in Computer Science, Machine Learning, Data Science, Environmental Sciences, or a related field.
+
+Essential Knowledge and Professional Experience: Strong programming skills in Python, with experience in machine learning libraries such as PyTorch and Scikit-learn.Proven experience in developing and training machine learning models, particularly deep learning architectures.Strong background in handling, analyzing, and validating large-scale geospatial datasets.Experience working in a UNIX-based computational environment.Additional Knowledge and Professional Experience: Familiarity with climate, weather, and Earth system datasets (NetCDF, Zarr).Experience in high-performance computing (HPC) and parallelized machine learning workflows.Proficiency in GPU-accelerated machine learning frameworks such as TensorFlow, RAPIDS, JAX and/or distributed training using Dask.Understanding of climate and weather models.Competences: Strong problem-solving and analytical skills, with the ability to optimize computational workflows.Ability to work independently while collaborating effectively in a research environment.Excellent communication skills, with a strong ability to document and present research findings.Proficiency in written and spoken English.Conditions The position will be located at BSC within the Earth Sciences Department.
+
+We offer a full-time contract (37.5h/week), a good working environment, a highly stimulating environment with state-of-the-art infrastructure, flexible working hours, extensive training plan, restaurant tickets, private health insurance, support to the relocation procedures.
+
+Duration: Open-ended contract due to technical and scientific activities linked to the project and budget duration.
+
+Holidays: 23 paid vacation days plus 24th and 31st of December per our collective agreement.
+
+Salary: we offer a competitive salary commensurate with the qualifications and experience of the candidate and according to the cost of living in Barcelona.
+
+Starting date: 01/03/2025.
+
+Applications procedure and process All applications must be submitted via the BSC website and contain:
+
+A full CV in English including contact details.A cover/motivation letter with a statement of interest in English, clearly specifying for which specific area and topics the applicant wishes to be considered.
+
+Additionally, two references for further contacts must be included.
+
+Applications without this document will not be considered.Development of the recruitment process The selection will be carried out through a competitive examination system ("Concurso-Oposición").
+
+The Recruitment Process Consists Of Two Phases
+
+Curriculum Analysis: Evaluation of previous experience and/or scientific history, degree, training, and other professional information relevant to the position.
+
+– 40 points.Interview phase: The highest-rated candidates at the curriculum level will be invited to the interview phase, conducted by the corresponding department and Human Resources.
+
+In this phase, technical competencies, knowledge, skills, and professional experience related to the position, as well as the required personal competencies, will be evaluated.
+
+– 60 points.
+
+A minimum of 30 points out of 60 must be obtained to be eligible for the position.The recruitment panel will be composed of at least three people, ensuring at least 25% representation of women.
+
+In accordance with OTM-R principles, a gender-balanced recruitment panel is formed for each vacancy at the beginning of the process.
+
+After reviewing the content of the applications, the panel will begin the interviews, with at least one technical and one administrative interview.
+
+At a minimum, a personality questionnaire as well as a technical exercise will be conducted during the process.
+
+The panel will make a final decision, and all individuals who participated in the interview phase will receive feedback with details on the acceptance or rejection of their profile.
+
+At BSC, we seek continuous improvement in our recruitment processes.
+
+For any suggestions or comments/complaints about our recruitment processes, please contact ******.
+
+Deadline The vacancy will remain open until a suitable candidate has been hired.
+
+Applications will be regularly reviewed and potential candidates will be contacted.
+
+OTM-R principles for selection processes BSC-CNS is committed to the principles of the Code of Conduct for the Recruitment of Researchers of the European Commission and the Open, Transparent and Merit-based Recruitment principles (OTM-R).
+
+This is applied for any potential candidate in all our processes, for example by creating gender-balanced recruitment panels and recognizing career breaks etc.
+
+BSC-CNS is an equal opportunity employer committed to diversity and inclusion.
+
+We are pleased to consider all qualified applicants for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability or any other basis protected by applicable state or local law.
+
+#J-18808-Ljbffr

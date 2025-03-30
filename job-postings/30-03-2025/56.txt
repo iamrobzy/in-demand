@@ -1,0 +1,24 @@
+About
+
+ResponsibilitiesAbout TikTok U.S. Data SecurityTikTok is the leading destination for short-form mobile video. Our mission is to inspire creativity and bring joy. U.S. Data Security ("USDS") is a subsidiary of TikTok in the U.S. This new, security-first division was created to bring heightened focus and governance to our data protection policies and content assurance protocols to keep U.S. users safe. Our focus is on providing oversight and protection of the TikTok platform and U.S. user data, so millions of Americans can continue turning to TikTok to learn something new, earn a living, express themselves creatively, or be entertained. The teams within USDS that deliver on this commitment daily span across Trust & Safety, Security & Privacy, Engineering, User & Product Ops, Corporate Functions and more.Why Join UsCreation is the core of TikTok's purpose. Our platform is built to help imaginations thrive. This is doubly true of the teams that make TikTok possible. Together, we inspire creativity and bring joy - a mission we all believe in and aim towards achieving every day. To us, every challenge, no matter how difficult, is an opportunity; to learn, to innovate, and to grow as one team. Status quo? Never. Courage? Always. At TikTok, we create together and grow together. That's how we drive impact - for ourselves, our company, and the communities we serve. Join us.The mission of our AML team is to push the next-generation AI infrastructure and recommendation platform for the ads ranking, search ranking, live & ecom ranking in our company. We also drive substantial impact on core businesses of the company. Currently, we are looking for Machine Learning Engineer - Model Training Infrastructure to join our team to support and advance that mission.In order to enhance collaboration and cross-functional partnerships, among other things, at this time, our organization follows a hybrid work schedule that requires employees to work in the office 3 days a week, or as directed by their manager/department. We regularly review our hybrid work model, and the specific requirements may change at any time.Responsibilities:- Responsible for the design and implementation of a global-scale machine learning system for feeds, ads and search ranking models.- Responsible for improving use-ability and flexibility of the machine learning infrastructure.- Responsible for improving the workflow of model training and serving, data pipelines, storage system and resource management for multi-tenancy machine learning systems.- Responsible for designing and developing key components of ML infrastructure and mentoring interns.QualificationsMinimum Qualifications- Bachelor's/Master's degree in Computer Science, Computer Engineering, or related fields or equivalent years of experience in a software engineering role- Proficient in C/C++/CUDA/Python, and have solid programming skills.- Familiar with deep learning frameworks (TensorFlow/Pytorch).- Experience in developing and deploying large-scale systems.Preferred Qualifications- Ability to work independently and complete projects from beginning to end and in a timely manner.- Good communication and teamwork skills to clearly communicate technical concepts with other Experience on improving core machine learning infrastructure(TensorFlow, Pytorch, and Jax).- Experience contributing to an open sourced machine learning framework (TensorFlow/PyTorch).- Experience in using/designing open-source machine learning lifecycle management systems: TFXCandidates for this position must be legally authorized to work in the United States. This position is not eligible for visa sponsorship or support.D&I StatementTikTok is committed to creating an inclusive space where employees are valued for their skills, experiences, and unique perspectives. Our platform connects people from across the globe and so does our workplace. At TikTok, our mission is to inspire creativity and bring joy. To achieve that goal, we are committed to celebrating our diverse voices and to creating an environment that reflects the many communities we reach. We are passionate about this and hope you are too.Accommodation StatementTikTok is committed to providing reasonable accommodations in our recruitment processes for candidates with disabilities, pregnancy, sincerely held religious beliefs or other reasons protected by applicable laws. If you need assistance or a reasonable accommodation, please reach out to us at ktJP6Data Security StatementThis role requires the ability to work with and support systems designed to protect sensitive data and information. As such, this role will be subject to strict national security-related screening.
+
+Nice-to-have skills
+
+C
+C++
+CUDA
+Python
+TensorFlow
+PyTorch
+Deep Learning
+Machine Learning
+Software Engineering
+Seattle, Washington
+
+Work experience
+
+Machine Learning
+
+Languages
+
+English

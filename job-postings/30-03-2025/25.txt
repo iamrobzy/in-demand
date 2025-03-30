@@ -1,0 +1,56 @@
+Lensa is the leading career site for job seekers at every stage of their career. Our client, Apple, is seeking professionals in Cupertino, CA. Apply via Lensa today!
+
+Machine Learning Research Engineer, Natural Language Generation (NLG), Apple Intelligence
+
+Cupertino,California,United States
+
+Software and Services
+
+On the Input Experience NLP team, we build the language models that underpin intelligent text input across Apple platforms, from keyboard auto correction to the Writing Tools and Smart Reply features announced at WWDC 2024. We believe that generative AI is an incredibly promising technology that can help people communicate effectively and express themselves clearly, and we have only just begun to incorporate this technology into our products. On our team, you will help build the future and have a voice in what shape it takes. We are looking for a Machine Learning Research Engineer to help deliver scalable, multilingual NLP solutions that empower our users to use intelligent text input in their language of choice. You will build and refine the training and evaluation pipelines that define our slice of Apple Intelligence, driving the focused iteration that makes the user experience magical. You will join an ambitious, organized, and collaborative team in a unique position to integrate the latest innovations from the ML community and work on features that reach everyday users, including your family and friends. You’ll work closely with teams across Apple, collaborating on human interfaces, user studies, internationalization, ML technologies, system integration, and more.
+
+Description
+
+As a Machine Learning Research Engineer on our team, you will build and iteratively refine model pipelines that enable multilingual text input experiences on Apple products. You will conduct experiments and create prototypes for new approaches to improve the quality of our models add new dimensions to their intelligence, in consideration of specific linguistic requirements and design considerations. Finally, you will implement the building blocks and infrastructure that bring these innovations into our production pipelines, and contribute evaluate metrics for measuring forward progress. KEY RESPONSIBILITIES: - Development and maintenance of modeling pipelines that scale to multiple languages and production deployment - Definition of robust automated evaluation metrics to facilitate hillclimbing model quality - Failure analysis to understand shortcomings of our models - Research into techniques for improving model behavior - Curation and synthesis of representative training and evaluation data - Implementation of experiments and simulations to assess the value of model changes - Collaboration with language experts and QA to refine modeling approach in consideration of language-specific requirements
+
+Minimum Qualifications
+
+MS or PhD in Computer Science or related field with at least 2 years of industry experience 
+Strong Python programming skills, with experience developing production-quality Python modules 
+Solid background in machine learning, data science, natural language processing, or statistics 
+
+Key Qualifications
+
+Preferred Qualifications
+
+Experience building and maintaining model pipelines end-to-end, from data curation to evaluation 
+Ability to design and perform experiments that bring ML and NLP research ideas to production 
+Familiarity with LLMs, such as SFT, RHLF, prompt engineering, data synthesis, automatic evaluation, and RAG 
+Background in linguistics, fluency in multiple languages, or a passion for scaling NLP features for global audiences 
+Excellent written and verbal communication skills 
+History of developing Python packages and supporting other users 
+Record of publications, innovations, and/or leadership 
+
+Education & Experience
+
+Additional Requirements
+
+Pay & Benefits
+
+At Apple, base pay is one part of our total compensation package and is determined within a range. This provides the opportunity to progress as you grow and develop within a role. The base pay range for this role is between $143,100 and $264,200, and your base pay will depend on your skills, qualifications, experience, and location.Apple employees also have the opportunity to become an Apple shareholder through participation in Apple’s discretionary employee stock programs. Apple employees are eligible for discretionary restricted stock unit awards, and can purchase Apple stock at a discount if voluntarily participating in Apple’s Employee Stock Purchase Plan. You’ll also receive benefits including: Comprehensive medical and dental coverage, retirement benefits, a range of discounted products and free services, and for formal education related to advancing your career at Apple, reimbursement for certain educational expenses — including tuition. Additionally, this role might be eligible for discretionary bonuses or commission payments as well as relocation.Learn more (https://www.apple.com/careers/us/benefits.html) about Apple Benefits.Note: Apple benefit, compensation and employee stock programs are subject to eligibility requirements and other terms of the applicable plan or program. 
+Apple is an equal opportunity employer that is committed to inclusion and diversity. We take affirmative action to ensure equal opportunity for all applicants without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, Veteran status, or other legally protected characteristics.Learn more about your EEO rights as an applicant. (https://www.eeoc.gov/sites/default/files/2023-06/22-088_EEOC_KnowYourRights6.12ScreenRdr.pdf) 
+
+Apple Footer
+
+Apple is an equal opportunity employer that is committed to inclusion and diversity. We take affirmative action to ensure equal opportunity for all applicants without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, Veteran status, or other legally protected characteristics. Learn more about your EEO rights as an applicant (Opens in a new window) .
+
+Apple will not discriminate or retaliate against applicants who inquire about, disclose, or discuss their compensation or that of other applicants. United States Department of Labor. Learn more (Opens in a new window) .
+
+Apple participates in the E-Verify program in certain locations as required by law. Learn more about the E-Verify program (Opens in a new window) .
+
+Apple is committed to working with and providing reasonable accommodation to applicants with physical and mental disabilities. Reasonable Accommodation and Drug Free Workplace policy Learn more (Opens in a new window) .
+
+Apple is a drug-free workplace. Reasonable Accommodation and Drug Free Workplace policy Learn more (Opens in a new window) .
+
+Apple will consider for employment all qualified applicants with criminal histories in a manner consistent with applicable law. If you’re applying for a position in San Francisco, review the San Francisco Fair Chance Ordinance guidelines (opens in a new window) applicable in your area.
+
+It is unlawful in Massachusetts to require or administer a lie detector test as a condition of employment or continued employment. An employer who violates this law shall be subject to criminal penalties and civil liability.

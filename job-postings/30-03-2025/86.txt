@@ -1,0 +1,16 @@
+About
+
+Job Summary We are seeking a Generative AI / ML Researcher with 3 to 7 years of experience proficient in PySpark and Python3 to join our dynamic team. The ideal candidate will have a strong background in Auto-Detailed design. This hybrid role requires occasional travel and operates during day shifts. The successful candidate will contribute to innovative projects that drive our company's success and impact the industry. Responsibilities Lead the development and implementation of software solutions using PySpark and Python3 to meet project requirements. Oversee the design and development of detailed auto-design projects ensuring high-quality deliverables. Provide technical expertise and guidance to team members fostering a collaborative and productive work environment. Collaborate with cross-functional teams to gather and analyze requirements translating them into technical specifications. Develop and maintain comprehensive documentation for all projects ensuring clarity and consistency. Conduct code reviews and provide constructive feedback to ensure code quality and adherence to best practices. Troubleshoot and resolve technical issues ensuring minimal disruption to project timelines. Stay updated with the latest industry trends and technologies incorporating them into project development when applicable. Participate in project planning and estimation contributing to the successful delivery of projects on time and within budget. Ensure compliance with company policies and procedures maintaining a high standard of work ethics. Engage in continuous learning and professional development to enhance technical skills and domain knowledge. Communicate effectively with stakeholders providing regular updates on project progress and addressing any concerns. Contribute to the company's mission by delivering innovative solutions that improve efficiency and drive business growth. Qualifications Must have strong experience in PySpark and Python3 with a proven track record of successful project implementations. Must have expertise in Auto-Detailed design with the ability to create detailed and accurate design documents. Should have excellent problem-solving skills with the ability to troubleshoot and resolve complex technical issues. Should have strong communication skills with the ability to convey technical information to non-technical stakeholders. Should have experience working in a hybrid work model with the flexibility to travel as required. Nice to have experience in leading a team with the ability to mentor and guide junior developers. Nice to have familiarity with agile methodologies with experience in project planning and estimation. Nice to have a proactive approach to learning with a commitment to staying updated with the latest industry trends. Certifications Required Certified PySpark Developer Certified Python Programmer
+
+Nice-to-have skills
+
+PySpark
+Michigan, United States
+
+Work experience
+
+Machine Learning
+
+Languages
+
+English

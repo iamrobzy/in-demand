@@ -1,0 +1,41 @@
+Lensa is the leading career site for job seekers at every stage of their career. Our client, META, is seeking professionals in Washington, DC. Apply via Lensa today!
+
+Summary
+
+Meta is in search of the world’s most creative and experienced engineering leaders. We embrace entrepreneurs as well as those who come from more established organizations. Software Engineering Managers are clearly characterized by progressive technical experience and demonstrated progression in management responsibility.
+
+Required Skills
+
+Software Engineering Manager, Machine Learning Responsibilities:
+
+Be both highly technical and an effective people manager 
+Be a subject matter expert in an ML domain 
+Lead teams that deliver on multiple projects of increasing dependencies in an ambiguous or high-impact area 
+Work with your team and cross functional partners to define and influence strategy 
+Drive roadmap creation and execution 
+Collaborate with various functions, drive engineering initiatives and have an impact at an organizational level 
+Participate in technical design 
+Measure the impact of your team and set clear expectations and goals 
+Work effectively with cross functional partners and stakeholders to set and achieve optimal outcomes 
+Partner with leadership to influence and drive org design, contribution and prioritization 
+
+Minimum Qualifications
+
+Minimum Qualifications:
+
+5+ years of software engineering work experience, including hands-on technical management building large scale systems, algorithms, and toolsets within the Machine Learning domain 
+5+ years experience coding in one of the following languages: C++, Java, Python and/or PHP 
+Demonstrated experience recruiting and managing technical teams, including performance management 
+BA/BS in Computer Science (In lieu of degree, 4+ years work experience) 
+
+Public Compensation
+
+$177,000/year to $251,000/year + bonus + equity + benefits
+
+Industry: Internet
+
+Equal Opportunity
+
+Meta is proud to be an Equal Employment Opportunity and Affirmative Action employer. We do not discriminate based upon race, religion, color, national origin, sex (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender, gender identity, gender expression, transgender status, sexual stereotypes, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics. We also consider qualified applicants with criminal histories, consistent with applicable federal, state and local law. Meta participates in the E-Verify program in certain locations, as required by law. Please note that Meta may leverage artificial intelligence and machine learning technologies in connection with applications for employment.
+
+Meta is committed to providing reasonable accommodations for candidates with disabilities in our recruiting process. If you need any assistance or accommodations due to a disability, please let us know at accommodations-ext@fb.com.

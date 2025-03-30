@@ -1,0 +1,16 @@
+About
+
+Join a leading AI start-up as a Machine Learning Engineer, where you will work on exciting projects that push the boundaries of technology. Requirements: Proven experience in a start-up environment with a strong background in AI/ML engineering. Bachelor's degree from a top 50 Computer Science institution. Responsibilities: Develop and curate datasets, benchmark models, and establish evaluation metrics for our innovative voice agent platform. Train and fine-tune various audio and large language models to enhance accuracy, reduce latency, and incorporate domain-specific expertise. Collaborate with engineering teams to seamlessly integrate, monitor, and optimize models within production environments. Design and manage a scalable human evaluation pipeline to ensure quality and performance. Stay at the forefront of AI advancements, exploring and benchmarking the latest models. Create robust ML infrastructure and facilitate deployment within our system for scalability and efficiency.
+
+Nice-to-have skills
+
+Machine Learning
+California, United States
+
+Work experience
+
+Machine Learning
+
+Languages
+
+English

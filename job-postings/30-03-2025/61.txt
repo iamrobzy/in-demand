@@ -1,0 +1,27 @@
+About
+
+ResponsibilitiesTikTok is the leading destination for short-form mobile video. Our mission is to inspire creativity and bring joy. TikTok has global offices including Los Angeles, New York, London, Paris, Berlin, Dubai, Singapore, Jakarta, Seoul and Tokyo. Why Join UsAt TikTok, our people are humble, intelligent, compassionate and creative. We create to inspire - for you, for us, and for more than 1 billion users on our platform. We lead with curiosity and aim for the highest, never shying away from taking calculated risks and embracing ambiguity as it comes. Here, the opportunities are limitless for those who dare to pursue bold ideas that exist just beyond the boundary of possibility. Join us and make impact happen with a Intro: Measuring advertising effectiveness has become one of online advertising's most significant challenges as the industry is moving toward a privacy-preserving world. As a machine learning engineer on the Ads Signal team, you will develop novel machine learning solutions, build scalable tech foundations and launch various products to maximize signal values for ads in a privacy-preserving way. The team is working on various products, including web/app signals modeling, identity matching, probabilistic attribution, modeled conversions, as well as various privacy-enhancing technologies (PETs).Key Responsibilities:
+
+Responsible for developing machine learning and PET solutions for various ads use cases, including ads signal extraction and understanding, identity matching, attribution, reporting, ranking, calibration, bidding, etc.
+Work with product and business teams on product vision definition and executionQualificationsMinimum Requirements:
+3+ years of hands-on experience with applying machine learning methods for ranking.
+3+ years of software development experience and strong coding skills, especially in Python/C++/Go. Experience with high-load systems is a plus
+Familiarity with online experimentation and analytics
+Curiosity toward new technologies and entrepreneurshipTikTok is committed to creating an inclusive space where employees are valued for their skills, experiences, and unique perspectives. Our platform connects people from across the globe and so does our workplace. At TikTok, our mission is to inspire creativity and bring joy. To achieve that goal, we are committed to celebrating our diverse voices and to creating an environment that reflects the many communities we reach. We are passionate about this and hope you are too.TikTok is committed to providing reasonable accommodations in our recruitment processes for candidates with disabilities, pregnancy, sincerely held religious beliefs or other reasons protected by applicable laws. If you need assistance or a reasonable accommodation, please reach out to us at [redacted].
+
+Nice-to-have skills
+
+Machine Learning
+Python
+C++
+Go
+Seattle, Washington
+
+Work experience
+
+Machine Learning
+Data Engineer
+
+Languages
+
+English

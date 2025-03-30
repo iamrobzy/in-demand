@@ -1,0 +1,56 @@
+Lensa is the leading career site for job seekers at every stage of their career. Our client, Apple, is seeking professionals in Seattle, WA. Apply via Lensa today!
+
+Machine Learning Research Engineer
+
+Seattle,Washington,United States
+
+Machine Learning and AI
+
+Imagine what you can do here. Apple is a place where extraordinary people gather to do their lives best work. Together we create products and experiences people once couldn’t have imagined, and now, can’t imagine living without. It’s the diversity of those people and their ideas that inspires the innovation that runs through everything we do.
+
+Description
+
+APPLE INC has the following available in Seattle, Washington. Build and enhance features to improve discoverability of the content in Apple products, services and applications, including iTunes Store, App Store, Apple Music, Movies, Podcasts, and iBooks. Improve query understanding, classification, and ranking of search results for Apple applications and services. Work on feature engineering and model building for search ranking and query understanding to improve search quality and drive user engagement. Improve recall and precision of search results for Apple applications and services using a deep understanding of machine learning algorithms and information retrieval systems including decision trees, random forest, Deep Neural Networks, and Solr. Use big data technology and parallel processing technologies such as Map Reduce to baseline and prioritize content discovery features for better search recall and ranking. Ensure successful deployment of features and ranking models in production and A/B testing to optimize performance. Collaborate with other world-class engineers, researchers, and statisticians to ensure features and models are functioning at or above expected performance levels. Utilize knowledge of scalable data structures, object-oriented software design, and Unix to write code for state-of-the-art search to improve system quality. Bring the latest in search and discovery ideas and innovate beyond them at large scale production to advance our search capabilities. Define metrics that measure the success of machine learning models to drive meaningful improvements. 40 hours/week. At Apple, base pay is one part of our total compensation package and is determined within a range. This provides the opportunity to progress as you grow and develop within a role. The base pay range for this role is between $171,454 - $250,600/yr and your base pay will depend on your skills, qualifications, experience, and location. PAY & BENEFITS: Apple employees also have the opportunity to become an Apple shareholder through participation in Apple’s discretionary employee stock programs. Apple employees are eligible for discretionary restricted stock unit awards, and can purchase Apple stock at a discount if voluntarily participating in Apple’s Employee Stock Purchase Plan. You’ll also receive benefits including: Comprehensive medical and dental coverage, retirement benefits, a range of discounted products and free services, and for formal education related to advancing your career at Apple, reimbursement for certain educational expenses — including tuition. Additionally, this role might be eligible for discretionary bonuses or commission payments as well as relocation. Learn more about Apple Benefits: https://www.apple.com/careers/us/benefits.html. Note: Apple benefit, compensation and employee stock programs are subject to eligibility requirements and other terms of the applicable plan or program. Apple is an Equal Employment Opportunity Employer that is committed to inclusion and diversity. We also take affirmative action to offer employment and advancement opportunities to all applicants, including minorities, women, protected veterans, and individuals with disabilities.
+
+Minimum Qualifications
+
+Bachelor's degree or foreign equivalent in Computer Engineering, Computer Science or related field and 5 years of progressive, post-baccalaureate experience in the job offered or related occupation. 
+5 years of experience with each of the following skills is required: 
+Leveraging data structures like List, Map, Hash tables, trie, and algorithms such as binary search, sorting, tf-idf, ndcg, and learning to rank showcases a rich toolkit for handling different aspects of data manipulation, model training, and evaluation. 
+Incorporating information retrieval techniques like BM25, posting lists, semantic retrieval, embeddings, recall, demonstrates a thorough understanding of the intricacies involved in retrieving relevant documents from a large corpus. 
+Employing a variety of machine learning models including SVMRank, XGBoost, Neural networks, and collaborative filtering ensures a diverse set of approaches to rank documents and provide a better user experience. 
+Leveraging distributed systems for large-scale data processing, parallelized training, scalable storage, load balancing, and A/B testing demonstrates a scalable and resilient infrastructure. 
+Applying neural network methods to generate embeddings for documents and queries signifies a commitment to semantic retrieval, acknowledging that understanding the context is as important as textual matching. 
+Utilizing coding languages like Go, Python, Scala, and Spark for building pipelines, training models, and deploying them to serving stacks. 
+Leveraging public cloud services like Cloudera, AWS for storage and data manipulation showcases a scalable and cost-effective solution for managing large datasets. 
+3 years of experience with each of the following skills is required: 
+Utilizing Natural Language Processing for query understanding, entity recognition, genre classification, and query intent classification reflects a commitment to enhancing the search system's ability to comprehend user queries and improve relevance. 
+Incorporating a big data pipeline for processing logs and creating signals reflects a data-driven approach to continuously improving ranking and retrieval accuracy. 
+
+Key Qualifications
+
+Preferred Qualifications
+
+N/A
+
+Education & Experience
+
+Additional Requirements
+
+Apple is an equal opportunity employer that is committed to inclusion and diversity. We take affirmative action to ensure equal opportunity for all applicants without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, Veteran status, or other legally protected characteristics.Learn more about your EEO rights as an applicant. (https://www.eeoc.gov/sites/default/files/2023-06/22-088_EEOC_KnowYourRights6.12ScreenRdr.pdf)
+
+Apple Footer
+
+Apple is an equal opportunity employer that is committed to inclusion and diversity. We take affirmative action to ensure equal opportunity for all applicants without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, Veteran status, or other legally protected characteristics. Learn more about your EEO rights as an applicant (Opens in a new window) .
+
+Apple will not discriminate or retaliate against applicants who inquire about, disclose, or discuss their compensation or that of other applicants. United States Department of Labor. Learn more (Opens in a new window) .
+
+Apple participates in the E-Verify program in certain locations as required by law. Learn more about the E-Verify program (Opens in a new window) .
+
+Apple is committed to working with and providing reasonable accommodation to applicants with physical and mental disabilities. Reasonable Accommodation and Drug Free Workplace policy Learn more (Opens in a new window) .
+
+Apple is a drug-free workplace. Reasonable Accommodation and Drug Free Workplace policy Learn more (Opens in a new window) .
+
+Apple will consider for employment all qualified applicants with criminal histories in a manner consistent with applicable law. If you’re applying for a position in San Francisco, review the San Francisco Fair Chance Ordinance guidelines (opens in a new window) applicable in your area.
+
+It is unlawful in Massachusetts to require or administer a lie detector test as a condition of employment or continued employment. An employer who violates this law shall be subject to criminal penalties and civil liability.

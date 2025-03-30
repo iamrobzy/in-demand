@@ -1,0 +1,20 @@
+About
+
+ResponsibilitiesTikTok is the leading destination for short-form mobile video. Our mission is to inspire creativity and bring joy. TikTok has global offices including Los Angeles, New York, London, Paris, Berlin, Dubai, Singapore, Jakarta, Seoul and Tokyo. Why Join UsCreation is the core of TikTok's purpose. Our platform is built to help imaginations thrive. This is doubly true of the teams that make TikTok possible. Together, we inspire creativity and bring joy - a mission we all believe in and aim towards achieving every day. To us, every challenge, no matter how difficult, is an opportunity; to learn, to innovate, and to grow as one team. Status quo? Never. Courage? Always. At TikTok, we create together and grow together. That's how we drive impact - for ourselves, our company, and the communities we serve. Join us.The Lead Ads team empowers TikTok's global monetization (billion-dollar business) via efficiently delivering lead ads on TikTok. Our mission is to push the boundaries of large-scale ads delivery systems and lead the innovations of TikTok's personalized online advertising. Hence, you'll have a chance to get deeply involved in our large-scale distributed systems and state-of-the-art machine learning algorithms. As a Machine Learning Engineer on the Lead Ads team, you will make efforts to develop novel machine learning solutions for ranking, build scalable foundations and launch various products that maximize the efficiency of lead ads delivery.Key Responsibilities:- Work on the development of a large-scale online ads delivery system and improve its accuracy.- Explore multi-stage ranking models, conduct data analysis, develop feature engineering.- Participate in the innovations of online ads systems using machine learning models, ranking algorithms, etc.- Partner with product managers, data scientists and product strategy & operation team to launch new Lead Ads products and Qualifications:- BS/MS degree in Computer Science, Computer Engineering, or other relevant majors.- 3+ years of hands-on experience with applying machine learning methods for ranking.- 3+ years of software development experience and strong coding skills, especially in Python/C++. Experience with Tensorflow/PyTorch/MXNet is a plus.- Experience with recommender system projects.- Familiarity with online experimentation methods and analytics. Essential knowledge and skills in Curiosity toward new technologies and entrepreneurship.TikTok is committed to creating an inclusive space where employees are valued for their skills, experiences, and unique perspectives. Our platform connects people from across the globe and so does our workplace. At TikTok, our mission is to inspire creativity and bring joy. To achieve that goal, we are committed to celebrating our diverse voices and to creating an environment that reflects the many communities we reach. We are passionate about this and hope you are too.TikTok is committed to providing reasonable accommodations in our recruitment processes for candidates with disabilities, pregnancy, sincerely held religious beliefs or other reasons protected by applicable laws. If you need assistance or a reasonable accommodation, please reach out to us at [redacted]
+
+Nice-to-have skills
+
+Python
+C++
+TensorFlow
+PyTorch
+MxNet
+San Jose, California
+
+Work experience
+
+Machine Learning
+
+Languages
+
+English

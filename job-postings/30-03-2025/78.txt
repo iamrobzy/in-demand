@@ -1,0 +1,61 @@
+About
+
+Select how often (in days) to receive an alert:
+
+JOIN OUR TALENT NETWORK
+
+Data Analyst and Machine Learning Researcher
+
+Apply now
+
+Date
+
+Mar 21, 2025
+
+Location: Lexington, MA, US
+
+Company: MIT Lincoln Laboratory
+
+The Interceptor and Sensor Technology Group is dedicated to advancing sensor and interceptor technologies for future surveillance, missile defense, and air defense systems. Our multidisciplinary team is currently engaged in the development of next generation capabilities for air, missile, and hypersonic defense architectures. Particular focus is given to assessing adversary capabilities and researching novel technologies in the context of the defense kill chain. In addition, concepts will be prototyped, tested, and matured in support of Department of Defense efforts. Job Description Data Analyst and Machine Learning Researcher We are seeking a talented analyst to join a team supporting a portfolio of programs focused on data analysis, threat assessment, and algorithm development. In this role, the candidate will support the analysis of experimental data leveraging artificial intelligence and machine learning (AI/ML) and physics-based techniques. Key Responsibilities: Work with a highly collaborative team to develop, research, and analyze concepts for next-generation defense technology solutions. Assess adversary capabilities to inform defense requirements Analyze laboratory, ground, and flight data to draw out insights to inform technology development and government acquisition strategies. Integrate with algorithm and AI/ML research programs and develop tools and applications for next-generation defense capability. Some focus areas include: Physics-informed machine learning Computer vision, 2-D to 3-D object reconstruction, pose estimation Sensor data/signal interpretation, e.g., Radar, Infrared, etc. Bayesian techniques, e.g. Simulation-Based Inference Model optimization and fitting Benchmark and assess algorithm performance in the context of Warfighter needs and the missile and hypersonic defense kill chain. Communicate findings and progress with technical and non-technical audiences, including peers and sponsors.
+
+Desired Qualifications: Proven analytical skills as evidenced in academic research or internship projects. Extensive experience analyzing experimental data. Experience in interpreting real-world sensor measurements. Experience applying AI/ML to data analysis (e.g. time-series, imagery) Familiarity with industry-standard AI/ML implementations (e.g. CUDA) Demonstrated programing skills in MATLAB, Python, R, or C++ Demonstrated ability to solve technical problems both individually and as part of a team Capability to set and achieve personal and project goals in a timely manner. Significant initiative and ability to perform independent research, set, and meet critical milestones.
+
+Requirements: Bachelor's degree in Physics, Data Science, Computer Science, Aerospace Engineering, or Mathematics. Minimum GPA of 3.7. If you're driven by innovation and eager to work in a collaborative and fast-paced environment, we encourage you to apply and be part of our pioneering efforts in defense technology.
+
+At MIT Lincoln Laboratory, our exceptional career opportunities include many outstanding benefits to help you stay healthy, feel supported, and enjoy a fulfilling work-life balance. Benefits offered to employees include: Comprehensive health, dental, and vision plans MIT-funded pension Matching 401K Paid leave (including vacation, sick, parental, military, etc.) Tuition reimbursement and continuing education programs Mentorship programs A range of work-life balance options ... and much more!
+
+Please visit our Benefits pagefor more information. As an employee of MIT, you can also take advantage ofother voluntary benefits, discounts and perks. Selected candidate will be subject to a pre-employment background investigation and must be able to obtain and maintain a Secret level DoD security clearance. MIT Lincoln Laboratory is an Equal Employment Opportunity (EEO) employer. All qualified applicants will receive consideration for employment and will not be discriminated against on the basis of race, color, religion, sex, sexual orientation, gender identity, national origin, age, veteran status, disability status, or genetic information; U.S. citizenship is required. Requisition ID: 41779
+
+Nearest Major Market
+
+Boston
+
+Job Segment: Military Intelligence, Defense, DoD, Data Analyst, Physics, Government, Data, Science
+
+Apply now
+
+Find Similar Jobs
+
+Engineering, Air, Missile, and Maritime Defense Technology
+
+Nice-to-have skills
+
+Python
+R
+C++
+Matlab
+Artificial Intelligence
+Machine Learning
+CUDA
+Computer Vision
+Massachusetts, United States
+
+Work experience
+
+Data Engineer
+Machine Learning
+Data Analyst
+
+Languages
+
+English

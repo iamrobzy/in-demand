@@ -1,0 +1,34 @@
+About
+
+Our Company
+
+Changing the world through digital experiences is what Adobe's all about. We give everyone-from emerging artists to global brands-everything they need to design and deliver exceptional digital experiences! We're passionate about empowering people to create beautiful and powerful images, videos, and apps, and transform how companies interact with customers across every screen.
+
+We're on a mission to hire the very best and are committed to creating exceptional employee experiences where everyone is respected and has access to equal opportunity. We realize that new ideas can come from everywhere in the organization, and we know the next big idea could be yours! The Opportunity Join Adobe as a Staff Machine Learning Engineer and be part of an exceptionally hard-working team passionate about crafting world-class AI solutions. This is an outstanding opportunity to work on ambitious projects that push the boundaries of what's possible in digital experiences. Located in the heart of Silicon Valley, you'll be at the forefront of innovation, collaborating with versatile professionals to successfully implement and optimize innovative ML models. What you'll Do Experiment, design, and develop ML models to solve business use cases that can handle data of varying modality at scale. Architect and optimize end-to-end ML pipelines, ensuring scalability, testability, efficiency, observability, robustness. Understand data and schema to make recommendations for the right models, evaluation metrics, and governance approaches. Engage in product lifecycle - architecture, design, deployment, and production operations of ML models and systems. Evaluate the performance of AI models and systems through rigorous testing, experimentation, and benchmarking. Collaborate closely with cross-organization engineering teams, data scientists, and AI/ML researchers to evolve our SaaS architecture as we productize new AI-powered capabilities. Lead small team of junior and mid-level ML engineers and data scientists to deliver enterprise ML projects and features. Stay current with the latest advancements in AI and machine learning research, and proactively suggest improvements to improve our generative AI capabilities. What you need to succeed PhD or Master's degree in Computer Science, Computer Engineering, or a related field-or equivalent experience. 8+ years of proven experience as a Machine Learning Engineer with a track record of successfully delivering machine learning projects to customers. 2+ years of strong hands-on experience working on generative AI technology such as LLM, evals, LLM-as-a-judge, fine-tuning, etc. Strong Python and deep learning engineering skills and experience with one or more training or deployment environments (e.g. PyTorch, Tensorflow, JAX, Ray). Experience with LLM frameworks and tools such as HuggingFace, LangChain, PEFT, and LlamaIndex. ML lifecycle tools like MLflow, Weights & Biases, etc. Ability to fine-tune and deploy large-scale ML systems in a cost-optimal way. Understanding of the internals of (GenAI) model architectures and its correlation with GPU, TPU, and other hardware. Experience with deployment technologies such as Docker; knowledge of ML Ops and ML services is a plus. Experience with cloud platforms such as Azure and AWS is a plus. Excellent problem-solving skills, with the ability to analyze complex issues and drive solutions with a data-driven approach. Strong verbal and written communication skills, with a proven ability to work in cross-functional teams. Application Window Notice If this role is open to hiring in Colorado (as listed on the job posting), the application window will remain open until at least 12:01 AM Pacific Time, in compliance with Colorado pay transparency regulations. If this role does not have Colorado listed as a hiring location, no specific application window applies, and the posting may close at any time based on hiring needs. Our compensation reflects the cost of labor across several U.S. geographic markets, and we pay differently based on those defined markets. The U.S. pay range for this positionis $162,000 -- $301,200 annually. Paywithin this range varies by work locationand may also depend on job-related knowledge, skills,and experience. Your recruiter can share more about the specific salary range for the job location during the hiring process.
+
+At Adobe, for sales roles starting salaries are expressed as total target compensation (TTC = base + commission), and short-term incentives are in the form of sales commission plans. Non-sales roles starting salaries are expressed as base salary and short-term incentives are in the form of the Annual Incentive Plan (AIP). In addition, certain roles may be eligible for long-term incentives in the form of a new hire equity award. Adobe will consider qualified applicants with arrest or conviction records for employment in accordance with state and local laws and "fair chance" ordinances.
+
+Adobe is proud to be anEqual Employment Opportunityand affirmative action employer. We do not discriminate based on gender, race or color, ethnicity or national origin, age, disability, religion, sexual orientation, gender identity or expression, veteran status, or any other applicable characteristics protected by law.Learn more.
+
+Adobe aims to make Adobe.com accessible to any and all users. If you have a disability or special need that requires accommodation to navigate our website or complete the application process, emailaccommodations@adobe.comor call (408) 536-3015. Adobe values a free and open marketplace for all employees and has policies in place to ensure that we do not enter into illegal agreements with other companies to not recruit or hire each other's employees.
+
+Nice-to-have skills
+
+Python
+Deep Learning
+PyTorch
+TensorFlow
+Docker
+Azure
+AWS
+California, United States
+
+Work experience
+
+Machine Learning
+Data Engineer
+Data Scientist
+
+Languages
+
+English

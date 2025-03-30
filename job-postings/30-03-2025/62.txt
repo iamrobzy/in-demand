@@ -1,0 +1,40 @@
+About
+
+ResponsibilitiesTikTok is the leading destination for short-form mobile video. Our mission is to inspire creativity and bring joy. TikTok has global offices including Los Angeles, New York, London, Paris, Berlin, Dubai, Singapore, Jakarta, Seoul and Tokyo. Why Join UsAt TikTok, our people are humble, intelligent, compassionate and creative. We create to inspire - for you, for us, and for more than 1 billion users on our platform. We lead with curiosity and aim for the highest, never shying away from taking calculated risks and embracing ambiguity as it comes. Here, the opportunities are limitless for those who dare to pursue bold ideas that exist just beyond the boundary of possibility. Join us and make impact happen with a Search Ads team constantly pushes the boundaries of general search engine monetization across our apps, including TikTok, TopBuzz, BuzzVideo, and more, building a globally leading Search Ads monetization system. At the Search Ads team, you will have the chance to work on large-scale distributed storage and architecture, NLP, Rank, and IR related problems. You will be also deeply involved in the innovation and optimization of our Ad format, creative display, and the ROI of ads delivery. We are looking for candidates who brave difficulties, share a passion for tackling complexity and developing our Search Ads product from 0 to 1 with a world-class team of passionate engineers.What You'll Do:
+
+Participate in the development of a large-scale Ads system
+Responsible for relevance model and strategy optimization, such as semantic matching models, active learning, text/photo/video multi-model, ranking strategy, etc
+Participate in the development and iteration of Ads algorithms by using Machine Learning.
+Work on NLP (Natural Language Processing) capability improvement and query understanding, such as query classification, seq2seq, NER (Named Entity Recognition), knowledge graph, bidword optimization, etc
+Work on CTR/CVR model estimation accuracy, data analysis, modeling, feature engineering
+Research and develop Ads pacing algorithms, ads traffic control, etc
+Partner with product managers and product strategy & operation team to define product strategy and featuresQualifications
+BS degree in Computer Science, Computer Engineering or other relevant majors.
+Excellent programming, debugging, and optimization skills in general purpose programming languages
+Ability to think critically and to formulate solutions to problems in a clear and concise way.Preferred Qualifications:
+Experience with one or more general purpose programming languages including but not limited to: Go, C/C++, Python.
+Good understanding in one of the following domains: ad fraud detection, risk control, quality control, adversarial engineering, and online advertising systems.
+Good knowledge in one of the following areas: machine learning, deep learning, backend, large-scale systems, data science, full-stack.TikTok is committed to creating an inclusive space where employees are valued for their skills, experiences, and unique perspectives. Our platform connects people from across the globe and so does our workplace. At TikTok, our mission is to inspire creativity and bring joy. To achieve that goal, we are committed to celebrating our diverse voices and to creating an environment that reflects the many communities we reach. We are passionate about this and hope you are too.TikTok is committed to providing reasonable accommodations during our recruitment process. If you need assistance or an accommodation, please reach out to us at TiktokO[redacted]
+
+Nice-to-have skills
+
+Go
+C
+C++
+Python
+Machine Learning
+Deep Learning
+Data Science
+Data Analysis
+Seattle, Washington
+
+Work experience
+
+Data Engineer
+NLP
+Search
+Software Architect
+
+Languages
+
+English

@@ -1,0 +1,45 @@
+About
+
+The vast majority of enterprise data is in files like PDFs and spreadsheets. That includes everything from financial statements to medical records. Reducto helps AI teams turn those really complex documents into LLM-ready inputs with exceptional accuracy.
+
+Are you the right applicant for this opportunity Find out by reading through the role overview below.
+
+Hundreds of companies have signed up to use Reducto since our launch, and we’re now processing tens of millions of pages every month for teams ranging from startups to Fortune 10 enterprises. We’re hiring founding software engineers to help us continue to serve our customers as we build the ingestion layer that connects human data with LLMs.
+
+Philosophy
+
+As a member of our founding team you’ll work on our core API and on prem deployments. That means you’ll have a hand in everything that our customers need. We would love to meet you if you:
+
+Skills
+
+You have 2 to 5 years of experience with training, fine tuning, and evaluating ML models used in production systems Language/Skills:
+
+You are your own worst critic. You have a high bar for quality and don’t rest until the job is done right—no settling for 90%. We want someone who ships fast, with high agency, and who doesn't just voice problems but actively jumps in to fix them. Experience:
+
+You’re exceptional at Python or similar, and are well versed with both traditional computer vision and VLMs Tools:
+
+Build your own tools as needed—like a quick Streamlit app to test hypotheses or create a dataset. Approach:
+
+A Quantitative Approach To Building Products. Ability To Debug, Experiment, And Iterate Fast. You Should Be Comfortable Getting Hands-on With The Full Development Lifecycle, From Ideation To Shipping To Users. The Core Work Will Include
+
+Training and deploying new state of the art models for parsing and interpreting unstructured data Experimenting with novel techniques to improve LLM accuracy Build data pipelines, evaluate model performance, and integrate models into the product Working directly with the founders and customers to shape the product direction and engineering strategy Bonus points if you:
+
+Have prior experience founding a company or building products at early stages Are ambitious and driven, and care a lot about doing great work with great people Keep up with the latest developments in ML/AI This is an in person role at our office in SF. We’re an early stage company which means that the role requires working hard and moving quickly. Please only apply if that excites you.
+
+#J-18808-Ljbffr
+
+Nice-to-have skills
+
+Python
+Computer Vision
+California, United States
+
+Work experience
+
+Machine Learning
+Computer Vision
+Data Engineer
+
+Languages
+
+English

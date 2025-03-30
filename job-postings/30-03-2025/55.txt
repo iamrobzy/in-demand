@@ -1,0 +1,21 @@
+About
+
+ResponsibilitiesAbout TikTok U.Data SecurityTikTok is the leading destination for short-form mobile video. Data Security ("USDS") is a subsidiary of TikTok in the U.This new, security-first division was created to bring heightened focus and governance to our data protection policies and content assurance protocols to keep U.Our focus is on providing oversight and protection of the TikTok platform and U.S. user data, so millions of Americans can continue turning to TikTok to learn something new, earn a living, express themselves creatively, or be entertained. The teams within USDS that deliver on this commitment daily span across Trust & Safety, Security & Privacy, Engineering, User & Product Ops, Corporate Functions and more.Why Join UsCreation is the core of TikTok's purpose. Our platform is built to help imaginations thrive. This is doubly true of the teams that make TikTok possible. At TikTok, we create together and grow together. That's how we drive impact - for ourselves, our company, and the communities we serve. The mission of our AML team is to push the next-generation AI infrastructure and recommendation platform for the ads ranking, search ranking, live & ecom ranking in our company. Currently, we are looking for Machine Learning Engineer - Model Training Infrastructure to join our team to support and advance that mission.In order to enhance collaboration and cross-functional partnerships, among other things, at this time, our organization follows a hybrid work schedule that requires employees to work in the office 3 days a week, or as directed by their manager/department. Responsibilities:- Responsible for the design and implementation of a global-scale machine learning system for feeds, ads and search ranking models.- Responsible for improving use-ability and flexibility of the machine learning infrastructure.- Responsible for improving the workflow of model training and serving, data pipelines, storage system and resource management for multi-tenancy machine learning systems.- QualificationsMinimum Qualifications- Bachelor's/Master's degree in Computer Science, Computer Engineering, or related fields or equivalent years of experience in a software engineering role- Proficient in C/C++/CUDA/Python, and have solid programming skills.- Familiar with deep learning frameworks (TensorFlow/Pytorch).- Preferred Qualifications- Ability to work independently and complete projects from beginning to end and in a timely manner.- Good communication and teamwork skills to clearly communicate technical concepts with other Experience on improving core machine learning infrastructure(TensorFlow, Pytorch, and Jax).- Experience contributing to an open sourced machine learning framework (TensorFlow/PyTorch).- Experience in using/designing open-source machine learning lifecycle management systems: Our platform connects people from across the globe and so does our workplace. At TikTok, our mission is to inspire creativity and bring joy. To achieve that goal, we are committed to celebrating our diverse voices and to creating an environment that reflects the many communities we reach. Accommodation StatementTikTok is committed to providing reasonable accommodations in our recruitment processes for candidates with disabilities, pregnancy, sincerely held religious beliefs or other reasons protected by applicable laws. If you need assistance or a reasonable accommodation, please reach out to us at ktJP6Data Security StatementThis role requires the ability to work with and support systems designed to protect sensitive data and information.
+
+Nice-to-have skills
+
+C
+C++
+CUDA
+Python
+TensorFlow
+PyTorch
+Mountain View, California
+
+Work experience
+
+Machine Learning
+
+Languages
+
+English

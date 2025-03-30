@@ -1,0 +1,56 @@
+Lensa is the leading career site for job seekers at every stage of their career. Our client, Apple, is seeking professionals in San Diego, CA. Apply via Lensa today!
+
+Machine Learning & Data Scientist, OS Power & Performance
+
+San Diego,California,United States
+
+Software and Services
+
+Great performance is critical to Apple's product experience. Would you like to help with quantitative analysis of high dimensional data to draw insights that would impact hundreds of millions of users? Does the idea of developing data products to improve Apple’s software & hardware performance excite you? If this describes you, we would love to hear from you!
+
+Description
+
+We're looking for a proactive & impact-driven engineer with excellent machine learning, analytical, problem solving and communication skills. You will need to analyze high dimensional data to derive meaningful insights. You will be responsible for producing metrics, models, simulations, and tools for analysis & communication of insights from large datasets. To be successful in this role, you must have a strong foundation in statistical analysis and the ability to apply it to solving business & product-development problems. You must also have a software engineering background and be able to write production level code. As a member of this team, you will have the opportunity to provide meaningful insights to teams and influence decisions across Apple on a broad range of products.
+
+Minimum Qualifications
+
+Quantitative Foundation: Education in Computer Science, Electrical Engineering, or a related quantitative field. We expect a mathematical foundations, software engineering, and broad knowledge of data analysis and practical machine learning. 
+Data Engineering and Analytics: Skilled at scalably transforming raw data into actionable insights through practical problem formulation followed by building of ETL processes (e.g. Python & Spark) and data visualizations (e.g. Tableau) 
+Business Acumen and Problem-Solving: Ability to understand the broader business context, solve complex problems, and communicate findings effectively to stakeholders. 
+Adaptability and Collaboration: Comfortable with ambiguity, eager to learn, and capable of working effectively in a collaborative environment. Strong interpersonal skills and the ability to build relationships with diverse stakeholders are essential. 
+
+Key Qualifications
+
+Preferred Qualifications
+
+M.S. or Ph.D. in Computer Science, Electrical Engineering, Applied Mathematics, Statistics, or a similar quantitative field, with strong statistical skills and intuition 
+Proficiency in distributed compute & storage technologies such as HDFS, S3, Iceberg, Spark, and Trino 
+Proficiency with designing ETL flows and automation/scheduling (e.g. Kubernetes and Airflow) 
+Working knowledge of Operating Systems 
+Experience driving cross-functional projects with diverse sets of stakeholders 
+Skilled at connecting data insights to the company's overall strategy and objectives. 
+
+Education & Experience
+
+Additional Requirements
+
+Pay & Benefits
+
+At Apple, base pay is one part of our total compensation package and is determined within a range. This provides the opportunity to progress as you grow and develop within a role. The base pay range for this role is between $115,700 and $204,000, and your base pay will depend on your skills, qualifications, experience, and location.Apple employees also have the opportunity to become an Apple shareholder through participation in Apple’s discretionary employee stock programs. Apple employees are eligible for discretionary restricted stock unit awards, and can purchase Apple stock at a discount if voluntarily participating in Apple’s Employee Stock Purchase Plan. You’ll also receive benefits including: Comprehensive medical and dental coverage, retirement benefits, a range of discounted products and free services, and for formal education related to advancing your career at Apple, reimbursement for certain educational expenses — including tuition. Additionally, this role might be eligible for discretionary bonuses or commission payments as well as relocation.Learn more (https://www.apple.com/careers/us/benefits.html) about Apple Benefits.Note: Apple benefit, compensation and employee stock programs are subject to eligibility requirements and other terms of the applicable plan or program. 
+Apple is an equal opportunity employer that is committed to inclusion and diversity. We take affirmative action to ensure equal opportunity for all applicants without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, Veteran status, or other legally protected characteristics.Learn more about your EEO rights as an applicant. (https://www.eeoc.gov/sites/default/files/2023-06/22-088_EEOC_KnowYourRights6.12ScreenRdr.pdf) 
+
+Apple Footer
+
+Apple is an equal opportunity employer that is committed to inclusion and diversity. We take affirmative action to ensure equal opportunity for all applicants without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, Veteran status, or other legally protected characteristics. Learn more about your EEO rights as an applicant (Opens in a new window) .
+
+Apple will not discriminate or retaliate against applicants who inquire about, disclose, or discuss their compensation or that of other applicants. United States Department of Labor. Learn more (Opens in a new window) .
+
+Apple participates in the E-Verify program in certain locations as required by law. Learn more about the E-Verify program (Opens in a new window) .
+
+Apple is committed to working with and providing reasonable accommodation to applicants with physical and mental disabilities. Reasonable Accommodation and Drug Free Workplace policy Learn more (Opens in a new window) .
+
+Apple is a drug-free workplace. Reasonable Accommodation and Drug Free Workplace policy Learn more (Opens in a new window) .
+
+Apple will consider for employment all qualified applicants with criminal histories in a manner consistent with applicable law. If you’re applying for a position in San Francisco, review the San Francisco Fair Chance Ordinance guidelines (opens in a new window) applicable in your area.
+
+It is unlawful in Massachusetts to require or administer a lie detector test as a condition of employment or continued employment. An employer who violates this law shall be subject to criminal penalties and civil liability.

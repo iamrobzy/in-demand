@@ -1,0 +1,53 @@
+Voyager (94001), India, Bangalore, Karnataka
+
+Principal Associate- Machine Learning Engineer
+
+At Capital One India, we work in a fast paced and intellectually rigorous environment to solve fundamental business problems at scale. Using advanced analytics, data science and machine learning, we derive valuable insights about product and process design, consumer behavior, regulatory and credit risk, and more from large volumes of data, and use it to build cutting edge patentable products that drive the business forward.
+
+We’re looking for a Principal Associate to join the Machine Learning Experience (MLX) team! 
+
+As a Capital One Principal Associate - ML Engineer, you'll be part of a team focusing on observability, model monitoring and governance automation for cutting edge platforms using generative AI. You will work on building solutions to collect metadata, metrics and insights from the large scale Machine learning platform. And build intelligent and smart solutions to derive deep insights into platform's use-cases performance and compliance with industry standards.
+
+You will contribute to building a system to do this for Capital One models, accelerating the move from fully trained models to deployable model artifacts ready to be used to fuel business decisioning and build an observability platform to monitor the models and platform components. 
+
+The MLX team is at the forefront of how Capital One builds and deploys well-managed ML models and features. We onboard and educate associates on the ML platforms and products that the whole company uses. We drive new innovation and research and we’re working to seamlessly infuse ML into the fabric of the company. The ML experience we're creating today is the foundation that enables each of our businesses to deliver next-generation ML-driven products and services for our customers.
+
+What You’ll Do:
+
+Lead the design and implementation of observability tools that provide actionable insights into platform performance and health. Building complex solutions to generate automated workflows for goverance and capturing valuable insights. 
+Leverage Generative AI models and fine tune them to enhance observability capabilities, such as anomaly detection, predictive analytics, troubleshooting copilot and automating manual reporting. 
+Build and deploy well-managed core APIs and SDKs for observability of LLMs and proprietary Gen-AI Foundation Models including training, pre-training, fine-tuning and prompting. 
+Stay abreast of the latest trends in Generative AI and platform observability, and drive the adoption of emerging technologies and methodologies. 
+Bring research mindset, lead Proof of concept to showcase capabilities of large language models in the realm of observability and governance which enables practical production solutions for improving platform users productivity. 
+
+Basic Qualifications:
+
+Bachelor’s or Master’s degree in Computer Science, Engineering, or related field. 
+Proficiency in at least one programming language (preferably Python or Go, but others like Java, Rust, or C++ are acceptable). 
+Minimum 4 years of experience in Machine Learning Engineering, with hands-on exposure to ML model lifecycle (MDLC), including data preprocessing, model training, evaluation, deployment, and monitoring. 
+Experience in model performance evaluation using metrics like accuracy, precision-recall, F1-score, AUC-ROC, RMSE, MAPE, etc. 
+Strong foundation in ML algorithms (regression, classification, clustering, time series forecasting, etc.) and understanding of bias, drift, and explainability. 
+Minimum 3 years of experience with ML frameworks, such as scikit-learn, PyTorch, TensorFlow, Spark, or Dask, for traditional and GenAI model development. 
+Minimum 2 years of experience with Generative AI, specifically in building solutions for automated report generation, insights summarization, or assistive intelligence using LLMs, RAG, or Semantic Kernels. 
+Understanding of building microservices based distributed systems, and knowledge of event driven architecture. 
+Experience with cloud platforms like AWS, Azure, or GCP. 
+
+Preferred Qualifications:
+
+Experience in machine learning, particularly in deploying and operationalizing ML models. 
+Familiarity with container orchestration tools like Kubernetes and Docker. 
+Knowledge of data governance and compliance, particularly in the context of machine learning and AI systems. 
+Master's or doctoral degree in computer science, electrical engineering, mathematics, or a similar field. 
+Contributed to open source ML software. 
+Authored/co-authored papers, patents on ML techniques, models, or proof of concept. 
+Knowledge of data governance and compliance, particularly in the context of machine learning and AI systems. 
+
+No agencies please. Capital One is an equal opportunity employer committed to diversity and inclusion in the workplace. All qualified applicants will receive consideration for employment without regard to sex (including pregnancy, childbirth or related medical conditions), race, color, age, national origin, religion, disability, genetic information, marital status, sexual orientation, gender identity, gender reassignment, citizenship, immigration status, protected veteran status, or any other basis prohibited under applicable federal, state or local law. Capital One promotes a drug-free workplace. Capital One will consider for employment qualified applicants with a criminal history in a manner consistent with the requirements of applicable laws regarding criminal background inquiries, including, to the extent applicable, Article 23-A of the New York Correction Law; San Francisco, California Police Code Article 49, Sections 4901-4920; New York City’s Fair Chance Act; Philadelphia’s Fair Criminal Records Screening Act; and other applicable federal, state, and local laws and regulations regarding criminal background inquiries.
+
+If you have visited our website in search of information on employment opportunities or to apply for a position, and you require an accommodation, please contact Capital One Recruiting at 1-800-304-9102 or via email at RecruitingAccommodation@capitalone.com. All information you provide will be kept confidential and will be used only to the extent required to provide needed reasonable accommodations.
+
+For technical support or questions about Capital One's recruiting process, please send an email to Careers@capitalone.com
+
+Capital One does not provide, endorse nor guarantee and is not liable for third-party products, services, educational tools or other information available through this site.
+
+Capital One Financial is made up of several different entities. Please note that any position posted in Canada is for Capital One Canada, any position posted in the United Kingdom is for Capital One Europe and any position posted in the Philippines is for Capital One Philippines Service Corp. (COPSSC).

@@ -1,0 +1,128 @@
+About
+
+Machine Learning Engineer Monmouth, New Jersey On-site 3 days (for now)
+
+Senior Software Engineers, Machine Learning Our client is a growing software company. Several key positions have opened because of this expansion including Software Engineers at Senior and Principal levels with machine learning experience. These are hybrid positions in Monmouth County. If you have solid computer science fundamentals (data structures, algorithms, etc.) and experience with C, Python and Linux you may qualify for one of these exceptional opportunities.
+
+No relocation, local candidates only, US citizen or green cards only.
+
+They are onsite 3 days per week now; this might change in the future. Candidates must be able to commute to Holmdel 3 days per week and should know that this is likely to increase.
+
+The Software Engineering - ML roles focus on developing and maintaining high-performance software with a strong foundation in software engineering fundamentals. The position requires expertise in designing, training, and optimizing machine learning models, particularly for anomaly and ransomware detection. The engineer will work collaboratively in a Scrum environment to deliver production-ready code, integrate components, and resolve customer issues. Proficiency in C, Python, and related libraries (e.g., pandas, scikit-learn) for Linux, along with a solid understanding of algorithms, data structures, and Agile methodologies, is essential. Strong communication, teamwork skills, and a commitment to continuous learning are key to success in this role.
+
+Requirements include: BS, MS or PhD in CS, CE, EE, Math, or other technical discipline; a few years of software development; Machine Learning knowledge; team player with great interpersonal skills; desire to contribute and learn;
+
+Develop, maintain, and support software for Linux application and will work closely with the Support Organization to resolve customer issues
+
+
+
+Continually train, evaluate, and fine tune ML models
+
+
+
+Translate forward-looking research items into production ready code/model.
+
+
+
+Work as member of a Scrum team to design and develop software components Work with other Scrum team members to integrate and test software modules.
+
+
+
+Work with QA to review test plans and support QA activities during test phases.
+
+
+
+Work with support and Product Management
+
+
+
+Provide technical leadership within assigned areas of responsibility medium-large teams/features.
+
+Requirements:
+
+
+
+Experience with the on-going development and maintenance of ML models with an emphasis in anomaly detection, fraud detection and/or ransomware detection.
+
+
+
+Software development in C and Python for Linux.
+
+
+
+Experience with pandas and scikit-learn in Python.
+
+
+
+Agile Development methodology.
+
+
+
+Strong Intrapersonal and teamwork skills.
+
+
+
+Strong written and oral communications skills.
+
+
+
+Enjoys working in a challenging and highly collaborative environment.
+
+
+
+Able to work as part of a team.
+
+
+
+Able to accommodate the time zone differences required to work with teams in the US and Asia.
+
+
+
+Require minimal supervision and be able to operate in a matrixed organization.
+
+
+
+Desire to learn new technologies.
+
+
+
+Bachelor’s degree in computer science or related field.
+
+
+
+Minimum of 7-10 years of professional experience in software engineering.
+
+Preferred:
+
+
+
+Proficient with the development of data structures and algorithms that are both performance oriented and able to scale to manage large datasets.
+
+
+
+Experience with svn, git, Jira and Confluence.
+
+Experience with shell scripting on Linux and Windows.
+
+Nice-to-have skills
+
+Machine Learning
+C
+Python
+Linux
+Pandas
+Scikit-learn
+Agile
+SVN
+Git
+JIRA
+Shell Scripting
+New Jersey, United States
+
+Work experience
+
+Machine Learning
+
+Languages
+
+English

@@ -1,0 +1,26 @@
+Key Responsibilities:
+Design, develop, and deploy machine learning models for various business use cases.
+Build and optimize data pipelines for training and inference of ML models.
+Work with structured and unstructured data to preprocess and feature engineer datasets.
+Optimize model performance and scalability for production deployment.
+Implement A/B testing and model monitoring strategies to ensure continuous improvement.
+Collaborate with data scientists to refine models and algorithms.
+Deploy ML models using cloud platforms (AWS, GCP, Azure) and containerization tools (Docker, Kubernetes).
+Research and stay up-to-date with the latest advancements in AI and ML.
+Ensure compliance with data privacy and ethical AI guidelines.
+
+Required Qualifications & Skills:
+BSc in Computer Science, AI, Data Science, or a related field.
+Proven experience in machine learning, deep learning, and statistical modelling.
+Proficiency in Python and ML frameworks such as TensorFlow, PyTorch, or Scikit-learn.
+Experience with data preprocessing, feature engineering, and model evaluation.
+Knowledge of big data technologies (Spark, Hadoop) and databases (SQL, NoSQL).
+Hands-on experience with cloud services (AWS, GCP, or Azure) and MLOps tools.
+Familiarity with version control (Git), CI/CD pipelines, and containerization.
+Strong problem-solving skills and ability to work in a fast-paced environment.
+Excellent communication and teamwork skills.
+
+Preferred Qualifications:
+Experience in natural language processing (NLP), computer vision, or reinforcement learning.
+Knowledge of model explainability, fairness, and AI ethics.
+Experience with edge AI and on-device machine learning.

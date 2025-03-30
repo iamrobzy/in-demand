@@ -1,0 +1,67 @@
+About
+
+ASIC Design Engineer, Cloud-Scale Machine Learning Acceleration team Utility Computing (UC)
+
+All potential candidates should read through the following details of this job with care before making an application. AWS Utility Computing (UC) provides product innovations — from foundational services such as Amazon’s Simple Storage Service (S3) and Amazon Elastic Compute Cloud (EC2), to consistently released new product innovations that continue to set AWS’s services and features apart in the industry. As a member of the UC organization, you’ll support the development and management of Compute, Database, Storage, Internet of Things (IoT), Platform, and Productivity Apps services in AWS, including support for customers who require specialized security solutions for their cloud services.
+
+Annapurna Labs (our organization within AWS UC) designs silicon and software that accelerates innovation. Customers choose us to create cloud solutions that solve challenges that were unimaginable a short time ago—even yesterday. Our custom chips, accelerators, and software stacks enable us to take on technical challenges that have never been seen before, and deliver results that help our customers change the world.
+
+About AWS Amazon Web Services (AWS) is the world’s most comprehensive and broadly adopted cloud platform. We pioneered cloud computing and never stopped innovating — that’s why customers from the most successful startups to Global 500 companies trust our robust suite of products and services to power their businesses.
+
+Diverse Experiences AWS values diverse experiences. Even if you do not meet all of the qualifications and skills listed in the job description, we encourage candidates to apply. If your career is just starting, hasn’t followed a traditional path, or includes alternative experiences, don’t let it stop you from applying.
+
+Work/Life Balance We value work-life harmony. Achieving success at work should never come at the expense of sacrifices at home, which is why we strive for flexibility as part of our working culture. When we feel supported in the workplace and at home, there’s nothing we can’t achieve in the cloud.
+
+Inclusive Team Culture Here at AWS, it’s in our nature to learn and be curious. Our employee-led affinity groups foster a culture of inclusion that empower us to be proud of our differences. Ongoing events and learning experiences, including our Conversations on Race and Ethnicity (CORE) and AmazeCon conferences, inspire us to never stop embracing our uniqueness.
+
+Mentorship & Career Growth We’re continuously raising our performance bar as we strive to become Earth’s Best Employer. That’s why you’ll find endless knowledge-sharing, mentorship and other career-advancing resources here to help you develop into a better-rounded professional.
+
+Custom SoCs (System on Chip) live at the heart of AWS Machine Learning servers. As a member of the Cloud-Scale Machine Learning Acceleration team you’ll be responsible for the design and optimization of hardware in our data centers including AWS Inferentia, our custom designed machine learning inference datacenter server. Our success depends on our world-class server infrastructure; we’re handling massive scale and rapid integration of emergent technologies. We’re looking for an ASIC Design Engineer to help us trail-blaze new technologies and architectures, while ensuring high design quality and making the right trade-offs.
+
+Key job responsibilities
+
+Integrate multiple subsystems into top level SOC, ensure correct clock/reset/functional/DFT signal routing.
+As a key member of the ASIC design team, you will implement and deliver high performance, area and power efficient RTL to achieve design targets and specifications.
+Analyze design, microarchitecture or architecture to make trade-offs based on features, power, performance or area requirements.
+Develop micro-architecture, implement SystemVerilog RTL, and deliver synthesis/timing clean design with constraints.
+Perform lint and clock domain crossing quality checks on the design.
+Work with architects, other designers, verification teams, pre- and post-silicon validation teams, synthesis, timing and back-end teams to accomplish your tasks.
+
+You will thrive in this role if you:
+
+Are familiar with scripting in Python.
+Are proficient with assertions.
+Have good debug skills to analyze RTL test failures.
+Have a "Learn and Be Curious" mindset.
+
+About the team Custom SoCs (System on Chip) live at the heart of AWS Machine Learning servers. As a member of the Cloud-Scale Machine Learning Acceleration team you’ll be responsible for the design and optimization of hardware in our data centers including AWS Inferentia, our custom designed machine learning inference datacenter server. Our success depends on our world-class server infrastructure; we’re handling massive scale and rapid integration of emergent technologies. We’re looking for an ASIC Design Engineer to help us trail-blaze new technologies and architectures, while ensuring high design quality and making the right trade-offs.
+
+Our team is dedicated to supporting new members. We have a broad mix of experience levels and tenures, and we’re building an environment that celebrates knowledge-sharing and mentorship. Our senior members enjoy one-on-one mentoring and thorough, but kind, code reviews. We care about your career growth and strive to assign projects that help our team members develop your engineering expertise so you feel empowered to take on more complex tasks in the future.
+
+BASIC QUALIFICATIONS - B.S. in Electrical Engineering or related technical field
+
+5+ years in RTL design for SOC
+5+ years in VLSI engineering
+5+ years with code quality tools including: Spyglass, LINT, or CDC PREFERRED QUALIFICATIONS - Master's degree in electrical engineering, computer engineering, or equivalent
+Experience with Microarchitecture, SystemVerilog RTL, Assertions, SDC constraints
+Experience with automation and scripting languages such as Python
+Familiarity with data path design, interconnects, AXI protocol
+Good analytical, problem solving, and communication skills Amazon is committed to a diverse and inclusive workplace. Amazon is an equal opportunity employer and does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, or other legally protected status.
+
+#J-18808-Ljbffr
+
+Nice-to-have skills
+
+Python
+SystemVerilog
+California, United States
+
+Work experience
+
+Embedded
+Hardware
+Electronics Engineering
+
+Languages
+
+English

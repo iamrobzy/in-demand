@@ -1,0 +1,55 @@
+About
+
+Build the future of the AI Data Cloud. Join the Snowflake team. The Snowflake Machine Learning Platform team's mission is to enable customers to bring their machine learning and deep learning workloads to Snowflake. Our customers want to build powerful models with the ever increasing data in Snowflake but face several challenges including infrastructure optimizations, orchestration, performance and security. The team aims to solve these challenges by building highly integrated platform solutions that are simple, secure and enable end to end ML workflows. We are on an early journey to build the most scalable machine learning and data platform without sacrificing the benefits of a single platform and governance. We are looking for outstanding technical leaders who will play a pivotal role in this journey by understanding Snowflake's core platform architecture and evolving it to enable state of the art machine learning workloads, including LLMs. Join us to define strategies, set technical directions, design and execute, engage and deliver innovation and unlock the power of AI for thousands of enterprise customers. This position is based in San Mateo, CA or Bellevue, WA RESPONSIBILITIES:
+
+Help define and own the roadmap, working collaboratively and proactively with senior architects, PMs and team leadership. The initiatives include platforms and tools that enable customers to do state of the art machine learning on Snowflake natively.
+
+Collaboratively build and execute a vision for incorporating new advances in machine learning in ways that best achieve the team's business objectives.
+
+Ensure operational excellence of the services and meet the commitments to our customers regarding reliability, availability, and performance.
+
+Collaborate across other ML partner teams to continuously improve ML development velocity and capabilities at Snowflake.
+
+Support team members in delivering a high level of technical quality.
+
+Ideal Requirements & Qualifications
+
+Have 8+ years of industry experience designing, building, and supporting Internet serving infrastructure, machine learning platforms, machine learning services and frameworks.
+
+Strong track record of working with machine learning systems and/or platforms.
+
+Experience with several of the following frameworks: SKLearn, XGBoost, PyTorch, Tensorflow.
+
+Experience with building batch model inference and online model serving systems.
+
+Have built a roadmap and vision around machine learning teams, and led technical decision making with help of architects and PMs and team.
+
+Have led multiple engineers in delivering large, high impact projects.
+
+Fluent in Python. C++ and Java experience is a plus.
+
+Have worked well with data scientists, business analysts and machine learning infrastructure to connect the dots between business and technology partners.
+
+A growth mindset and excitement about breaking the status quo by seeking innovative solutions.
+
+BS/MS/PhD in Computer Science or related majors, or equivalent experience
+
+Every Snowflake employee is expected to follow the company's confidentiality and security standards for handling sensitive data. Snowflake employees must abide by the company's data security plan as an essential part of their duties. It is every employee's duty to keep customer information secure and confidential. Snowflake is growing fast, and we're scaling our team to help enable and accelerate our growth. We are looking for people who share our values, challenge ordinary thinking, and push the pace of innovation while building a future for themselves and Snowflake. How do you want to make your impact? For jobs located in the United States, please visit the job posting on the Snowflake Careers Site for salary and benefits information: careers.snowflake.com The following represents the expected range of compensation for this role: The estimated base salary range for this role is $214,000 - $327,750. Additionally, this role is eligible to participate in Snowflake's bonus and equity plan. The successful candidate's starting salary will be determined based on permissible, non-discriminatory factors such as skills, experience, and geographic location. This role is also eligible for a competitive benefits package that includes: medical, dental, vision, life, and disability insurance; 401(k) retirement plan; flexible spending & health savings account; at least 12 paid holidays; paid time off; parental leave; employee assistance program; and other company benefits.
+
+Nice-to-have skills
+
+XGBoost
+PyTorch
+TensorFlow
+Python
+C++
+Java
+California, United States
+
+Work experience
+
+Machine Learning
+
+Languages
+
+English

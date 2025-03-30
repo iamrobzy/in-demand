@@ -1,0 +1,49 @@
+While technology is the heart of our business, a global and diverse culture is the heart of our success. We love our people and we take pride in catering them to a culture built on transparency, diversity, integrity, learning and growth.
+
+If working in an environment that encourages you to innovate and excel, not just in professional but personal life, interests you- you would enjoy your career with Quantiphi!
+
+Role: Senior Machine Learning Engineer
+
+Experience Level: 3 to 6 years
+
+Location: Mumbai / Bangalore (hybrid)
+
+Role & Responsibilities
+
+Agentic AI Development: Design, develop, and optimize domain adaptive agentic AI systems that helps in automating business processes
+LLM Fine-Tuning: Work with large-scale pre-trained models (like Llama, Mistral etc.) to fine-tune with techniques like PEFT, SFT and adapt them for specific applications and domains. Evaluate and Optimize for performance, accuracy, and efficiency.
+Prompt Engineering: Design prompts with techniques like Chain of Thought, Few Shot to enhance model responses, ensuring that model outputs are aligned with use case requirements.
+AI Workflow Automation: Build end-to-end workflows for AI solutions, from data collection and preprocessing to training, deployment, and continuous improvement in production environments.
+Collaboration with Cross-functional Teams: Work closely with data scientists, software engineers, and product managers to define AI product requirements and deliver innovative solutions.
+Research & Development: Stay current with the latest research and developments in generative AI, deep learning, NLP, reinforcement learning, and related fields to ensure that the organization stays at the forefront of technology.
+Scaling and Deployment: Deploy machine learning models at scale, optimizing for latency, throughput, and robustness in production environments.
+Documentation & Reporting: Maintain clear documentation of models, workflows, and experiments, and communicate results effectively to stakeholders.
+
+Skills Required
+
+3 to 5 years of hands-on experience in machine learning and AI engineering.
+Proven track record in working with LLMs such as Llama, Mistral and models like GPT, BERT, T5, or similar.
+Expertise in designing, fine-tuning, and deploying generative AI models and building agentic workflows.
+Strong experience in prompt engineering to optimize AI models performance.
+
+Technical Skills
+
+Proficiency in Python, TensorFlow, PyTorch, or other ML frameworks.
+Proficiency in building agentic workflows with tools like Langgraph, CrewAI, Autogen, PhiData or similar.
+Familiarity with cloud platforms (AWS, GCP, Azure) for deployment and scaling of models.
+Experience with NLP tasks, such as text classification, text generation, summarization, and question answering.
+Knowledge of reinforcement learning, multi-agent systems, or other autonomous decision-making frameworks.
+Familiarity with SDLC life cycle , data processing tools (e.g., Pandas, NumPy, etc.) and version control (e.g., Git).
+
+Soft Skills
+
+Strong problem-solving and analytical skills.
+Excellent communication and teamwork abilities to collaborate with stakeholders.
+Ability to work independently and drive projects to completion with minimal supervision.
+
+Preferred Skills & Qualifications
+
+Experience in deploying AI models at scale in production environments.
+Expertise in large-scale data processing, optimization techniques, and model deployment.
+
+If you like wild growth and working with happy, enthusiastic over-achievers, you'll enjoy your career with us!

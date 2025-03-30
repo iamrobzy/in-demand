@@ -1,0 +1,32 @@
+**Posting on behalf our client**
+
+Overview
+
+Microsoft is a company where passionate innovators come to collaborate, envision what can be and take their careers to levels they cannot achieve anywhere else. This is a world of more possibilities, more innovation, more openness in a cloud-enabled world.
+
+The Business & Industry Copilots group is a rapidly growing organization that is responsible for the Microsoft Dynamics 365 suite of products, Power Apps, Power Automate, Dataverse, AI Builder, Microsoft Industry Solution and more. Microsoft is considered one of the leaders in Software as a Service in the world of business applications and this organization is at the heart of how business applications are designed and delivered.
+
+This is an exciting time to join our group Customer Zero and work on something highly strategic to Microsoft. The goal of the Customer Zero Engineering is to build the next generation of our applications running on Dynamics 365, AI, Copilot, and several other Microsoft cloud services to drive AI transformation across Marketing, Sales, Services and Support organizations within Microsoft. We innovate quickly and collaborate closely with our partners and customers in an agile, high-energy environment. Leveraging the scalability and value from Azure & Power Platform, we ensure our solutions are robust and efficient. Our organization’s implementation acts as reference architecture for large companies and helps drive product capabilities.
+
+If the opportunity to collaborate with a diverse engineering team, on enabling end-to-end business scenarios using cutting-edge technologies and to solve challenging problems for large scale 24x7 business SaaS applications excite you, please come and talk to us!
+
+We are looking for a Software Engineer with experience and exposure to full stack development. As a member of our growing org, you will play an integral part in helping create delightful user experiences, navigating us into the future and impacting on the lives of people all around the world.
+
+Responsibilities
+Brainstorm and identify solutions to problems in the designated component
+Be innovative in identifying solutions to routine problems and manual workflows
+Develop, test and deploy solutions which help in improving experiences for Customers
+Analyze events and telemetry from multiple sources and resolve issues
+Partner with peers in team, in leveraging and extending the services and experiences
+
+Qualifications
+Good development experience using Azure resources and services
+Good exposure to VSO, Git and modern engineering practices
+Well versed with Agile development methodology
+Hands-on experience or exposure to React and/or other JavaScript Frameworks would be a plus
+Good experience using Microsoft technology stack and/or other stack (.NET framework, Java, C#, PowerShell, SQL, REST services, Node.JS.
+Good verbal and written communication skills.
+4+ years of relevant work experience.
+Relevant educational background
+Hands-on experience or exposure to React and/or other JavaScript Frameworks would be a plus
+Experience/exposure in working with D365 or other CRM suite of products is a plus

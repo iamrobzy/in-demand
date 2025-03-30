@@ -1,0 +1,45 @@
+Who is Nexxen?
+
+Flexible advertising, unified by data. Nexxen empowers advertisers, agencies, publishers and broadcasters around the world to utilize data and advanced TV in the ways that are most meaningful to them. Our flexible and unified technology stack comprises a demand-side platform (“DSP”) and supply-side platform (“SSP”), with the Nexxen Data Platform at its core. With a global footprint, you can be part of a team that is transforming advertising through our creative, flexible and unified solutions.
+
+Why join the Nexxen team?
+
+With a global footprint, you can be part of a team that is transforming advertising through our creative, flexible and unified solutions. Employees hustle, commit and dedicate themselves to pillars that make up the Nexxen Way – the 3Cs - Customer Centric, Curious Mindset, Collaborative with No Ego.
+
+The Role
+
+The Sr. Machine Learning Engineer will join our Applied Data Science group, part of Nexxen DSP Software Development. In this hands-on role, you will work in close collaboration with data scientists to build the next generation of applied data science infrastructure for real-time performance optimization and machine learning solutions. The right person for this role should be experienced in crafting implementation for either machine learning technologies or data-driven algorithms. If you are someone who is proactive and innovative in these domains, this is a phenomenal role for you!
+
+What You Will Do 
+
+Develop critical high-performance, large-scale services for Nexxen DSP Programmatic integrations and Platform product 
+Drive ground-breaking innovation and apply state of the art AI and machine learning in a variety of areas to enhance real-time ad scoring and ranking system for bid optimization 
+Invent and iterate novel solutions for complex ad challenges with fast turnaround. 
+Lead the ad algorithm architecture design and iteration of the advertising system. 
+Develop scalable and efficient approaches for large scale data analysis and model development. 
+Build and experiment new algorithms and models end-to-end, from production rollout to continuous optimization. 
+Collaborate with data scientists, engineering teams, product managers, and program managers in an open and creative environment. 
+Help troubleshoot production and customer issues. 
+Follow agile methodologies and work in a fast-paced environment where one can quickly see the results of the work being performed. 
+Who You Are 
+
+Bachelors in Computer science or related field of study 
+5+ years of engineering experience working at leading technology companies. 
+A history of successfully taking ownership of features/functionality and delivering end-to-end project 
+Strong knowledge of and experience implementing AI/ML technologies, mathematics, and statistics. 
+Expertise in Java, Python, and Scala. 
+In-depth knowledge of data structures and algorithms. 
+Practical experience working with large NoSQL databases like Aerospike and Cassandra. 
+Interest in ad campaign optimization and iterative model updates. 
+Experience building applications on top of large scale ML/DL frameworks (TensorFlow, PyTorch). 
+Expertise working with data processing tech stack (Spark, MapReduce). 
+Expertise in building data-driven services and applications (ETL). 
+Experienced with interdisciplinary collaborations with Data Science, Product, and Business stakeholders. 
+A proven track record of thriving in a fast-paced, data-driven, and collaborative work environment is required. 
+Strong communication skills with an ability to communicate complex concepts to non-technical stakeholders. 
+Desired Qualifications 
+
+MS or PhD in computer science or equivalent experience. 
+Experience within AdTech industry. 
+Experience in LLM and GenAI. 
+In support of pay transparency and equity, the minimum and maximum full-time annual base salary for this role in New York is $180,000 - $220,000 at the time of posting. While this is our reasonable expectation this is not a guarantee of compensation or salary, actual compensation is influenced by a wide range of factors including but not limited to skill set, level of experience, education, certifications, responsibility, and geographic location. Candidates hired to work in other locations will be subject to the pay range associated with that location. We offer a variety of benefits including medical, dental, vision, disability insurance, 401(k), EAP, parental leave, discretionary time off, and company-paid holidays. The specific programs and options available will vary depending on the state, start date, and employment type. Our Talent Acquisition team will be happy to answer any questions you may have.

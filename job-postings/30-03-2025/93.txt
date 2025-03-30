@@ -1,0 +1,80 @@
+About
+
+Overview
+
+Own Your Future.
+
+Modern Technology Solutions, Inc. (MTSI), is seeking an MBSE/Aerospace Engineer in Niceville, FL.
+
+Why is MTSI known as a Great Place to Work?
+
+Modern Technology Solutions, Inc. (MTSI) is a 100% employee-owned engineering services and solutions company that provides high-demand technical expertise in Digital Transformation, Modeling and Simulation, Rapid Capability Development, Test and Evaluation, Artificial Intelligence, Autonomy, Cybersecurity and Mission Assurance.
+
+Interesting Work: Our co-workers support some of the most important and critical programs to our national defense and security.
+Values: Our first core value is that employees come first. We challenge our co-workers to provide the highest level of support and service, and reward them with some of the best benefits in the industry.
+100% Employee Ownership: we have a stake in each other's success, and the success of our customers. It's also nice to know what's going on across the company; we have company wide town-hall meetings three times a year.
+Great Benefits - Most Full-Time Staff Are Eligible for:
+Starting PTO accrual of 20 days PTO/year + 10 holidays/year
+Flexible schedules
+6% 401k match with immediate vesting
+Semi-annual bonus eligibility (July and December)
+Company funded Employee Stock Ownership Plan (ESOP) - a separate qualified retirement account
+Up to $10,000 in annual tuition reimbursement
+Other company funded benefits, like life and disability insurance
+Optional zero deductible Blue Cross/Blue Shield health insurance plan
+Track Record of Success: We have grown every year since our founding in 1993
+
+MTSI delivers capabilities to solve problems of global importance. Founded in 1993, MTSI today has employees at over 20 offices and field sites worldwide.
+
+For more information about MTSI, please visit www.mtsi-va.com.
+
+Responsibilities
+
+Support the identification of Artificial Intelligence and Machine Learning technologies and their potential application to DoD and Commercial customers
+Support proposal development for DoD and Commercial opportunities
+Explore and understand AI/ML developments and emerging AI-related technologies to understand how they can be integrated into current and potential projects
+Participate in peer/technical reviews for developed AI/ML concepts and software
+Follow established software development best-practices for open architecture, safety, security and information assurance/cyber security
+Follow established regulations, policies, and standards to ensure AI/ML applications are safe, reliable, and robust
+Work within a diverse team to develop and integrate AI/ML new and novel concepts
+Communicate highly technical problems and solutions at all levels of management
+
+Qualifications
+
+B.S. (or higher) in computer science, data science, engineering, math, statistics, operations research or related field.
+Three or more years of experience applying AI/ML concepts to practical DoD or Commercial applications to include algorithm design and implementation within code
+Practical programming experience using Python or C++
+Ability to obtain a security clearance
+
+Desired Qualifications
+
+Current secret (or higher) security clearance
+Experience implementing eveloping Kubernetes YAML files and deploying Kubernetes/Istio objects
+CompTIA Security+
+AWS Certified
+Familiar with the DoD RAI Toolkit and the DoD Task Force Lima GenAI Guidelines and Guardrails
+Experience with Java and Java Script
+
+Please Note: U.S. Citizenship is required for most MTSI positions.
+
+Nice-to-have skills
+
+Artificial Intelligence
+Machine Learning
+Python
+C++
+Kubernetes
+AWS
+Java
+JavaScript
+Oklahoma, United States
+
+Work experience
+
+Machine Learning
+Fullstack
+Site Reliability (SRE)
+
+Languages
+
+English

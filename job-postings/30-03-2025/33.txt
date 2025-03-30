@@ -1,0 +1,61 @@
+About the Digital Business Unit at IndusInd:
+
+The mandate of the Digital Business Unit at IndusInd Bank is as follows:
+Building customer centric products with human centered design principles for retail Individual and micro, small and medium enterprise (MSME) customer segments
+Build innovative products and propositions backed with problem solving mindset to discover and solve latent needs of customers
+Build Embedded Finance (Banking as a Service) applications
+Ensure designs are highly available, highly modular, highly scalable and highly secure
+Drive digital business
+
+
+Some of the applications managed by the Digital Business Unit include IndusMobile (bank’s mobile app for retail individual clients), Indusnet (net banking application of the bank), IndusMerchantSolutions app, Whatsapp Banking, Chatbots, easycredit for Individuals, easycredit for Business Owners, savings, current account and fixed deposit online platforms. There are many more innovative digital products and solutions in pipeline.
+
+The unit’s objectives are three fold – (a) Drive better customer experience and engagement (b) transform existing lines of businesses and (c) build new digital only or banking as a service led digital business models
+
+
+
+About the Role:
+We are looking for a highly capable machine learning engineer to optimize our machine learning systems. You will be evaluating existing machine learning (ML) processes, performing statistical analysis to resolve data set problems, and enhancing the accuracy of our AI software's predictive automation capabilities.
+
+
+
+Job Responsibilities:
+Mandatory Skills:
+Design, develop, and implement end-to-end machine learning systems, including data pre-processing, feature engineering, model training and evaluation, and deployment
+Create and own cloud native API to deploy ML Models
+Exploring big data, developing and maintaining ML pipelines for internal stakeholders
+2-4 years of experience in data analysis and data manipulation
+Knowledge of cloud environments (AWS, Azure etc.) for data handling
+Know-how of Databricks, H2ODriverless or MLOPs environment is a good to have
+Advocating the application of best practices in code hygiene and code reviews
+Work in a cross-functional team of Machine Learning engineers and Data scientists to lead the design and development of large scale batch and real-time ML Services
+Design, implement and deploy large scale data pipelines (both real time and batch) and back-end services
+Find and advocate for Industry standards and best practices in machine learning engineering methodologies, techniques and technologies
+
+
+Must have coding requirements:
+Hands-on work experience on advance level of Python, Scala, SQL and big data interfaces - PySpark, Hadoop etc.
+
+
+
+Other required skills:
+Good know-how of Machine Learning algorithms, other statistical models and feature engineering
+Collaborate with data scientists, software engineers, and business stakeholders to identify opportunities to apply machine learning to improve business outcomes
+Participate in code and design reviews, and contribute to the development of best practices and standards for the machine learning team
+Automate campaigns in a scalable manner to optimize compute and infrastructure cost
+
+
+Education, Work Experience, Key Skill Set Requirements:
+Bachelor's or Master's degree in quantitative fields and computational discipline (like Computer Science, Data Science, Informatics) or a related field from Tier 1,2 college
+2+ years of experience in machine learning, data science, or a related field
+Strong programming skills in Python, PySpark and experience with popular machine learning libraries such as TensorFlow, PyTorch, or scikit-learn
+Excellent written and verbal communication skills, with the ability to effectively communicate technical concepts to non- technical stakeholders
+A proactive problem-solver with excellent communication and collaboration skills
+Financial industry experience is a good to have
+
+
+
+Selection Process:
+Interested Candidates are mandatorily required to apply through the listing on Jigya. Only applications received through Jigya will be evaluated further.
+Shortlisted candidates may need to appear in an Online Assessment and/or a Technical Screening interview administered by Jigya, on behalf on IndusInd Bank
+Candidates selected after the screening rounds will be processed further by IndusInd Bank

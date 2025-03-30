@@ -1,0 +1,26 @@
+Lensa is the leading career site for job seekers at every stage of their career. Our client, Intuit Inc, is seeking professionals in New York, NY. Apply via Lensa today!
+
+Overview
+
+Intuit is looking for a highly motivated and experienced Principal Software Engineer to join the AI Synapse team. Our charter is to build AI/Machine Learning solutions for Intuit’s suite of financial products that drive quantifiable customer benefit through the state-of-the-art Large Language Models (LLMs) and Multimodal Language Models. You will be part of a vibrant team of Data Scientists and Data Engineers and will be responsible for leading the design, development, and deployment of end-to-end systems that solve challenging problems in the space of document comprehension, LLM training (including prompt engineering, fine tuning, etc.), and multimodal data understanding.
+
+What you'll bring
+
+MS / Ph.D. in Computer Science with focus on Machine Learning / Artificial Intelligence; equivalent experience will be considered. 
+10+ years of experience developing and deploying machine learning based solutions in production environments. 
+Strong Computer Science fundamentals including data structures, algorithms, performance complexity, and implications of computer architecture on software performance (e.g., I/O, memory tuning). 
+Expertise in programming languages like Python, Java, or Scala and modeling frameworks like TensorFlow, Pytorch. 
+
+How you will lead
+
+Lead the design, implementation, and deployment of end-to-end Machine Learning based systems for solving challenging problems like document comprehension, embedding Intuit’s domain expertise in fine tuned LLMs, and multimodal data understanding. 
+Architect systems for curating large amounts of representative training data, building robust model training and evaluation frameworks, and deploying models in production to drive quantifiable customer benefits. 
+Accelerate the pace of innovation by building quick prototypes for experimentation and scaling successful prototypes into deployed production systems. 
+Create a multi-year tech roadmap that enables our team to stay on the leading edge of the rapidly evolving Artificial Intelligence landscape and leverage the best in class technologies to deliver customer benefits. 
+Drive key architectural decisions and contribute to Intuit’s ML platform architecture and strategy. 
+Champion technical excellence and operational rigor. 
+Mentor junior team mates helping them to grow their skills and expertise. 
+
+Intuit provides a competitive compensation package with a strong pay for performance rewards approach. The expected base pay range for this position is New York $245,500 - $332,500, Bay Area California $247,500-335,000, Southern California $233,000-315,000. This position will be eligible for a cash bonus, equity rewards and benefits, in accordance with our applicable plans and programs (see more about our compensation and benefits at Intuit®: Careers | Benefits) (https://www.intuit.com/careers/benefits/full-time-employees/) . Pay offered is based on factors such as job-related knowledge, skills, experience, and work location. To drive ongoing pay equity for employees, Intuit conducts regular comparisons across categories of ethnicity and gender.
+
+EOE AA M/F/Vet/Disability. Intuit will consider for employment qualified applicants with criminal histories in a manner consistent with requirements of local law.

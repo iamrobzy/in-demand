@@ -1,0 +1,26 @@
+About
+
+Waymo is an autonomous driving technology company with the mission to be the most trusted driver. Since its start as the Google Self-Driving Car Project in 2009, Waymo has focused on building the Waymo Driver-The World's Most Experienced Driver-to improve access to mobility while saving thousands of lives now lost to traffic crashes. The Waymo Driver powers Waymo One, a fully autonomous ride-hailing service, and can also be applied to a range of vehicle platforms and product use cases. The Waymo Driver has provided over one million rider-only trips, enabled by its experience autonomously driving tens of millions of miles on public roads and tens of billions in simulation across 13+ U.S. states. The ML Platform team builds tools & infra that empower all ML Engineers at Waymo to experiment & deploy ML models efficiently. These systems include solutions for data mining, data labeling, data understanding, model evaluation, artifacts management, ML orchestration, and ML Ops. We are looking for a senior leader to join our team to apply ML into our product offerings, making Waymo to be more efficient in deploying ML solutions. You Will: Report into the Head of ML Platform Bring state-of-the-art ML techniques into products within Waymo's ML Platform by collaborating with others in the team Collaborate with ML practitioners on models for perception, behavior prediction and planner to understand their modeling needs to shape the solutions Example project: reinvent model evaluation at Waymo through model calibration techniques. More specifically, by calibrating the confidence score of Waymo's ML models, this will provide a more scalable way of estimating the performance of the models. By coupling this score with active learning techniques, this creates a flywheel in selecting data in improving the models autonomously.
+
+You Have: 8+ years of professional experience in the field of software engineering Experience in programming C++ or Python Experience with ML model development Experience in applying ML solutions to products Passionate about development efficiency & productivity
+
+Nice To Have: Experience in building internal toolings for ML developers Experience using open source computer vision models such as YOLO and SAM
+
+The expected base salary range for this full-time position across US locations is listed below. Actual starting pay will be based on job-related factors, including exact work location, experience, relevant training and education, and skill level. Your recruiter can share more about the specific salary range for the role location or, if the role can be performed remote, the specific salary range for your preferred location, during the hiring process. Waymo employees are also eligible to participate in Waymo's discretionary annual bonus program, equity incentive plan, and generous Company benefits program, subject to eligibility requirements. Salary Range $238,000—$302,000 USD
+
+Nice-to-have skills
+
+C++
+Python
+Computer Vision
+California, United States
+
+Work experience
+
+Data Engineer
+Fullstack
+Machine Learning
+
+Languages
+
+English

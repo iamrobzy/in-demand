@@ -1,0 +1,70 @@
+Lensa is the leading career site for job seekers at every stage of their career. Our client, Amazon, is seeking professionals in Seattle, WA. Apply via Lensa today!
+
+Description
+
+The Generative AI Innovation Center at AWS empowers customers to harness state of the art AI technologies for transformative business opportunities. Our multidisciplinary team of strategists, scientists, engineers, and architects collaborates with customers across industries to fine-tune and deploy customized generative AI applications at scale. Additionally, we work closely with foundational model providers to optimize AI models for Amazon Silicon, enhancing performance and efficiency.
+
+As an Software Development Engineer (SDE) on our team, you will drive the development of custom Large Language Models (LLMs) across languages, domains, and modalities. You will be responsible for fine-tuning state-of-the-art LLMs for diverse use cases while optimizing models for high-performance deployment on AWS’s custom AI accelerators. This role offers an opportunity to innovate at the forefront of AI, tackling end-to-end LLM training pipelines at massive scale and delivering next-generation AI solutions for top AWS clients.
+
+Key job responsibilities
+
+Large-Scale Training Pipelines: Design and implement distributed training pipelines for LLMs using tools such as Fully Sharded Data Parallel (FSDP) and DeepSpeed, ensuring scalability and efficiency
+LLM Customization & Fine-Tuning: Adapt LLMs for new languages, domains, and vision applications through continued pre-training, fine-tuning, and Reinforcement Learning with Human Feedback (RLHF)
+Model Optimization on AWS Silicon: Optimize AI models for deployment on AWS Inferentia and Trainium, leveraging the AWS Neuron SDK and developing custom kernels for enhanced performance
+Customer Collaboration: Interact with enterprise customers and foundational model providers to understand their business and technical challenges, co-developing tailored generative AI solutions
+
+A day in the life
+
+As You Design And Code Solutions To Help Our Team Drive Efficiencies In Software Architecture, You’ll Create Metrics, Implement Automation And Other Improvements, And Resolve The Root Cause Of Software Defects. You’ll Also
+
+Build high-impact Gen AI solutions to deliver to our large customer base 
+Participate in design discussions, code review, and communicate with internal and external stakeholders 
+Work cross-functionally to help drive business solutions with your technical input 
+Work in a startup-like development environment, where you’re always working on the most important stuff 
+
+About The Team
+
+ABOUT AWS:
+
+Diverse Experiences
+
+Amazon values diverse experiences. Even if you do not meet all of the preferred qualifications and skills listed in the job description, we encourage candidates to apply. If your career is just starting, hasn’t followed a traditional path, or includes alternative experiences, don’t let it stop you from applying.
+
+Why AWS
+
+Amazon Web Services (AWS) is the world’s most comprehensive and broadly adopted cloud platform. We pioneered cloud computing and never stopped innovating — that’s why customers from the most successful startups to Global 500 companies trust our robust suite of products and services to power their businesses.
+
+Work/Life Balance
+
+We value work-life harmony. Achieving success at work should never come at the expense of sacrifices at home, which is why we strive for flexibility as part of our working culture. When we feel supported in the workplace and at home, there’s nothing we can’t achieve in the cloud.
+
+Inclusive Team Culture
+
+Here at AWS, it’s in our nature to learn and be curious. Our employee-led affinity groups foster a culture of inclusion that empower us to be proud of our differences. Ongoing events and learning experiences, including our Conversations on Race and Ethnicity (CORE) and AmazeCon (gender diversity) conferences, inspire us to never stop embracing our uniqueness.
+
+Mentorship and Career Growth
+
+We’re continuously raising our performance bar as we strive to become Earth’s Best Employer. That’s why you’ll find endless knowledge-sharing, mentorship and other career-advancing resources here to help you develop into a better-rounded professional.
+
+Basic Qualifications
+
+3+ years of non-internship professional software development experience 
+2+ years of non-internship design or architecture (design patterns, reliability and scaling) of new and existing systems experience 
+Experience programming with at least one software programming language 
+Hands-on experience with deep learning and/or machine learning methods (e.g. for training, fine tuning, and inference) 
+Hands-on experience with generative AI technology 
+
+Preferred Qualifications
+
+3+ years of full stack development experience 
+Bachelor's degree in computer science or equivalent 
+Graduate degree (MS or PhD) in computer science, engineering, mathematics or related technical/scientific field 
+1+ years of experience hands-on experience with developing, deploying, or optimizing machine learning models using a recognized ML library or framework 
+
+Amazon is committed to a diverse and inclusive workplace. Amazon is an equal opportunity employer and does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, or other legally protected status.
+
+Los Angeles County applicants: Job duties for this position include: work safely and cooperatively with other employees, supervisors, and staff; adhere to standards of excellence despite stressful conditions; communicate effectively and respectfully with employees, supervisors, and staff to ensure exceptional customer service; and follow all federal, state, and local laws and Company policies. Criminal history may have a direct, adverse, and negative relationship with some of the material job duties of this position. These include the duties and responsibilities listed above, as well as the abilities to adhere to company policies, exercise sound judgment, effectively manage stress and work safely and respectfully with others, exhibit trustworthiness and professionalism, and safeguard business operations and the Company’s reputation. Pursuant to the Los Angeles County Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.
+
+Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.
+
+Our compensation reflects the cost of labor across several US geographic markets. The base pay for this position ranges from $129,300/year in our lowest geographic market up to $223,600/year in our highest geographic market. Pay is based on a number of factors including market location and may vary depending on job-related knowledge, skills, and experience. Amazon is a total compensation company. Dependent on the position offered, equity, sign-on payments, and other forms of compensation may be provided as part of a total compensation package, in addition to a full range of medical, financial, and/or other benefits. For more information, please visit https://www.aboutamazon.com/workplace/employee-benefits . This position will remain posted until filled. Applicants should apply via our internal or external career site.

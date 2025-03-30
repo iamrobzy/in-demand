@@ -1,0 +1,72 @@
+Lensa is the leading career site for job seekers at every stage of their career. Our client, Amazon, is seeking professionals in Pasadena, CA. Apply via Lensa today!
+
+Description
+
+The AWS Center for Quantum Computing (CQC) is hiring a Machine Learning Engineer to develop optical defect detection ML models. You will build ML-driven solutions that enhance our quality assurance processes and accelerate our device manufacturing pipeline. You will work closely with other Software Development Engineers and Research Scientists from our fabrication team.
+
+Key job responsibilities
+
+Develop and maintain platforms for developing, evaluating, and deploying machine learning models for real-world applications. 
+Quickly acquire knowledge of emerging technologies in Generative AI to solve complex problems in the data exploration domain. 
+Work directly with scientists and engineers to understand their data and propose frameworks for ingesting it to produce actionable metrics. 
+Implementation of design proposals in a logical and maintainable manner. Taking ownership over the stability and quality of the software stack by identifying, proposing, and implementing features that will accelerate our realization of quantum computing technologies. 
+
+We are looking for candidates with strong engineering principles, resourcefulness, a bias for action, superior problem-solving skills, and excellent communication skills. Candidates should also possess a genuine curiosity and readiness to grasp the domain knowledge of our research scientists. Working effectively within a team environment is essential. As a software engineer embedded in a research organization, you will have the opportunity to work on new ideas and contribute to the development of fault-tolerant quantum computers.
+
+Example Projects Include
+
+Develop an optical defect detection & classification ML vision model 
+Establishing an active learning pipeline that improves model performance using human feedback 
+
+About The Team
+
+You will be joining the Device Lifecycle software development team within the AWS Center of Quantum Computing. Our team is comprised of software engineers who are building software that enables scaling up quantum computing technologies.
+
+Why AWS?
+
+Amazon Web Services (AWS) is the world’s most comprehensive and broadly adopted cloud platform. We pioneered cloud computing and never stopped innovating — that’s why customers from the most successful startups to Global 500 companies trust our robust suite of products and services to power their businesses.
+
+AWS Utility Computing (UC) provides product innovations — from foundational services such as Amazon’s Simple Storage Service (S3) and Amazon Elastic Compute Cloud (EC2), to consistently released new product innovations that continue to set AWS’s services and features apart in the industry. As a member of the UC organization, you’ll support the development and management of Compute, Database, Storage, Internet of Things (Iot), Platform, and Productivity Apps services in AWS. Within AWS UC, Amazon Dedicated Cloud (ADC) roles engage with AWS customers who require specialized security solutions for their cloud services.
+
+Inclusive Team Culture
+
+Here at AWS, it’s in our nature to learn and be curious. Our employee-led affinity groups foster a culture of inclusion that empower us to be proud of our differences. Ongoing events and learning experiences, including our Conversations on Race and Ethnicity (CORE) and AmazeCon (gender diversity) conferences, inspire us to never stop embracing our uniqueness.
+
+Diverse Experiences
+
+AWS values diverse experiences. Even if you do not meet all of the qualifications and skills listed in the job description, we encourage candidates to apply. If your career is just starting, hasn’t followed a traditional path, or includes alternative experiences, don’t let it stop you from applying.
+
+Mentorship & Career Growth
+
+We’re continuously raising our performance bar as we strive to become Earth’s Best Employer. That’s why you’ll find endless knowledge-sharing, mentorship and other career-advancing resources here to help you develop into a better-rounded professional.
+
+Work/Life Balance
+
+We value work-life harmony. Achieving success at work should never come at the expense of sacrifices at home, which is why we strive for flexibility as part of our working culture. When we feel supported in the workplace and at home, there’s nothing we can’t achieve in the cloud.
+
+Export Control Requirement
+
+Due to applicable export control laws and regulations, candidates must be either a U.S. citizen or national, U.S. permanent resident (i.e., current Green Card holder), or lawfully admitted into the U.S. as a refugee or granted asylum, or be able to obtain a US export license. If you are unsure if you meet these requirements, please apply and Amazon will review your application for eligibility.
+
+Basic Qualifications
+
+Experience working in production ML environments, including deploying computer vision models into production environments. 
+Experience developing automation to solve problems at scale 
+3+ years of non-internship professional software development experience 
+2+ years of non-internship experience in system design, including design patterns, reliability and scaling aspects 
+
+Preferred Qualifications
+
+MSc or PhD in a STEM discipline 
+3+ years of full software development life cycle experience, including coding standards, code reviews, source control management, build processes, testing, and operations. 
+Experience working with scientists in a research environment 
+Experience with Infrastructure as Code (IaC) tools such as Terraform, Cloudformation or AWS Cloud Development Kit (CDK) 
+Experience deploying and maintaining Retrieval-Augmented Generation (RAG) models with generative AI in a production environment 
+
+Amazon is committed to a diverse and inclusive workplace. Amazon is an equal opportunity employer and does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, or other legally protected status.
+
+Los Angeles County applicants: Job duties for this position include: work safely and cooperatively with other employees, supervisors, and staff; adhere to standards of excellence despite stressful conditions; communicate effectively and respectfully with employees, supervisors, and staff to ensure exceptional customer service; and follow all federal, state, and local laws and Company policies. Criminal history may have a direct, adverse, and negative relationship with some of the material job duties of this position. These include the duties and responsibilities listed above, as well as the abilities to adhere to company policies, exercise sound judgment, effectively manage stress and work safely and respectfully with others, exhibit trustworthiness and professionalism, and safeguard business operations and the Company’s reputation. Pursuant to the Los Angeles County Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.
+
+Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.
+
+Our compensation reflects the cost of labor across several US geographic markets. The base pay for this position ranges from $129,300/year in our lowest geographic market up to $223,600/year in our highest geographic market. Pay is based on a number of factors including market location and may vary depending on job-related knowledge, skills, and experience. Amazon is a total compensation company. Dependent on the position offered, equity, sign-on payments, and other forms of compensation may be provided as part of a total compensation package, in addition to a full range of medical, financial, and/or other benefits. For more information, please visit https://www.aboutamazon.com/workplace/employee-benefits . This position will remain posted until filled. Applicants should apply via our internal or external career site.

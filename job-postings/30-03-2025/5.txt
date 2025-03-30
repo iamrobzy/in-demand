@@ -1,0 +1,14 @@
+Company Description
+EET Global is a leading global wholesaler of hotels and travel services, providing a vast inventory of travel products to travel agencies, tour operators, and web service XML. With comprehensive travel products and services, EET Global aims to exceed expectations, build strong partnerships, deliver outstanding customer service, and be prepared for future travel through continuous innovation.
+
+Role Description
+This is a full-time on-site role for a Machine Learning Engineer at EET Global in Cairo, Egypt. The Machine Learning Engineer will be responsible for developing and implementing machine learning models, working on pattern recognition, neural networks, statistics, algorithms, and computer science to enhance the company's travel products and services.
+
+Qualifications
+Pattern Recognition and Neural Networks skills
+Statistics and Algorithms knowledge
+Background in Computer Science
+Experience in developing and implementing machine learning models
+Strong analytical and problem-solving skills
+Excellent communication and teamwork abilities
+Master's degree or PhD in Computer Science, Machine Learning, or related field

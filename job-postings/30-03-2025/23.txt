@@ -1,0 +1,96 @@
+Lensa is the leading career site for job seekers at every stage of their career. Our client, Pacific Northwest National Laboratory, is seeking professionals in Hartford, CT. Apply via Lensa today!
+
+Overview
+
+The Physical and Computational Sciences Directorate (PCSD) researchers lead major R&D efforts in experimental and theoretical interfacial chemistry, chemical analysis, high energy physics, interfacial catalysis, multifunctional materials, and integrated high-performance and data-intensive computing.
+
+PCSD is PNNL’s primary steward for research supported by the Department of Energy’s Offices of Basic Energy Sciences, Advanced Scientific Computing Research, and Nuclear Physics, all within the Department of Energy's Office of Science.
+
+Additionally, Directorate staff perform research and development for private industry and other government agencies, such as the Department of Defense and NASA. The Directorate's researchers are members of interdisciplinary teams tackling challenges of national importance that cut across all missions of the Department of Energy
+
+Responsibilities
+
+The Future technology Computing group seeks Undergraduate interns for the summer of 2025 with background in distributed Machine learning training and inference, modern C/C++ programming, and cluster and job scheduling performance characterization and modeling. The duration of the internship is 3 months. The internship can be either remote or onsite based on the availability of the candidate. The candidate will be taught to use world leading technologies which are available at the Pacific Northwest National Laboratory. Moreover, the candidate will collaborate closely with domain scientists and computer scientists. The expected outcome involves peer reviewed publication.
+
+Responsibilities And Accountabilities
+
+Evaluating the performance of distributed machine learning models and frameworks 
+Evaluating state-of-the-art compiler optimizations for machine learning models and frameworks 
+
+Qualifications
+
+Minimum Qualifications:
+
+Candidates must have a high school diploma /GED or higher 
+Candidates must be degree-seeking undergraduate students enrolled at an accredited college or university 
+Candidates must be taking at least 6 credit hours and have an overall cumulative GPA of 2.50 
+
+Preferred Qualifications
+
+Parallel programming experience (e.g., pthreads, OpenMP, MPI, CUDA) 
+Some familiarity with compiler frameworks (e.g., MLIR, LLVM, TVM, XLA) 
+Research experience preferred 
+
+Hazardous Working Conditions/Environment
+
+Not Applicable
+
+Testing Designated Position
+
+This is not a Testing Designated Position (TDP)
+
+About PNNL
+
+Pacific Northwest National Laboratory (PNNL) is a world-class research institution powered by a highly educated, diverse workforce committed to the values of Integrity, Creativity, Collaboration, Impact, and Courage. Every year, scores of dynamic, driven people come to PNNL to work with renowned researchers on meaningful science, innovations and outcomes for the U.S. Department of Energy and other sponsors; here is your chance to be one of them!
+
+At PNNL, you will find an exciting research environment and excellent benefits including health insurance, and flexible work schedules. PNNL is located in eastern Washington State—the dry side of Washington known for its stellar outdoor recreation and affordable cost of living. The Lab’s campus is only a 45-minute flight (or ~3 hour drive) from Seattle or Portland, and is serviced by the convenient PSC airport, connected to 8 major hubs.
+
+Commitment to Excellence and Equal Employment Opportunity
+
+Our laboratory is committed to fostering a work environment where all individuals are treated with fairness and respect while solving critical challenges in fundamental sciences, national security, and energy resiliency. We are an Equal Employment Opportunity employer.
+
+Pacific Northwest National Laboratory considers all applicants for employment without regard to race, religion, color, sex (including pregnancy, sexual orientation, and gender identity), national origin, age, disability, genetic information (including family medical history), protected veteran status, and any other status or characteristic protected by federal, state, and/or local laws.
+
+We are committed to providing reasonable accommodations for individuals with disabilities and disabled veterans in our job application procedures and in employment. If you need assistance or an accommodation due to a disability, contact us at careers@pnnl.gov .
+
+Drug Free Workplace
+
+PNNL is committed to a drug-free workplace supported by Workplace Substance Abuse Program (WSAP) and complies with federal laws prohibiting the possession and use of illegal drugs.
+
+Security, Credentialing, And Eligibility Requirements
+
+In accordance with Homeland Security Presidential Directive 12 (HSPD-12) and Department of Energy (DOE) Order 473.1A, new employees are required to obtain and maintain a HSPD-12 Personal Identity Verification (PIV) Credential. To obtain this credential, new employees must successfully complete and pass a Federal Tier 1 background check investigation. This investigation includes a declaration of illegal drug activities, including use, supply, possession, or manufacture within the last year. This includes marijuana and cannabis derivatives, which are still considered illegal under federal law, regardless of state laws.
+
+For Foreign National Candidates
+
+If you have not resided in the U.S. for three consecutive years, you are not eligible for the PIV credential and instead will need to obtain a favorable Local Site Specific Only (LSSO)risk determination to maintain employment. Once you meet the three-year residency requirement, you will be required to obtain a PIV credential to maintain employment.
+
+Mandatory Requirements
+
+Please be aware that the Department of Energy (DOE) prohibits DOE employees and contractors from having any affiliation with the foreign government of a country DOE has identified as a “country of risk” without explicit approval by DOE and Battelle. If you are offered a position at PNNL and currently have any affiliation with the government of one of these countries, you will be required to disclose this information and recuse yourself of that affiliation or receive approval from DOE and Battelle prior to your first day of employment.
+
+Rockstar Rewards
+
+Regular Hourly
+
+Employees are offered an employee assistance program and business travel insurance. Employees are eligible for the company funded pension plan and 401k savings plan, once eligibility requirements are met.
+
+Temporary Hourly
+
+Employees are offered an employee assistance program and business travel insurance.
+
+Click Here For Rockstar Rewards (https://careers.pnnl.gov/rockstar-rewards)
+
+Notice to Applicants
+
+PNNL lists the full pay range for the position in the job posting. Starting pay is calculated from the minimum of the pay range and actual placement in the range is determined based on an individual’s relevant job-related skills, qualifications, and experience. This approach is applicable to all positions, with the exception of positions governed by collective bargaining agreements and certain limited-term positions which have specific pay rules.
+
+As part of our commitment to fair compensation practices, we do not ask for or consider current or past salaries in making compensation offers at hire. Instead, our compensation offers are determined by the specific requirements of the position, prevailing market trends, applicable collective bargaining agreements, pay equity for the position type, and individual qualifications and skills relevant to the performance of the position.
+
+Minimum Salary
+
+USD $16.25/Hr.
+
+Maximum Salary
+
+USD $26.00/Hr.

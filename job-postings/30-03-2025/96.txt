@@ -1,0 +1,29 @@
+About
+
+Description & Requirements
+
+Qualifications
+
+Implement the technical strategy to support our research roadmap, exploring frontier technologies to shape the future of Sports Gaming. Work with the research team to support experiments with tooling and platforms, and data acquisition and management. Facilitate the sharing of results through prototypes and compelling interactive demonstrations. Stay abreast of the latest advancements in relevant technologies and propose impactful projects to inspire creativity. Collaborate with game teams to understand their technical needs and build strategies to scale and integrate new discoveries. Collaborate with a diverse range of partners, including research, engineering, and game development teams. Your Qualifications:
+
+Please read the following job description thoroughly to ensure you are the right fit for this role before applying. Electronic Arts creates next-level entertainment experiences that inspire players and fans around the world. Here, everyone is part of the story. Part of a community that connects across the globe. A place where creativity thrives, new perspectives are invited, and ideas matter. A team where everyone makes play happen. EA SPORTS revolutionizes the world of gaming by driving transformational change in how games are made and played. At EA SPORTS, everyone contributes to crafting the future of entertainment, building a community where creativity and innovation thrive. The EA SPORTS Catalyst Research and Innovation Team is dedicated to pioneering research that propels the gaming industry forward. We aim to redefine the gaming experience by integrating innovative technologies and exploring new paradigms in game development. We focus on forward-looking experimentation and harness the latest technology to uncover what makes games fun for humans. As a Machine Learning Engineer, reporting to the Director of Technology, you will build the framework and tools necessary to drive our research strategy and innovation roadmap. You will work alongside our researchers to streamline their research and bring our innovations to life. Your mission is to redefine what is possible in gameplay by taking our team's research from concept to reality; empower experimentation, scaling up new discoveries, and contributing to a strategy that brings the future of gaming to life at EA SPORTS. This role is open to remote candidates. Your Responsibilities:
+
+BS in Computer Science, mathematics or related field, or equivalent experience. Strong technical background, experience working with both research engineering and game development, and a proven track record of delivery. 3+ years of experience with AI and machine learning, their relevant tools and platforms, and its application in gaming. Expertise turning new ideas into effective implementations. In the US, we offer a package of benefits including paid time off (3 weeks per year to start), 80 hours per year of sick time, 16 paid company holidays per year, 10 weeks paid time off to bond with baby, medical/dental/vision insurance, life insurance, disability insurance, and 401(k) to regular full-time employees. Certain roles may also be eligible for bonus and equity. In British Columbia, we offer a package of benefits including vacation (3 weeks per year to start), 10 days per year of sick time, paid top-up to EI/QPIP benefits up to 100% of base salary when you welcome a new child (12 weeks for maternity, and 4 weeks for parental/adoption leave), extended health/dental/vision coverage, life insurance, disability insurance, retirement plan to regular full-time employees. Certain roles may also be eligible for bonus and equity. About Electronic Arts We’re proud to have an extensive portfolio of games and experiences, locations around the world, and opportunities across EA. We value adaptability, resilience, creativity, and curiosity. From leadership that brings out your potential, to creating space for learning and experimenting, we empower you to do great work and pursue opportunities for growth. We take a holistic approach with our benefits program, focusing on physical, emotional, financial, career, and community wellness to support a balanced life with paid time off and new parent leave, plus free games and so much more. We nurture environments where our teams can always bring their best to what they do. Electronic Arts is an equal opportunity employer. All employment decisions are made without regard to race, color, national origin, ancestry, sex, gender, gender identity or expression, sexual orientation, age, genetic information, religion, disability, medical condition, pregnancy, marital status, family status, veteran status, or any other characteristic protected by law. We will also consider employment qualified applicants with criminal records in accordance with applicable law. EA also makes workplace accommodations for qualified individuals with disabilities as required by applicable law.
+
+#J-18808-Ljbffr
+
+Nice-to-have skills
+
+Machine Learning
+Game Development
+Prototyping
+California, United States
+
+Work experience
+
+Machine Learning
+Gaming
+
+Languages
+
+English

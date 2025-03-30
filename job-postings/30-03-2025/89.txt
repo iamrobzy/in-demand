@@ -1,0 +1,14 @@
+Company Description
+AirLabOne is transforming laboratory infrastructure with intelligent digital twin technology. Through dedicated R&D, we are paving the way for the future of connected laboratories, unlocking unprecedented possibilities for innovation, efficiency, and collaboration in the lab sector.
+
+Role Description
+This is a contract role for a Machine Learning Engineer located in Sydney, NSW. The engineer will be responsible for developing and implementing machine learning models, conducting data analysis, and contributing to algorithm design as part of an intelligent system. The ideal candidate will have strong programming skills, experience with modern ML frameworks, and the ability to work both independently and within a collaborative team environment.
+
+Qualifications
+Strong background in machine learning and model development
+Proficiency in Python and frameworks such as TensorFlow and PyTorch
+Experience with data analysis, ML pipelines, and edge deployment is a plus
+Excellent problem-solving and analytical skills
+Ability to work independently and in a collaborative team setting
+Master’s degree or higher in Computer Science, Machine Learning, or related field
+Familiarity with cloud computing platforms (e.g., AWS) is a plus

@@ -1,0 +1,72 @@
+Lensa is the leading career site for job seekers at every stage of their career. Our client, Norstella, is seeking professionals in Concord, NH. Apply via Lensa today!
+
+Software Engineering / Machine Learning Intern
+
+Company: Norstella
+
+Location: Remote, United States
+
+Date Posted: Mar 25, 2025
+
+Employment Type: Intern
+
+Job ID: R-1045
+
+Description
+
+At Norstella, our mission is simple: to help our clients bring life-saving therapies to market quicker—and help patients in need. Founded in 2022, but with history going back to 1939, Norstella unites best-in-class brands to help clients navigate the complexities at each step of the drug development life cycle —and get the right treatments to the right patients at the right time.
+
+Each Organization (Citeline, Evaluate, MMIT, Panalgo, The Dedham Group) Delivers Must-have Answers For Critical Strategic And Commercial Decision-making. Together, Via Our Market-leading Brands, We Help Our Clients
+
+Citeline – accelerate the drug development cycle
+Evaluate – bring the right drugs to market
+MMIT – identify barrier to patient access
+Panalgo – turn data into insight faster
+The Dedham Group – think strategically for specialty therapeutics
+
+By combining the efforts of each organization under Norstella, we can offer an even wider breadth of expertise, cutting-edge data solutions and expert advisory services alongside advanced technologies such as real-world data, machine learning and predictive analytics. As one of the largest global pharma intelligence solution providers, Norstella has a footprint across the globe with teams of experts delivering world class solutions in the USA, UK, The Netherlands, Japan, China and India.
+
+The Role
+
+Develop and enhance web applications using Next.js, JavaScript, and RESTful APIs to support internal and external tools. 
+Build and optimize backend services, handling large-scale pharmaceutical datasets efficiently. 
+Contribute to AI and data science projects—this may include experimenting with ML models, NLP, or data extraction techniques. 
+Work closely with experienced engineers to design and implement new features, ensuring performance and scalability. 
+Participate in code reviews, debugging, and performance tuning to improve application reliability.Gain hands-on exposure to cloud technologies and modern software engineering practices. 
+We’re looking for passionate problem-solvers with a strong foundation in software development and an interest in data-driven applications. 
+
+Requirements
+
+Currently pursuing a degree in Computer Science, Software Engineering, or a related field. 
+Basic understanding of frontend and backend development. 
+Strong problem-solving skills and ability to write clean, efficient code. 
+Eager to learn and collaborate in a fast-paced environment. 
+
+Nice To Have
+
+Interest or experience in AI, machine learning, or data science. 
+Exposure to Python and SQL and cloud technologies (AWS) 
+Proficiency in JavaScript, Next.js, and RESTful API development. 
+Familiarity with Docker, CI/CD, or data engineering concepts. 
+
+Our Guiding Principles For Success At Norstella
+
+01: Bold, Passionate, and Mission-First
+
+02: Integrity, Truth, and Reality
+
+03: Kindness, Empathy, and Grace
+
+04: Resilience, Mettle, and Perseverance
+
+05: Humility, Gratitude, and Learning
+
+Please Note - All candidates must be authorized to work in the United States. We do not provide visa sponsorship or transfers. We are not currently accepting candidates who are on an OPT visa.
+
+Norstella is an equal opportunity employer. All job applicants will receive equal treatment regardless of race, creed, color, religion, alienage or national origin, ancestry, citizenship status, age, physical or mental disability or handicap, medical condition, sex (including pregnancy and pregnancy-related conditions), marital or domestic partner status, military or veteran status, gender, gender identity or expression, sexual orientation, genetic information, reproductive health decision making, or any other protected characteristic as established by federal, state, or local law.
+
+Sometimes the best opportunities are hidden by self-doubt. We disqualify ourselves before we have the opportunity to be considered. Regardless of where you came from, how you identify, or the path that led you here- you are welcome. If you read this job description and feel passion and excitement, we’re just as excited about you.
+
+All legitimate roles with Norstella will be posted on Norstella’s job board which is located at norstella.com/careers. If a role is not posted on this job board, a candidate should assume the role is not a legitimate role with Norstella. Norstella is not responsible for an application that may be submitted by or through a third-party and candidates should proceed with extreme caution if a third-party approaches them about an open role with Norstella. Norstella will never ask for anything of value or any type of payment during or as part of any recruitment, interview, or pre-hire onboarding process. If you are aware of or have reason to believe a job posting purportedly for a role with Norstella is fraudulent or otherwise not authorized by Norstella, please contact the Company using the following email address: [email protected] .
+
+Norstella is an equal opportunity employer. All job applicants will receive equal treatment regardless of race, creed, color, religion, alienage or national origin, ancestry, citizenship status, age, physical or mental disability or handicap, medical condition, sex (including pregnancy and pregnancy-related conditions), marital or domestic partner status, military or veteran status, gender, gender identity or expression, sexual orientation, genetic information, reproductive health decision making, or any other protected characteristic as established by federal, state, or local law.

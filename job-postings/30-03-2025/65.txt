@@ -1,0 +1,54 @@
+Company Summary
+
+Lila Sciences is a privately held, early-stage technology company pioneering the application of artificial intelligence to transform every aspect of the scientific method. Lila is backed by Flagship Pioneering, which brings the courage, long-term vision, and resources needed to realize unreasonable results. Join our mission-driven team and contribute to the future of science.
+
+Our Life Sciences effort is leveraging AI and high-throughput automation for valuable therapeutic discovery and development across biological modalities.
+
+At Lila, we are uniquely cross-functional and collaborative. We are actively reimagining the way teams work together and communicate. Therefore, we seek individuals with an inclusive mindset and a diversity of thought. Our teams thrive in unstructured and creative environments. All voices are heard because we know that experience comes in many forms, skills are transferable, and passion goes a long way.
+
+If this sounds like an environment you’d love to work in, even if you only have some of the experience listed below, please apply.
+
+Sr. Program Manager, Machine Learning
+
+Lila Sciences is an early-stage seed company at the forefront of AI/ML research, and we’re looking for a Program Manager who can help lead our pioneering ML efforts. In this role, you will bridge the gap between cutting-edge research and program execution, ensuring our machine learning initiatives not only meet our current experimental needs but also lay the groundwork for a transformative future.
+
+Key Responsibilities:
+
+Guide the overarching ML program, ensuring strategic alignment and translating research insights into actionable initiatives. 
+Evaluate and integrate emerging technologies to shape and refine program objectives in a dynamic environment. 
+Lead technical projects, ensuring the robustness and scalability of the technology stack while aligning with organizational goals. 
+Manage and maintain data quality and relevance, collaborating across teams to set and monitor performance metrics. 
+Serve as the key interface between technical and business teams, effectively communicating complex outcomes and securing necessary resources. 
+Implement best practices for rapid experimentation and iteration, facilitating efficient and agile program progression. 
+Develop clear documentation and reporting to communicate vision, progress, and align initiatives with organizational priorities. 
+Foster a culture of continuous innovation and experimentation by staying informed about AI/ML advancements and recommending strategic improvements. 
+
+Qualifications:
+
+Bachelor’s or Master’s degree in Computer Science, Engineering, or a related field, with a strong focus on AI/ML technologies. 
+Proven experience in program management within research-driven or early-stage environments. 
+Familiarity with ML frameworks and data management tools, with a track record of translating complex research into strategic program initiatives. 
+Strong analytical and problem-solving skills, with the ability to turn technical requirements into actionable program roadmaps. 
+Excellent organizational and communication skills, with experience leading cross-functional teams and driving programs to successful completion. 
+
+Preferred Qualifications:
+
+A proactive leader passionate about transforming research insights into tangible program value. 
+Skilled at managing both technical and operational aspects of early-stage program development, ensuring alignment with strategic business objectives. 
+Enthusiastic about emerging technologies and experienced in driving rapid experimentation and program iteration. 
+
+Working at Lila, you would have access to advanced technology in the areas of:
+
+AI experimental design and simulation
+Automated custom instrumentation
+Generative molecular and material design
+
+More About Flagship Pioneering
+
+Flagship Pioneering is a biotechnology company that invents and builds platform companies, each with the potential for multiple products that transform human health or sustainability. Since its launch in 2000, Flagship has originated and fostered more than 100 scientific ventures, resulting in more than $90 billion in aggregate value. Many of the companies Flagship has founded have addressed humanity’s most urgent challenges: vaccinating billions of people against COVID-19, curing intractable diseases, improving human health, preempting illness, and feeding the world by improving the resiliency and sustainability of agriculture. Flagship has been recognized twice on FORTUNE’s “Change the World” list, an annual ranking of companies that have made a positive social and environmental impact through activities that are part of their core business strategies, and has been twice named to Fast Company’s annual list of the World’s Most Innovative Companies. Learn more about Flagship at www.flagshippioneering.com.
+
+Flagship Pioneering and our ecosystem companies are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity, or Veteran status.
+
+At Flagship, we recognize there is no perfect candidate. If you have some of the experience listed above but not all, please apply anyway. Experience comes in many forms, skills are transferable, and passion goes a long way. We are dedicated to building diverse and inclusive teams and look forward to learning more about your unique background.
+
+Recruitment & Staffing Agencies: Flagship Pioneering and its affiliated Flagship Lab companies (collectively, “FSP”) do not accept unsolicited resumes from any source other than candidates. The submission of unsolicited resumes by recruitment or staffing agencies to FSP or its employees is strictly prohibited unless contacted directly by Flagship Pioneering’s internal Talent Acquisition team. Any resume submitted by an agency in the absence of a signed agreement will automatically become the property of FSP, and FSP will not owe any referral or other fees with respect thereto.

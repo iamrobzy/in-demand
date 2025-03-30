@@ -1,0 +1,51 @@
+Lensa is the leading career site for job seekers at every stage of their career. Our client, META, is seeking professionals in Baton Rouge, LA. Apply via Lensa today!
+
+Summary
+
+Meta Platforms, Inc. (Meta), formerly known as Facebook Inc., builds technologies that help people connect, find communities, and grow businesses. When Facebook launched in 2004, it changed the way people connect. Apps and services like Messenger, Instagram, and WhatsApp further empowered billions around the world. Now, Meta is moving beyond 2D screens toward immersive experiences like augmented and virtual reality to help build the next evolution in social technology. To apply, click “Apply to Job” online on this web page.
+
+Required Skills
+
+Software Engineer (Machine Learning) Responsibilities:
+
+Research, design, develop, and test operating systems-level software, compilers, and network distribution software for massive social data and prediction problems. 
+Have industry experience working on a range of ranking, classification, recommendation, and optimization problems, e.g. payment fraud, click-through or conversion rate prediction, click-fraud detection, ads/feed/search ranking, text/sentiment classification, collaborative filtering/recommendation, or spam detection. 
+Working on problems of moderate scope, develop highly scalable systems, algorithms and tools leveraging deep learning, data regression, and rules based models. 
+Suggest, collect, analyze and synthesize requirements and bottleneck in technology, systems, and tools. 
+Develop solutions that iterate orders of magnitude with a higher efficiency, efficiently leverage orders of magnitude and more data, and explore state-of-the-art deep learning techniques. 
+Receiving general instruction from supervisor, code deliverables in tandem with the engineering team. 
+Adapt standard machine learning methods to best exploit modern parallel environments (e.g. distributed clusters, multicore SMP, and GPU). 
+Telecommuting is permitted from anywhere in the U.S. 
+
+Minimum Qualifications
+
+Minimum Qualifications: 
+
+Requires a Master's Degree (Foreign equivalent accepted) in Computer Science, Engineering, Applied Sciences, Mathematics, Physics, or related field and 1 year of experience in the job offered or related occupation. 
+Requires 12 months of experience involving the following skills: 
+Machine Learning Framework(s): PyTorch, MXNet, or Tensorflow
+Machine learning, recommendation systems, computer vision, natural language processing, data mining, or distributed systems
+Translating insights into business recommendations
+Hadoop/HBase/Pig or MapReduce/Sawzall/Bigtable/Spark
+Developing and debugging in C/C++ and Java
+Scripting languages such as Perl, Python, PHP, or shell scripts
+C, C++, C#, or Java
+Python, PHP, or Haskell
+Relational databases and SQL
+Software development tools: Code editors (VIM or Emacs), and revision control systems (Subversion, GIT, or Perforce)
+Linux, UNIX, or other *nix-like OS as evidenced by file manipulation, advanced commands, and shell scripting
+Build highly-scalable performant solutions
+Data processing, programming languages, databases, networking, operating systems, computer graphics, or human-computer interaction
+Applying algorithms and core computer science concepts to real world systems as evidenced by recognizing and matching patterns from different areas of computer science in production systems and
+Distributed systems.
+Public Compensation
+
+$192,668/year to $240,240/year + bonus + equity + benefits
+
+Industry: Internet
+
+Equal Opportunity
+
+Meta is proud to be an Equal Employment Opportunity and Affirmative Action employer. We do not discriminate based upon race, religion, color, national origin, sex (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender, gender identity, gender expression, transgender status, sexual stereotypes, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics. We also consider qualified applicants with criminal histories, consistent with applicable federal, state and local law. Meta participates in the E-Verify program in certain locations, as required by law. Please note that Meta may leverage artificial intelligence and machine learning technologies in connection with applications for employment.
+
+Meta is committed to providing reasonable accommodations for candidates with disabilities in our recruiting process. If you need any assistance or accommodations due to a disability, please let us know at accommodations-ext@fb.com.

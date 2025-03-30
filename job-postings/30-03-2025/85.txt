@@ -1,0 +1,20 @@
+About
+
+We are excited to announce an opportunity with one of our Series A investment partners that is on the lookout for an expert in Model Performance, Inference, and High-Performance Computing. This position offers flexibility for full-time remote work. Key Qualifications: 5+ years of professional experience in C++, with at least 1 year focused on ML Inference and Model Performance. Strong proficiency in GPU Architectures and proven CUDA programming skills are highly desired. Important:
+
+Due to the high volume of applications we often receive, only candidates selected for potential matches will receive follow-up communication. About Our Team: As full-time, salaried employees of Greylock, we operate without any associated fees. Our team specializes in providing free candidate referrals and introductions to our active investments, continually expanding our network of talent.
+
+Nice-to-have skills
+
+C++
+California, United States
+
+Work experience
+
+Machine Learning
+Cyber Security Specialist
+Cloud Architect
+
+Languages
+
+English

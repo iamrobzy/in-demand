@@ -1,0 +1,45 @@
+About
+
+Lead Machine Learning Engineer, Associate Director
+
+All potential candidates should read through the following details of this job with care before making an application. Requisition ID: 47815 Business Unit: Fitch Group Category: Information Technology Location: Chicago, IL, US Date Posted: Mar 20, 2025 Fitch Group is currently seeking a Lead Machine Learning Engineer, Associate Director based out of our Chicago office. The Fitch Group's AI Implementation Chapter is seeking a dynamic Lead Machine Learning Engineer with 6+ years of experience, including leadership and people management. This role involves designing AI/ML solutions and ensuring implementation of AI initiatives across the Fitch Ratings organization. You will manage a team of 2-3 engineers, blending hands-on technical work with leadership responsibilities, while collaborating with product squads, business partners, and cross-functional teams to integrate advanced AI solutions into flagship Fitch Ratings products and workflows. The AI Chapter’s team objectives: Implement AI & ML technology in collaboration with Fitch Ratings business partners and product squads Develop and support enterprise-level AI exploration tools and capabilities Provide guidance for efficient and secure development and deployment of AI Establish and maintain guidelines and processes for AI/ML governance How You’ll Make an Impact: Lead and manage a team of 2-3 machine learning engineers, balancing direct leadership with technical contributions to projects Oversee the design, development, and deployment of scalable AI/ML solutions, focusing on advanced generative AI frameworks, large language models, and agentic workflows Mentor and develop junior engineers, ensuring best practices in coding, architectural design, and project execution Drive projects and strategic initiatives, ensuring the integration of ML solutions into existing workflows by collaborating with product squads and business stakeholders Develop robust, production-quality software artifacts using Python and large-scale data workflow orchestration platforms (e.g., Airflow), while managing team resources & timelines Leverage expertise in cloud computing platforms (AWS and Azure) to build and optimize AI infrastructure Champion ML governance, ensuring adherence to guidelines, monitoring SLAs, and enhancing AI solutions’ performance and reliability Translate complex data science and ML concepts for technical and non-technical audiences, fostering alignment across distributed teams Design and develop APIs (e.g. using FastAPI) for integration and deployment of ML models and solutions. You May be a Good Fit if: 6+ years of professional experience as an AI/ML engineer, with a strong record of delivering production-quality solutions. Experience managing and mentoring technical teams, with the ability to lead people and technical strategy. Extensive experience in developing and integrating advanced generative AI and ML solutions into existing products and systems. Proficiency in Python and strong knowledge of ML algorithms, ranging from classical techniques to deep learning methods. Experience in training, fine-tuning, and deploying neural network models using frameworks like PyTorch. Expertise in containerization (e.g., Docker, Kubernetes, AWS EKS) and building scalable systems in cloud environments. Deep understanding of software development fundamentals, including automated testing, source version control, and code optimization. Excellent communication and collaboration skills, with the ability to interact effectively with both technical teams and business stakeholders. Bachelor’s degree in machine learning, computer science, data science, applied mathematics, or a related field (Master’s or higher is strongly preferred). What Would Make You Stand Out: A track record of successfully leading project initiatives and shaping technical strategies through effective team management. Familiarity with credit ratings agencies, industry regulations, and financial data products. Experience developing/integrating functionality for Document and Content Management Systems. Ability to support prototyping teams for seamless transitions from prototype to development and deployment. Passion for leveraging data and ML to drive meaningful business outcomes while fostering a collaborative team environment. Proven ability to integrate AI solutions into broader workflows and projects through cross-functional team collaboration Why Choose Fitch: Hybrid Work Environment:
+
+2 to 3 days a week in office required based on your line of business and location A Culture of Learning & Mobility:
+
+Dedicated Trainings, Leadership Development And Mentorship Programs Designed To Ensure That Your Time At Fitch Will Be a Continuous Learning Opportunity Investing In Your Future
+
+Retirement planning and tuition reimbursement programs that empower you to achieve your short and long-term goals Promoting Health & Wellbeing:
+
+Comprehensive healthcare offerings that enable physical, mental, financial, social, and occupational wellbeing Supportive Parenting Policies:
+
+Family-friendly Policies, Including a Generous Global Parental Leave Plan, Designed To Help You Balance Career And Family Life Effectively Inclusive Work Environment
+
+A collaborative workplace where all voices are valued, with Employee Resource Groups that unite and empower our colleagues around the globe Dedication to Giving Back:
+
+Paid volunteer days, matched funding for donations and ample opportunities to volunteer in your community
+
+#J-18808-Ljbffr
+
+Nice-to-have skills
+
+Machine Learning
+Python
+AWS
+Azure
+PyTorch
+Docker
+Kubernetes
+Cloud Computing
+Neural Networks
+Deep Learning
+Illinois, United States
+
+Work experience
+
+Machine Learning
+Embedded
+CTO / Head of Technology
+
+Languages
+
+English

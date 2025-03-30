@@ -1,0 +1,29 @@
+Company Description
+As a venture-backed startup, we are pioneering the next generation of autonomous driving with AI-Defined Vehicles - a leap beyond the latest software-defined vehicles. Our mission is to build the world's most intelligent autonomous vehicle that caters to your every need, before you even know it. 
+
+We are looking for a Sr. Machine Learning Engineer to develop and optimize cutting-edge autonomy. If you have industry experience and are passionate about pushing the boundaries of machine learning, LLM/VLMs, and autonomous systems, we want you on our team.
+
+Role Description
+Develop, fine-tune, and optimize deep learning systems for autonomy, perception, and decision-making.
+Research and implement multi-modal AI systems, combining vision, language, and reinforcement learning.
+Enhance self-supervised and semi-supervised learning methods for training models on large-scale driving data.
+Collaborate with software, simulation, and cloud engineering teams to deploy ML models into production-grade autonomy stacks.
+Design and maintain scalable data pipelines for ingesting and processing sensor fusion data (LiDAR, radar, cameras).
+Optimize model inference for real-time performance on embedded and cloud-based platforms.
+Conduct model evaluations, performance tuning, and failure analysis to improve robustness and generalization.
+
+Qualifications
+Ph.D. or Master's degree in machine learning, computer science, statistics, controls or a related field. 
+3+ years of experience in machine learning, deep learning, or AI engineering.
+Expertise in LLM/VLM model architectures, training techniques, and fine-tuning.
+Strong background in autonomous systems, reinforcement learning, or robotics.
+Hands-on experience with computer vision for perception tasks (e.g., object detection, segmentation, sensor fusion).
+Proficiency in Python, TensorFlow, PyTorch, and deep learning frameworks.
+Experience with AWS (S3, EC2, SageMaker, Lambda, etc.) for ML training and deployment.
+Knowledge of data engineering practices for large-scale ML pipelines.
+Strong algorithmic and problem-solving skills, with experience optimizing models for embedded and cloud-based environments.
+Experience working with autonomous driving stacks.
+Familiarity with distributed training, federated learning, and on-device AI optimization.
+Exposure to self-supervised learning, generative AI, and multi-modal architectures.
+Understanding of simulation environments for AI model validation.
+Knowledge of automotive systems and functional safety requirements is preferred.

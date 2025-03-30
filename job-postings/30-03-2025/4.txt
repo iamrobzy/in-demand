@@ -1,0 +1,23 @@
+Company
+Truxel is a leading energy optimisation platform that leverages cutting-edge data and AI technology to enhance the efficiency of renewable energy systems. Our platform integrates various energy sources, including solar, wind, battery storage, and EV chargers, to deliver seamless energy optimisation.
+
+Role Description
+We seek a talented senior ML engineer to help us overcome the toughest challenges in the electricity market and make a meaningful impact. It is a contract position for an initial six months with the possibility of an extension. Below are a few responsibilities for this profile.
+Perform data analysis and frame ML problem statements based on business requirements.
+Perform time-series analysis and develop forecasting models.
+Develop and implement mathematical optimisation solutions.
+Develop anomaly detection, predictive maintenance tools and other advanced ML/AI solutions.
+Deploy solutions to cloud infrastructure for near real-time predictions. (MLOps)
+
+Qualifications
+Minimum 5 years of industry experience with hands-on ML solution development.
+Strong background in statistics and time-series forecasting solutions.
+Experience with deep learning solutions for time series problems. (RL is a plus)
+Experience with deploying models in cloud infrastructure.
+Phthon, PyTorch & GCP/AWS.
+Ability to work collaboratively in a team environment.
+Excellent problem-solving and analytical skills.
+
+Unfortunately, we do not offer sponsorship for this role.
+The candidate must reside in Sweden.
+Start ASAP.

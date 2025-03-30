@@ -1,0 +1,43 @@
+About
+
+Xometry (NASDAQ: XMTR) powers the industries of today and tomorrow by connecting the people with big ideas to the manufacturers who can bring them to life. Xometry's digital marketplace gives manufacturers the critical resources they need to grow their business while also making it easy for buyers at Fortune 1000 companies to tap into global manufacturing capacity. Xometry
+
+is seeking a
+
+Principal Data & ML Scientist
+
+to join our Generative AI team. The ideal candidate will have a passion for advancing machine learning and generative AI capabilities, particularly for fine-tuning generative and language models, multimodal document understanding, and structured data extraction. This person will leverage their expertise in generative models and data science to develop and optimize innovative AI-driven solutions that enhance Xometry's service offerings. Responsibilities: Provide technical leadership to the Generative AI team, setting technical direction, defining best practices, and ensuring the team follows industry standards in AI and ML development. Lead strategic planning and roadmap development for generative AI initiatives, identifying high-impact projects and aligning them with Xometry's business objectives. Develop and deploy generative AI models and large language models (LLMs) for multimodal document processing, focusing on extracting structured data from technical drawings, purchasing orders, and other complex documents. Lead the exploration and development of innovative text and image-based data processing solutions, including training and fine-tuning generative and language models. Design and implement efficient workflows for data preparation, cleaning, and augmentation to support the training of generative AI models. Utilize cloud platforms (e.g., Amazon Web Services) for large-scale data processing, model training, and deployment. Collaborate with cross-functional teams, including engineering and business teams, to align generative AI solutions with business needs and drive impactful applications. Mentor and guide team members on advanced machine learning techniques, model architecture design, and problem-solving strategies to elevate the team's technical capabilities. Continuously experiment and iterate on model performance, tuning architectures and parameters to improve accuracy and efficiency in a fast-paced, agile environment. Stay updated with the latest research in generative AI, deep learning, and multimodal data processing, incorporating best practices and advancements into model development.
+
+Requirements: A bachelor's degree is required, but an advanced degree (M.S. or PhD) in computer science, machine learning, AI, or a related field is highly preferred. 7+ years of experience in data science and machine learning, focusing on generative models, LLMs, or computer vision. Expertise in large-scale language and vision models (e.g., Transformers, GPT, VLMs). Experience with multimodal data processing (e.g., combining text, image, and 3D data). Proficient in Python, including key libraries such as PyTorch, TensorFlow, pandas, and numpy. Strong background in probability, statistics, and optimization techniques relevant to generative modeling. Familiarity with cloud computing resources and tools for model training and deployment (e.g., AWS SageMaker). Familiar with software engineering principles, including version control, reproducibility, and continuous integration. Experience in the manufacturing, supply chain, or similar industries is a plus.
+
+Xometry is an equal opportunity employer. All applicants will be considered for employment without attention to race, color, religion, sex, sexual orientation, gender identity, national origin, veteran, or disability status. For US based roles: Xometry participates in E-Verify and after a job offer is accepted, will provide the federal government with your Form I-9 information to confirm that you are authorized to work in the U.S.
+
+Nice-to-have skills
+
+Machine Learning
+Data Science
+Strategic Planning
+Deployment
+Cross-functional Collaboration
+Mentoring
+Deep Learning
+Computer Science
+Computer Vision
+Python
+PyTorch
+TensorFlow
+Pandas
+Numpy
+Statistics
+Version Control
+Maryland, United States
+
+Work experience
+
+Machine Learning
+Data Engineer
+Data Scientist
+
+Languages
+
+English

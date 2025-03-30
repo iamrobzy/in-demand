@@ -1,0 +1,69 @@
+McKesson is an impact-driven, Fortune 10 company that touches virtually every aspect of healthcare. We are known for delivering insights, products, and services that make quality care more accessible and affordable. Here, we focus on the health, happiness, and well-being of you and those we serve – we care.
+
+What you do at McKesson matters. We foster a culture where you can grow, make an impact, and are empowered to bring new ideas. Together, we thrive as we shape the future of health for patients, our communities, and our people. If you want to be part of tomorrow’s health today, we want to hear from you.
+
+Current Need:
+
+The Machine Learning Engineer will support the development of an Enterprise MLOps Platform, designed to support, and streamline machine learning projects across various business units. This role involves leading the integration and engineering of state-of-the-art machine learning models, including large language models (LLMs) and pretrained models for text, image, video, and audio data. The successful candidate will provide expert consulting to business units, helping to deploy scalable and efficient AI solutions that drive significant business value.
+
+Responsibilities:
+
+Implement scalable and reliable systems to handle model inference at scale.
+Deploy and manage machine learning models in production environments.
+Work on containerization and orchestration solutions for model deployment.
+Participate in fast iteration cycles, and adapting to evolving project requirements
+Collaborate with ML scientists, software engineers, data engineers and other stakeholders to develop and implement best practices for MLOps, including CI/CD pipelines, version control, model versioning, and automated model deployment
+Collaborate with Engineering/DevOps teams to optimize infrastructure for machine learning workloads.
+Manage and monitor machine learning infrastructure, ensuring high availability and performance.
+Implement robust monitoring and logging solutions for tracking model performance and system health.
+Monitor real-time performance of deployed models, analyze performance data, and proactively identify and address performance issues to ensure optimal model performance.
+Troubleshoot and resolve production issues related to ML model deployment, performance, and scalability in a timely and efficient manner.
+Implement security best practices for machine learning systems.
+Ensure compliance with data protection and privacy regulations.
+Collaborate with DevOps engineers to effectively manage cloud compute resources for ML model deployment, monitoring, and performance optimization.
+Participate in the development of documentation, standard operating procedures, and guidelines related to MLOps processes, tools, and best practices.
+
+
+Minimum Requirements
+
+Degree or equivalent and typically requires 4+ years of relevant experience.
+
+Critical Skills
+
+Ability to work across the full stack and move fluidly between programming languages and MLOps technologies (e.g.: Python, Spark, R, DataBricks, Github, MLFlow, Airflow)
+Understanding of Azure stack like Azure Machine Learning, Azure Data Factory, Azure Databricks, Azure Kubernetes Service, Azure Monitor etc.
+Experience with cloud-based ML services like AutoML
+Experience with visualization technologies (e.g.: RShiny, Python DASH, Tableau, PowerBI) and familiarity with data privacy standards, methodologies, and best practices
+Experience in developing and maintaining APIs (e.g.: REST)
+Experience in development, deployment and operations of AI/ML modelling of complex datasets
+Expertise in Unix Shell scripting and Dependency driven job schedulers.
+
+
+Additional Skills
+
+Excellent communication and interpersonal skills, with the ability to engage and influence with technical teams, business leaders, and external partners.
+Positive and flexible attitude to enable adjusting to different needs in an ever-changing environment
+Demonstrated expertise in building and deploying AI/Machine Learning solutions at scale.
+Experience specifying infrastructure and Infrastructure as a code (e.g.: docker, Kubernetes, Terraform)
+Experience with data in the drug supply chain and commercial domain within healthcare, pharma is a plus
+Teams up and collaborates for speed, agility, delivery excellence and innovation
+Strong negotiation and decision-making skills
+
+
+Education:
+
+Bachelor’s or master’s degree in computer science, Data Science, Information Technology, or a related field OR equivalent experience
+
+Candidate must be authorized to work in the U.S, now or in the future, without the support from McKesson. 
+
+We are proud to offer a competitive compensation package at McKesson as part of our Total Rewards. This is determined by several factors, including performance, experience and skills, equity, regular job market evaluations, and geographical markets. The pay range shown below is aligned with McKesson's pay philosophy, and pay will always be compliant with any applicable regulations. In addition to base pay, other compensation, such as an annual bonus or long-term incentive opportunities may be offered. For more information regarding benefits at McKesson, please click here.
+
+Our Base Pay Range for this position
+
+$119,600 - $199,400
+
+McKesson is an Equal Opportunity Employer
+
+McKesson provides equal employment opportunities to applicants and employees and is committed to a diverse and inclusive environment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, protected veteran status, disability, age or genetic information. For additional information on McKesson’s full Equal Employment Opportunity policies, visit our Equal Employment Opportunity page.
+
+Join us at McKesson!

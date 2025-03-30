@@ -1,0 +1,41 @@
+Lensa is the leading career site for job seekers at every stage of their career. Our client, Amazon, is seeking professionals in Seattle, WA. Apply via Lensa today!
+
+Description
+
+Are you interested in a unique opportunity to advance the accuracy and efficiency of Artificial General Intelligence (AGI) systems? If so, you're at the right place! We are the AGI Finetuning organization, and we are looking for a driven and talented SDE to join us.
+
+As an SDE on our team, you will design, build, and maintain systems for evaluating our best-in-class models. You’ll also work closely with our Applied Scientists to develop tools that support our modeling and evaluation team.
+
+We operate at Amazon's large scale with the energy of a nimble start-up. If you have a learner's mindset, enjoy solving challenging problems, and value an inclusive team culture, you will thrive in this role, and we hope to hear from you.
+
+Key job responsibilities
+
+Develop and maintain key tooling for model evaluation. 
+Work closely with product teams, and scientists to to create new techniques and tooling around emerging research capabilities and evaluating models to meet customer needs. 
+Manage project prioritization, deliverables, timelines, and stakeholder communication. 
+Illuminate trade-offs, educate the team on best practices, and influence technical strategy. 
+Collaborate closely with Applied Scientists to investigate and plan experiments, prototype new technology, and evaluate technical feasibility. 
+Operate in a dynamic environment to deliver high quality software against aggressive schedules. 
+
+About The Team
+
+We are passionate engineers and scientists dedicated to pushing the boundaries of innovation. We evaluate and represent the customer perspective through accurate benchmarking.
+
+Basic Qualifications
+
+3+ years of non-internship professional software development experience 
+2+ years of non-internship design or architecture (design patterns, reliability and scaling) of new and existing systems experience 
+Experience programming with at least one software programming language 
+
+Preferred Qualifications
+
+3+ years of full software development life cycle, including coding standards, code reviews, source control management, build processes, testing, and operations experience 
+Bachelor's degree in computer science or equivalent 
+
+Amazon is committed to a diverse and inclusive workplace. Amazon is an equal opportunity employer and does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, or other legally protected status.
+
+Los Angeles County applicants: Job duties for this position include: work safely and cooperatively with other employees, supervisors, and staff; adhere to standards of excellence despite stressful conditions; communicate effectively and respectfully with employees, supervisors, and staff to ensure exceptional customer service; and follow all federal, state, and local laws and Company policies. Criminal history may have a direct, adverse, and negative relationship with some of the material job duties of this position. These include the duties and responsibilities listed above, as well as the abilities to adhere to company policies, exercise sound judgment, effectively manage stress and work safely and respectfully with others, exhibit trustworthiness and professionalism, and safeguard business operations and the Company’s reputation. Pursuant to the Los Angeles County Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.
+
+Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.
+
+Our compensation reflects the cost of labor across several US geographic markets. The base pay for this position ranges from $129,300/year in our lowest geographic market up to $223,600/year in our highest geographic market. Pay is based on a number of factors including market location and may vary depending on job-related knowledge, skills, and experience. Amazon is a total compensation company. Dependent on the position offered, equity, sign-on payments, and other forms of compensation may be provided as part of a total compensation package, in addition to a full range of medical, financial, and/or other benefits. For more information, please visit https://www.aboutamazon.com/workplace/employee-benefits . This position will remain posted until filled. Applicants should apply via our internal or external career site.

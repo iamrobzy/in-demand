@@ -1,0 +1,28 @@
+About
+
+Who We AreYieldmo is an advertising technology company that operates a smart exchange which differentiates and enhances the value of ad inventory for buyers and sellers. As a leader in contextual analytics, real time technology, and digital formats, we create, measure, model, and optimize campaigns for unmatched scale and performance. By understanding how each unique impression behaves and looking for patterns and performance in real time, we can drive real performance gains without relying on audience We NeedWe're looking for an experienced architect and engineering leader to spearhead our machine learning operations, with a focus on optimizing the deployment and management of ML models. You will design and implement systems to support our data science initiatives in a low latency high volume (500B - 1T transactions a day) production environment. You are experienced with the lifecycle of machine learning, data science, pipeline designs and have a deep understanding of how they can be deployed in a cloud based infrastructure. Ideally you would have worked as a data scientist for some years and decided your passion lies in the ML ops / data engineering side of data science. We currently have multiple implementations in place that we'd like to unify into a common framework to ensure security, support reusability, observability and to expedite the ability to make changes. You should be capable of implementation in addition to design. You will partner with our data scientists to set best practices, automate data science approaches, architect solutions, deploy and monitor production workloads.ResponsibilitiesArchitect, deploy, and manage a software framework to securely handle ML models in production-grade environmentsFacilitate seamless integration of ML models into operational pipelines between engineering and data scienceDesign, implement and maintain scalable, efficient ML pipelines on AWS and GCPDesign, implement, and maintain CI/CD pipelines to automate the continuous integration and delivery of ML modelsMonitor performance of ML models and implement improvementsEnsure high availability and fault tolerance of the ML infrastructureOptimize the performance and cost-efficiency of ML systemsMaintain and champion ML ops best practicesManage team of data / ML ops engineersRecruit, mentor and grow machine learning engineering teamContribute to and evolve our current data science initiatives around (cookieless targeting, format optimization, creative optimization, throttling, margin management)Requirements10+ years of experience with AWS or GCP. 10+ years of experience in software development with Python focused on ETL, ETL and pipeline work10+ years of experience working with large datasets (working with raw logs in the order of 200 - 250TB a day. Comfortable working with databases with tables ranging from 100's of billion to trillions of rows.)5+ years of experience working with data science technologies such as (Python, R, SQL, TensorFlow, PyTorch, scikit-learn, and Spark) as a data scientist5+ years with predictive analytics and developing optimization algorithms5+ years doing machine learning with high dimensionalityExperience working with AirflowExpert level understanding of SQL in Snowflake and MySQL environmentsExperience with Hadoop, Apache Hive, Apache Kafka, AWS (SageMaker), Google Cloud (BigQuery, Vertex AI)MS or equivalent combination of education and experienceAd tech experience (SSPs, DSPs, Analytics, DMPs, CDPs)Nice to HavesTensorflow, Scikit, Google Vertex AI experienceExposure to A/B testingComfortable reading code in JavaPerksHome office setup stipend1 Mental Escape (ME) days each monthLearning stipend and professional development opportunitiesWork life balance, flexible PTO and competitive compensation packagesUS Jobs: The base salary range for this role is: $250,000-$300,000 per year. The range listed is just one component of Yieldmo's total compensation package for employees. Individual compensation decisions are based on a number of factors, including experience, level, skillset, and balancing internal equity relative to peers at the company. We recognize that the person we hire may be less experienced (or more senior) than this job description as posted. In these situations, the updated salary range will be communicated with you as a candidate. For all other countries, we have competitive pay bands based on market standards.
+
+Nice-to-have skills
+
+AWS
+GCP
+Python
+ETL
+SQL
+TensorFlow
+PyTorch
+Scikit-learn
+Spark
+Hadoop
+MySQL
+New York, New York
+
+Work experience
+
+Data Engineer
+Data Infrastructure
+DevOps
+
+Languages
+
+English
