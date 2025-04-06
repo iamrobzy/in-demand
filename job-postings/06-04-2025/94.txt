@@ -1,0 +1,62 @@
+req4851
+
+Job Title: Machine Learning / Artificial Intelligence Intern
+
+FLSA Status: Non Exempt
+
+Department: R&D Engineering
+
+Reports to: Director of Emerging Technologies & IP
+
+GENERAL DESCRIPTION / PURPOSE:
+
+The Machine Learning / Artificial Intelligence Intern will assist in planning, researching, developing, and implementing new technologies for image processing and data analysis in the railroad industry. Duties will include all facets of product life cycle for prototype and production systems. Candidate will be required to work with internal and external stakeholders.
+
+ESSENTIAL DUTIES AND RESPONSIBILITIES:
+
+Functional & Technical Skills
+
+Develop and implement ML and CV algorithms for a variety of problems including classification, identification, and robotics
+Assist with planning and execution of software testing activities, as well as complex and challenging technical projects
+Participate in requirements gathering and evaluation methods for AI technologies and benchmark vendor technologies
+Aid in the design, build, and implementation of AI solutions for our proof of concepts and experiments
+Knowledge and hands-on expertise in deep neural network topologies such as convolutional nets, recurrent nets, RBMs, causal reasoning, probabilistic programming
+Evaluate positive and negative aspects of competing technologies from the perspective of both the solution provider and the customer
+Capabilities to manage large amounts of data including developing effective coding / scripting routines for automation of data management
+Passion for driving innovation in railroad environment that prioritizes safety, up-time, and daily production
+Collaborate with team members to automate railway maintenance equipment
+Deploying AI software to existing inspection systems operating in real-time environments
+Integrate cutting edge models into training and annotation pipeline
+
+
+BEHAVIORAL COMPETENCIES: 
+
+Action Oriented
+Passion for Results
+Problem Solving
+Peer Relationships
+Safety Awareness
+Technical Learning
+
+
+REQUIRED QUALIFICATIONS: To perform this job successfully, an individual must be able to perform each essential duty satisfactory. The requirements listed below are representative of the knowledge, skill, and/or ability required.
+
+Education and/or Experience: The individual must be pursuing a BS or higher degree in Engineering, or related field and shall have achieved junior status or higher. The individual shall also have completed the “core” coursework for his/her chosen discipline.
+
+Computer Skills: Solid computer skills consistent with the position requirements to include Microsoft Windows Office Suite, Python, PyTorch, OpenCV, Pandas; Linux, Docker, SQL, C# experience is a plus;
+
+Reasoning Ability: Ability to correctly make decisions involving issues/problems including when to escalate the problem to a more senior consultant.
+
+Physical Demands: The physical demands described here are representative of those that must be met by an employee to successfully perform the essential functions of this job. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions.
+
+While performing the duties of this job, the employee is frequently required to sit or kneel; use hands to finger, handle, or feel objects, tools, or controls; reach with hands and arms; and talk or hear. The employee must occasionally lift and/or move up to 25 pounds. Specific vision abilities required by this job include close vision, color vision, and the ability to adjust focus.
+
+Work Environment: The work environment characteristics described here are representative of those an employee encounters while performing the essential functions of this job. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions.
+
+While performing the duties of this job, the employee may frequently work near moving mechanical parts, in outside weather conditions and is frequently exposed to vibration. The employee is occasionally exposed to fumes or airborne particles and risk of electrical shock.
+
+The noise level in the work environment is usually moderate.
+
+Loram is an Equal Opportunity Employer and will make all employment-related decisions without regard to race, color, religion, creed, sex, sexual orientation, gender identity, national origin, age, disability, marital status, familial status, status with regard to public assistance, membership or activity in a local commission, protected veteran status, or any other status protected by applicable law. 
+
+REV August 2024

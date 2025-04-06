@@ -1,0 +1,26 @@
+About
+
+Join a forward-thinking engineering team that works remotely within a fast-paced, innovative environment at Capital One Shopping! We're on a mission to develop technologies that help our customers save money, and we invite you to be part of our exciting journey. As a Senior Machine Learning Engineer with us, you'll be a critical part of an agile team focused on scaling and deploying machine learning applications. Your responsibilities will encompass technical design, development, and implementation of machine learning systems with high performance and availability. You'll take the lead in machine learning architecture, review code, and mentor junior team members. Collaborate closely with product partners and contribute to the research of next-gen models and recommendation systems that deliver real value. Your toolkit will include technologies such as Docker, Nomad, SQL, Python, PyTorch, Transformers, and advanced statistical tools. This role offers a unique opportunity to make a significant impact within a collaborative environment that values innovation and creativity. Key Responsibilities: Collaborate with Product and Data Science teams to design and deliver ML models that address real-world business challenges. Utilize your understanding of ML modeling techniques to inform decisions on infrastructure, including model selection, data processing, and feature engineering. Develop application code and validate ML models while automating testing and deployment processes. Work within a cross-functional Agile team to enhance software capabilities for our big data and ML applications. Manage and monitor the retraining and maintenance of ML models in production. Leverage or develop cloud-based technologies for optimal ML model scalability. Construct efficient data pipelines to support ML model operations. Apply continuous integration and deployment practices to ensure reliable delivery of ML models and code. Ensure code management practices reduce vulnerabilities and that models adhere to standards of Responsible and Explainable AI. Use programming languages such as Python, Scala, or Java as part of your everyday work. Engage in designing and researching new models leveraging your data science expertise. Basic Qualifications: Bachelor's degree. Minimum 6 years of experience creating data-intensive solutions using distributed systems. At least 4 years of programming experience in Python, Scala, or Java. Minimum 2 years of experience in building and optimizing ML systems. Preferred Qualifications: Master's or doctoral degree in computer science, electrical engineering, mathematics, or similar field. 3+ years of experience building production-ready data pipelines for ML applications. 3+ years of practical experience with ML frameworks such as scikit-learn, PyTorch, Dask, Spark, or TensorFlow. 2+ years of experience in developing efficient and maintainable code. 2+ years of experience in data preparation for ML models. Please note: Capital One will not sponsor new applicants for employment authorization. The salary range for this position is as follows: Remote: $175,800 - $200,700. Richmond, VA: $175,800 - $200,700. This position is also eligible for performance-based incentives, including bonuses and long-term incentives. We offer a comprehensive benefits package to support your overall well-being. We encourage diverse candidates to apply and are committed to creating an inclusive environment. Capital One is an equal opportunity employer.
+
+Nice-to-have skills
+
+Docker
+SQL
+Python
+PyTorch
+Scala
+Java
+Scikit-learn
+Spark
+TensorFlow
+Virginia, United States
+
+Work experience
+
+Machine Learning
+Data Engineer
+Fullstack
+
+Languages
+
+English

@@ -1,0 +1,95 @@
+Ischool Connect is an innovative edtech company transforming the way students apply to international universities. We use cutting edge AI to provide personalized guidance from selecting the right institution to navigating the application process via a single application. Our mission is to simplify and enhance the student journey making higher education more accessible and stress-free. We also cater to educational institutions and organizations to streamline their end-to-end admission processes, enhance student enrollment experience and overall cost optimization.
+
+Job Description
+
+Designation: Senior Machine Learning Engineer
+
+Location: Borivali, Mumbai
+
+Reporting: CTO
+
+As a Lead Engineer for the Machine Learning Team you will lead the end-to-end
+
+project lifecycle, from initial concept to deployment. You will collaborate with
+
+cross-functional teams to build products. Your role also involves understanding client
+
+needs, translating requirements into technical specifications, and effectively
+
+communicating project progress and milestones.
+
+Responsibilities
+
+Take full ownership of the project lifecycle, from initial concept through to
+
+deployment and post-launch support.
+
+Coordinate with cross-functional teams, including software developers and QA
+
+engineers, to ensure seamless project execution.
+
+Design, architect, develop, and deploy cutting-edge machine learning models
+
+and APIs.
+
+Serve as the primary point of contact for clients, understanding their needs,
+
+expectations, and feedback.
+
+Communicate complex technical concepts to non-technical stakeholders
+
+effectively.
+
+Gather and analyze client requirements, translating them into technical
+
+specifications and project plans.
+
+Provide regular updates to clients on project status, deliverables, and any
+
+issues that arise.
+
+Define project milestones, deliverables, and timelines in collaboration with
+
+clients and internal stakeholders.
+
+Oversee the lifecycle of machine learning projects, ensuring they are delivered
+
+on time.
+
+Stay updated with the latest advancements in machine learning and data
+
+science, incorporating new techniques and tools as appropriate.
+
+Role Requirements
+
+
+
+4+ years of experience in the relevant industry, 3+ years of experience in
+
+Machine Learning & Deep Learning.
+
+Proficiency in Python and experience with machine learning libraries such as
+
+PyTorch/TensorFlow, Hugging Face Transformers, etc.
+
+Knowledge of software development best practices, version control systems
+
+(Git), and collaborative coding workflows and CI/CD.
+
+Experience building software with LLMs and utilizing RAGs, vector databases,
+
+and Langchain.
+
+Experience with MLOps practices and tools such as DVC or MLFlow for
+
+versioning, reproducibility, and observability.
+
+Experience with cloud platforms, primarily GCP and AWS, and
+
+containerization tools like Docker.
+
+Proficiency with Linux and shell scripting.
+Proficiency in performing Data Analytics using Looker.
+Excellent communication skills.
+Project planning and scheduling, time and risk management.
+Client interaction and communication.

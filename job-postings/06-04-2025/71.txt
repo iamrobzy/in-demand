@@ -1,0 +1,51 @@
+Fairmarkit is the #1 autonomous sourcing platform revolutionizing the way all organizations buy & sell. Fairmarkit equips procurement teams with automation, AI, and GenAI so they can source more competitively at scale. Our solutions for tail spend and strategic sourcing help innovative procurement teams reduce cycle times, drive out costs, meet ESG/Diversity targets, and provide a better stakeholder experience to internal partners and suppliers. Fairmarkit has been recognized with awards by organizations such as Gartner and IDC, and is backed by strategic investors like Notable Capital, Insight Partners, 1984.VC, and Newfund.
+
+Fairmarkit is the #1 autonomous sourcing platform revolutionizing the way all organizations buy & sell. Fairmarkit equips procurement teams with automation, AI, and GenAI so they can source more competitively at scale. Our solutions for tail spend and strategic sourcing help innovative procurement teams reduce cycle times, drive out costs, meet ESG/Diversity targets, and provide a better stakeholder experience to internal partners and suppliers. Fairmarkit has been recognized with awards by organizations such as Gartner and IDC, and is backed by strategic investors like Notable Capital, Insight Partners, 1984.VC, and Newfund.
+
+Role
+
+Fairmarkit is looking for a Senior Machine Learning Engineer to join our ML team and help build intelligent supplier recommendations. Our team develops the core recommendation system that connects buyers with the most relevant suppliers, making sourcing faster and more efficient. We also design the automation logic that powers procurement workflows, reducing manual effort and improving decision-making. Working closely with business and product teams, we tailor our models to customer needs while ensuring the system scales effectively as our platform grows.
+
+Responsibilities
+
+In this role, you will leverage our extensive spend data to build impactful ML solutions that enhance supplier recommendations and sourcing automation. Your responsibilities will include:
+
+Shaping ML strategy - Contribute to defining and executing the ML engineering strategy to improve recommendations.
+Building data pipelines - Identify valuable data sources, develop pipelines, and process data to enhance model performance.
+Developing & improving models - Train new ML models to refine existing algorithms and explore new approaches.
+Deploying & monitoring - Bring models to production, ensure stability, and monitor performance to drive continuous improvements.
+Ensuring quality & explainability - Design metrics to evaluate system effectiveness and develop tools that communicate model decisions to customers and stakeholders.
+Run A/B tests - Design experiments, define reliable metrics, and help shaping a structured evaluation system for model improvements.
+Collaborating with product teams - Work closely with business and product teams to translate customer needs into ML-driven solutions.
+Owning end-to-end development - Design, develop, and maintain scalable, high-performance ML systems that evolve with our growing platform.
+
+
+Requirements
+
+Hard skills:
+
+You are a results-oriented individual with proven experience in delivering ML/AI solutions in production.
+You have strong expertise in building Recommender Systems and working with NLP solutions.
+You excel at Python and have proficiency with any variant of SQL, and feel comfortable with the transformation workflows such as dbt and the big data stack like Spark.
+You have delivered production ML systems and conducted A/B tests.
+You are familiar with building FastAPI services for deploying ML models in a microservice architecture.
+You have managed and automated ML pipelines using orchestration tools like Argo Workflows or Airflow.
+You are a strong communicator who translates intuition into data-driven hypotheses and impactful engineering solutions.
+Bonus points if you are well-versed in the latest advancements in LLMs and generative AI.
+
+
+Soft skills:
+
+Excellent communication skills in English
+Data-driven mindset, using experimentation and customer feedback for decision-making
+Ability to plan strategically, accurately estimate workload, set priorities, and consistently meet deadlines.
+Commitment to continuous learning and staying updated on AI/ML advancements
+
+
+If you are passionate about making a significant impact through innovative ML/AI solutions and possess the required experience, we encourage you to apply to join our team.
+
+For this role we are looking for a candidate based in #Poland_TB
+
+Headquartered in Boston, and backed by a $35.6M Series C co-led by OMERS, Highland, Notable Capital, Insight Partners, and ServiceNow. We are looking for exceptional candidates who want to help grow our company into a global enterprise and make their mark on the B2B tech industry. Come soar to new heights with us!
+
+Fairmarkit is an equal opportunity employer, and selects individuals best matched for the job based upon job-related qualifications regardless of race, religion, color, creed, sex, sexual orientation, age, ancestry, national origin, gender identity, genetic information, disability, pregnancy, veteran or military status or any other status or characteristic protected by law.

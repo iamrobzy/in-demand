@@ -1,0 +1,69 @@
+Machine Learning (ML) Specialist - ( 2500001A )
+
+Description
+
+Grow with the best. Join a smart, creative, and inspired team that accomplishes operational excellence. Bringing together individuals with diverse backgrounds, talents, and expertise, our 31,000 team members in over 400 locations worldwide are vital to making our Company stronger.
+
+Your Opportunity
+
+Stantec’s Digital Center of Excellence has an opportunity for a Machine Learning (ML) Specialist with demonstrable contributions in fields such as transportation, ecosystem restoration, and energy that form a core component of Stantec’s expertise. Responsibilities will include building digital solutions by designing and implementing data and machine learning assets to benefit client projects and our own civil engineers. This role requires demonstrable knowledge of quantitative techniques in statistics and machine learning. The ideal candidate will have obtained a doctorate in one of the above fields.
+
+Your Key Responsibilities
+
+Design, develop, and deploy ML models leveraging scikit-learn, PyTorch, and Tensorflow.
+Support the Stantec Digital Center of Excellence in developing top-tier digital solutions.
+Implement reliable data and machine learning pipelines to support our assets and consulting efforts.
+Work with product managers to define the future development direction of our assets.
+Suggest, present, and implement latest architectural diagrams and computational approaches.
+Stay up-to-date with the latest advancements in machine learning and areas core to Stantec’s expertise.
+
+Qualifications
+
+Your Capabilities and Credentials
+
+Work well in a team environment without direct supervision and ability to productively work from home.
+Possess excellent time-management skills, thorough understanding of task assignment and schedule, budgeting and efficient use of time and available resources.
+Experience with Python.
+Experience using Azure DevOps and Atlassian products is preferred.
+Ability to communicate and coordinate with other team members and executives.
+Ability to clearly document recommended and implemented strategies.
+Proficient in quantitative techniques including statistics and machine learning.
+
+Education And Experience
+
+Master’s degree in engineering, computer science, or a related field; Doctorate preferred.
+3 years of combined experience working in a professional or academic role in consulting or on research projects relevant to Stantec’s core areas of expertise.
+
+Typical office environment working with computers and remaining sedentary for long periods of time. Field work may include exposure to the elements including inclement weather.
+
+This description is not a comprehensive listing of activities, duties or responsibilities that may be required of the employee and other duties, responsibilities and activities may be assigned or may be changed at any time with or without notice.
+
+Stantec is a place where the best and brightest come to build on each other’s talents, do exciting work, and make an impact on the world around us. Join us and redefine your personal best.
+
+Benefits Summary: Regular full-time and part-time employees will have access to health, dental, and vision plans, a well-being program, health care spending account, wellness spending accounts, group registered retirement savings plan, employee stock purchase program, group tax-free savings account, life and accidental death & dismemberment (AD&D) insurance, short-term/long-term disability plans, emergency travel benefits, tuition reimbursement, professional membership fee coverage, and paid time off.
+
+Temporary/casual employees will have access to group registered retirement savings plan, employee stock purchase program, and group tax-free savings account.
+
+The benefits information listed above may not apply to union positions because benefits for such positions are governed by applicable collective bargaining agreements.
+
+Primary Location : Canada-Ontario-Toronto
+
+Other Locations : Canada-Alberta-Edmonton, Canada-Alberta-Calgary, Canada-Manitoba-Winnipeg, Canada-Saskatchewan-Regina
+
+Organization : BC-1299 Innovation-CA Digital COE
+
+Employee Status : Regular
+
+Job Level : Individual Contributor
+
+Travel : No
+
+Schedule : Full-time
+
+Job Posting : Jan 9, 2025, 12:12:31 PM
+
+Req ID: 2500001A
+
+Stantec provides equal employment opportunities to all qualified employees and applicants for future and current employment and prohibit discrimination on the grounds of race, color, religion, sex, national origin, age, marital status, genetic information, disability, protected veteran status, sexual orientation, gender identity or gender expression. We prohibit discrimination in decisions concerning recruitment, hiring, referral, promotion, compensation, fringe benefits, job training, terminations or any other condition of employment. Stantec is in compliance with local, state and federal laws and regulations and ensures equitable opportunities in all aspects of employment. EEO including Disability/Protected Veterans
+
+Apply Now

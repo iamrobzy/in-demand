@@ -1,0 +1,18 @@
+This role is with RippleMatch's partner companies. RippleMatch partners with hundreds of companies looking to hire top talent.
+
+About RippleMatch
+
+RippleMatch is your AI-powered job matchmaker. Our platform brings opportunities directly to you by matching you with top employers and jobs you are qualified for. Tell us about your strengths and goals - we'll get you interviews! Leading employers such as eBay and Teach For America leverage RippleMatch to build diverse, high-performing teams and Gen Z job seekers across the country trust RippleMatch to launch and grow their careers.
+
+Requirements for the role
+
+Currently pursuing a Bachelor's or Master's degree in Computer Science, Data Science, Computer Engineering, Artificial Intelligence, or a related field.
+Strong foundation in machine learning concepts, algorithms, and applications.
+Proficiency in programming languages commonly used in machine learning such as Python, R, or Julia.
+Familiarity with machine learning frameworks and libraries (e.g., TensorFlow, PyTorch, Scikit-learn).
+Knowledge of data management and visualization tools.
+Ability to preprocess data, choose appropriate models, train models, and evaluate their performance.
+Strong mathematical background, especially in statistics, probability, and linear algebra.
+Good organizational and project management skills, with the ability to handle multiple tasks and complex projects.
+Effective communication and interpersonal skills, essential for working collaboratively in a research or development team.
+Eagerness to learn new techniques and stay updated with the latest advancements in the field of machine learning.

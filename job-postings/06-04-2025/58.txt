@@ -1,0 +1,56 @@
+Every day, tens of millions of people come to Roblox to explore, create, play, learn, and connect with friends in 3D immersive digital experiences– all created by our global community of developers and creators.
+
+At Roblox, we’re building the tools and platform that empower our community to bring any experience that they can imagine to life. Our vision is to reimagine the way people come together, from anywhere in the world, and on any device. We’re on a mission to connect a billion people with optimism and civility, and looking for amazing talent to help us get there.
+
+A career at Roblox means you’ll be working to shape the future of human interaction, solving unique technical challenges at scale, and helping to create safer, more civil shared experiences for everyone.
+
+As a Technical Director in the Safety organization at Roblox, you will drive the overall technical vision and execution for all machine learning initiatives focused on maintaining the safety and civility of our users. Our industry-leading safety features ensure Roblox remains a safe and inclusive environment for our community to express themselves creatively and share experiences without fear. The Safety org is the reason why Roblox is the safest place on the internet, protecting users You will be reporting to the VP of Engineering for Trust and Safety.from a content-focused perspective as the platform scales to serve different age groups and geographic locations. You will report to the VP, Engineering of Trust and Safety.
+
+You Will
+
+Own the technical direction and implementation of machine learning solutions for safety-related systems
+Lead and mentor other engineers, fostering a culture of technical excellence and inclusivity
+Break down long-term product requirements into iterative deliverable stages, ensuring continuous improvement
+Craft and build large-scale machine learning models with billions of parameters, ensuring production-readiness
+Facilitate challenging technical decisions across multiple teams, demonstrating empathy and finding common understanding
+Collaborate with cross-functional teams to define and prioritize the machine learning roadmap
+
+You Have
+
+15+ years of experience delivering and improving large-scale machine learning systems
+Proven expertise in creating and launching machine learning models from scratch
+Ability to handle data problems, train models with large datasets, and ensure system reliability at scale
+Experience with distributed systems, data architecture, and model extraction
+Strong programming skills and willingness to be hands-on as necessary
+Prior experience in a leadership role with a technical focus, including mentoring engineering teams
+
+You Are
+
+A creative and strategic problem-solver, able to simplify complex issues while integrating fresh ideas
+Committed to fostering a diverse and inclusive workplace where everyone feels valued and supported
+Passionate about maintaining deep technical expertise while meeting end-user needs
+Knowledgeable about cutting-edge ML technologies, including LLMs
+Experienced in NLP or computer vision (preferred)
+Familiar with maintaining and evolving safety systems at scale (preferred)
+
+For roles that are based at our headquarters in San Mateo, CA: The starting base pay for this position is as shown below. The actual base pay is dependent upon a variety of job-related factors such as professional background, training, work experience, location, business needs and market demand. Therefore, in some circumstances, the actual salary could fall outside of this expected range. This pay range is subject to change and may be modified in the future. All full-time employees are also eligible for equity compensation and for benefits.
+
+Annual Salary Range
+
+$391,590—$448,990 USD
+
+Roles that are based in our San Mateo, CA Headquarters are in-office Tuesday, Wednesday, and Thursday, with optional in-office on Monday and Friday (unless otherwise noted).
+
+You’ll Love
+
+Industry-leading compensation package
+Excellent medical, dental, and vision coverage
+A rewarding 401k program
+Flexible vacation policy (varies by exemption status)
+Roflex - Flexible and supportive work policy 
+Roblox Admin badge for your avatar
+At Roblox HQ: 
+Free catered lunches five times a week and several fully stocked kitchens with unlimited snacks
+Onsite fitness center and fitness program credit
+Annual CalTrain Go Pass
+Roblox provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state or local laws. Roblox also provides reasonable accommodations for all candidates during the interview process.

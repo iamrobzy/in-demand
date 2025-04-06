@@ -1,0 +1,56 @@
+Job Summary
+
+Are you passionate about shaping the future of AI by building infrastructure that ensures large language models and AI agents are safe, reliable, and aligned with human values? Red Hat's OpenShift AI team is seeking a senior ML engineer who combines deep technical expertise with a commitment to responsible AI innovation.
+
+As a pivotal contributor to open-source projects like Open Data Hub, KServe, TrustyAI, Kubeflow, and llama-stack, you'll be at the forefront of democratizing trustworthy AI infrastructure. These critical open-source initiatives are transforming how organizations develop, deploy, and monitor machine learning models across hybrid cloud and edge environments. Your work will directly shape the next generation of MLOps platforms, making advanced AI technologies more accessible, secure, and ethically aligned.
+
+Job Responsibilities
+
+Architect and implement comprehensive safety systems for LLM deployments, including content filtering, output validation, and alignment techniques
+Design and develop robust guardrailing frameworks that enforce model behavioral boundaries while maintaining performance and user experience
+Lead the development of monitoring systems to detect and mitigate potential model hallucinations, harmful outputs, and alignment drift in production
+Build and maintain evaluation frameworks for assessing model safety, including automated testing pipelines for toxicity, bias, and harmful behavior
+Develop prompt engineering systems and safety layers that ensure reliable and controlled LLM outputs across different use cases and deployment scenarios
+Implement fine-tuning and human preference alignment pipelines with a focus on maintaining model alignment and improving safety characteristics
+Design and deploy systems for LLM output validation, including fact-checking mechanisms and source attribution capabilities
+Lead technical initiatives around model interpretability and transparency, including debugging tools for understanding model decisions
+Collaborate with policy and safety teams to translate safety requirements into technical implementations and measurable metrics
+
+Requirements
+
+5+ years of ML engineering experience, with 3+ years specifically working with transformer-based models and LLMs
+Deep expertise in prompt engineering, instruction tuning, or human preference alignment techniques
+Strong background in implementing AI safety mechanisms and guardrails for production LLM systems
+Experience with LLM evaluation frameworks and safety metrics
+Proven track record of building production-grade systems for model monitoring and safety enforcement
+Strong programming skills in Python and experience with modern LLM frameworks (PyTorch, Transformers, etc.)
+Experience implementing content filtering and output validation systems
+Understanding of AI alignment principles and practical safety techniques
+
+The Following Will Be Considered a Plus
+
+Experience with constitutional AI and alignment techniques
+Background in implementing human preference alignment pipelines and fine-tuning large language models
+Familiarity with LLM deployment platforms and serving infrastructures
+Experience with model interpretation techniques and debugging tools for LLMs
+Knowledge of AI safety research and current best practices
+Understanding of adversarial attacks and defense mechanisms for language models
+Experience with prompt injection prevention and input sanitization techniques
+Background in implementing automated testing systems for model safety
+Advanced degree in Computer Science, ML, or related field with focus on AI safety
+
+About Red Hat
+
+Red Hat is the world’s leading provider of enterprise open source software solutions, using a community-powered approach to deliver high-performing Linux, cloud, container, and Kubernetes technologies. Spread across 40+ countries, our associates work flexibly across work environments, from in-office, to office-flex, to fully remote, depending on the requirements of their role. Red Hatters are encouraged to bring their best ideas, no matter their title or tenure. We're a leader in open source because of our open and inclusive environment. We hire creative, passionate people ready to contribute their ideas, help solve complex problems, and make an impact.
+
+Inclusion at Red Hat
+
+Red Hat’s culture is built on the open source principles of transparency, collaboration, and inclusion, where the best ideas can come from anywhere and anyone. When this is realized, it empowers people from different backgrounds, perspectives, and experiences to come together to share ideas, challenge the status quo, and drive innovation. Our aspiration is that everyone experiences this culture with equal opportunity and access, and that all voices are not only heard but also celebrated. We hope you will join our celebration, and we welcome and encourage applicants from all the beautiful dimensions that compose our global village.
+
+Equal Opportunity Policy (EEO)
+
+Red Hat is proud to be an equal opportunity workplace and an affirmative action employer. We review applications for employment without regard to their race, color, religion, sex, sexual orientation, gender identity, national origin, ancestry, citizenship, age, veteran status, genetic information, physical or mental disability, medical condition, marital status, or any other basis prohibited by law.
+
+Red Hat does not seek or accept unsolicited resumes or CVs from recruitment agencies. We are not responsible for, and will not pay, any fees, commissions, or any other payment related to unsolicited resumes or CVs except as required in a written contract between Red Hat and the recruitment agency or party requesting payment of a fee.
+
+Red Hat supports individuals with disabilities and provides reasonable accommodations to job applicants. If you need assistance completing our online job application, email application-assistance@redhat.com. General inquiries, such as those regarding the status of a job application, will not receive a reply.

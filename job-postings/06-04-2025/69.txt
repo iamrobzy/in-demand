@@ -1,0 +1,25 @@
+About The Role
+
+The role will be within the pricing and incentives domain in Uber's marketplace team. The team charter spans incentive allocation and optimization to balance the market and optimize revenue, dynamic trip pricing based on marketplace conditions. The role will provide an opportunity to work on some of the most strategic marketplace problems at Uber scale that impact Uber's global business directly.
+
+What You Will Do
+
+Work with product, data science, and eng leadership to shape the technical roadmap and problem formulations for the team. 
+Leverage algorithmic knowledge in machine. learning/optimization/statistics to design robust engineering solutions to positively impact Uber's business. 
+Shape the MLE role and uplevel MLE talents in the org. 
+Be responsible for the End to End of the product - ML model pipeline & system design, implementation, AB testing, and rollout. Work with the team to productionize the solutions at scale. 
+
+Basic Qualifications: 
+
+PhD or equivalent in Computer Science, Engineering, Mathematics or related field 
+7-years full-time Software Engineering work experience in leveraging machine learning/statistics/optimization to build models in production 
+Collaborative and work well with, and contribute to, a team 
+
+Preferred Qualifications: 
+
+Experience building algorithms with large scale data 
+Track record of building large-scale, highly-available systems for both batch and streaming 
+Deep domain expertise and are one of the recognized specialists in one or multiple areas like reinforcement learning, personalization, or deep learning. 
+Experience working on large scale Machine Learning platforms 
+
+For San Francisco, CA-based roles: The base salary range for this role is USD$257,000 per year - USD$285,500 per year. For Sunnyvale, CA-based roles: The base salary range for this role is USD$257,000 per year - USD$285,500 per year. For all US locations, you will be eligible to participate in Uber's bonus program, and may be offered an equity award & other types of comp. You will also be eligible for various benefits. More details can be found at the following link https://www.uber.com/careers/benefits.

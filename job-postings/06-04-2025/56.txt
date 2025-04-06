@@ -1,0 +1,42 @@
+hackajob is collaborating with GSK to connect them with exceptional tech professionals for this role.
+
+Job Description
+
+Site Name: USA - Pennsylvania - Philadelphia, Durham Blackwell Street, Mississauga Milverton Drive, USA - Massachusetts - Waltham
+
+Posted Date: Mar 31 2025
+
+Join our team to develop and validate advanced AI/ML models addressing complex challenges in life science R&D areas such as target choice, patient identification, molecule design and clinical trial effectiveness. Design and implement AI/ML pipelines for rapid experimental iteration, including classical ML models and advanced LLM customization techniques. Collaborate with subject matter experts and AI engineers to develop and deploy models and ensure high-quality, scientifically sound solutions.
+
+Responsibilities
+
+Develop and validate advanced AI/ML models to tackle complex problems in target choice, patient identification, molecule design/chemistry, manufacturing and controls (CMC), and clinical trial effectiveness. 
+Design and implement AI/ML pipelines for data preprocessing, feature engineering, model training, hyperparameter tuning, and model evaluation, enabling rapid experimental iteration and adhering to industry’s best practices in MLOps. 
+Besides classical ML models fine-tuning (i.e., support vector machine and random forest), this team is also responsible for large language model (LLM) customization and fine-tuning using complex techniques (i.e., low-rank adaptation (LoRA) and reinforcement learning (RL) with human feedback). 
+Collaborate with AI engineers to deploy AI/ML models in both classical inference pipelines and agentic framework approaches. 
+Collaborate with subject matter experts in pre-clinical research, clinical trial design and operation, precision medicine, regulatory science, and CMC to guarantee scientifically sound and high-quality simulation modeling and analytical solutions. 
+
+Why You?
+
+Basic Qualifications
+
+BS degree in computer science, bioinformatics, applied math, statistics or engineering 
+4+ years of data science and machine learning developer experience 
+Experience working with LLM technologies, including developing generative and embedding techniques, modern model architectures, retrieval-augmented generation (RAG), fine tuning / pre-training LLM (including parameter efficient fine-tuning), and evaluation benchmarks. 
+Experience in data wrangling from databases for feature engineering and model training purposes. 
+Experience in Python, TensorFlow/PyTorch, and scalable ML architectures. 
+Experience with AI/ML model metrics (e.g., F1 and AI-contents evaluation metrics) including setting up human-in-the-loop (HITL) AI/ML monitoring. 
+Coding and software engineering skills, and knowledge with software engineering principles around testing, code reviews and deployment. 
+
+Preferred Qualifications
+
+MA degree in computer science or equivalent qualitative science fields 
+Experience with reinforcement learning (RL) and multi-agent framework 
+Experience with graph database in the context of GraphRAG 
+Experience with computer vision 
+Experience designing and managing AI workloads on cloud platforms and/or high-performance computing environments 
+Knowledge of cost optimization strategies for GPU computing in both cloud and on-premises scenarios 
+Proficiency with distributed computing frameworks (i.e., Spark, databricks, RAPIDS.ai) 
+Experience in establishing AI/ML best practices, standards, and ethics 
+Experience in AI/ML applications in life science domain areas: pre-clinical research, clinical trial design and operation, precision medicine, regulatory science, and CMC. 
+Strong written and verbal communication skills

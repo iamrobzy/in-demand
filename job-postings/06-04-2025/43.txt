@@ -1,0 +1,33 @@
+We are CleanTech startup, building the next generation of digitalized and environmentally aware electrical grids. To do this, we believe artificial intelligence has the potential to help society solve immense global challenges such as the transition to a greener future.
+Emissium now has an exciting opportunity for a passionate Machine Learning Engineer to join our team and be at the heart of our software development strategy! In this role, you will lead processes from data storage, cleaning, and preprocessing to training and deploying machine learning models for production, especially focusing on time-series data.
+
+Your responsibilities: 🧑🤝🧑
+Develop and optimize AI models to achieve exceptional performance.
+Explore and visualize data, recognize patterns and build models to be deployed in the real world.
+Ensure data quality through rigorous data cleaning, outlier detection, data imputation, and the creation of data validation strategies and augmentation pipelines.
+Define and implement preprocessing steps and feature engineering, and tune hyperparameters for model improvement.
+Monitor, analyze, and enhance the performance of models in production.
+Work with APIs and databases to efficiently manage and access time-series data.
+Collaborate with the founding team on whatever else arises - every week is full of surprises
+What you REALLY need to bring to the team: 🦹🦹
+PASSION and EXECUTION capacity are the fundamental skills we are looking for.
+
+What you is also convenient that you bring to the team:🦹
+A natural and collaborative person, who is passionate about artificial intelligence and stays up-to-date with the latest developments in the field. 
+Interested in and thoughtful about the impacts of AI technology on society, especially on the energy transition.
+3+ years of software engineering experience with a strong focus on machine learning, preferably with academic experience or a PhD.
+Expertise in Python and machine learning libraries such as scikit-learn and pandas.
+Proficiency in deep learning frameworks like PyTorch or TensorFlow.
+Experience with Big Data, including formats like HDF5, JSON, and petastorm.
+Strong skills in data visualization and manipulation, with experience in handling large datasets.
+Ability to take ownership of problems from start to finish, learning new skills as necessary.
+Capability to select hardware for running ML models, optimizing for latency, and determining the best deployment strategy.
+What we offer you: 🚀
+Be part of a mission-driven start-up that has a positive impact on our environment
+Gain firsthand insight into the operations of an early-stage startup and actively participate in key business decisions.
+A diverse and collaborative team of impact-driven individuals focused on solving real-world problems together.
+A challenging work environment where you will gain valuable experience and significantly enhance your skill set.
+A competitive salary package with additional benefits.
+A flexible hybrid work arrangement (Lisbon-based).
+How to apply:
+· Send us your CV to contact@emissium.io, together with an explanation of why you want to work at Emissium and why you are the person for the job! We get in contact in the upcoming two weeks.

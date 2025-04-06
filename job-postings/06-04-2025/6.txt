@@ -1,0 +1,70 @@
+Lensa is the leading career site for job seekers at every stage of their career. Our client, Bayer, is seeking professionals in Chesterfield, MO. Apply via Lensa today!
+
+At Bayer we’re visionaries, driven to solve the world’s toughest challenges and striving for a world where 'Health for all Hunger for none’ is no longer a dream, but a real possibility. We’re doing it with energy, curiosity and sheer dedication, always learning from unique perspectives of those around us, expanding our thinking, growing our capabilities and redefining ‘impossible’. There are so many reasons to join us. If you’re hungry to build a varied and meaningful career in a community of brilliant and diverse minds to make a real difference, there’s only one choice.
+
+Staff Machine Learning Engineer
+
+Position Overview
+
+As a key player in our AI/ML team, you will be responsible for designing and implementing scalable AI/ML infrastructure to support model training, evaluation, and deployment. You will collaborate closely with DevOps and IT teams to ensure our infrastructure meets performance and security requirements. Your role is crucial in leading the deployment of machine learning models into production environments, ensuring seamless integration with our discovery environment and existing systems. You will also focus on optimizing models for scalability and performance, automating processes, and providing technical guidance to junior team members. This position offers a unique opportunity to work with cross-functional teams, aligning machine learning initiatives with our organizational goals.
+
+Your Tasks And Responsibilities
+
+The primary responsibilities of this role, Staff Machine Learning Engineer, are to:
+
+Design and implement scalable AI/ML infrastructure for model training, evaluation, and deployment; 
+Collaborate with DevOps and IT teams to ensure infrastructure performance and security requirements are met; 
+Lead the deployment of machine learning models into production environments, developing CI/CD pipelines for seamless integration; 
+Implement security best practices for machine learning models and data, conducting regular security assessments and audits; 
+Optimize machine learning models for scalability and performance to handle increasing data volumes and user requests; 
+Automate data preprocessing, model training, and evaluation processes to enhance efficiency; 
+Collaborate with data scientists to design and train machine learning models using appropriate algorithms; 
+Continuously monitor deployed models for performance, accuracy, and potential issues, implementing strategies for retraining and updates; 
+Work closely with cross-functional teams to align machine learning initiatives with organizational goals; 
+Provide technical guidance and mentorship to junior team members. 
+
+Who You Are
+
+Bayer seeks an incumbent who possesses the following:
+
+Required Qualifications
+
+Bachelor’s or Master’s degree in Computer Science, Data Science, Engineering, or a related field. 
+5+ years of experience in AL/ML engineering or related roles, with a strong focus on infrastructure, deployment, and automation. 
+Proficiency in programming languages such as Python, Java, or Scala, and experience with 4+ years of experience in machine learning libraries (e.g., TensorFlow, PyTorch, Scikit-learn). 
+5+ years of experience in cloud computing platforms (e.g., AWS, Azure, Google Cloud) , containerization technologies (e.g., Docker, Kubernetes), and orchestration technologies (e.g., Airflow). 
+5+ years of experience with CI/CD tools and practices for automated deployment of machine learning models. 
+5+ years of experience in establishing of security best practices in machine learning and data handling. 
+Excellent problem-solving skills and the ability to work in a fast-paced, collaborative environment. 
+Strong communication skills, with the ability to convey complex technical concepts to non-technical stakeholders. 
+
+Preferred Qualifications
+
+5 + Experience with big data technologies (e.g., Hadoop, Spark) and data engineering practices. 
+Previous experience in a leadership or mentoring role is a plus. 
+
+YOUR APPLICATION
+
+Bayer offers a wide variety of competitive compensation and benefits programs. If you meet the requirements of this unique opportunity, and want to impact our mission Science for a better life, we encourage you to apply now. Be part of something bigger. Be you. Be Bayer.
+
+To all recruitment agencies: Bayer does not accept unsolicited third party resumes.
+
+Bayer is an Equal Opportunity Employer/Disabled/Veterans
+
+Bayer is committed to providing access and reasonable accommodations in its application process for individuals with disabilities and encourages applicants with disabilities to request any needed accommodation(s) using the contact information below.
+
+Bayer is an E-Verify Employer.
+
+It is unlawful in Massachusetts to require or administer a lie detector test as a condition of employment or continued employment. An employer who violates this law shall be subject to criminal penalties and civil liability.
+
+Location: United States : Missouri : Chesterfield
+
+Division: Crop Science
+
+Reference Code: 841044
+
+Contact Us
+
+Email: hrop_usa@bayer.com
+
+Job Segment: Cloud, Computer Science, Training, Industrial, Learning, Technology, Education, Human Resources, Manufacturing

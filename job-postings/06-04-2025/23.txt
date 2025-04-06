@@ -1,0 +1,41 @@
+Raidium develops a radiological foundation model as the "GPT" of radiology (manifesto). This new generation of AI will enable the building of an imaging biomarker factory for both clinical practice and research, tackling the complexity of precision medicine.
+
+As a Machine Learning Engineer At Raidium, You Will Be At The Center Of Raidium's Cutting-edge Deep Learning Technology. This Is a Very Transversal Position Involving
+
+Deep Learning Research to improve Raidium Computer Vision algorithms
+Create and train new foundation model architectures
+Integration of your latest models in Raidium's product, by working with Raidium's team of Medical Researchers, Machine Learning Engineers and Software Engineers
+Publications in top tier journals and conferences
+
+Finally, you will work in Raidium Parisian offices (in the Cochin Faculty, next to Port Royal), but have the opportunity to spend some afternoons with our companion center CT Scans and MRIs!
+
+You
+
+PhD or MSC +3 yearss experience in Mathematics / Computer Science / Electrical Engineering
+Proficiency with statistics/machine learning methods
+Proficiency with Deep Learning and Computer Vision algorithms
+Proficiency with Python
+Willingness to work in the healthcare industry
+Willingness to have a very transverse position, involving cutting-edge research, as well as agile engineering and development
+Authorization to work in France
+
+Pluses (not exhaustive)
+
+Publication history in top-tier Machine Learning or healthcare journals
+Experience in healthcare and/or with the manipulation of radiological images
+Experience with Self-Supervised Learning, Transformers and/or Semantic segmentation and Object Detection methods
+Experience with HPC clusters and GPU-based infrastructures
+Experience in an agile work environment
+
+>
+
+Why join us
+
+Have a real and positive impact on people' lives
+Apply and improve the latest Deep Learning technologies to build an inspiring product
+Be in contact with real radiologists in our partner center
+Be among the very first employees of Raidium
+Work with a team of internationally recognized experts
+Work with a diverse team of engineers and medical doctors
+Competitive salary
+Access to premium computing hardware

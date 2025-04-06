@@ -1,0 +1,48 @@
+Lensa is the leading career site for job seekers at every stage of their career. Our client, Cisco, is seeking professionals in San Francisco, CA. Apply via Lensa today!
+
+Meet the Team
+
+The mission AI Defense at Cisco is to provide end-to-end protection for Enterprise AI application. The team has deep expertise in AI and security and is an active contributor to cutting edge research and standards on AI and security. At Cisco, our mission is to build AI Security at Cisco scale as well as lead the next generation of AI infrastructure for disruptive security products across Cisco. We are pioneers in all aspects of AI security from supply chain to development time model vulnerability detection to protecting against real time attacks on deployed AI applications.
+
+Your Impact
+
+Join Cisco's AI Defense ML Team and be at the forefront of AI Security innovation.
+
+Here, you will tackle ever-evolving challenges and leverage the dynamic AI landscape to craft solutions that ensure AI safety and security for all. As a Data Platform Engineer, you'll have the chance to design the data platform driving cutting-edge ML algorithms that detect and protect against AI security risks. You'll gain deep expertise in the fields of both AI and security, engaging with all facets of detection techniques and their deployment in production environments. You will collaborate with a talented team of ML engineers, and security experts, and play a pivotal role in developing groundbreaking AI solutions. Shape the future of AI safety and Security with us and make an enduring impact on AI adoption across the world!
+
+As a Data Platform Engineer, you will.
+
+Design Scalable data pipelines for large semi-structured data using advanced distributed cloud data warehouse technologies. 
+Build backend and data infrastructure that supports our need for fast data ingestion including customer telemetry data and open-source datasets, modeling experimentation and model evaluation pipelines. 
+Build data quality and labeling pipelines for continuous data quality improvements 
+Compile datasets from diverse data sources for AI Security applications. 
+Ensure compliance with data provenance, governance, and privacy regulations; develop and enforce data creation and usage processes. 
+Explore data generation strategies for textual and multi-modal data for AI Defense use cases, including working with the Threat Intelligence team to inform new data generation techniques 
+You'll have the opportunity to contribute to our overall machine learning and data management culture as a member of the team. 
+
+Minimum Qualifications
+
+A BS with minimum 3 years of experience or MS in Computer Science/Engineering. 
+Experience with some backend datastore similar to Snowflake or Databricks. 
+Strong programming skills in generic programming languages such as Python or Golang. 
+SQL proficiency for complex data transformations and querying, strong understanding of semi-structured data handling. 
+
+Preferred Qualifications
+
+An attitude of hands-on learning and constant experimentation to decompose and understand problem areas. 
+Comfortable with fast iterative style development in an environment that requires autonomous thinking, risk taking and bias for action. 
+Familiarity with modern data warehousing technologies like Snowflake/databricks and data formats like Snowpark/Iceberg 
+Ability to use the latest GenAI technologies and creative prompting. Comfortable with traditional ML frameworks like pytorch, TensorFlow, FastAI etc... 
+Excellent written and verbal communication skills, strong analytical and problem-solving skills. 
+
+#WeAreCisco where every individual brings their unique skills and perspectives together to pursue our purpose of powering an inclusive future for all.
+
+Our passion is connection—we celebrate our employees’ diverse set of backgrounds and focus on unlocking potential. Cisconians often experience one company, many careers where learning and development are encouraged and supported at every stage. Our technology, tools, and culture pioneered hybrid work trends, allowing all to not only give their best, but be their best.
+
+We understand our outstanding opportunity to bring communities together and at the heart of that is our people. One-third of Cisconians collaborate in our 30 employee resource organizations, called Inclusive Communities, to connect, foster belonging, learn to be informed allies, and make a difference. Dedicated paid time off to volunteer—80 hours each year—allows us to give back to causes we are passionate about, and nearly 86% do!
+
+Our purpose, driven by our people, is what makes us the worldwide leader in technology that powers the internet. Helping our customers reimagine their applications, secure their enterprise, transform their infrastructure, and meet their sustainability goals is what we do best. We ensure that every step we take is a step towards a more inclusive future for all. Take your next step and be you, with us!
+
+Cisco is an Affirmative Action and Equal Opportunity Employer and all qualified applicants will receive consideration for employment without regard to race, color, religion, gender, sexual orientation, national origin, genetic information, age, disability, veteran status, or any other legally protected basis.
+
+Cisco will consider for employment, on a case by case basis, qualified applicants with arrest and conviction records.

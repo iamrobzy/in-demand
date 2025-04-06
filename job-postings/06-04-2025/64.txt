@@ -1,0 +1,45 @@
+About
+
+Die BAUR-Gruppe, mit Engagements in der DACH-Region, steht seit geraumer Zeit für Erfolg im Online-Business und ist Teil des Erfolgs der weltweit agierenden OTTO Group. Online-Handel und onlinehandelsnahe Dienstleistungen unterliegen einem rasanten Wandel - heute mehr denn je!
+
+Der Ausbau unserer Business Intelligence (BI) Fähigkeiten ist ein zentrales Element der BAUR- Vertriebsstrategie. Mit deinen Skills in den Bereichen Machine Learning und Prozessautomatisierung bringst du KI-Methoden in die operative Praxis.
+
+Ob Berufseinsteiger oder Profi – wir unterstützen dich und bieten dir spannende Entwicklungsmöglichkeiten in einem herausfordernden Aufgabenbereich.
+
+TITL1_DE
+
+Nice-to-have skills
+
+Terraform
+Git
+JSON
+XML
+SQL
+Python
+Unix
+Data Science
+Google BigQuery
+Machine Learning
+Python
+Terraform
+SQL
+Google BigQuery
+JSON
+XML
+Github
+Unix
+Linux
+Data Warehousing
+Data Modeling
+Weismain, Bavaria, Germany
+
+Work experience
+
+Data Engineer
+Fullstack
+Data Infrastructure
+Machine Learning
+
+Languages
+
+German

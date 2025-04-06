@@ -1,0 +1,42 @@
+Principal Machine Learning Engineer, ADMET | Pharma/BioTech expertise | Series A - Drug discovery B2B Platform | Fully Remote, EU || Fully Remote, EU | Base Salary Up to £160,000K, plus early equity+benefits 
+
+The Client:
+A mission-driven technology company operating in the life sciences domain is seeking a Principal Machine Learning Engineer to lead the technical direction for ADMET (Absorption, Distribution, Metabolism, Excretion, and Toxicity) modeling efforts within its drug discovery platform. The organisation enables collaborative model development across partner organisations while maintaining strict data privacy and ownership, using a federated data infrastructure.
+
+In this hands-on, high-impact role, you’ll work at the intersection of machine learning, computational chemistry, and applied research to advance foundational model applications in drug discovery. You'll be the technical authority on ML architecture, experimentation, and strategy, collaborating closely with leadership and mentoring other engineers and researchers. While this is not a people management position, it offers significant influence over technical direction.
+
+Responsibilities for the Principal Machine Learning Engineer, ADMET | Pharma/BioTech expertise | Series A - Drug discovery B2B Platform | Fully Remote, EU || Fully Remote, EU | Base Salary Up to £160,000K, plus early equity+benefits 
+
+Lead the design and implementation of ML solutions for ADMET using cutting-edge techniques such as graph neural networks and transformers.
+Develop and extend models for specific applications, including data distillation, benchmarking, and evaluation.
+Define preprocessing and harmonization strategies for diverse assay datasets used in ADMET modeling.
+Build and maintain scalable, production-grade ML pipelines for training, inference, and deployment.
+Collaborate cross-functionally to ensure ML efforts are aligned with real-world drug discovery needs.
+Mentor team members in designing and executing complex modeling projects in structural biology.
+Contribute to strategic decisions regarding ML infrastructure, model architecture, and deployment processes.
+Author or contribute to scientific publications or open-source software where appropriate.
+
+Expected Milestones
+By Month 3: Own an ADMET modeling stream and deliver a roadmap with a structured experimentation plan tailored to a key use case.
+By Month 12: Lead multiple ADMET ML initiatives, showing measurable performance improvements and tangible real-world outcomes. Serve as a strategic technical voice within the team.
+
+Experience needed for the Principal Machine Learning Engineer, ADMET | Pharma/BioTech expertise | Series A - Drug discovery B2B Platform | Fully Remote, EU || Fully Remote, EU | Base Salary Up to £160,000K, plus early equity+benefits 
+
+A PhD (or equivalent experience) in machine learning, computational biology, computational chemistry, or cheminformatics.
+Strong track record applying ML to real-world drug discovery or pharmaceutical R&D problems.
+Deep experience building and deploying ADMET-focused models using graph neural networks (e.g., ChemProp) and transformer architectures.
+Proficiency with PyTorch or PyTorch Lightning and experience in designing large-scale model training workflows.
+Advanced understanding of assay protocols and methods for harmonizing heterogeneous ADMET datasets.
+Proven ability to deliver ML systems at scale, including distributed GPU training, CI/CD, model versioning, and deployment.
+Comfort working with modern MLOps tooling, including Docker, Kubernetes, cloud environments, and orchestration platforms.
+Strategic thinking with the ability to deconstruct complex modeling goals and drive them forward independently.
+Clear understanding of the role of ADMET models within drug discovery workflows and their impact on decision-making.
+
+Remuneration for the Principal Machine Learning Engineer, ADMET:
+Fully Remote Working Culture
+Up to £160,000 Base Salary
+Attractive Stock Options
+B2B & Full time employee options
+Flexible hours + - 3 hours of CET time zone
+
+If you think you are a good match for the Principal Machine Learning Engineer, ADMET | Pharma/BioTech expertise, ping us over your CV and we will give you a call if we think you are a good match!

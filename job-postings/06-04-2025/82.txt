@@ -1,0 +1,45 @@
+Who are we?
+Lifesight is a Unified Marketing Measurement platform that helps marketers make better decisions. We have a team of 130 serving 300+ customers across 5 offices in the US, Singapore, India, Australia and the UK.
+At Lifesight we believe in inspiring the future of business with AI and deep Data insights and are committed to building the world’s best marketing intelligence and decisioning platform.
+
+Position Overview:
+This is a highly technical and hands-on role where you will be responsible for building AI systems
+from scratch, leveraging technologies such as Generative AI (Gen AI), RAG, Graph based systems
+and LLMs.that integrating automation tools and agents into existing business processes and
+operations, with humans in the loop, is the key to innovation and eﬃciency. We launched an internal
+initiative for executing this and we are building a team around this.
+
+What you’ll do:
+Research & Scoping: Collaborate with stakeholders in various teams and departments to scope out potential business use cases.
+Design, implement, and deploy state-of-the-art models, including LLMs and Generative AI frameworks.
+Perform model optimization for performance, scalability, and accuracy.
+Implement advanced feature engineering techniques for both structured and unstructured data.
+Leverage leading libraries like TensorFlow, and PyTorch for experimentation and production.
+Build and optimize machine learning pipelines with tools like Vertex AI.
+AI Agent Development: Design and implement autonomous AI agents aimed at optimization using custom prompting and agentic workflows.
+
+You are perfect for the role if you:
+Possess a bias for action with a track record of solving technical challenges creatively.
+Experienced in 0→1 MVP development and iterative prototyping.
+Knowledgeable and experienced in leveraging LLMs, RAG and Agentic frameworks.
+Passionate about staying up to date with AI trends and best practices.
+Strong expertise in Python, proficiency in TensorFlow, PyTorch, and MLOps practices;
+experience in cloud-based deployment and machine learning frameworks.
+Technical expertise - Hands-on experience with Gen AI, RAG, Graph AI and LLM's.
+Experience with cloud platforms such as AWS or GCP including AI/ML services.
+Knowledge of LLMs, vector databases, and applied Gen-AI techniques and frameworks (RAG, Agentic AI orchestration, LangChain, LlamaIndex, etc)
+
+Do you have a passion for leveraging AI and Machine Learning to create transformative solutions? Are you ready to be a part of something big? Join our team at Lifesight, Where AI innovation and real-world impact come together. We unite generative AI, and conversational AI to deliver powerful AI
+solutions.
+
+What’s in it for you…
+As a team, we are concerned with not only the growth of the company but each other’s personal growth and well-being too. Along with our desire to utilize smart technology and innovative engineering strategies to make people’s lives easier, our team also bonds over our shared love for all kinds of tea, movies & fun-filled Friday events with a prioritizing healthy work-life balance.
+
+Working for one of the fastest-growing and successful MarTech companies in times
+Opportunity to be part of an early member of the core team to build a product from scratch starting from making tech stack choices, driving and influencing the way to simplify building complex products.
+Enjoy working in small teams and a non-bureaucratic environment
+Enjoy an environment that provides high levels of empowerment and space to achieve your objectives and growth with the organization.
+Work in a highly profitable and growing organization, with opportunities to accelerate and shape your career.
+Great benefits - apart from competitive compensation & benefits
+Above all - a “fun” working environment.
+Team Vibes & Real Talk – Check out our Careers Page

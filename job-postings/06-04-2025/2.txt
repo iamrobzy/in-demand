@@ -1,0 +1,33 @@
+About The Role
+
+The Marketplace Investments team builds the ML models, platform, and model infra for planning and optimizing incentive budgets + pricing levers at Uber.
+
+You will build and improve Machine Learning predictive models and Optimizers to make better budget allocation decisions. You will collaborate closely with other Marketplace pricing teams, Product Managers and Prod Ops and have an opportunity to shape the future of pricing lever budgeting at Uber.
+
+We are working on a few very ambitious projects, and your work will have a significant impact at Uber.
+
+What You Will Do
+
+Lead the design, development, optimization, and productionization of machine learning (ML) solutions for complex and high-impact problems. 
+Build ML solutions to improve Uber's marketplace efficiency while ensuring seamless, high-quality user experiences in real-world applications. 
+Review code and designs of teammates, providing constructive feedback. 
+Lead cross-functional collaborations across product, engineering, and science teams to drive system development from ideation to production. 
+
+Basic Qualifications: 
+
+PhD or equivalent experience in Computer Science, Engineering, Mathematics or related field 
+5+ years of industry experience as an Applied Scientist/Machine Learning Engineer. 
+Experience in exploratory data analysis, statistical modeling, hypothesis testing, and experimental design. 
+Experience working with cross-functional teams(product, science, product ops etc). 
+Proficiency in one or more object-oriented programming languages (e.g. Python, Go, Java, C++). 
+
+Preferred Qualification: 
+
+Experience building algorithms with large scale data 
+7+ years of industry experience in machine learning, including building and deploying ML models. 
+Experience working on large scale Machine Learning platforms 
+Experience in modern deep learning architectures and probabilistic modeling. 
+Expertise in the design and architecture of ML systems and workflows. 
+Experience with optimization techniques, including reinforcement learning (RL), Bayesian methods, multi-armed bandits or other large scale global optimization techniques. 
+
+For New York, NY-based roles: The base salary range for this role is USD$223,000 per year - USD$248,000 per year. For San Francisco, CA-based roles: The base salary range for this role is USD$223,000 per year - USD$248,000 per year. For Seattle, WA-based roles: The base salary range for this role is USD$223,000 per year - USD$248,000 per year. For Sunnyvale, CA-based roles: The base salary range for this role is USD$223,000 per year - USD$248,000 per year. For all US locations, you will be eligible to participate in Uber's bonus program, and may be offered an equity award & other types of comp. You will also be eligible for various benefits. More details can be found at the following link https://www.uber.com/careers/benefits.

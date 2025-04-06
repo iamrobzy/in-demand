@@ -1,0 +1,28 @@
+Job Description
+
+Procuramos por consultores dinâmicos para aumentar nossa equipe de Sistemas de Informação e Digital. Sua experiência, conhecimento e compromisso nos ajudarão a enfrentar os desafios de nossos clientes.
+
+Você apoiará diferentes projetos através de sua experiência como Machine Learning Engineer.
+
+Suas principais responsabilidades:
+
+
+Desenvolver e implementar pipelines completos de machine learning usando Python e Databricks.
+Colaborar com cientistas de dados, engenheiros de dados e stakeholders para transformar requisitos de negócio em soluções de ML.
+Otimizar e escalar modelos de ML com foco em performance, precisão e confiabilidade.
+Aplicar boas práticas de versionamento de código, CI/CD e governança de modelos de ML.
+Realizar análise exploratória de dados e engenharia de atributos em grandes volumes de dados
+Monitorar e manter modelos implantados em ambientes de produção.
+Documentar código, experimentos e decisões de modelagem de forma clara e consistente.
+
+
+Qualificações:
+
+
+Experiência em Python e ferramentas de machine learning (scikit-learn, PySpark, MLflow, etc.).
+Familiaridade com ambientes como Databricks e Azure.
+Conhecimento em boas práticas de engenharia de software: versionamento, testes, CI/CD
+Comunicação em inglês fluente para colaborar diretamente com equipes internacionais.
+
+
+A Amaris Consulting se orgulha de ser um local de trabalho com igualdade de oportunidades. Estamos comprometidos em promover a diversidade dentro da força de trabalho e criar um ambiente de trabalho inclusivo. Para este fim, acolhemos candidaturas de todos os candidatos qualificados independentemente do sexo, orientação sexual, raça, etnia, crenças, idade, estado civil, deficiência ou outras

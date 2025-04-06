@@ -1,0 +1,126 @@
+Job Description:
+
+Type of Requisition:
+
+Regular
+
+Clearance Level Must Currently Possess:
+
+Top Secret/SCI
+
+Clearance Level Must Be Able To Obtain:
+
+Top Secret SCI + Polygraph
+
+Public Trust/Other Required:
+
+None
+
+Job Family:
+
+Systems Engineering
+
+Skills:
+
+Job Qualifications:
+
+Graphics Processing Units (GPUs), Kubernetes, Tensorflow
+
+Certifications:
+
+None
+
+Experience:
+
+5 + years of related experience
+
+US Citizenship Required:
+
+Yes
+
+Job Description:
+
+Deliver simple solutions to complex problems as a Machine Learning Engineer at GDIT. Here, you'll tailor cutting-edge solutions to the unique requirements of our clients. With a career in application development, you'll make the end user's experience your priority and we'll make your career growth ours.
+
+At GDIT, people are our differentiator. As a Machine Learning Engineer you will help ensure today is safe and tomorrow is smarter. Our work depends on TS/SCI cleared Machine Learning Engineer joining our team to support our intelligence customer in St. Louis, MO or Springfield, VA.
+
+How a Machine Learning Engineer Will Make An Impact
+
+Own your opportunity to serve as a critical component of our nation's safety and security. Make an impact by using your expertise to protect our country from threats.
+
+Job Description
+
+Rapidly prototype containerized multimodal deep learning solutions and associated data pipelines to enable GeoAI capabilities for improving analytic workflows and addressing key intelligence questions. You will be at the cutting edge of implementing State-of-the-Art (SOTA) Computer Vision (CV) and Vision Language Models (VLM) for scalable, distributed AI workloads in Kubernetes/OpenShift environments. Your work will involve image retrieval, segmentation tasks, AI-assisted labeling, object detection, and visual question answering using geospatial datasets such as satellite and aerial imagery, full-motion video (FMV), ground photos, and OpenStreetMap.
+
+What You'll Need To Succeed:
+
+Education: Bachelor or Master' Degree in Computer Science, Artificial Intelligence, Machine Learning, Data Science, or equivalent experience in lieu of degree.
+
+Experience: 5+ years
+
+Technical Skills:
+
+Demonstrated experience applying transfer learning and knowledge distillation methodologies to fine-tune pre-trained foundation and computer vision models to quickly perform segmentation and object detection tasks with limited training data using satellite imagery.
+Demonstrated experience building secure, containerized Python applications with Kubernetes-first design, including image hardening, vulnerability scanning, and automated deployments using CI/CD pipelines.
+Demonstrated experience deploying GPU-accelerated deep learning workloads in Kubernetes using NVIDIA TensorRT or CUDA-enabled environments.
+Demonstrated experience implementing and managing Kubernetes/OpenShift-based AI/ML workloads using Kubeflow, Kserve, Knative, or Mlflow for scalable inference and training.
+Demonstrated experience using Python to query and retrieve imagery from S3-compliant APIs, perform image preprocessing (chipping, augmentation, or conversion) using common libraries like Boto3 and NumPy
+Demonstrated experience with deep learning frameworks such as PyTorch or Tensorflow to optimize convolutional neural networks (ResNet or U-Net) for large-scale geospatial applications.
+Demonstrated experience with version control systems such as Gitlab and managing GitOps workflows for ML model deployments.
+Demonstrated experience managing Kubernetes/OpenShift clusters for ML workflows, including scaling GPU workloads and configuring Operators.
+
+Skills And Abilities Desired:
+
+Demonstrated experience with the HuggingFace Transformers library and optimizing Vision Transformers (ViT) such as DINO or DeiT for geospatial applications.
+Demonstrated experience with Helm, Kubectl, Kustomize, or Kubernetes/OpenShift Operators for automating AI/ML model deployment.
+Demonstrated experience with Explainable AI (XAI) techniques.
+Demonstrated experience with Open Neural Net Exchange (ONNX).
+Demonstrated experience designing automated verification and validation test benches for AI/ML models, including performance monitoring in containerized environments.
+Ability to communicate methodological choices, model performance, and results to both technical and non-technical audiences. 
+
+Location: St. Louis, MO and Springfield, VA
+
+US Citizenship Required
+
+Gdit Is Your Place:
+
+401K with company match
+Comprehensive health and wellness packages
+Internal mobility team dedicated to helping you own your career
+Professional growth opportunities including paid education and certifications
+Cutting-edge technology you can learn from
+Rest and recharge with paid vacation and holidays
+
+#RoverGSS
+
+The likely salary range for this position is $150,043 - $202,999. This is not, however, a guarantee of compensation or salary. Rather, salary will be set based on experience, geographic location and possibly contractual requirements and could fall outside of this range.
+
+Scheduled Weekly Hours:
+
+40
+
+Travel Required:
+
+None
+
+Telecommuting Options:
+
+Onsite
+
+Work Location:
+
+USA VA Springfield
+
+Additional Work Locations:
+
+USA MO St. Louis
+
+Total Rewards At GDIT:
+
+Our benefits package for all US-based employees includes a variety of medical plan options, some with Health Savings Accounts, dental plan options, a vision plan, and a 401(k) plan offering the ability to contribute both pre and post-tax dollars up to the IRS annual limits and receive a company match. To encourage work/life balance, GDIT offers employees full flex work weeks where possible and a variety of paid time off plans, including vacation, sick and personal time, holidays, paid parental, military, bereavement and jury duty leave. To ensure our employees are able to protect their income, other offerings such as short and long-term disability benefits, life, accidental death and dismemberment, personal accident, critical illness and business travel and accident insurance are provided or available. We regularly review our Total Rewards package to ensure our offerings are competitive and reflect what our employees have told us they value most.
+
+We are GDIT. A global technology and professional services company that delivers consulting, technology and mission services to every major agency across the U.S. government, defense and intelligence community. Our 30,000 experts extract the power of technology to create immediate value and deliver solutions at the edge of innovation. We operate across 30 countries worldwide, offering leading capabilities in digital modernization, AI/ML, Cloud, Cyber and application development. Together with our clients, we strive to create a safer, smarter world by harnessing the power of deep expertise and advanced technology.
+
+We connect people with the most impactful client missions, creating an unparalleled work experience that allows them to see their impact every day. We create opportunities for our people to lead and learn simultaneously. From securing our nation’s most sensitive systems, to enabling digital transformation and cloud adoption, our people are the ones who make change real.
+
+Equal Opportunity Employer / Individuals with Disabilities / Protected Veterans

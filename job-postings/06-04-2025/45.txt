@@ -1,0 +1,32 @@
+Build the future of the AI Data Cloud. Join the Snowflake team.
+
+The Snowflake Machine Learning Platform team’s mission is to enable customers to bring their ML/AI workload to Snowflake. Our customers want to leverage ML/AI to extract business values from ever increasing data in Snowflake but face several challenges including infrastructure management, scaling, orchestration, performance and security. The team aims to solve these challenges by building highly integrated platform solutions that are simple, secure and scalable to enable end to end ML workflows. We are on an early journey to build the best machine learning and data platform for Snowflake customers without sacrificing the benefits of a single platform and governance.
+
+We are looking for a driven engineer who will play a pivotal role in this journey by understanding Snowflake’s core platform architecture and evolving it to enable state of the art ML/AI workloads. Join us to design and execute, engage and deliver innovation and unlock the power of AI for thousands of enterprise customers.
+
+YOU WILL:
+
+Design easy-to-use & intuitive APIs & systems for ML experts and non-experts to accelerate the E2E ML development and production lifecycle
+Design and optimize systems to scale up and out ML data and training
+Collaboratively build and execute a vision for incorporating new advances in machine learning in ways that best achieve the customers’ business objectives.
+Be a strong contributor to the product vision and team planning.
+Build operational and release rigor with every feature/bug fix deployments.
+
+
+QUALIFICATIONS:
+
+Have 2+ years of industry experience designing, building, and supporting machine learning platforms, machine learning services & frameworks or data intensive systems.
+Working experience with several of the following frameworks: SKLearn, XGBoost, PyTorch, Tensorflow.
+Fluent in Python. C++, Java, Go experience is a plus.
+Familiarity with Kubernetes (K8s) for container orchestration and scaling, plus experience setting up and maintaining CI/CD pipelines (e.g., Jenkins, GitLab, GitHub Actions), is a plus.
+A growth mindset and excitement about breaking the status quo by seeking innovative solutions.
+BS in Computer Science or related degree; Masters or PhD Preferred.
+
+
+Every Snowflake employee is expected to follow the company’s confidentiality and security standards for handling sensitive data. Snowflake employees must abide by the company’s data security plan as an essential part of their duties. It is every employee's duty to keep customer information secure and confidential.
+
+Snowflake is growing fast, and we’re scaling our team to help enable and accelerate our growth. We are looking for people who share our values, challenge ordinary thinking, and push the pace of innovation while building a future for themselves and Snowflake.
+
+How do you want to make your impact?
+
+For jobs located in the United States, please visit the job posting on the Snowflake Careers Site for salary and benefits information: careers.snowflake.com

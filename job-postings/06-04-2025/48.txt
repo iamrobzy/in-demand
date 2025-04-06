@@ -1,0 +1,57 @@
+Senior Data Scientist - Mexico City (Hybrid)
+
+ICON plc is a world-leading healthcare intelligence and clinical research organization. We’re proud to foster an inclusive environment driving innovation and excellence, and we welcome you to join us on our mission to shape the future of clinical development.
+
+Symphony Health, part of the ICON plc family, is a team of curious thinkers and intellectual problem solvers driving the healthcare data industry forward. We leverage our large, integrated healthcare data repository and our analytic expertise to build customized, agile data solutions which answer the questions our clients -- life science manufacturers, payers, and providers -- have today, as well as those they’ll have tomorrow. Together, we can help patients get the right drugs at the right times.
+
+Symphony Health is hiring a Senior Data Scientist to join the Advanced Analytics team. Your expertise will be instrumental in leveraging advanced analytics and machine learning to extract insights that inform decision-making for our clients, both internal and external.
+
+Location: Mexico City, Mexico (60% office-based with 40% remote flexibility)
+
+What You Will Be Doing
+
+Collect, analyze, and interpret complex datasets to derive actionable insights
+Collaborate with cross-functional teams (such as customers and internal IT teams) to understand business needs, ensure data integrity and flow efficiency, and to create tools for customer utilization
+Provide quality validations and on-going support of client and projects
+Ensure quality control to evaluate the accuracy of deliverable and/or project analysis
+Monitor and be aware of trends in technology, data sciences, and business practice in the pharmaceutical industry, and provide advice and recommendations on emerging artificial intelligence / machine learning trends and applications
+Use the most appropriate data modelling / machine learning principles and tools to design, explore, and build scalable data solutions, potentially from source systems through to the presentation layer
+
+Your Profile
+
+3+ years of experience handling, managing, and analyzing data
+3+ years of SAS experience
+3+ years of SQL experience
+Understanding of statistics and/or statistical modelling
+Strong communication skills
+Ability and willingness to learn
+Ability to work as both a team player and individually
+Python and/or R experience (preferred)
+Experience with healthcare data, patient data, claims data experience (preferred)
+Bachelor’s degree in data science, statistics, computer science, or a related field
+Ability to work an average of 3 days per week in ICON's Mexico City, Mexico, office
+
+What ICON Can Offer You
+
+Our success depends on the quality of our people. That’s why we’ve made it a priority to build a diverse culture that rewards high performance and nurtures talent.
+
+In addition to your competitive salary, ICON offers a range of additional benefits. Our benefits are designed to be competitive within each country and are focused on well-being and work life balance opportunities for you and your family.
+
+Our Benefits Examples Include
+
+Various annual leave entitlements 
+A range of health insurance offerings to suit you and your family’s needs. 
+Competitive retirement planning offerings to maximize savings and plan with confidence for the years ahead. 
+Global Employee Assistance Programme, LifeWorks, offering 24-hour access to a global network of over 80,000 independent specialized professionals who are there to support you and your family’s well-being. 
+Life assurance 
+Flexible country-specific optional benefits, including childcare vouchers, bike purchase schemes, discounted gym memberships, subsidized travel passes, health assessments, among others. 
+
+Visit our careers site to read more about the benefits ICON offers.
+
+At ICON, diversity, inclusion & belonging are fundamental to our culture and values. Our rich diversity makes us more innovative which helps us better serve our people, patients, customers, and our communities. We're proud of our diverse workforce and the work we’ve done to become a more inclusive organisation. We’re dedicated to providing an inclusive and accessible environment for all candidates. ICON is committed to providing a workplace free of discrimination and harassment. All qualified applicants will receive equal consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability or protected veteran status.
+
+If, because of a medical condition or disability, you need a reasonable accommodation for any part of the application process, or in order to perform the essential functions of a position, please let us know or submit a request here
+
+Interested in the role, but unsure if you meet all of the requirements? We would encourage you to apply regardless – there’s every chance you’re exactly what we’re looking for here at ICON whether it is for this or other roles.
+
+Are you a current ICON Employee? Please click here to apply

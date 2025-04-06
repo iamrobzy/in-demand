@@ -1,0 +1,26 @@
+About The Company
+
+Harnham is a globally recognized recruitment agency specializing in data and analytics talent. With a presence across Europe and North America, Harnham has built a strong reputation for connecting highly skilled professionals with innovative companies at the cutting edge of data science, machine learning, and artificial intelligence. Their deep sector expertise and consultative approach enable them to partner with forward-thinking organizations, from start-ups to global enterprises, to deliver impactful talent solutions.
+
+About The Role
+
+As a Senior AI/ML Engineer, you will take a leading role in designing and implementing advanced machine learning models tailored for blockchain data analysis. You’ll be instrumental in building out the platform's intelligence capabilities, guiding the application of AI to uncover patterns and insights that empower crypto investors and safeguard portfolios.
+
+Key Responsibilities
+
+Design, implement, and scale AI/ML models for large-scale blockchain data analysis
+Collaborate cross-functionally to integrate models into a high-performance platform
+Mentor junior engineers and promote AI/ML best practices
+Stay updated with the latest developments in AI, ML, and blockchain
+Drive innovation and align AI initiatives with business goals
+
+Ideal Experience
+
+Proven experience in AI/ML model development and deployment
+Strong understanding of blockchain ecosystems and crypto data
+Ability to translate complex technical solutions into user-facing benefits
+Comfortable working in a fast-paced, data-driven environment
+
+Equal Opportunity
+
+Harnham and its clients are committed to fostering an inclusive workplace. All qualified applicants will receive consideration for employment without discrimination.

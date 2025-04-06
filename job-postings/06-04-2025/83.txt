@@ -1,0 +1,52 @@
+About PatSnap
+
+Patsnap empowers IP and R&D teams by providing better answers, so they can make
+
+faster decisions with more confidence. Founded in 2007, Patsnap is the global leader
+
+in AI-powered IP and R&D intelligence. Our domain-specific LLM, trained on our
+
+extensive proprietary innovation data, coupled with Hiro, our AI assistant, delivers
+
+actionable insights that increase productivity for IP tasks by 75% and reduce R&D
+
+wastage by 25%. IP and R&D teams collaborate better with a user-friendly platform
+
+across the entire innovation lifecycle. Over 15,000 companies trust Patsnap to
+
+innovate faster with AI, including NASA, Tesla, PayPal, Sanofi, Dow Chemical, and
+
+Wilson Sonsini.
+
+About The Role
+
+We are looking for machine learning engineers to help us improve various business
+
+outcomes and drive innovation. You will join a multidisciplinary team helping to
+
+shape our Product development. This is an excellent opportunity to take advantage
+
+of emerging trends and technologies to a real-world difference.
+
+Responsibilities
+
+Responsible for exploring NLP-related cutting-edge technologies and applying them to search senario and AI agent senario
+Responsible for analysing and understanding of the massive structured and unstructured data by NLP tasks, such as data processing, NER, relationship extraction, etc
+Responsible for developing and fine-tuning models to meet business requirements
+Work with a cross functional team to achieve business goals
+
+
+Requirements
+
+Minimum Qualifications
+Master or Bachelor degree in Computer Science, AI, or related field
+Excellent coding ability, data structure and basic algorithm foundation
+Proficient in C/C++ or Python
+Familiar with NLP-related algorithms and technologies
+Preferred Qualifications
+Familiar with at least one field among ML, NLP, LLM, etc
+Experience in using deep learning frameworks like PyTorch & TensorFlow
+Experience in LLM, abstract, NER, or prompt engineering tuning, instruction, fine-tuning
+Experience in optimising pre-trained models, familiar with BERT and GPT-based papers published in ACL/AAAI/KDD/NIPS/CVPR
+Good communication and collaboration skills, able to explore new technologies with the team and promote technological progress
+Excellent problem analysis and problem-solving skills, able to deeply solve the problems existing in LLM

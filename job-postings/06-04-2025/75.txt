@@ -1,0 +1,53 @@
+About the Role: 
+We are seeking a creative and technically skilled AI Voice Solutions Engineer to design and implement an AI-powered voice-over system for streamlining customer service usecases in a BFSI segement. You will build a solution that combines cutting-edge NLP, empathetic dialogue design, and seamless integration with existing systems to deliver a human-like, multilingual onboarding experience. 
+
+Key Responsibilities:
+1. Design & Development: 
+- Architect and develop an AI voice system for customer onboarding, including dynamic dialogues for 15+ scenarios (e.g., KYC reminders, loan approvals). 
+- Integrate NLP and TTS (Text-to-Speech and Speed to Text) tools (e.g., AWS Polly, Google Dialogflow) for realistic, multilingual voice interactions (English + regional languages). 
+
+2. Scriptwriting & UX: 
+- Craft conversational, empathetic scripts that balance clarity with warmth (e.g., celebratory tones for approvals, reassuring nudges for document uploads). 
+- Implement sentiment analysis to adapt dialogues based on customer emotions (e.g., frustration, confusion). 
+
+3. Tech Integration: 
+- Connect the AI system with CRM, document verification APIs, and SMS/WhatsApp for end-to-end onboarding workflows. 
+- Ensure scalability to handle 10,000+ concurrent calls. 
+
+4. Compliance & Security: 
+- Embed RBI-compliant processes (e.g., secure OTP authentication, call recording archival). 
+- Implement data encryption and privacy measures (GDPR, local regulations). 
+
+5. Testing & Iteration: 
+- Design test cases for edge scenarios (e.g., poor network connectivity, incomplete customer responses). 
+- Optimize based on feedback to improve CSAT and onboarding completion rates. 
+
+6. Documentation: 
+- Prepare technical specs, user guides, and compliance reports. 
+
+
+Qualifications: 
+
+Technical Skills: 
+- Proficiency in NLP frameworks (e.g., TensorFlow, PyTorch) and voice modulation tools (e.g., Amazon Polly, Resemble.AI).
+- Experience with cloud platforms (AWS, GCP) and APIs (REST, Webhooks). 
+- Familiarity with **Python/Java** for backend integration. 
+
+Soft Skills: 
+- Strong storytelling ability to design engaging, human-centric scripts. 
+- Excellent communication to collaborate with cross-functional teams (CX, Legal, Engineering). 
+
+Experience: 
+- 3+ years in AI voice solutions, chatbots, or conversational AI. 
+- Prior work in fintech, NBFCs, or banking (preferred). 
+
+Preferred Qualifications: 
+- Portfolio of voice-based projects (e.g., sample dialogues, demos). 
+- Knowledge of regional Indian languages (Hindi, Tamil, Telugu). 
+- Experience with **emotional AI** (sentiment analysis, tone modulation). 
+
+What We Offer:- 
+- Impact: Revolutionize onboarding for 500,000+ customers annually. 
+- Innovation: Freedom to experiment with emerging AI/voice technologies. 
+- Compensation: Competitive salary + performance-based bonuses + ESOPs. 
+- Growth: Access to industry conferences and upskilling programs.

@@ -1,0 +1,54 @@
+Lensa is the leading career site for job seekers at every stage of their career. Our client, DonorSearch, is seeking professionals in Marriottsville, MD. Apply via Lensa today!
+
+About Us
+
+DonorSearch, recognized as one of the Best Places to Work in 2024 , is a leader in innovative donor prospecting and fundraising intelligence. Our mission is to empower organizations with the tools they need to build meaningful connections and drive impact. Join a dynamic team where your work truly makes a difference.
+
+Job Overview
+
+We're seeking an exceptional Machine Learning & AI Engineer to drive innovation in our SaaS product. In this pivotal role, you'll collaborate directly with our VP of IT and Product Development Manager to architect, implement, and enhance AI-powered features that deliver measurable value to our customers.
+
+Key Responsibilities
+
+Spearhead the development and deployment of machine learning solutions, including predictive modeling and generative AI implementations 
+Design and implement internal ML model training pipelines and workflows 
+Lead integration efforts of various AI/ML technologies into our existing product stack 
+Architect scalable solutions utilizing AWS infrastructure 
+Establish best practices for AI/ML development and deployment 
+Provide technical leadership and mentorship within the engineering team 
+
+Technical Requirements
+
+Extensive experience developing and deploying machine learning models, with a strong focus on LLM implementations 
+Advanced proficiency in Python for ML/AI development and automation 
+Deep understanding of AWS services, particularly EC2 and S3 
+Experience with modern database technologies including MySQL, MongoDB, and Elasticsearch 
+Working knowledge of PHP and Laravel framework 
+Proven track record of implementing and managing production ML systems 
+
+Preferred Qualifications
+
+Experience with AWS Glue and DataRobot 
+Background in developing custom LLM applications 
+Familiarity with PHP/Laravel ecosystem 
+Experience with documentation systems and technical writing 
+
+Personal Qualities
+
+Demonstrated ability to work independently and manage complex projects 
+Exceptional problem-solving skills with strong attention to detail 
+Outstanding written and verbal communication abilities 
+Track record of innovation and creative solution development 
+Proactive mindset with excellent time management skills 
+Ability to translate technical concepts to non-technical stakeholders 
+
+What Sets You Apart
+
+History of successful AI/ML implementations in production environments 
+Experience building and leading technical teams 
+Proven ability to balance multiple priorities while maintaining high-quality deliverables 
+Strong documentation practices and commitment to knowledge sharing 
+
+This role offers an exciting opportunity to shape the future of AI implementation in our product while working with cutting-edge technologies. Join our team and make a significant impact on our technical direction and product success.
+
+Powered by JazzHR

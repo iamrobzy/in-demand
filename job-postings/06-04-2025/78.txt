@@ -1,0 +1,42 @@
+Hungry, Humble, Honest, with Heart!
+
+The Opportunity
+
+We are currently looking for adept backend engineers who are hungry to trailblaze enterprise AI adoption with expertise in compact large language models and low-touch deployment on distributed infrastructure. If this excites you and you are ready to venture outside your comfort zone, join us in building enterprise-ready LLM services from scratch. As you apply for this job, you'll be considered for our current and future ML roles.
+
+About Your Team
+
+Nutanix AI (NAI) streamlines the deployment of AI workloads and facilitates the development of applications from the ground up, leveraging a suite of open-source libraries and models. Key to our offering is the "Nutanix GPT-in-a-Box," a specialized solution designed to simplify the deployment process. Additionally, NAI provides robust support for the development of large language model (LLM)-based applications at a production scale. This includes, but is not limited to, use cases encompassing chat interfaces and automated code generation. Beyond these services, our team is actively involved in a range of advanced LLM-related research and development activities. These include pre-training, fine-tuning, Retriever-Augmented Generation (RAG), sophisticated inference pipelining, and Reinforcement Learning from Human Feedback (RLHF), positioning us at the forefront of AI and machine learning innovation. We regularly publish papers on conferences such as Neurips, ICLR, ICML, AAAI, and open source projects such as Kubernetes, Kubeflow, Pytorch. We also actively contribute to industry consortiums such as MLCommons.
+
+You will report to a seasoned Staff Data Scientist who will provide mentorship and guidance as you navigate through your responsibilities. The work setup at Nutanix AI is a hybrid model, offering a blend of in-office collaboration and remote work flexibility. As a new hire, you will be expected to be in the office for 3 days a week, ensuring that you have the opportunity to engage with your team and foster strong working relationships. Additionally, there are no significant travel requirements for this role, allowing you to focus on making impactful contributions to the team's projects and goals.
+
+Your Role
+
+Build production-grade LLM agents with a focus on high throughput, low latency, and enterprise security.
+Build, deploy, and manage enterprise AI applications in production.
+Develop data/ETL pipelines for training and fine-tuning LLMs.
+Lead the development of CI/CD pipelines on Jenkins-like platforms.
+Build monitoring and observability stacks for ML applications.
+Collaborate with internal teams on infrastructure setup, API integration, and improving internal developer productivity.
+Represent Nutanix in open-source LLM inference communities such as vLLM.
+
+What you will bring
+
+M.S. degree in Computer Science from a top-tier university.
+4–6 years of industry experience in large-scale ML application development on cloud-native platforms such as Kubernetes.
+1–2 years of industry experience in LLMOps, including cloud platforms such as AWS and GCP.
+Expertise in Python, especially with AI/ML libraries such as PyTorch.
+Expertise in LLM inference libraries such as vLLM.
+Strong programming skills in at least one systems-level programming language such as C++ or Go.
+Fluency with the open-source ecosystem, such as CNCF.
+Experience with multi-GPU parallelism techniques such as data parallelism and model parallelism is preferred.
+Contributions to relevant open-source projects such as vLLM or Ollama are a strong plus.
+Experience with CUDA programming is preferred.
+
+The pay range for this position at commencement of employment is expected to be between USD $ 100,000 and USD $ 200,400 per year.
+
+However, base pay offered may vary depending on multiple individualized factors, including market location, job-related knowledge, skills, and experience. The total compensation package for this position may also include other elements, including a sign-on bonus, restricted stock units, and discretionary awards in addition to a full range of medical, financial, and/or other benefits (including 401(k) eligibility and various paid time off benefits, such as vacation, sick time, and parental leave), dependent on the position offered. Details of participation in these benefit plans will be provided if an employee receives an offer of employment.
+
+Hybrid: This role operates in a hybrid capacity, blending the benefits of remote work with the advantages of in-person collaboration. For most roles, that will mean coming into an office a minimum of 2 - 3 days per week, however certain roles and/or teams may require more frequent in-office presence. Additional team-specific guidance and norms will be provided by your manager.
+
+If hired, employee will be in an “at-will position” and the Company reserves the right to modify base salary (as well as any other discretionary payment or compensation program) at any time, including for reasons related to individual performance, Company or individual department/team performance, and market factors. Our application deadline is 40 days from the date of posting. In good faith, the posting may be removed prior to this date if the position is filled or extended in good faith.

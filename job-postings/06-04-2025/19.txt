@@ -1,0 +1,96 @@
+About
+
+Senior Machine Learning Manager - Matching, Ad Platforms
+
+Cupertino, California, United States
+
+Machine Learning and AI
+
+Summary
+
+Posted:
+
+Mar 24, 2025
+
+Role Number
+
+200585809
+
+At Apple, we work every single day to build products that enrich people’s lives. Our Advertising Platforms group makes it possible for people around the world to easily access new content on their devices while helping publishers and developers promote and monetize their work. Our technology and services power advertising in the App Store and Apple News. Our platforms are highly-performant, deployed at scale, and setting new standards for enabling effective advertising while protecting user privacy. We're looking for a bold individual who can thrive in an Agile environment! You will drive strategic outcomes through meaningful innovation programs across multiple fields. This includes being responsible for the development and application of advanced techniques and algorithms to improve our ad network. You have, or will develop, a deep understanding of the ad network behavior. This means working with business and engineering leadership to develop and prioritize an innovation roadmap across multiple technical domains. You'll own the function that conceives of, develops, and delivers innovative capabilities that differentiate our products that are core to our business! We are looking for an outstanding hands-on machine learning (ML) manager who can thrive in a fast-paced environment. In this role you'll be responsible fore the strategy and development of our retrieval system and strategy which matches users to our with our Ads. You will work closely with Product Management partners to build a roadmap and lead teams to propose, design and analyze new algorithms; detect meaningful data patterns and signals while adhering to our strict privacy policies; measuring user, campaign and app performance; and finally analyzing the results of substantial large-scale experiments. Your ability to be an extraordinary teammate under tight deadline constraints is key to success.
+
+Description
+
+You will lead our matching teams where you will be responsible for creating retrieval systems (online and offline) that will optimized for user interaction and platform performance - You will oversee the design or our retrieval systems and work hand in hand with our Engineering teams to develop a scalable architecture that will allow our business to scale while maintaining our SLAs - You'll work across several Engineering and Business teams to scale your deliverables and bring an improved user experience and monetization potential to our platform - You have excellent understanding of scalable architectures including operational concerns
+
+Minimum Qualifications
+
+10+ years applying and leading teams that apply sophisticated statistical/ML methods and work with large, complex data sets
+
+4+ years experience building information retrieval systems in ads or search context
+
+Experience in some of the following domains: Algorithms, Architecture, Artificial Intelligence, Data Mining, Deep Neural Networks, Distributed Systems, Information Retrieval, Machine Learning, Natural Language Processing, Statistics
+
+Applicable understanding of mathematics behind modern machine learning, linear algebra and statistics
+
+Hands on experience developing & supervising Python or Java production code
+
+You're familiar with databases, SQL, and scripting languages
+
+Proven track record to take requirements from design through to implementation both independently and with larger teams
+
+You actively manage performance of the team reporting to you and take ownership to drive its outcome
+
+Experience developing and implementing ad algorithms, yield optimization solutions and marketplace data analyses within an ad network
+
+Masters or equivalent experience in AI/ML/Mathematics/CS or related field
+
+Preferred Qualifications
+
+PhD in AI/ML/CS/Mathematics or related field
+
+Pay & Benefits
+
+At Apple, base pay is one part of our total compensation package and is determined within a range. This provides the opportunity to progress as you grow and develop within a role. The base pay range for this role is between $219,300 and $378,700, and your base pay will depend on your skills, qualifications, experience, and location.
+
+Apple employees also have the opportunity to become an Apple shareholder through participation in Apple’s discretionary employee stock programs. Apple employees are eligible for discretionary restricted stock unit awards, and can purchase Apple stock at a discount if voluntarily participating in Apple’s Employee Stock Purchase Plan. You’ll also receive benefits including: Comprehensive medical and dental coverage, retirement benefits, a range of discounted products and free services, and for formal education related to advancing your career at Apple, reimbursement for certain educational expenses — including tuition. Additionally, this role might be eligible for discretionary bonuses or commission payments as well as relocation.Learn more about Apple Benefits. (https://www.apple.com/careers/us/benefits.html)
+
+Note: Apple benefit, compensation and employee stock programs are subject to eligibility requirements and other terms of the applicable plan or program.
+
+Apple is an equal opportunity employer that is committed to inclusion and diversity. We take affirmative action to ensure equal opportunity for all applicants without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, Veteran status, or other legally protected characteristics.Learn more about your EEO rights as an applicant. (https://www.eeoc.gov/sites/default/files/2023-06/22-088_EEOC_KnowYourRights6.12ScreenRdr.pdf)
+
+Apple Footer
+
+Apple is an equal opportunity employer that is committed to inclusion and diversity. We take affirmative action to ensure equal opportunity for all applicants without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, Veteran status, or other legally protected characteristics. Learn more about your EEO rights as an applicant (Opens in a new window) .
+
+Apple will not discriminate or retaliate against applicants who inquire about, disclose, or discuss their compensation or that of other applicants. United States Department of Labor. Learn more (Opens in a new window) .
+
+Apple participates in the E-Verify program in certain locations as required by law. Learn more about the E-Verify program (Opens in a new window) .
+
+Apple is committed to working with and providing reasonable accommodation to applicants with physical and mental disabilities. Reasonable Accommodation and Drug Free Workplace policy Learn more (Opens in a new window) .
+
+Apple is a drug-free workplace. Reasonable Accommodation and Drug Free Workplace policy Learn more (Opens in a new window) .
+
+Apple will consider for employment all qualified applicants with criminal histories in a manner consistent with applicable law. If you’re applying for a position in San Francisco, review the San Francisco Fair Chance Ordinance guidelines (opens in a new window) applicable in your area.
+
+It is unlawful in Massachusetts to require or administer a lie detector test as a condition of employment or continued employment. An employer who violates this law shall be subject to criminal penalties and civil liability.
+
+Nice-to-have skills
+
+Machine Learning
+Artificial Intelligence
+Algorithms
+Data Mining
+Distributed Systems
+Statistics
+Python
+Java
+SQL
+California, United States
+
+Work experience
+
+Machine Learning
+
+Languages
+
+English

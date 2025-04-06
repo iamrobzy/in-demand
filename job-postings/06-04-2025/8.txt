@@ -1,0 +1,65 @@
+Le poste
+
+Descriptif du poste
+
+Quelques Informations à L’intention Des Candidats
+
+Il ne s’agit pas d’une offre d’alternance.
+
+Il ne s’agit pas d’une offre pour un stage de développement mais d’un stage ouvrier.
+
+Il ne s’agit pas d’une offre pour un stage de fin d’étude.
+
+Les candidatures pour l’un de ces points ne seront pas traitées
+
+\******
+
+Diduenjoy récolte chaque mois pour le compte de ses entreprises clientes via ses questionnaires de satisfaction (NPS, CSAT…)
+
+Ces données “non structurées” où les consommateurs expriment avec leurs propres mots sont une mine d’information exceptionnelle pour les entreprises.
+
+Pour aider les entreprises à exploiter automatiquement ces verbatims, Diduenjoy développe une technologie de catégorisation des commentaires.
+
+Cette technologie s’appuie sur des techniques d’Intelligence Artificielle (IA) combinant des algorithmes avec une approche reposant sur l’analyse sémantique et le sentiment associé.
+
+Dans le cadre de ce travail, DIDUENJOY recherche des stagiaires pour contribuer à améliorer nos méthodes de catégorisation.
+
+Concrètement Vous Devrez
+
+Appréhender les parcours utilisateurs relatifs aux retours analysés.
+Labelliser des commentaires libres ( selon les prédictions de l’IA ).
+Identifier les tendances.
+Participer à l’amélioration de la technologie.
+
+Attention, il ne s’agit pas d’un stage de développement informatique ou de programmation, les missions sont accessibles au niveau stage ouvrier.
+
+Vous ne serez pas amené à faire du développement lors de ce stage.
+
+Des connaissances et un intérêt pour le domaine de la mode et du luxe seront un plus sans être un critère limitant
+
+CE QUE VOUS APPORTERA LE STAGE
+
+La découverte de l’univers d’une startup SaaS BtoB aux enjeux très technologique.
+La participation à l’élaboration d’un outil de machine learning avec des développeurs full stack confirmées
+
+Rémunération
+
+Rémunération 4.35€ BRUTE par heure y compris pour les stages de moins de 2 mois + 50% des frais de transport (métro) + 10€ de tickets restaurants Swile pris en charge à 50%
+
+Voir plus
+
+Profil recherché
+
+Tu es étudiant(e) en école d’ingénieur ( niveau bac +1 à bac +3 ) située en métropole
+
+Tu as besoin de réaliser un stage ouvrier et non un stage de developpement ou de fin d’études
+
+Tu es intéressé(e) par les sujets de Data Science et d’Intelligence Artificielle.
+
+Tu maîtrises l’anglais
+
+Déroulement des entretiens
+
+Entretien de motivation 20 minutes
+
+Cas pratique de 30 minutes

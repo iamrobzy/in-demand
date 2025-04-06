@@ -1,0 +1,68 @@
+About
+
+About the Department 
+
+Our Research & Development organization brings together the best minds in life science innovation. The teams located in facilities in Lexington, Watertown, Cambridge and Seattle reflect the full R&D continuum, from early research through late-stage clinical development. Here, we are building for the future, creating a distinct R&D community based on collaboration, partnerships, and cutting-edge research across multiple modalities and therapeutic areas. We recognize that improving human health starts here and that patients rely on us. Our R&D hub merges biotech speed and agility with large pharmaceutical company quality, resources, and stability, uniting the best of both worlds to develop new medicines for patients.
+
+The Machine Intelligence (MI) team is part of Novo Nordisk’s AI and Digital Research (AIDR) area where we apply and develop state of the art capabilities in predictive science, AI/ML and structure-based drug design. Scientists within MI collaborate seamlessly with teams across the globe to invent better molecules faster. With an unbiased approach to drug modalities, in-house access to the newest screening techniques, and world-class experimentation, we have a wealth of opportunities to impact our pipeline and ultimately save and improve patient lives. We work in multidisciplinary, highly collaborative discovery teams both locally and across Novo Nordisk’s global network to invent novel medicines by applying advanced computational techniques and developing innovative computational methods. We engage in external collaborations to ensure access to cutting edge research and technology.
+
+The Position
+
+The Principal ML Scientist – Molecular AI will be a critical team member of Machine Intelligence and contribute to the research team's effort towards exploring and creating new technology and continuing to be a world leader in molecular drug design. The Principal ML Scientist will contribute to the development and deployment of state-of-the-art generative AI methodologies within computational drug design and contribute to the teams visibility in this field both internally and externally, via strong contributions to the research portfolio, cross-organisational engagement, presentations and publications. Moreover, the Senior Data Scientist will guide more junior Data Scientists in the execution of their tasks.
+
+Relationships
+
+The Principal ML Scientist – Molecular AI reports to the Head of Machine Intelligence and interacts closely with colleagues in the department and in the other departments within AI and Digital Research (AIDR), in particular the department of Molecular AI within Computational Drug Design, to drive the applications of generative AI within R&EDs computational drug discovery portfolio. Additional internal partners include data scientists, specialists, engineers, software developers, technology scouts & partnership developers and others across US and Denmark. External relationships include commercial and academic collaboration partners.
+
+Essential Functions
+
+Scientific work:
+
+Drive integration of state-of-the-art generative AI methodologies within computational drug design 
+Optimize generative AI methodologies in conjunction with one or more design criteria for novel compound generation
+Develop and implement new deep learning methods 
+Execute training, fine-tuning and inference of large models on GPUs 
+Deliver state of art methodologies and capabilities to the design and optimization of therapeutics by applying and developing the latest machine learning and AI algorithms 
+Mentor and lead ML scientists and engineers to guide the development of our ML models 
+Conceptualize approaches, identify capability gaps, and set goals within molecular AI
+Represent AI and Digital Research as a technical/scientific lead on cross-functional research teams that include discovery, development and research IT organizations 
+Maintain a well-documented, reusable codebase, and traceable model history 
+Maintain scientific and technical expertise through familiarity with scientific literature and attending conferences 
+Publish research in developing AI methods (example in ICLR, NeurIPS, ICML, Nature, Science, Cell etc.) 
+
+
+Collaborative Teamwork
+
+Work closely with Computational Drug Design, Research Engineer and other parts of the organization to driven the development and implementation of modern methods for molecular design 
+Actively participate and lead virtual global team meetings regularly 
+Participate and lead evaluation of external and internal capabilities and facilitate collaborations with external partners 
+Present your results to an interdisciplinary team of experimental, modeling scientist and machine learning colleagues at company meetings and strategic program readouts
+
+
+Physical Requirements
+
+0-10% overnight travel required.
+
+Qualifications
+
+Master’s degree from an accredited university or equivalent education with 12+ years of experience and/or Doctorate degree from an accredited university or equivalent education with 8+ years of experience required.
+Ph.D. with 6+ years of relevant experience preferred 
+Degree within machine learning, computer science, computational chemistry or a related quantitative discipline preferred
+Proven track record developing and implementing new deep learning methods in the space of molecular AI design
+Expert in PyTorch, training, fine-tuning and inference of large models on GPUs 
+Experience with working in the pharmaceutical industry and developing adaptable ML workflows. 
+Experience with modern version control and continuous integration / testing systems 
+Knowledge of at least 2 of the following: deep learning, Bayesian reasoning, learning from semi-structured data, reinforcement or active learning, large language models. 
+Previous experience leading large AI/ML projects that require engaging with collaborators with varying degrees of expertise. 
+Excellent oral and written communication skills. 
+Detail oriented with strong documentation skills 
+Examples of your work, such as GitHub repository or publications that can showcase your skill 
+
+
+We commit to an inclusive recruitment process and equality of opportunity for all our job applicants.
+
+At Novo Nordisk we recognize that it is no longer good enough to aspire to be the best company in the world. We need to aspire to be the best company for the world and we know that this is only possible with talented employees with diverse perspectives, backgrounds and cultures. We are therefore committed to creating an inclusive culture that celebrates the diversity of our employees, the patients we serve and communities we operate in. Together, we’re life changing.
+
+Novo Nordisk is an equal opportunity employer. Qualified applicants will receive consideration for employment without regard to race, ethnicity, color, religion, sex, gender identity, sexual orientation, national origin, disability, protected veteran status or any other characteristic protected by local, state or federal laws, rules or regulations.
+
+If you are interested in applying to Novo Nordisk and need special assistance or an accommodation to apply, please call us at 1-855-411-5290. This contact is for accommodation requests only and cannot be used to inquire about the status of applications.

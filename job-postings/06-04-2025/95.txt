@@ -1,0 +1,61 @@
+Before you apply to a job, select your language preference from the options available at the top right of this page.
+
+Explore your next opportunity at a Fortune Global 500 organization. Envision innovative possibilities, experience our rewarding culture, and work with talented teams that help you become better every day. We know what it takes to lead UPS into tomorrow—people with a unique combination of skill + passion. If you have the qualities and drive to lead yourself or teams, there are roles ready to cultivate your skills and take you to the next level.
+
+Job Description:
+
+SENIOR MACHINE LEARING OPS ENGINEER - MLOPS
+
+GRADE 20I
+
+We will consider candidates in Mahwah, NJ or Atlanta, GA.
+
+As a Sr. MLOps Engineer, you will be a part of the MLOPS team responsible for ensuring guardrails and implementing code for complex business problems leveraging machine learning models and generative AI. Your expertise will be used to develop streamlined deployment patterns, implementing best practices for version control, scalability, and model performance. Proficiency in cloud platforms, containerization, and CI/CD pipelines is required along with a broad aptitude for application lifecycles and network/infrastructure design patterns.
+
+Responsibilities
+
+Researches and implements appropriate ML algorithms and tools that create new systems and processes powered with ML and AI tools and techniques according to business requirements
+Establishes, configures, and supports scalable cloud components that serve predictive model transactions
+Collaborates with skilled Designers, Architects, Software Engineers, Data Scientists and Data Engineers to deliver ML products and systems for the organization.
+Design, implement, and manage CI/CD pipelines to streamline the deployment of machine learning models into production environments.
+Transition data science ML prototypes into reliable production-grade solutions. Build and maintain APIs to host machine learning models ensuring smooth integration with other applications while prioritizing scalability, security, and maintainability.
+Establish and enforce best practices for version control of solutions, including application & model versioning, ensuring traceability and reproducibility for troubleshooting.
+Integrates data from authoritative internal and external sources with data pipelines, ensuring that sensitive data is handled appropriately and efficiently, adhering to best security practices.
+Implement monitoring systems for tracking model and API performance in production with the ability to identify anomalies and report important business statistics.
+Automate repetitive tasks such as model deployment and scalability of model features, while ensuring appropriate uptime to meet business RTOs & RPOs.
+Document system designs & workflows to ensure transparency and maintainability of infrastructure.
+
+
+Qualifications
+
+Experience in machine learning engineering or related roles, with a track record of developing and deploying models in production environments.
+Familiarity with cloud computing platforms (AWS, Azure, GCP - Preferred) and containerization technologies (Docker, Kubernetes).
+Excellent problem-solving skills with attention to detail, effective communication, and collaboration skills across technical and non-technical teams.
+Excellent written and verbal communication skills
+Experience in Agile/Scrum methodologies and interdisciplinary team environments is a plus.
+Proven experience in implementing and managing CI/CD pipelines, including vulnerability scanning, unit testing, automated deployment using tools such as ADO, Jenkins, JFrog, SonarQube.
+Strong understanding of the full ML lifecycle, including data pipelining,model training, testing, deployment, and monitoring.
+Experience designing, developing, and deploying APIs to host models using frameworks like Flask, FastAPI, etc.
+Comfortable using Git, Powershell, Bash.
+Strong knowledge of cloud infrastructure and services used for supporting model deployment (Cloud Storage, Databricks, Airflow/Kubeflow, Docker, Kubernetes, Vertex, BigQuery, etc.)
+Leverages infrastructure as code tools (i.e. Terraform & Helm)
+Bachelor’s degree in computer science, engineering, mathematics, or related field
+
+
+Last Day Posted Internally - 3/26/25
+
+Our compensation reflects the cost of labor across several US geographic markets. The base pay for this position ranges from $111,780/year to $184,140/year. Pay is based on several factors including but not limited to, market location and may vary depending on job-related knowledge, skills, and education/training and a candidate’s work experience. Hired applicants may be eligible for annual short-term and/or long-term incentive compensation programs depending on the level of the position. Payments under these annual programs are not guaranteed and are dependent upon a variety of factors including, but not limited to, individual performance, business unit performance, and/or the company’s performance. Hired applicants may be eligible for Medical/prescription drug coverage, Dental coverage, Vision coverage, Flexible Spending Account, Health Savings Account, Dependent Care Flexible Spending Account, Basic and Supplemental Life Insurance & Accidental Death and Dismemberment, Disability Income Protection Plan, Employee Assistance Program, 401(k) retirement program, Vacation, Paid Holidays and Personal time, Paid Sick and Family and Medical Leave time as required by law, and Discounted Employee Stock Purchase Program.
+
+Employee Type:
+
+Permanent
+
+UPS is committed to providing a workplace free of discrimination, harassment, and retaliation.
+
+Other Criteria: 
+
+UPS is an equal opportunity employer. UPS does not discriminate on the basis of race/color/religion/sex/national origin/veteran/disability/age/sexual orientation/gender identity or any other characteristic protected by law.
+
+Basic Qualifications:
+
+Must be a U.S. Citizen or National of the U.S., an alien lawfully admitted for permanent residence, or an alien authorized to work in the U.S. for this employer.

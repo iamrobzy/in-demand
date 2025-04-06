@@ -1,0 +1,67 @@
+This job is with Booking.com, an inclusive employer and a member of myGwork – the largest global platform for the LGBTQ+ business community. Please do not contact the recruiter directly. 
+
+About Us: At Booking.com, data drives our decisions. Technology is at our core. And innovation is everywhere. But our company is more than datasets, lines of code or A/B tests. We’re the thrill of the first night in a new place. The excitement of the next morning. The friends you encounter. The journeys you take. The sights you see. And the memories you make. Through our products, partners and people, we make it easier for everyone to experience the world.
+
+Role Overview
+
+At Booking.com, we 're searching for an expert in Machine Learning Engineering and marketing measurement to help drive and grow our data-driven decision-making efforts. In this pivotal role, you'll be at the forefront of developing and implementing pioneering data-driven attribution approaches to optimise the allocation of multi-billion-dollar budgets across various marketing channels.
+
+This is a rare opportunity to join a world class team at a data led company. In this role you will work closely with Data Scientists, Data Engineers, Machine Learning Scientists, as well as marketing experts and leadership.
+
+A successful candidate will understand that information and data are key business assets and operationalize the application of data and information in order to deliver optimal performance
+
+Key Job Responsibilities And Duties
+
+Develop production-grade machine learning code, from models to features and pipelines, allowing for scalability, realtime, monitoring and retraining.
+Build readable and reusable code, choosing the right technologies and coding methodologies applying knowledge of business area tools and product needs.
+Monitor product health, performance and business impact and act accordingly when requirements are not met.
+Identify underlying issues and opportunities across related domains and situations through application of structured thinking and logic.
+Solve issues by applying methods and insights gained from a variety of disciplines, navigating a variety of environments.
+Make things happen by maintaining motivation and conveying a sense of urgency, focusing on outcomes and accomplishments.
+Clearly communicates with stakeholders at all levels when appropriate.
+Continuously evolve their craft, keeping up to date with the latest technologies.
+Actively contribute to Machine Learning at Booking.com through training, exploration of new technologies, interviewing, onboarding and mentoring colleagues.
+Collaborate with central teams to improve, scale and extend machine learning tooling and infrastructure.
+Responsible for technical implementation and maintenance of data processing services and storage systems in line with the Data Governance Framework.
+
+Qualifications & Skills
+
+Strong knowledge in areas like e.g. Recommender Systems, Deep Learning, Information Retrieval, Computer Vision, Speech Recognition, Causal Inference, scaling ML models, etc.
+4+ years of relevant work experience (or equivalent), involved with the application of Machine Learning to business problems, preferably in a commercial environment.
+BSc or higher in Computer Science, Artificial Intelligence, Software Engineering, or related fields.
+Knowledge of multiple machine learning facets, such as working with large data sets, experimentation, scalability and optimization.
+Experience with data-driven product development: analytics, A/B testing, etc.
+Strong working experience in one or more general purpose programming languages, including but not limited to: Java, Python or Perl.
+Knowledge of version control systems.
+Excellent English communication skills, both written and verbal.
+
+Benefits & Perks - Global Impact, Personal Relevance
+
+Booking.com’s Total Rewards Philosophy is not only about compensation but also about benefits. We offer a competitive compensation and benefits package, as well unique-to-Booking.com benefits which include:
+
+Annual paid time off and generous paid leave scheme including: parental (22-weeks paid leave), grandparent, bereavement, and care leave
+Hybrid working including flexible working arrangements, working from home furniture and ergonomic support, and up to 20 days per year working from abroad (home country)
+A beautiful sustainable HQ Campus in Amsterdam, that offers on-site meals, coffee, and snacks, multi-faith and breastfeeding rooms at the office
+Commuting allowance and bike reimbursement scheme
+Discounts & Wallet credits to spend on our products, upgrade to Booking.com Genius Level 3, and friends & family Booking.com discount vouchers
+Free access to online learning platforms, development and mentorship programs
+Global Employee Assistance Program, free Headspace membership
+
+Diversity, Equity And Inclusion At Booking.com
+
+Diversity, Equity & Inclusion have been a core part of our company culture since day one. This ongoing journey starts with our very own employees, who represent over 140 nationalities and a wide range of ethnic and social backgrounds, genders and sexual orientations.
+
+Take it from our Chief People Officer, Paulo Pisano: “At Booking.com, the diversity of our people doesn’t just build an outstanding workplace, it also creates a better and more inclusive travel experience for everyone. Inclusion is at the heart of everything we do. It’s a place where you can make your mark and have a real impact in travel and tech.”
+
+We ensure that colleagues with disabilities are provided the adjustments and tools they need to participate in the job application and interview process, to perform crucial job functions, and to receive other benefits and privileges of employment.
+
+Career Development Opportunities
+
+Learn more about Your Career Journey here. 
+This role does not come with relocation assistance.
+
+Booking.com is proud to be an equal opportunity workplace and is an affirmative action employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability, age, or veteran status. We strive to move well beyond traditional equal opportunity and work to create an environment that allows everyone to thrive.
+
+Pre-Employment Screening
+
+If your application is successful, your personal data may be used for a pre-employment screening check by a third party as permitted by applicable law. Depending on the vacancy and applicable law, a pre-employment screening may include employment history, education and other information (such as media information) that may be necessary for determining your qualifications and suitability for the position.

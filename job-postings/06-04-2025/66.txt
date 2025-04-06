@@ -1,0 +1,42 @@
+About Lightfield
+
+Lightfield is a new kind of CRM.
+
+It's a collaborative system for founders to find, understand, and serve customers faster than anything before it.
+
+It captures every customer interaction, generates and performs followup actions, and answers questions about your go-to-market using knowledge obtained in real time.
+
+Our system is tuned and customized by a team of experienced sellers, engineers, and researchers. Many of us worked on large-scale products including Llama, Messenger, Instagram, Pinterest, and Linkedin before this.
+
+Lightfield.app
+
+About The Role
+
+Lightfield's AI/ML team builds the experiences at the core of our product, developing new applications to wow our customers.
+
+Today, the team is focused on building a powerful, domain-specific AI that outperforms generic LLMs.
+
+We’re inspired by the challenge of creating innovative new AI products for people doing serious work, and we’re looking to grow our AI/ML team to meet that challenge.
+
+What You'll Do
+
+Create and ship magical, highly-differentiated AI experiences that sales teams are eager to use
+Craft Lightfield's AI/ML strategy in tight collaboration with founders and execs
+Identify user needs that are well suited for AI/ML solutions, frame the problems, and collaborate with product leaders on solutions
+Prototype innovative, LLM-powered experiences, and drive their development into robust product features
+Help build a world class AI/ML engineering team by recruiting and mentoring teammates
+
+Who You Are
+
+You have a BS or MS degree in CS, AI, or applied math
+You have 5+ years of experience building AI/ML based products in NLP domains
+You have a strong understanding of deep learning AI/ML frameworks or cloud services
+You have hands-on ML Ops experience
+
+Bonus Points
+
+Experience leading AI/ML product initiatives
+Publications in applied AI/ML scientific journals
+Experience navigating open source/vendor solutions in LLM ops space (LangChain, Llama, Pinecone, etc)
+
+Compensation Range: $180K - $270K

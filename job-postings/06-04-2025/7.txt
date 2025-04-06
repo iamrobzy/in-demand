@@ -1,0 +1,35 @@
+Company Description
+We want to make talking to AIs as human as possible.
+
+Today, the highest adoption for voice-first AI interaction is happening in telephony voice agents. But, our personal interactions with banks / medical providers (e.g. GPs) / government (e.g. HMRC) has not changed at all; it’s still the same long queue times, or IVR systems. This is because the current AI telephony voice agent stack is broken - success rates are low, it’s a slow process to get them to work reliably. And this is just in carefully crafted low-risk scenarios where call times are shorter than 2 minutes.
+
+The problems preventing adoption can’t be solved by any amount of data, and we’re re-architecting the underlying machine learning models (speech-to-text, text-to-speech, and LLMs) from the ground up to solve this.
+
+The company was founded by Sid, one of the first 5 technical employee at Wayve.ai (which recently raised $1bn dollars), and Vatsal (who was critical in building Alexa’s first deep learning voice, and studied+taught Maths & CS at Cambridge). Our team is passionate and driven by building products that are deeply loved by the people who use them.
+
+We’re backed by top tier US and European VCs and angels like ex-CTO of CoinBase, ex-VP of Twitter, and ex-CEO of Wayve.ai.
+
+Requirements and Experience
+Senior: EITHER
+exceptional projects in this space built in spare time along with 2+ years of industry experience in applied research setting OR
+1+ of years of extremely relevant experience
+
+Junior/mid-level:
+0-2 years of experience + projects training SOTA GenAI models in spare time
+
+What we offer
+Environment to do the best work of your life.
+Small team, great people.
+Opportunity to make cutting-edge research work from scratch for production scenarios
+Work with 10s-100s of TBs of data, and >1-10B parameter models.
+Change the world (when we succeed): calls will never be the same again
+We’ll provide immigration support, we are immigrants ourselves.
+Significant equity.
+
+Interview Process
+We move with speed, and aim to go from first interview to offer within a week.
+Quick 15 mins chat with one of the founders
+Take home task and/or 1-3 technical interviews (depending on preferences)
+2x Culture interview with co-founders
+Paid “work together” session
+Offer

@@ -1,0 +1,59 @@
+To get the best candidate experience, please consider applying for a maximum of 3 roles within 12 months to ensure you are not duplicating efforts.
+
+Job Category
+
+Software Engineering
+
+Job Details
+
+About Salesforce
+
+We’re Salesforce, the Customer Company, inspiring the future of business with AI+ Data +CRM. Leading with our core values, we help companies across every industry blaze new trails and connect with customers in a whole new way. And, we empower you to be a Trailblazer, too — driving your performance and career growth, charting new paths, and improving the state of the world. If you believe in business as the greatest platform for change and in companies doing well and doing good – you’ve come to the right place.
+
+Slack is looking for a Machine Learning Infrastructure Engineer to help us craft a robust and powerful platform to deliver artificial intelligence and machine learning experiences to our customers. You’ll be working on building robust, scalable, reliable, and efficient infrastructure to serve cutting edge foundational models as well as more traditional machine learning models. A great candidate will have experience both with ops/infra work to run services in the cloud and a solid understanding of AI/ML and its particular infra demands.
+
+About The Role
+
+Here at Slack, we believe we can build terrific product experiences for our customers with AI, letting them tap into their organizations’ collective knowledge. We have an opportunity to develop experiences that automate mundane tasks, efficiently find answers, and sift through the massive amount of information at a company to find what’s relevant for a particular worker. We’re investing in this area in a drive to make the work lives of the millions of knowledge workers who rely on slack day to day more productive and delightful.
+
+The ML Infrastructure team, part of Slack’s Core Infrastructure organization, is responsible for delivering the platform, infrastructure, and expertise in ML/AI to make this product vision possible. We’ve built out much of this already as part of our Recommendation API, but the needs of foundational AI models, with their unique development model and architectural needs, will require even further investment in our capabilities. We’re looking to hire machine learning infrastructure engineers who can help us deliver on that mission.
+
+What You Will Be Doing
+
+Managing deployments of machine learning models in our own kubernetes-based deployment system and through AWS Bedrock and SageMaker, working with tools like Chef, Hashicorp Terraform, and KubeRay.
+Optimizing our models and infrastructure to reduce latency and handle spikes in traffic.
+Constantly evaluating and improving our infrastructure to maximize efficiency and minimize costs.
+Setting up our model training infrastructure to fine tune embedding models while keeping our customer’s data secure.
+Working with our search team to generate embeddings at scale to power semantic search and enterprise search.
+Working with our ML Modeling and AI teams to support development of AI features and deployment at scale.
+Building and supporting an AI Platform.
+Supporting 24/7 on-call rotation.
+
+What You Should Have
+
+Have 5+ years experience with software engineering, which includes 3+ years in machine learning.
+Have built large-scale, distributed, production ML/AI systems professionally and can point to things you’ve worked on.
+Worked on complex issues where the analysis requires an in-depth knowledge of the company and existing architecture.
+Love to model modern methodologies for unit tests, code review, design documentation, debugging, and troubleshooting.
+Are curious, inquisitive, and determined to fix things when they break.
+Work well with a team of diverse backgrounds and experience on complicated projects.
+Have experience developing, monitoring, and deploying systems in cloud environments like AWS, GCP, and Azure
+Experience with ops tools and frameworks such as Terraform, Chef, and Kubernetes
+Experience with ML model serving frameworks/toolkits like Kubeflow, MLflow, AWS Bedrock and SageMaker
+Experience with functional or imperative programming languages: PHP, Python, Ruby, Go, C, Scala or Java
+Have experience with Grafana, Prometheus, Honeycomb, or other monitoring software
+
+Nice To Have
+
+You’re analytical and data driven
+You have experience developing machine learning models in PyTorch, TensorFlow, XGBoost, Scikit-learn or similar.
+You have experience with building data pipelines in Airflow, Spark, and similar.
+You have experience with vector based retrieval like through Vespa, Milvus, or Solr
+
+Accommodations
+
+If you require assistance due to a disability applying for open positions please submit a request via this Accommodations Request Form.
+
+Posting Statement
+
+Salesforce is an equal opportunity employer and maintains a policy of non-discrimination with all employees and applicants for employment. What does that mean exactly? It means that at Salesforce, we believe in equality for all. And we believe we can lead the path to equality in part by creating a workplace that’s inclusive, and free from discrimination. Know your rights: workplace discrimination is illegal. Any employee or potential employee will be assessed on the basis of merit, competence and qualifications – without regard to race, religion, color, national origin, sex, sexual orientation, gender expression or identity, transgender status, age, disability, veteran or marital status, political viewpoint, or other classifications protected by law. This policy applies to current and prospective employees, no matter where they are in their Salesforce employment journey. It also applies to recruiting, hiring, job assignment, compensation, promotion, benefits, training, assessment of job performance, discipline, termination, and everything in between. Recruiting, hiring, and promotion decisions at Salesforce are fair and based on merit. The same goes for compensation, benefits, promotions, transfers, reduction in workforce, recall, training, and education.

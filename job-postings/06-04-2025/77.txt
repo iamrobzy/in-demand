@@ -1,0 +1,22 @@
+Responsibilities:
+Develop new AI-powered features aligned with the product roadmap while adhering to coding standards.
+Develop and implement APIs and services to integrate AI models into existing content and sales workflows.
+Build user interfaces for AI-powered features, such as content recommendation engines, personalized advertising, and automated content generation.
+Proactively identify and implement solutions to technical challenges, with a focus on optimizing AI performance and scalability.
+Investigate and resolve product issues as a key resource.
+Build, deploy, and maintain efficient, reusable, and reliable code.
+Pay meticulous attention to detail; quickly learn and absorb new technologies.
+Be a strong team player and rapidly adapt to changing business and customer demands.
+Requirements:
+Bachelor’s degree in computer science, engineering, or a related field.
+3+ years of experience in a technology-focused role, with a strong understanding of AI/ML concepts and applications.
+Excellent written and oral communication skills.
+Proven experience working in an onshore-offshore model; open to working as part of a collaborative high-performing team; adaptable.
+Experience with Agile methodologies, project management tools (Jira), and collaboration platforms.
+Essential Technical Skills:
+Strong foundation in Python
+Cloud Computing (AWS, Azure)
+Experience with AI/ML frameworks (TensorFlow, AWS AI tools, PyTorch, and scikit-learn a plus)
+API Development (RESTful APIs, GraphQL a plus)
+Modern JavaScript Frameworks (React, Vue.js, Angular)
+Database Expertise (SQL and NoSQL); experience working with large datasets, including data extraction, cleaning, transformation, and loading (ETL) processes.

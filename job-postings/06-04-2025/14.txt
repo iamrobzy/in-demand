@@ -1,0 +1,24 @@
+A Kalendae atua desde 2005 no mercado brasileiro, oferecendo serviços de co-sourcing e consultoria, além de desenvolvimento de aplicações, segurança da informação, consultoria em serviços de infraestrutura on premise e em cloud e capacitação em gerenciamento de serviços de TI e Negócios.
+
+Buscamos evolução contínua em nossos serviços voltada à satisfação de nossos clientes e realização de nossos colaboradores.
+
+Experiência significativa em BI, análise de dados e Machine Learning;
+Proficiência em ferramentas de BI como Power BI, Tableau, etc.;
+Conhecimento de linguagens de programação como Python, R, ou SQL;
+Experiência em plataformas de Machine Learning e Big Data (ex: AWS, Azure, Google Cloud);
+Fortes habilidades analíticas e de resolução de problemas;
+Excelente capacidade de comunicação e trabalho em equipe;
+Bacharelado em Ciência da Computação, Engenharia de Dados, Estatística, ou área relacionada será um diferencial;
+Certificações relevantes serão uma vantagem.
+
+Descrição da Vaga: Estamos buscando um Gerente de BI e Machine Learning altamente qualificado para liderar nosso time de análise de dados e inteligência artificial. O candidato ideal terá ampla experiência em Business Intelligence, modelagem de dados e aplicação de técnicas de Machine Learning.
+
+Responsabilidades
+
+Gerenciar e liderar a equipe de BI e Machine Learning;
+Desenvolver, implementar e manter soluções de BI e ML para suportar decisões estratégicas;
+Analisar grandes volumes de dados para identificar padrões e insights acionáveis;
+Colaborar com diversas áreas da empresa para entender necessidades de dados e gerar relatórios detalhados;
+Supervisionar a implementação de modelos de Machine Learning em produção;
+Monitorar a performance dos modelos e realizar ajustes contínuos para otimização;
+Assegurar a qualidade e integridade dos dados utilizados nas análises.

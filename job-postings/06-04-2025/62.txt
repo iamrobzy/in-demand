@@ -1,0 +1,42 @@
+Description
+
+Have you ever thought about what it takes to detect and prevent fraudulent activity in hundreds of millions of eCommerce transactions across the globe? What would you do to increase trust in an online marketplace where millions of buyers and sellers transact? How would you build systems that evolve over time to proactively identify and neutralize new and emerging abuse threats?
+
+Our mission in Buyer Risk Prevention (BRP) is to make Amazon.com the safest place to transact online. BRP safeguards every financial transaction across all Amazon sites, while striving to ensure that these efforts are transparent to our legitimate customers. As such, BRP designs and builds the software systems, risk models and operational processes that minimize risk and maximize trust in Amazon.com
+
+Key job responsibilities
+
+Risk Analyst will own analytical deep dives to identify emerging abuse patterns and communicate findings to ML teams, Program Managers and other cross-functional partners. The successful candidate will demonstrate an ability to thrive in a fast-paced and challenging environment and partner with stakeholders across multiple domains.
+
+A day in the life
+
+Role
+
+A typical day for a Risk Analyst revolves around leveraging advanced analytical techniques and tools to uncover patterns, anomalies, and potential abuse schemes. This role will:
+
+Provide time sensitive analytics to partner teams
+Deep Dive on emerging abuse patterns using SQL on large datasets
+Identify root cause and work with partners such as ML teams to develop sustainable solutions.
+
+About The Team
+
+Abuse Risk Mining Analytics' mission is to combine the latest data science techniques with investigator insights to detect and prevent abuse & negative customer experiences across Amazon.
+
+Basic Qualifications
+
+Experience defining requirements and using data and metrics to draw business insights
+Experience with SQL or ETL
+Bachelor's degree or equivalent
+Experience in tax, finance or a related analytical field
+Experience with reporting and Data Visualization tools such as Quick Sight / Tableau / Power BI or other BI packages
+
+Preferred Qualifications
+
+Experience scripting for automation (e.g., Python, Perl, Ruby)
+
+Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.
+
+
+Company - ADCI - BLR 14 SEZ
+
+Job ID: A2908089

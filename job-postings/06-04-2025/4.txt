@@ -1,0 +1,57 @@
+Lensa is the leading career site for job seekers at every stage of their career. Our client, Apple, is seeking professionals in Santa Clara, CA. Apply via Lensa today!
+
+AIML - Machine Learning Engineer, Siri & Information Intelligence
+
+Santa Clara, California, United States Machine Learning and AI
+
+Summary
+
+Posted: Dec 11, 2024
+
+Role Number: 200582780
+
+Do you want to make Siri and Apple products smarter for our users? The Siri and Information Intelligence team is redefining how hundreds of millions of people use their devices to get information. We are an Applied ML team pushing the limits on realtime augmented information retrieval and generation, information safety and search technologies, while also responsible for a few user facing production services. We are part of a wider effort to power information across a variety of Apple products – including Siri, Spotlight, Safari, Messages, Lookup, and more.
+
+Description
+
+As a member of our fast-paced group, you’ll have the unique and rewarding opportunity to shape upcoming products from Apple. Our team includes a diversity of backgrounds from applied machine learning engineers with a focus on ML and LLM to experienced distributed systems engineers. As such, we are looking for candidates with applied machine learning experience and strong software engineering skills. You will be using and improving upon the latest advancements in machine learning and software engineering to understand user queries and intents, retrieve and rank documents and generate helpful answers and work on horizontal areas on data generation, evaluation and safety.
+
+Minimum Qualifications
+
+BS in Computer Science, Artificial Intelligence, Machine Learning, Information Retrieval, Data Science or related field or equivalent work experience 
+2+ years of industry related experience, working in collaborative environments 
+Experience with using: PyTorch, TensorFlow, or JAX for training and deploying deep learning models 
+Understanding product requirements then translating them into modeling tasks and engineering tasks 
+Proficient in at least two programming languages such as: C/C++, Go, Python, Java 
+
+Preferred Qualifications
+
+Advance degree in Computer Science, Artificial Intelligence, Machine Learning, Information Retrieval, Data Science or related field or equivalent work experience 
+Analyzing search ranking and relevance requirements issues and opportunities 
+Building machine-learned models for search relevance ranking query understanding and questioning 
+
+Pay & Benefits
+
+At Apple, base pay is one part of our total compensation package and is determined within a range. This provides the opportunity to progress as you grow and develop within a role. The base pay range for this role is between $143,100 and $264,200, and your base pay will depend on your skills, qualifications, experience, and location.
+
+Apple employees also have the opportunity to become an Apple shareholder through participation in Apple’s discretionary employee stock programs. Apple employees are eligible for discretionary restricted stock unit awards, and can purchase Apple stock at a discount if voluntarily participating in Apple’s Employee Stock Purchase Plan. You’ll also receive benefits including: Comprehensive medical and dental coverage, retirement benefits, a range of discounted products and free services, and for formal education related to advancing your career at Apple, reimbursement for certain educational expenses — including tuition. Additionally, this role might be eligible for discretionary bonuses or commission payments as well as relocation.Learn more about Apple Benefits. (https://www.apple.com/careers/us/benefits.html)
+
+Note: Apple benefit, compensation and employee stock programs are subject to eligibility requirements and other terms of the applicable plan or program.
+
+Apple is an equal opportunity employer that is committed to inclusion and diversity. We take affirmative action to ensure equal opportunity for all applicants without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, Veteran status, or other legally protected characteristics.Learn more about your EEO rights as an applicant. (https://www.eeoc.gov/sites/default/files/2023-06/22-088_EEOC_KnowYourRights6.12ScreenRdr.pdf)
+
+Apple Footer
+
+Apple is an equal opportunity employer that is committed to inclusion and diversity. We take affirmative action to ensure equal opportunity for all applicants without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, Veteran status, or other legally protected characteristics. Learn more about your EEO rights as an applicant (Opens in a new window) .
+
+Apple will not discriminate or retaliate against applicants who inquire about, disclose, or discuss their compensation or that of other applicants. United States Department of Labor. Learn more (Opens in a new window) .
+
+Apple participates in the E-Verify program in certain locations as required by law. Learn more about the E-Verify program (Opens in a new window) .
+
+Apple is committed to working with and providing reasonable accommodation to applicants with physical and mental disabilities. Reasonable Accommodation and Drug Free Workplace policy Learn more (Opens in a new window) .
+
+Apple is a drug-free workplace. Reasonable Accommodation and Drug Free Workplace policy Learn more (Opens in a new window) .
+
+Apple will consider for employment all qualified applicants with criminal histories in a manner consistent with applicable law. If you’re applying for a position in San Francisco, review the San Francisco Fair Chance Ordinance guidelines (opens in a new window) applicable in your area.
+
+It is unlawful in Massachusetts to require or administer a lie detector test as a condition of employment or continued employment. An employer who violates this law shall be subject to criminal penalties and civil liability.

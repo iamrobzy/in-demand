@@ -1,0 +1,28 @@
+Welcome To The World Of Whizdom !
+
+Offre d'emploi pour un CDI : Développeur Machine learning (ML) 
+
+WHIZE est spécialisée dans le développement de solutions sur mesure en architecture Serverless (Azure, AWS) et de solutions basées sur l'écosystème Microsoft 365 (SharePoint, Teams, Power Platform).
+
+Vos missions :
+Développement d’application en lien avec l’exploitation de modèles de types machine learning : prédictions de consommation, maintenance prédictive de nos infrastructures (canalisations, compresseurs, station rebours…), optimisation de stock de matériel, analyses tarifaires, prévention des accidents de personnes et incidents matériels
+Développement d’applications permettant aux utilisateurs finaux d’utiliser les modèles LLM pour des cas d’usage de type Chatbot, RAG, synthèse documentaire, l’analyse de documents et d’images, de la génération de texte ou d’image
+
+Profil recherché :
+Connaissance des modèles de langage (LLM) comme GPT, BERT, etc.
+Développement d’applications qui intègrent des modèles LLM.
+Compétences en développement principalement en langage Python, mais des compétences dans d'autres langages tels que Java, C++ ou JavaScript sont également valorisées.
+Intelligence Artificielle et Machine Learning : Expérience avec des frameworks Data science comme Scikit Learn.
+Bases de Données : Compétence en gestion de bases de données SQL et NoSQL.
+Environnement Cloud AWS ou Azure.
+
+Qu’attendez vous pour nous rejoindre ?
+Vous ferez partie d’une société à taille humaine et qui bénéficie des avantages d'un grand groupe. Nous adressons une centaine de clients en direct dont la moitié sont des grands comptes.
+Vous serez accompagné(e) et managé(e) par le CEO de WHIZE (THE WHIZE MAN).
+Vous allez compléter notre équipe dynamique et travailler avec nous dans une ambiance Start-up et conviviale.
+Vous occuperez des postes intéressants et évolutifs.
+Vous bénéficierez des évènements internes organisés pour parler tech, business et projets.
+Vous réaliserez des projets à forte valeur ajoutée.
+
+
+📍 : Neuilly-Sur-Seine+ Télétravail

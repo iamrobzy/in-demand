@@ -1,0 +1,56 @@
+Who are we?
+
+Amaris Consulting is an independent technology consulting firm providing guidance and solutions to businesses. With more than 1000 clients across the globe, we have been rolling out solutions in major projects for over a decade – this is made possible by an international team of 7,600 people spread across 5 continents and more than 60 countries. Our solutions focus on four different Business Lines: Information System & Digital, Telecom, Life Sciences and Engineering. We’re focused on building and nurturing a top talent community where all our team members can achieve their full potential. Amaris is your steppingstone to cross rivers of change, meet challenges and achieve all your projects with success.
+
+At Amaris, We Strive To Provide Our Candidates With The Best Possible Recruitment Experience. We Like To Get To Know Our Candidates, Challenge Them, And Be Able To Give Them Proper Feedback As Quickly As Possible. Here's What Our Recruitment Process Looks Like
+
+Brief Call: Our process typically begins with a brief virtual/phone conversation to get to know you! The objective? Learn about you, understand your motivations, and make sure we have the right job for you!
+
+Interviews (the average number of interviews is 3 - the number may vary depending on the level of seniority required for the position). During the interviews, you will meet people from our team: your line manager of course, but also other people related to your future role. We will talk in depth about you, your experience, and skills, but also about the position and what will be expected of you. Of course, you will also get to know Amaris: our culture, our roots, our teams, and your career opportunities!
+
+Case study: Depending on the position, we may ask you to take a test. This could be a role play, a technical assessment, a problem-solving scenario, etc.
+
+As you know, every person is different and so is every role in a company. That is why we have to adapt accordingly, and the process may differ slightly at times. However, please know that we always put ourselves in the candidate's shoes to ensure they have the best possible experience.
+
+We look forward to meeting you!
+
+Job Description
+
+Are you a skilled ML Engineer ready for your next adventure? Amaris Consulting is on the lookout for a motivated individual with a strong background in machine learning to join our Data & AI Center of Excellence in Brussels. This is a great opportunity for professionals with keen analytical abilities, a strong technical sense, and excellent communication skills.
+
+🔥 Your Responsibilities
+
+Design, build, and train machine learning models to address complex business problems.
+Fine-tune model performance through feature engineering, hyperparameter tuning, and validation techniques.
+Develop pipelines to deploy machine learning models into production, ensuring reliability and scalability.
+Work closely with data scientists, engineers, and business stakeholders to align model outcomes with strategic goals.
+Stay up to date with emerging ML techniques and tools, contributing to continuous improvement initiatives.
+
+🎯 Your Profile
+
+We are seeking a candidate with a strong background in machine learning and excellent problem-solving skills. Your attention to detail and ability to simplify complex information will set you apart. You thrive in collaborative environments but can also work independently when needed.
+
+Master's degree in Computer Science, Information Systems, or a related field.
+Proficiency in programming languages such as Python and experience with ML frameworks (TensorFlow, PyTorch, etc.).
+Understanding of statistical methods, data processing, and model evaluation techniques.
+Excellent communication skills and the ability to work in a collaborative, fast-paced environment.
+Experience with cloud-based ML platforms (AWS SageMaker, Google AI Platform, Azure ML).
+Proven track record in deploying machine learning models at scale.
+
+🚀 Advantages
+
+An international learning environment.
+Extensive training and certifications.
+A R&D laboratory where you can develop your skills on innovative projects.
+The opportunity to bring new ideas to develop a thriving business.
+Individual coaching and mentoring, as well as the chance to learn from experts for your professional and personal growth.
+An attractive, tailor-made, and evolving career path.
+
+💡 We Are An Independent Company That Values
+
+Agility: thrive in a flexible, dynamic, and stimulating environment.
+International scope: enjoy daily international exchanges and numerous mobility opportunities in over 60 countries.
+Intrapreneurship: engage in related topics or develop your own Business Unit.
+Attentive management: with a limited number of consultants, your manager will adapt to your profile and support you throughout your professional journey.
+
+Amaris Consulting is proud to be an equal-opportunity workplace. We are committed to promoting diversity within the workforce and creating an inclusive working environment. For this purpose, we welcome applications from all qualified candidates regardless of gender, sexual orientation, race, ethnicity, beliefs, age, marital status, disability, or other characteristics.

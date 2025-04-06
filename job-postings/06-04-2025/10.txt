@@ -1,0 +1,70 @@
+About
+
+SHIFT: Day (United States of America)
+
+Seeking Breakthrough Makers
+
+Children's Hospital of Philadelphia (CHOP) offers countless ways to change lives. Our diverse community of more than 20,000 Breakthrough Makers will inspire you to pursue passions, develop expertise, and drive innovation.
+
+At CHOP, your experience is valued; your voice is heard; and your contributions make a difference for patients and families. Join us as we build on our promise to advance pediatric care-and your career.
+
+CHOP's Commitment to Diversity, Equity, and Inclusion
+
+CHOP is committed to building an inclusive culture where employees feel a sense of belonging, connection, and community within their workplace. We are a team dedicated to fostering an environment that allows for all to be their authentic selves. We are focused on attracting, cultivating, and retaining diverse talent who can help us deliver on our mission to be a world leader in the advancement of healthcare for children.
+
+We strongly encourage all candidates of diverse backgrounds and lived experiences to apply.
+
+A Brief Overview The Campbell Laboratory at the Children's Hospital of Philadelphia is seeking a Machine Learning Engineer to help advance our mission to diagnose rare genetic diseases more quickly and accurately. We develop and train large language models (LLMs) to better understand clinical data from the electronic health record (EHR) and to identify ways to facilitate accurate, equitable diagnoses for every child-especially those from historically marginalized backgrounds. As a Machine Learning Engineer, you will work closely with data scientists, clinicians, and other researchers to design, implement, and scale state-of-the-art machine learning workflows. You will utilize our on-premises GPU/SLURM cluster and cloud-based TPU instances (Google Cloud) to train and deploy LLMs using Hugging Face Transformers, PyTorch, and JAX. This role combines robust software engineering practices with advanced machine learning and natural language processing (NLP) techniques, with a focus on reproducibility and high-quality code. Our innovative and interdisciplinary environment values diversity, fosters professional growth, and drives impactful research that benefits children worldwide. If you are passionate about building robust machine learning systems, enjoy working on high-impact problems, and thrive in a collaborative research environment, we encourage you to apply.
+
+What you will do
+
+Configure and utilize on-premises SLURM cluster with GPU resources to ensure efficient and reliable job scheduling for large-scale model training.
+Manage and optimize cloud-based infrastructures (e.g., TPU Pods on Google Cloud) for distributed model training and evaluation.
+Collaborate with data scientists to implement and fine-tune LLMs (e.g., Transformer architectures in PyTorch, TensorFlow, or JAX) for clinical and biomedical NLP tasks.
+Develop efficient training pipelines, including data loading, preprocessing, feature extraction, and model deployment.
+Evaluate model performance and optimize hyperparameters, GPU/TPU utilization, and distributed training strategies.
+Collaborate cross-functionally with clinicians, data scientists, analysts, and IT teams to support and enhance machine learning operations (MLOps).
+Work with relational databases (e.g., Snowflake, BigQuery, Oracle SQL, MySQL) and distributed storage systems to access and manage EHR data.
+Partner with data scientists and domain experts to design data pipelines that integrate with existing hospital systems.
+Write clean, well-documented, and maintainable code following best practices
+Contribute to shared code repositories using Git, ensuring reproducibility and version control for collaborative projects.
+Develop CI/CD workflows to automate model testing, containerization, and deployment to production environments.
+Monitor deployed models for performance drift, latency, and reliability, and implement automated alerts and feedback loops to refine model behavior.
+Produce clear technical documentation, including system architecture diagrams, training procedures, and user guides for internal stakeholders.
+Present engineering best practices, findings, and process updates to clinicians, researchers, and other non-technical audiences as needed.
+
+Education Qualifications Bachelor's Degree Required Bachelor's Degree Analytics, Data Science, Statistics, Mathematics, Computer Science or a related field Preferred Masters or PhD in Analytics, Data Science, Statistics, Mathematics, Computer Science or a related field Preferred Experience Qualifications At least three (3) years experience with progressively more complex data science, applied statistics, machine learning, or mathematical modeling projects. Required At least four (4) years with progressively more complex data science, applied statistics, machine learning, or mathematical modeling projects Preferred At least one year of experience with complex data science, applied statistics, machine learning, or mathematical modeling projects Preferred Natural language processing experience, particularly in the biological and medical domains Preferred Experience with transformer architecture and associated software (e.g., PyTorch, Tensorflow, JAX) is Preferred Experience using distributed computing technologies Preferred Experience with cloud virtual machine environments Preferred Experience implementing distributed training on GPUs or TPUs in cloud platforms (e.g., Google Cloud, AWS, Azure). Experience with prompt engineering, semantic search, or retrieval-augmented generation (RAG) in a research or production environment. Familiarity with MLOps pipelines (CI/CD, containerization, monitoring, and logging frameworks). Exposure to healthcare or biomedical data and associated privacy/security regulations (e.g., HIPAA) is a plus. Experience with advanced NLP techniques or LLMs in a research or production environment. Skills and Abilities Proven software engineering experience, including structured development methods, testing, and version control. Hands-on experience with Python and at least one deep learning framework (e.g., PyTorch, TensorFlow, or JAX). Familiarity with relational databases (e.g., Snowflake, BigQuery, Oracle SQL, MySQL). Experience with Linux/Unix environments, shell scripting, and cluster computing systems (e.g., SLURM).
+
+To carry out its mission, CHOP is committed to supporting the health of our patients, families, workforce, and global community. As a condition of employment, CHOP employees who work in patient care buildings or who have patient facing responsibilities must be fully vaccinated against COVID-19 and receive an annual influenza vaccine. Learn more.
+
+Employees may request exemptions for valid religious and medical reasons. Start dates may be delayed until candidates are immunized or exemption requests are reviewed.
+
+EEO / VEVRAA Federal Contractor | Tobacco Statement
+
+Nice-to-have skills
+
+Machine Learning
+PyTorch
+Software Engineering
+TensorFlow
+Data Science
+Statistics
+Computer Science
+Oracle SQL
+MySQL
+Git
+Distributed Computing
+Linux
+Unix
+Shell Scripting
+Pennsylvania, United States
+
+Work experience
+
+Machine Learning
+NLP
+QA
+
+Languages
+
+English

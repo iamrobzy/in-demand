@@ -1,0 +1,28 @@
+Company: IT Services Organization
+Key Skills: Python, Data Structures, GIT, Docker, CICD
+Key Responsibilities:
+End-to-End ML Development:
+Design, develop, test, deploy, maintain, and enhance machine learning solutions using best software engineering practices.
+Cloud-Based ML Solutions:
+Implement scalable ML pipelines in cloud-based environments (AWS), utilizing technologies such as containerized applications, distributed processing frameworks, and CI/CD tools.
+Utilize orchestration tools like Airflow and Terraform for Infrastructure as Code (IaC).
+Optimization and Performance:
+Optimize data science and machine learning models through code optimization and leveraging high-performance computing.
+MLOps and Lifecycle Management:
+Focus on the end-to-end management of the model lifecycle using MLOps practices (e.g., versioning, deployment, monitoring).
+Knowledge Sharing:
+Actively share data science knowledge within the organization and represent the company's data science expertise at conferences and workshops.
+Required Expirence:
+2+ years of experience in machine learning or data science.
+The ability to communicate fluently in English in a business environment, which is essential for cross-team collaboration and presenting technical information.
+Proficiency in Python and the associated Machine Learning ecosystem (e.g., libraries like TensorFlow, PyTorch, Scikit-learn, etc.).
+Solid understanding of data structures, algorithms, computability and complexity, computer architecture, software design principles, and testing strategies.
+Expertise in distributed computing within the cloud (particularly AWS), especially when dealing with large amounts of data and parallel computations.
+Strong grounding in math, statistics, and machine learning techniques like statistical tests, classification, predictive modeling, handling missing data, sampling, and weighting.
+Experience working with agile development practices, which would be helpful in a fast-paced, iterative development environment.
+Other Desired Qualities:
+MLOps: Familiarity with managing the lifecycle of machine learning models through automation, versioning, and deployment pipelines.
+Cloud Expertise: A strong background in deploying ML solutions on cloud platforms (specifically AWS) is critical for this role.
+Performance Optimization: The ability to optimize models and systems for high performance and scalability.
+Collaboration: Being able to share and represent data science knowledge both internally and externally, showcasing expertise in the field.
+Qualifications: Any degree in a field related to computer science, engineering, or statistics/mathematics.

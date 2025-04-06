@@ -1,0 +1,40 @@
+Overview
+
+Deep learning has only just started its transformative impact on the natural sciences. In Microsoft Research AI for Science we are seeking to solve some of the fundamental challenges in the molecular sciences with deep learning.
+
+For our lab in Cambridge, UK or Amsterdam, NL, we are seeking exceptional Machine Learning Research Engineering candidates at the intersection of chemistry and drug discovery. If you are passionate about this research area and believe you can make a lasting impact, we would love to receive your application.
+
+Microsoft’s mission is to empower every person and every organization on the planet to achieve more, and we’re dedicated to this mission across every aspect of our company. Our culture is centered on embracing a growth mindset and encouraging teams and leaders to bring their best each day. Join us and help shape the future of the world.
+
+This post will be open until the position is filled. When submitting your application, include your CV with a list of publications as an attachment.
+
+Responsibilities
+
+Drive ML engineering strategy and implementation within an ambitious, high-impact, ML research agenda in the molecular sciences. 
+Design, develop and deploy data processing pipelines, machine learning models and workflows. 
+Work with internal and external partners to deploy and evaluate models and workflows. 
+Champion and coach the team in modern engineering practices. 
+Prepare technical papers and presentations. 
+Work on a day-to-day basis with an international and interdisciplinary research team on one overarching research goal. 
+
+Qualifications
+
+Required 
+
+Strong experience in Python software development and deployment. 
+Track record in designing, developing and deploying scientific ML systems with real world impact 
+Experience working with cross-functional teams. 
+Experience working with major cloud platforms. 
+
+Preferred 
+
+Deep Learning experience. 
+Experience with chemoinformatics & computational chemistry. 
+Experience in real-world drug discovery. 
+Experience with other programming languages. 
+
+#Research #AI for Science
+
+Microsoft is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to age, ancestry, color, family or medical care leave, gender identity or expression, genetic information, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran status, race, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable laws, regulations and ordinances. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. If you need assistance and/or a reasonable accommodation due to a disability during the application or the recruiting process, please send a request via the Accommodation request form .
+
+Benefits/perks listed below may vary depending on the nature of your employment with Microsoft and the country where you work.

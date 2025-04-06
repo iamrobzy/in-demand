@@ -1,0 +1,28 @@
+Location: Bangalore, India
+
+Responsibilities
+Develop and deploy scalable and efficient machine learning models.
+Package and publish codes and solutions in reusable format python package format- (Pypi, Scikit-learn pipeline,..)
+Keep the code ready for seamless building of CI/CD pipelines and workflows for machine learning applications.
+Ensure high quality code that meets business objectives, quality standards and secure web development guidelines.
+Building reusable tools to streamline the modeling pipeline and sharing knowledge
+Build real-time monitoring and alerting systems for machine learning systems.
+Develop and maintain automated testing and validation infrastructure.
+Troubleshoot pipelines across multiple touchpoints like CI Server, Artifact storage and Deployment cluster.
+Implement best practices for versioning, monitoring and reusability.
+Collaborate with multiple teams like Data Science, DevOps and IT to ensure that whole solution is implemented. 
+Manage project stakeholder expectations and issue communications on progress.
+Design solutions for managing highly complex business rules within the Azure ecosystem.
+Stay abreast of emerging trends in MLE and identify opportunities to improve our infrastructure.
+
+Required knowledge, Skills and qualifications: 
+Minimum of 5-7 years of experience in ML engineering with large-scale production systems.
+Strong experience with Azure cloud computing and containerization technologies (like Docker, Kubernetes).
+Experience with Python/OOPs programming languages and data science frameworks like (Pandas, Numpy, TensorFlow, Keras, PyTorch, sklearn).
+Knowledge of DevOps tools such as Git, Jenkins, Sonar, Nexus is must.
+Building python wheels and debugging build process.
+Data pipeline building and debugging (by creating and following log traces).
+Basic knowledge of DevOps practices.
+Concepts of Unit Testing and Test-Driven development.
+SDE skills like OOP and Functional programming are an added advantage.
+Experience with Databricks and its ecosystem is an added advantage.

@@ -1,0 +1,53 @@
+Lensa is the leading career site for job seekers at every stage of their career. Our client, META, is seeking professionals in Redmond, WA. Apply via Lensa today!
+
+Summary
+
+Meta’s Reality Labs Research (RL-R) brings together a world-class team of researchers, developers, and engineers to create the future of Mixed Reality (MR), Augmented Reality (AR), and Wearable Artificial Intelligence (AI). Within RL-R, the ACE team solves complex challenges in behavioral inference from sparse information. We leverage multimodal, egocentric data and cutting edge machine learning to deliver robust, efficient models that serve everyone. Our research provides core building blocks to unlock comfortable, intuitive, and helpful Wearable AI, empowering everyone to harness the superpowers of this emerging technology in their daily lives. We are looking for an AI ML engineer to join us in this initiative. In this role, you will work closely with Research Scientists and Engineers from across RL-R to develop novel state-of-the-art AI algorithms to infer human behavior patterns, with an emphasis on those that inform attention, cognition or emotion. Examples include longitudinal gaze behaviors, gestures, or vocal cues. You will develop end-to-end wearable AI experiential validation platforms using cutting edge generative AI and language models to validate the impact of these signals. Further, you will work with system engineers to optimize these models for efficiency and latency in constrained compute platforms. You will learn constantly, dive into new areas with unfamiliar technologies, and embrace the ambiguity of AR, VR, and AI problem solving. Together, we are going to build cutting-edge prototypes, technologies, and toolsets that can define a paradigm shift in how we interact with our surroundings. We invite you to step into the adventure of a lifetime, as we make science fiction real and change the world.
+
+Required Skills
+
+Research Engineer - Machine Learning for Behavioral AI Responsibilities:
+
+Using data from wearable devices, employ state-of-the-art AI algorithms to infer human behavior patterns that inform attention, cognition or emotion. Examples include longitudinal gaze behaviors, gestures, or vocal cues. 
+Develop data collection strategies, benchmarks, and metrics to validate and improve efficiency, scalability, and stability of these models. 
+Collaborate with researchers and engineers across wide-ranging disciplines through all stages of project development to identify gaps, build solutions, and transfer technology 
+Contribute to research that can eventually be applied to Meta products and services and run on billions of media items every day 
+Create tools, infrastructure, and documentation to accelerate research 
+Perform code reviews that improve software engineering quality 
+Learn constantly, dive into new areas with unfamiliar technologies, and embrace the ambiguity of AR/VR problem solving 
+
+Minimum Qualifications
+
+Minimum Qualifications:
+
+Bachelor's degree in Computer Science, Computer Engineering, relevant technical field, or equivalent practical experience. 
+Bachelor’s degree plus 5+ years experience or a PhD degree in Computer Science or other relevant technical field plus 2+ years experience, or equivalent practical experience 
+Experience with Python 
+Experience with a common machine learning framework (preferably PyTorch) 
+Experience with ML computer vision 
+Experience developing, maintaining and improving (accuracy, speed, compute costs) complex ML systems 
+
+Preferred Qualifications
+
+Preferred Qualifications:
+
+Experience with multimodal sensing platforms, multimodal signal processing and analysis, and converting raw sensor streams into robust models solving complex tasks 
+Experience with Multimodal Deep Learning approaches and research 
+Experience with Large Language Models 
+Experience with C++ 
+Experience with non-Machine Learning computer vision, especially with OpenCV 
+Experience with 3D engines such as Unreal or Unity 
+Experience working in Augmented Reality or Virtual Reality 
+Experience developing software in a research environment 
+
+Public Compensation
+
+$70.67/hour to $208,000/year + bonus + equity + benefits
+
+Industry: Internet
+
+Equal Opportunity
+
+Meta is proud to be an Equal Employment Opportunity and Affirmative Action employer. We do not discriminate based upon race, religion, color, national origin, sex (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender, gender identity, gender expression, transgender status, sexual stereotypes, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics. We also consider qualified applicants with criminal histories, consistent with applicable federal, state and local law. Meta participates in the E-Verify program in certain locations, as required by law. Please note that Meta may leverage artificial intelligence and machine learning technologies in connection with applications for employment.
+
+Meta is committed to providing reasonable accommodations for candidates with disabilities in our recruiting process. If you need any assistance or accommodations due to a disability, please let us know at accommodations-ext@fb.com.

@@ -1,0 +1,55 @@
+About
+
+Are you passionate about pioneering innovative technology solutions? Do you thrive on tackling complex business challenges in a dynamic, collaborative, and inclusive environment? At Capital One, you will join a vibrant community of creators, problem solvers, and innovators dedicated to meeting real customer needs. We are on the lookout for experienced Back End Software Engineers excited about integrating data with the latest technologies. Here at Capital One, you will have the opportunity to lead a significant transformation. What You'll Be Doing: Oversee a diverse portfolio of technology projects and lead a talented team of developers skilled in distributed microservices and full-stack systems to deliver solutions that align with our regulatory needs.
+
+Showcase your enthusiasm for technology trends by experimenting with and adopting new technologies, engaging in technology communities, and mentoring fellow engineers, while occasionally contributing your coding skills.
+
+Work closely with digital product managers to develop robust cloud-based solutions that enhance experiences for millions of Americans, fostering their financial empowerment.
+
+Utilize various programming languages including Java, Python, SQL, Node, Go, and Scala, alongside Open Source RDBMS and NoSQL databases, and container orchestration services like Docker and Kubernetes, along with various AWS tools and services.
+
+Basic Qualifications: Bachelor's Degree.
+
+Minimum of 6 years professional software engineering experience (excluding internship experience).
+
+At least 1 year of experience with cloud computing platforms (AWS, Microsoft Azure, Google Cloud).
+
+A minimum of 4 years in a people management role.
+
+Preferred Qualifications: Master's Degree.
+
+Over 9 years of experience with at least one of the following: Java, Scala, Python, Go, or Node.js.
+
+3+ years of experience with cloud services such as AWS, GCP, Azure, or similar.
+
+4+ years of experience utilizing open source frameworks.
+
+7+ years of experience in managing teams.
+
+2+ years of experience employing Agile practices.
+
+Capital One is committed to diversity and inclusion in the workplace and will consider applicants for employment without regard to their background. This position offers competitive salaries that vary based on location, with the range for McLean, VA being $225,400 - $257,200 for the Senior Manager, Software Engineering role. Candidates in other locations will receive offers in accordance with local salary standards. Incentives, including performance-based bonuses, may also be included in the compensation package.
+
+Nice-to-have skills
+
+Java
+Scala
+Python
+Go
+Node.JS
+SQL
+Docker
+Kubernetes
+AWS
+NoSQL
+Virginia, United States
+
+Work experience
+
+Backend
+Fullstack
+Cloud Architect
+
+Languages
+
+English

@@ -1,0 +1,93 @@
+About
+
+Machine Learning Manager, ML Tooling and Optimization
+
+Cupertino, California, United States
+
+Machine Learning and AI
+
+Summary
+
+Posted:
+
+Mar 11, 2025
+
+Role Number
+
+200594319
+
+Are you passionate about empowering ML engineers and applied researchers by building cutting-edge tools that enable ground-breaking contributions? Do you believe machine learning and generative models can revolutionize how we daily interact with our most personal devices? If so, we share your vision and are seeking a dynamic leader to grow and inspire a diverse team of ML software engineers. This team has played a pivotal role in shaping Apple Intelligence, driving the development and deployment of adaptation technologies for language and image generative models. We work in a highly collaborative, cross-functional environment, developing software and processes that power ML-based innovations across Apple’s entire ecosystem. If you’re excited about leading a team at the forefront of AI and ML, we’d love to hear from you. This team is part of SIML, the System Intelligence and Machine Learning group at the forefront of developing efficient machine learning solutions that run seamlessly across all Apple platforms, including macOS, iOS, tvOS, watchOS, and Private Cloud Compute. By leveraging Apple's unique vertical integration and co-design with Apple Silicon, we create groundbreaking experiences that positively impact the lives of our users. Our recent innovations include image generation for Genmoji and Image Playground as part of Apple Intelligence, as well as the foundational technologies for face recognition and scene classification in Camera and Photos, OCR, handwriting recognition, and more broadly, computer vision. We thrive in a dynamic and research-driven environment where development aligns with real-world impact. If you have proven experience and a passion for building tools that empower machine learning engineers and applied researchers, we would be delighted to hear from you. Join us in shaping the next generation of machine learning technologies!
+
+Description
+
+The SIML team within the Intelligent Systems Experience organization is looking for a highly motivated and experienced manager to lead a team focused on developing frameworks, tools, and services—primarily in Python—that support the development, training, testing, optimization and deployment of machine learning models across the entire Apple ecosystem. In this role, you will oversee a team with diverse expertise in various machine learning areas and collaborate closely with teams across the company to create an end-to-end ecosystem of ML solutions used throughout Apple. Given the cross-functional nature of these technologies, you will collaborate closely with teams across the company, integrating with numerous internal libraries and supporting a broad and highly engaged user base. If you are passionate about leading world-class engineers and driving innovation at scale, we would love to hear from you!
+
+Minimum Qualifications
+
+Domain skills: Solid grasp of foundational generative technologies, including LLMs and diffusion models, as well as a deep understanding of deep learning and machine learning in general. Comprehensive understanding of the machine learning pipeline, encompassing data processing, training, and performance analysis. Favor the adoption of reproducible and scientifically rigorous experimental processes to enhance the reliability and validity of your work. Knowledge of distributed systems and their application to machine learning. Strong analytical and problem solving skills, with emphasis on software debugging of complex ML code basis. High fluency in Python and ability to navigate in C/C++/Objective-C/Swift code bases.
+
+Engineering skills: Experience in structuring software development teams. Experience in building scalable and maintainable software operating on large datasets and with a high degree of task parallelism. Familiarity with evolving ecosystems and with the infrastructure integration challenges. Familiarity with the challenges of developing algorithms and models that eventually run on embedded hardware.
+
+Soft skills: Excellent written and verbal communication skills. Excellent problem-solving and project management skills. Ability to interact with parties with varying levels of technical proficiency. Ability to work hands-on in multi-functional teams. Demonstrated capacity to build solid relationships across organizations and functions (R&D, privacy and legal, tools & infrastructure...). Ambitious and willing to continuously grow your technical background.
+
+Preferred Qualifications
+
+System administration experience.
+
+Basic web development experience.
+
+Experience with macOS and iOS development tools.
+
+Basic knowledge of Objective-C/Swift.
+
+Experience in industry is a plus.
+
+Pay & Benefits
+
+At Apple, base pay is one part of our total compensation package and is determined within a range. This provides the opportunity to progress as you grow and develop within a role. The base pay range for this role is between $190,700 and $329,600, and your base pay will depend on your skills, qualifications, experience, and location.
+
+Apple employees also have the opportunity to become an Apple shareholder through participation in Apple’s discretionary employee stock programs. Apple employees are eligible for discretionary restricted stock unit awards, and can purchase Apple stock at a discount if voluntarily participating in Apple’s Employee Stock Purchase Plan. You’ll also receive benefits including: Comprehensive medical and dental coverage, retirement benefits, a range of discounted products and free services, and for formal education related to advancing your career at Apple, reimbursement for certain educational expenses — including tuition. Additionally, this role might be eligible for discretionary bonuses or commission payments as well as relocation.Learn more about Apple Benefits. (https://www.apple.com/careers/us/benefits.html)
+
+Note: Apple benefit, compensation and employee stock programs are subject to eligibility requirements and other terms of the applicable plan or program.
+
+Apple is an equal opportunity employer that is committed to inclusion and diversity. We take affirmative action to ensure equal opportunity for all applicants without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, Veteran status, or other legally protected characteristics.Learn more about your EEO rights as an applicant. (https://www.eeoc.gov/sites/default/files/2023-06/22-088_EEOC_KnowYourRights6.12ScreenRdr.pdf)
+
+Apple Footer
+
+Apple is an equal opportunity employer that is committed to inclusion and diversity. We take affirmative action to ensure equal opportunity for all applicants without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, Veteran status, or other legally protected characteristics. Learn more about your EEO rights as an applicant (Opens in a new window) .
+
+Apple will not discriminate or retaliate against applicants who inquire about, disclose, or discuss their compensation or that of other applicants. United States Department of Labor. Learn more (Opens in a new window) .
+
+Apple participates in the E-Verify program in certain locations as required by law. Learn more about the E-Verify program (Opens in a new window) .
+
+Apple is committed to working with and providing reasonable accommodation to applicants with physical and mental disabilities. Reasonable Accommodation and Drug Free Workplace policy Learn more (Opens in a new window) .
+
+Apple is a drug-free workplace. Reasonable Accommodation and Drug Free Workplace policy Learn more (Opens in a new window) .
+
+Apple will consider for employment all qualified applicants with criminal histories in a manner consistent with applicable law. If you’re applying for a position in San Francisco, review the San Francisco Fair Chance Ordinance guidelines (opens in a new window) applicable in your area.
+
+It is unlawful in Massachusetts to require or administer a lie detector test as a condition of employment or continued employment. An employer who violates this law shall be subject to criminal penalties and civil liability.
+
+Nice-to-have skills
+
+Python
+C
+C++
+Objective-C
+Swift
+Deep Learning
+Machine Learning
+Distributed Systems
+MacOS
+iOS
+California, United States
+
+Work experience
+
+Machine Learning
+Fullstack
+IT Consultant
+
+Languages
+
+English

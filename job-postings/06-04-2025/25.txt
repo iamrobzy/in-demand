@@ -1,0 +1,79 @@
+Organisation/Company: Instituto de Catálisis y Petroleoquímica
+
+Department: Biocatalysis
+
+Research Field: Biological sciences » Biological engineering
+
+Researcher Profile: First Stage Researcher (R1)
+
+Positions: PhD Positions
+
+Country: Spain
+
+Application Deadline: 30 Jun 2025 - 12:00 (Europe/Madrid)
+
+Type of Contract: Temporary
+
+Job Status: Full-time
+
+Hours Per Week: 37.5
+
+Is the job funded through the EU Research Framework Programme?
+
+Not funded by a EU programme
+
+Is the Job related to staff position within a Research Infrastructure?
+
+No
+
+Offer DescriptionThe Systems Biotechnology group (https://sysbio.csic.es/), located in the Instituto de Catálisis Petroleoquímica - Spanish National Research Council (ICP-CSIC), is seeking a hard-working and enthusiastic graduate student with a Master's degree to pursue a PhD in the field of Biotechnology, Bioinformatics, and Machine Learning approaches as part of a 3-year contract (Category M3; gross salary is 2,318.93 euros in 14 payments) bound to the project BIORE2AIRCRAFT, funded by the Regional Government of Madrid under the framework of "César Nombela" Talent Attraction Grant (ref.
+
+2024-T1ECO-31227).
+
+The objective is to implement Bioinformatics and Machine Learning tools to identify and de novo design enzymes capable of degrading organic polymers and composite materials.
+
+These enzymes will later be integrated into microbes using synthetic biology techniques.
+
+To achieve the project's objectives, the following specific tasks are proposed:
+
+Generate structural models of target proteins/enzymes using AlphaFold or related tools;Apply machine learning methods to predict the properties of these proteins/enzymes, including their expression and activity levels;Utilize state-of-the-art molecular modeling to map the protein–ligand interaction energy landscape for biocatalyst screening and engineering.Candidates must have a degree in biotechnology or a related field.
+
+A minimum grade average score of 8.0/10 is required.
+
+Proficiency in English is expected.
+
+Previous experience in biotechnological, biocatalysts, bioinformatics, and computational research will be valued.
+
+ApplicationThe contract will be processed through the CSIC job placement pool, so registration in it is required.
+
+Interested candidates should submit their CV and all certifying documents through the CSIC job placement application (https://www.csic.es/es/formacion-y-empleo/bolsa-de-empleo).
+
+Once registered and the documentation has been submitted, the CSIC will publish the score based on the candidate's merits, and the candidate will be eligible for the contract.
+
+Also, they can send the CV to Rafael Bargiela (******).
+
+Research Field: Biological sciences » Biological engineering
+
+Education Level: Master Degree or equivalent
+
+Skills/QualificationsDegree in Biotechnology or similar field.Master degree in Bioinformatics and Computational Biology.Specific RequirementsExperience using computational tools for protein structure analysis (i.e.
+
+AlphaFold2, RoseTTA, ESMFold).Experience using computational tools for protein modelling and design (i.e.
+
+ProtGPT2, pyMol).Experience using AI and Machine/Deep learning tools.Programming skills in Python and/or Perl.Programming skill in R.Proficiency in English is expected.Years of Research Experience: 1 - 4
+
+Additional InformationWork Location(s)Number of offers available: 1
+
+Company/Institute: Instituto de Catálisis y Petroleoquímica
+
+Country: Spain
+
+State/Province: Madrid
+
+City: Madrid
+
+Postal Code: 28049
+
+Street: Marie Curie 2
+
+#J-18808-Ljbffr

@@ -1,0 +1,54 @@
+Every day, tens of millions of people come to Roblox to explore, create, play, learn, and connect with friends in 3D immersive digital experiences– all created by our global community of developers and creators.
+
+At Roblox, we’re building the tools and platform that empower our community to bring any experience that they can imagine to life. Our vision is to reimagine the way people come together, from anywhere in the world, and on any device. We’re on a mission to connect a billion people with optimism and civility, and looking for amazing talent to help us get there.
+
+A career at Roblox means you’ll be working to shape the future of human interaction, solving unique technical challenges at scale, and helping to create safer, more civil shared experiences for everyone.
+
+With Roblox’s daily active users growing at a record pace, we are seeking experienced machine learning engineers who thrive on solving complex challenges and designing scalable, ground breaking solutions. In this role, you will develop deep learning-based models for immersive advertising, user understanding, content/query analysis, and recommendation systems. Your work will lay the foundation for personalizing user experiences, enhancing engagement and retention, and driving growth within the creator ecosystem.
+
+In the advertising domain, you will build innovative machine-learning solutions to power real-time bidding systems, ad ranking algorithms, and personalized advertising experiences. With our ads system still in its early stages, this is a unique opportunity to shape and develop a world-class, ML-driven advertising platform from the ground up.
+
+In search and discovery, you will contribute to the core systems that enable users to discover and interact with experiences across Roblox. These systems drive exploration and engagement across all surfaces, helping users find relevant and exciting content. Looking ahead, our team aims to innovate further by developing auto-generated summaries, images, and videos from experience content to improve discoverability and inspire user exploration.
+
+Our mission is to connect a billion users with the best content and connections at the right time, tackling diverse challenges in advertising, search, and discovery at an unprecedented scale. Join us and play a pivotal role in shaping the future of Roblox’s search, discovery, and advertising systems.
+
+You Will
+
+Drive the design and implementation of machine learning solutions for real-time bidding, ranking, and personalization in ads.
+Design and implement the machine learning solutions that power the visual and text based search and discovery system to drive Roblox content distribution.
+Design and implement large scale recommendation models
+Design and implement LLMs for visual understanding and natural language understanding.
+Author specs for new features and improvement
+Collaborate with other teams within Roblox to make sure we are building products with a community first approach.
+Balance researching new technologies with a practical approach to accomplish the research efforts into the Roblox products
+Communicate with the industry and communities where applicable and be ambassador for Roblox.
+
+You Are
+
+Battle Ready: You have 7+ (for principal) or 4+ (for senior) years of experience designing and building scalable machine learning solutions to solve NLU use cases. Experienced with transformer based model training, inference, and product integration. Break down product requirements into iterative deliverable stages.
+You have a BS in Computer Science or a related discipline, Advanced degrees are a definite plus.
+A Leader: You have initiated and facilitated challenging technical decisions across multiple teams and organizations.
+User oriented: While deeply technical, you always start with the needs of the user, whether they are Roblox users or internal engineers.
+Creative: You take a creative and strategic approach to solving hard problems. You simplify the complex. You bring in fresh ideas from new places.
+
+For roles that are based at our headquarters in San Mateo, CA: The starting base pay for this position is as shown below. The actual base pay is dependent upon a variety of job-related factors such as professional background, training, work experience, location, business needs and market demand. Therefore, in some circumstances, the actual salary could fall outside of this expected range. This pay range is subject to change and may be modified in the future. All full-time employees are also eligible for equity compensation and for benefits.
+
+Annual Salary Range
+
+$273,070—$338,270 USD
+
+Roles that are based in our San Mateo, CA Headquarters are in-office Tuesday, Wednesday, and Thursday, with optional in-office on Monday and Friday (unless otherwise noted).
+
+You’ll Love
+
+Industry-leading compensation package
+Excellent medical, dental, and vision coverage
+A rewarding 401k program
+Flexible vacation policy (varies by exemption status)
+Roflex - Flexible and supportive work policy 
+Roblox Admin badge for your avatar
+At Roblox HQ: 
+Free catered lunches five times a week and several fully stocked kitchens with unlimited snacks
+Onsite fitness center and fitness program credit
+Annual CalTrain Go Pass
+Roblox provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state or local laws. Roblox also provides reasonable accommodations for all candidates during the interview process.

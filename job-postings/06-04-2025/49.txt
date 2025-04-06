@@ -1,0 +1,45 @@
+Job Description
+
+The Chief Data & Analytics Office (CDAO) at JPMorgan Chase is responsible for accelerating the firm’s data and analytics journey. This includes ensuring the quality, integrity, and security of the company's data, as well as leveraging this data to generate insights and drive decision-making. The CDAO is also responsible for developing and implementing solutions that support the firm’s commercial goals by harnessing artificial intelligence and machine learning technologies to develop new products, improve productivity, and enhance risk management effectively and responsibly.
+
+This role offers the unique opportunity to explore novel and complex challenges that could profoundly transform how the bank operates.
+
+As a Machine Learning Director, you will have the opportunity to apply sophisticated machine learning methods to complex tasks including natural language processing, speech analytics, time series, reinforcement learning and recommendation systems. You will collaborate with various teams and actively participate in our knowledge sharing community. We are looking for someone who excels in a highly collaborative environment, working together with our business, technologists and control partners to deploy solutions into production. If you have a strong passion for machine learning and enjoy investing time towards learning, researching and experimenting with new innovations in the field, this role is for you. We value solid expertise in Deep Learning with hands-on implementation experience, strong analytical thinking, a deep desire to learn and high motivation.
+
+Job Responsibilities
+
+Research and explore new machine learning methods through independent study, attending industry-leading conferences, experimentation and participating in our knowledge sharing community
+Develop state-of-the art machine learning models to solve real-world problems and apply it to tasks such as natural language processing (NLP), speech recognition and analytics, time-series predictions or recommendation systems
+Collaborate with multiple partner teams such as Business, Technology, Product Management, Legal, Compliance, Strategy and Business Management to deploy solutions into production
+Drive Firm wide initiatives by developing large-scale frameworks to accelerate the application of machine learning models across different areas of the business 
+
+Required Qualifications, Capabilities, And Skills
+
+PhD in a quantitative discipline, e.g. Computer Science, Electrical Engineering, Mathematics, Operations Research, Optimization, or Data Science Or an MS with at least 7 years of industry or research experience in the field.
+Solid background in NLP or speech recognition and analytics, personalization/recommendation and hands-on experience and solid understanding of machine learning and deep learning methods
+Extensive experience with machine learning and deep learning toolkits (e.g.: TensorFlow, PyTorch, NumPy, Scikit-Learn, Pandas)
+Ability to design experiments and training frameworks, and to outline and evaluate intrinsic and extrinsic metrics for model performance aligned with business goals
+Experience with big data and scalable model training and solid written and spoken communication to effectively communicate technical concepts and results to both technical and business audiences.
+Scientific thinking with the ability to invent and to work both independently and in highly collaborative team environments
+Solid written and spoken communication to effectively communicate technical concepts and results to both technical and business audiences. Curious, hardworking and detail-oriented, and motivated by complex analytical problems
+
+Preferred Qualifications, Capabilities , And Skills
+
+Strong background in Mathematics and Statistics and familiarity with the financial services industries and continuous integration models and unit test development
+Knowledge in search/ranking, Reinforcement Learning or Meta Learning
+Experience with A/B experimentation and data/metric-driven product development, cloud-native deployment in a large scale distributed environment and ability to develop and debug production-quality code
+Published research in areas of Machine Learning, Deep Learning or Reinforcement Learning at a major conference or journal
+
+ABOUT US
+
+JPMorganChase, one of the oldest financial institutions, offers innovative financial solutions to millions of consumers, small businesses and many of the world’s most prominent corporate, institutional and government clients under the J.P. Morgan and Chase brands. Our history spans over 200 years and today we are a leader in investment banking, consumer and small business banking, commercial banking, financial transaction processing and asset management.
+
+We offer a competitive total rewards package including base salary determined based on the role, experience, skill set and location. Those in eligible roles may receive commission-based pay and/or discretionary incentive compensation, paid in the form of cash and/or forfeitable equity, awarded in recognition of individual achievements and contributions. We also offer a range of benefits and programs to meet employee needs, based on eligibility. These benefits include comprehensive health care coverage, on-site health and wellness centers, a retirement savings plan, backup childcare, tuition reimbursement, mental health support, financial coaching and more. Additional details about total compensation and benefits will be provided during the hiring process.
+
+We recognize that our people are our strength and the diverse talents they bring to our global workforce are directly linked to our success. We are an equal opportunity employer and place a high value on diversity and inclusion at our company. We do not discriminate on the basis of any protected attribute, including race, religion, color, national origin, gender, sexual orientation, gender identity, gender expression, age, marital or veteran status, pregnancy or disability, or any other basis protected under applicable law. We also make reasonable accommodations for applicants’ and employees’ religious practices and beliefs, as well as mental health or physical disability needs. Visit our FAQs for more information about requesting an accommodation.
+
+JPMorgan Chase & Co. is an Equal Opportunity Employer, including Disability/Veterans
+
+About The Team
+
+Our professionals in our Corporate Functions cover a diverse range of areas from finance and risk to human resources and marketing. Our corporate teams are an essential part of our company, ensuring that we’re setting our businesses, clients, customers and employees up for success.

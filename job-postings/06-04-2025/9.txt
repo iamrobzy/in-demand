@@ -1,0 +1,34 @@
+Responsibilities
+About TikTok
+TikTok is the leading destination for short-form mobile video. At TikTok, our mission is to inspire creativity and bring joy. TikTok's global headquarters are in Los Angeles and Singapore, and its offices include New York, London, Dublin, Paris, Berlin, Dubai, Jakarta, Seoul, and Tokyo. 
+
+Why Join Us
+Creation is the core of TikTok's purpose. Our products are built to help imaginations thrive. This is doubly true of the teams that make our innovations possible. Together, we inspire creativity and enrich life - a mission we aim towards achieving every day. To us, every challenge, no matter how ambiguous, is an opportunity; to learn, to innovate, and to grow as one team. Status quo? Never. Courage? Always. At TikTok, we create together and grow together. That's how we drive impact-for ourselves, our company, and the users we serve. Join us. 
+
+The E-Commerce Risk Control (ECRC) team is missioned: 
+- To protect Tiktok E-Commerce users, including and beyond buyer, seller, creator;
+- By securing the integrity of our ecommerce ecosystem and providing a safe shopping experience on the platform;
+- Through building infrastructures, platforms and technologies, as well as collaborating with many cross-functional teams and stakeholders.
+
+The ECRC team works to minimize the damage of inauthentic behaviors on Tiktok E-Commerce platforms (e.g. TikTok Shop, Jumanji, Fanno), covering multiple classical and novel community and business risk areas such as account integrity, incentive abuse, malicious activities, brushing, click-farm, information leakage etc.
+
+In this team you'll have a unique opportunity to have first-hand exposure to the strategy of the company in key security initiatives, especially in building scalable and robust, intelligent and privacy-safe, secure and product-friendly systems and solutions. Our challenges are not some regular day-to-day technical puzzles -- You'll be part of a team that's developing novel solutions to first-seen challenges of a non-stop evolvement of a phenomenal product eco-system. The work needs to be fast, transferrable, while still down to the ground to making quick and solid differences.
+
+Responsibilities
+- Build rules, algorithms and machine learning models, to respond to and mitigate business risks in Tiktok products/platforms. Such risks include and are not limited to account integrity, scapler,deal-hunter, malicious activities, brushing, click-farm, information leakage etc.
+- Analyze business and security data, uncover evolving attack motion, identify weaknesses and opportunities in risk defense solutions, explore new space from the discoveries.
+- Define risk control measurements. Quantify, generalize and monitor risk related business and operational metrics. Align risk teams and their stakeholders on risk control numeric goals, promote impact-oriented, data-driven data science practices for risks.
+- Support the production of scalable and optimised AI/machine learning (ML) models 
+- Focus on building algorithms for the extraction, transformation and loading of large volumes of realtime, unstructured data to deploy AI/ML solutions from theoretical data science models. 
+- Run experiments to test the performance of deployed models, and identifies and resolves bugs that arise in the process. 
+
+Qualifications
+Minimum Qualifications
+- Bachelor or degrees above in computer science, statistics, math, internet security or other relevant STEM majors (e.g. finance if applying for financial fraud roles).
+- At least 5 years with solid data science skills. Proficiency in statistical analytical tools, such as SQL, R and Python.
+
+Preferred Qualifications
+- Familiarity with machine learning or social/content online platform analytics. Bonus given to proficiency in modern machine learning applications.
+- Ability to think critically, objectively, rationally. Reason and communicate in result-oriented, data-driven manner. High autonomy.
+
+TikTok is committed to creating an inclusive space where employees are valued for their skills, experiences, and unique perspectives. Our platform connects people from across the globe and so does our workplace. At TikTok, our mission is to inspire creativity and bring joy. To achieve that goal, we are committed to celebrating our diverse voices and to creating an environment that reflects the many communities we reach. We are passionate about this and hope you are too.

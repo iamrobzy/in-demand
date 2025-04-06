@@ -1,0 +1,59 @@
+Center for Biological Research "Margarita Salas"-CSIC
+
+Organisation/Company: Center for Biological Research "Margarita Salas"-CSIC
+
+Department: Funding & Resources Unit
+
+Research Field: Computer science » Informatics, Biological sciences » Biological engineering
+
+Researcher Profile: First Stage Researcher (R1)
+
+Positions: PhD Positions
+
+Country: Spain
+
+Application Deadline: 31 Jul 2025 - 12:00 (Europe/Madrid)
+
+Type of Contract: Other
+
+Extra Information: PhD funded position
+
+Job Status: Full-time
+
+Offer Starting Date: 1 Sep 2025
+
+Is the job funded through the EU Research Framework Programme? Horizon Europe - ERC
+
+Is the Job related to staff position within a Research Infrastructure? No
+
+Offer DescriptionA predoctoral position is available in Dr.
+
+Ruth Pérez's group at the Centro de Investigaciones CIB Margarita Salas, part of the Spanish National Research Council (CSIC), a leading multidisciplinary research institute in Madrid, Spain.
+
+Internationally recognized for its excellence in molecular biology, biomedicine, and biotechnology, it fosters cutting-edge science and innovation at the interface of biology and health.
+
+We are seeking a Predoctoral Researcher to join the ERC Chem2Sense project.
+
+The role focuses on adapting nanopore sequencing basecallers for nucleotide modification detection using incremental learning and anomaly detection techniques.
+
+This is an excellent opportunity for a candidate to pursue a PhD in chemical biology and machine learning for nanopore data analysis.
+
+Key Responsibilities:Assist in developing and optimizing machine learning models for nanopore sequencing basecallers.Apply signal processing techniques to improve nucleotide modification detection.Contribute to an innovative approach combining hybrid and modular nucleic acids.Work closely with wet-lab researchers to validate computational predictions.Requirements:Strong foundation in signal processing.Experience in computational biology and nanopore sequencing data (preferred).Qualifications:M.Sc.
+
+in Computer Science, Biomedical Engineering, Bioinformatics, Biology, or a related field.Familiarity with the implementation and application of machine learning methods and neural networks deep learning frameworks.Proficiency in Python, R, and familiarity with scientific computing libraries.Strong problem-solving skills and ability to work in a collaborative research environment.Advanced English communication skills.What We Offer:Fully funded PhD position with a competitive salary.Opportunity to work on cutting-edge research in nanopore sequencing and machine learning-oriented bioinformatics.A collaborative and interdisciplinary work environment engaging with wet lab research.Support for career development and encourage active participation in academic events relevant to early-stage researchers.How to Apply:Please submit your CV and a brief cover letter to ******.
+
+Applications will be reviewed on a rolling basis.
+
+Work Location(s)Number of offers available: 1
+
+Company/Institute: Center for Biological Research "Margarita Salas"-CSIC
+
+Country: Spain
+
+State/Province: Madrid
+
+City: Madrid
+
+Postal Code: 28040
+
+#J-18808-Ljbffr

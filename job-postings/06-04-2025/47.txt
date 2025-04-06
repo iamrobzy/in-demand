@@ -1,0 +1,31 @@
+Bristol, UK (Hybrid)
+
+IC Resources is seeking a Machine Learning Engineer to join our client’s innovative team in Bristol. This is an exciting opportunity to work on advanced ML models that drive next-generation breakthroughs in sensor technology and integrated photonic circuits.
+
+The succesful Machine Learning Engineer will most likely come from a highly mathematical and/or Physics background, and will work on building ML pipelines as well as the full-cycle development of advanced machine learning models to optimise the design and simulation process.
+
+Essential Experience
+
+MSc in Mathematics, Physics, Computer Science, Machine Learning or related.
+Strong Mathematics and/or Physics background.
+Minimum 4+ years of post-academic industry experience as a Machine Learning Engineer.
+TensorFlow, PyTorch.
+Python.
+
+Desired Experience:
+
+C++ and C#.
+Open-source ML projects.
+Cloud platforms such as AWS.
+Knowledge of photonics design.
+
+What’s On Offer:
+
+~£70k-100k DOE.
+Share options.
+Private Medical.
+Hybrid working with remote possible after probation
+
+How to Apply:
+
+If you’re an ambitious Machine Learning Engineer eager to work on transformative AI solutions in the sensor technology space, apply now for immediate consideration! Contact Chris Wyatt, Principal Recruitment Consultant, to learn more about this exciting opportunity in Bristol, UK.

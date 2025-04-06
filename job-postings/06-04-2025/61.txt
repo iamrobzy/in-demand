@@ -1,0 +1,51 @@
+Every day, tens of millions of people come to Roblox to explore, create, play, learn, and connect with friends in 3D immersive digital experiences– all created by our global community of developers and creators.
+
+At Roblox, we’re building the tools and platform that empower our community to bring any experience that they can imagine to life. Our vision is to reimagine the way people come together, from anywhere in the world, and on any device. We’re on a mission to connect a billion people with optimism and civility, and looking for amazing talent to help us get there.
+
+A career at Roblox means you’ll be working to shape the future of human interaction, solving unique technical challenges at scale, and helping to create safer, more civil shared experiences for everyone.
+
+As a Senior Machine Learning Engineer with the Creator Services Machine Intelligence Team, you will build NLP, speech, computer vision and imitation learning systems to bring the latest machine learning technology to our creators and help them create experiences at scale. You will work on large language models, machine translation models, speech generation models, vison language models, and reinforcement learning to enhance user interactions and user / creator experience.
+
+You Will
+
+Design and implement deep learning ML / AI solutions that address problems across Roblox.
+Have the independence, opportunity and the end-to-end responsibility to develop ML / AI services within the Roblox ecosystem
+Guide the future technical direction of the team and have impact on engineering
+Be a technical bar-raiser for cutting-edge ML technology, high code quality, architectural designs, and long-term approaches
+Balance researching new technologies with a practical approach to accomplish the research efforts into the Roblox products
+Design systems and services that are scalable and resilient
+Collaborate with passionate Engineers, Product Managers and other Roblox team members
+
+You Have
+
+Possess or pursuing a Ph.D. or equivalent experience in Computer Science, Computer Engineering, Mathematics, Statistics, or a similar technical degree.
+Experienced with deep neutral network model (e.g., transformers, diffusion models) design, training, serving and product integration
+Experienced at creating NLP / ML applications at scale
+Knowledgeable with speech models, compter vision, reinforcement learning and imitation learning
+Proficient in Python, C# or similar programming languages
+Understanding of SQL and databases at scale
+Product-minded with an interest in understanding the end-user
+
+You may redact age, date of birth, and dates of attendance/graduation from your resume if you prefer.
+
+For roles that are based at our headquarters in San Mateo, CA: The starting base pay for this position is as shown below. The actual base pay is dependent upon a variety of job-related factors such as professional background, training, work experience, location, business needs and market demand. Therefore, in some circumstances, the actual salary could fall outside of this expected range. This pay range is subject to change and may be modified in the future. All full-time employees are also eligible for equity compensation and for benefits.
+
+Annual Salary Range
+
+$218,540—$218,540 USD
+
+Roles that are based in our San Mateo, CA Headquarters are in-office Tuesday, Wednesday, and Thursday, with optional in-office on Monday and Friday (unless otherwise noted).
+
+You’ll Love
+
+Industry-leading compensation package
+Excellent medical, dental, and vision coverage
+A rewarding 401k program
+Flexible vacation policy (varies by exemption status)
+Roflex - Flexible and supportive work policy 
+Roblox Admin badge for your avatar
+At Roblox HQ: 
+Free catered lunches five times a week and several fully stocked kitchens with unlimited snacks
+Onsite fitness center and fitness program credit
+Annual CalTrain Go Pass
+Roblox provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state or local laws. Roblox also provides reasonable accommodations for all candidates during the interview process.

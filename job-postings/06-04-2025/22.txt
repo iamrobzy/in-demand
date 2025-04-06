@@ -1,0 +1,93 @@
+About
+
+AIML - Machine Learning Engineer/Scientist, Siri and Information Intelligence
+
+Cupertino, California, United States
+
+Machine Learning and AI
+
+Summary
+
+Posted:
+
+Jun 12, 2024
+
+Role Number
+
+200554814
+
+The AIML Information Intelligence team is creating groundbreaking technology for artificial intelligence, machine learning and natural language processing! The features we create are redefining how hundreds of millions of people use their computers and mobile devices to search and find what they are looking for. Our universal search engine powers search features across a variety of Apple products, including Siri, Spotlight, Safari, Messages and Lookup. We also develop state-of-the-art generative AI technologies based on Large Language Models to power innovative features in both Apple’s devices and services on the cloud. As part of this group, you will be doing large scale machine learning and deep learning to improve Open Domain Question Answering and developing fundamental building blocks needed for Artificial Intelligence. This involves developing sophisticated machine learning and large language models (LLMs) to understand user queries, retrieve and rank relevant documents across multiple sources and synthesize information across documents to provide user with a direct answer that best satisfies their intent and information seeking needs. You will also work with researchers and data scientists to develop, fine-tune, and evaluate domain specific Large Language Models for various tasks and applications in Apple’s AI powered products and conduct applied research to transfer the cutting edge research in generative AI to production ready technologies.
+
+Description
+
+As a member of our fast-paced group, you’ll have the unique and rewarding opportunity to shape upcoming products from Apple. We are looking for people with excellent applied machine learning experience and solid engineering skills in creating outstanding question answering service. This role will have the following responsibilities: -Analyzing search ranking and relevance requirements, issues and opportunities -Developing, fine-tuning, and evaluating domain-specific Large Language Models for various tasks and applications in Apple’s AI-powered products -Conducting applied research to transfer the cutting edge research in generative AI to production ready technologies -Understanding product requirements, translate them into modeling tasks and engineering tasks -Building machine learned models for question answering, search relevance, ranking and query understanding problems -Integrating search functions into Apple products, such as Siri, Spotlight, Safari, Messages, Lookup, etc. -Building end-to-end production system including query understanding and ranking to power search and open domain question answering -Utilizing Spark, Hadoop MapReduce, Hive, Impala to perform distributed data processing
+
+Minimum Qualifications
+
+Experience in machine learning, deep learning/LLM, information retrieval, natural language processing
+
+Experience of prompt engineering, fine-tuning, evaluating, and developing data collection/annotation/management tooling for LLMs.
+
+Proficiency in Python and at least one of following languages: Go, Java, C++ Excellent knowledge and good practical skills in major machine learning algorithms
+
+Excellent data analytical skills
+
+Good interpersonal skills and team player
+
+Preferred Qualifications
+
+Experience with Large Scale Data-Mining and/or Machine learning are a plus
+
+Experience with ML and LLM model inference optimization is a plus
+
+MS or PhD in Computer Science, Artificial Intelligence, Machine Learning, Information Retrieval, Data Science or related field
+
+Pay & Benefits
+
+At Apple, base pay is one part of our total compensation package and is determined within a range. This provides the opportunity to progress as you grow and develop within a role. The base pay range for this role is between $175,800 and $312,200, and your base pay will depend on your skills, qualifications, experience, and location.
+
+Apple employees also have the opportunity to become an Apple shareholder through participation in Apple’s discretionary employee stock programs. Apple employees are eligible for discretionary restricted stock unit awards, and can purchase Apple stock at a discount if voluntarily participating in Apple’s Employee Stock Purchase Plan. You’ll also receive benefits including: Comprehensive medical and dental coverage, retirement benefits, a range of discounted products and free services, and for formal education related to advancing your career at Apple, reimbursement for certain educational expenses — including tuition. Additionally, this role might be eligible for discretionary bonuses or commission payments as well as relocation.Learn more about Apple Benefits. (https://www.apple.com/careers/us/benefits.html)
+
+Note: Apple benefit, compensation and employee stock programs are subject to eligibility requirements and other terms of the applicable plan or program.
+
+Apple is an equal opportunity employer that is committed to inclusion and diversity. We take affirmative action to ensure equal opportunity for all applicants without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, Veteran status, or other legally protected characteristics.Learn more about your EEO rights as an applicant. (https://www.eeoc.gov/sites/default/files/2023-06/22-088_EEOC_KnowYourRights6.12ScreenRdr.pdf)
+
+Apple Footer
+
+Apple is an equal opportunity employer that is committed to inclusion and diversity. We take affirmative action to ensure equal opportunity for all applicants without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, Veteran status, or other legally protected characteristics. Learn more about your EEO rights as an applicant (Opens in a new window) .
+
+Apple will not discriminate or retaliate against applicants who inquire about, disclose, or discuss their compensation or that of other applicants. United States Department of Labor. Learn more (Opens in a new window) .
+
+Apple participates in the E-Verify program in certain locations as required by law. Learn more about the E-Verify program (Opens in a new window) .
+
+Apple is committed to working with and providing reasonable accommodation to applicants with physical and mental disabilities. Reasonable Accommodation and Drug Free Workplace policy Learn more (Opens in a new window) .
+
+Apple is a drug-free workplace. Reasonable Accommodation and Drug Free Workplace policy Learn more (Opens in a new window) .
+
+Apple will consider for employment all qualified applicants with criminal histories in a manner consistent with applicable law. If you’re applying for a position in San Francisco, review the San Francisco Fair Chance Ordinance guidelines (opens in a new window) applicable in your area.
+
+It is unlawful in Massachusetts to require or administer a lie detector test as a condition of employment or continued employment. An employer who violates this law shall be subject to criminal penalties and civil liability.
+
+Nice-to-have skills
+
+Python
+Go
+Java
+C++
+Spark
+Hive
+Impala
+Machine Learning
+Deep Learning
+Prompt Engineering
+California, United States
+
+Work experience
+
+Machine Learning
+NLP
+Search
+
+Languages
+
+English

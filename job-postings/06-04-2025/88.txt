@@ -1,0 +1,45 @@
+You might not know our name, but you know where we are. That's because Compass Group Canada is part of a global foodservice and support services company that's the 6th largest employer in the world, with 625,000 employees.
+
+You'll find us in schools, colleges, hospitals, office buildings, senior living communities, tourist attractions, sports venues, remote camps and military installations and more. We're in all major cities, at remote work sites and everywhere in between - doing business in Canada and 50+ other countries where you can learn and grow. Join us now and point your career forward!
+
+Why work with Compass Digital? We are a member of Compass Group North America the leading foodservice and support services company. We create remarkable customer experiences through the innovative design and development of technology products and services. Compass Digital began as an innovation startup and the team has since rapidly grown and now supports technology and innovation across all of North America. Compass digital is comprised of user experience designers, developers, data scientists, project managers, business analysts, marketers and technology implementation managers, all of whom look at the world from a human perspective to rethink what's possible in the areas of technology innovation and consumer engagement within the foodservice and hospitality industries. Join us.
+
+Job Summary
+
+We are seeking a Machine Learning Platform Engineer to develop, monitor, and integrate machine learning systems for autonomous decision-making. The role involves transitioning prototypes and proof of concept projects into production applications. The engineer will work closely with Data Scientists to extract and deliver unique business insights from large datasets, enhancing our data platforms. The primary focus is on designing and building a robust platform for machine learning systems, supporting machine learning and AI workflows to drive smarter decisions and better products.
+
+Now, If You Were To Come On Board As Our Senior Machine Learning Platform Engineer, We'd Ask You To Do The Following For Us
+
+Develop a comprehensive understanding of business requirements and data infrastructure.
+Integrate and manage data from multiple sources for robust platform functionality.
+Contribute to designing and enhancing platform features for automated ML & AI solutions.
+Gain in-depth knowledge of business areas and corresponding technical challenges.
+Tackle unstructured technical problems independently.
+Collaborate with teams to refine platform concepts and prototypes for stakeholder needs.
+Design, develop, and deploy scalable ML and AI systems and workflows across projects.
+Partner with strategic business stakeholders for data-driven insights and platform solutions.
+Maintain and support ML and AI platforms for reliability and performance.
+Deliver automated decision-making systems aligned with business goals and support them.
+Review and contribute to technical documentation for platform solutions.
+Ensure high-quality code and adherence to software development best practices.
+Measure and monitor the accuracy and performance of deployed models and platform solutions.
+
+Role
+
+Think you have what it takes to be our Senior Machine Learning Platform Engineer? We're committed to hiring the best talent for the role. Here's how we'll know you'll be successful in the role:
+
+Background in Computer Science, Computational Science, Mathematics, or a related field.
+Solid knowledge of general Machine Learning concepts in theory and application.
+Advanced programming skills in Python.
+Experience with Machine Learning frameworks and libraries: TensorFlow, PyTorch.
+Experience deploying Machine Learning applications to production environments.
+Experience deploying infrastructure on cloud platforms (AWS, GCP, Azure).
+Experience with big data solutions and excellent written/verbal communication skills for relaying complex concepts to non-technical users.
+
+Compass Group Canada is committed to nurturing a diverse workforce representative of the communities within which we operate. We encourage and are pleased to consider all qualified candidates, without regard to race, colour, citizenship, religion, sex, marital / family status, sexual orientation, gender identity, aboriginal status, age, disability or persons who may require an accommodation, to apply.
+
+For accommodation requests during the hiring process, please contact PeopleHub@compass-canada.com for further information.
+
+SaveRemove
+
+share-facebook"> " class="cls-1" d="M15,0A15,15,0,1,0,30,15,15,15,0,0,0,15,0Zm3.25,15H16v8H13V15H11V12h2V10.71c0-1.27.29-3.26,2.94-3.26H18V10H16.76a0.83,0.83,0,0,0-.76.87V12h2.54Z"> share-twitter"> " class="cls-1" d="M15,0A15,15,0,1,0,30,15,15,15,0,0,0,15,0Zm5.79,12.39c0,0.12,0,.25,0,0.37A8.31,8.31,0,0,1,8,19.77c0.23,0,.46,0,0.7,0a5.94,5.94,0,0,0,3.65-1.25,2.91,2.91,0,0,1-2.71-2,4.07,4.07,0,0,0,.61,0,4.22,4.22,0,0,0,.87-0.1A2.76,2.76,0,0,1,9,13.61v0a1.33,1.33,0,0,0,1.12.37A3.11,3.11,0,0,1,8.6,11.51,2.91,2.91,0,0,1,9,10a8.29,8.29,0,0,0,6,3,2.93,2.93,0,0,1,5-2.67,5.69,5.69,0,0,0,1.85-.71,2.88,2.88,0,0,1-1.28,1.62,6,6,0,0,0,1.68-.46A6,6,0,0,1,20.79,12.39Z"> share-linkedin"> " class="cls-1" d="M16.19,13.74a0,0,0,0,0,0,0v0h0Z"> "> " class="cls-1" d="M15,0A15,15,0,1,0,30,15,15,15,0,0,0,15,0ZM11.83,21H9V12.52h2.82V21Zm-1.41-9.64h0a1.47,1.47,0,1,1,0-2.94A1.47,1.47,0,1,1,10.42,11.36ZM22,21H19.18V16.46c0-1.14-.41-1.92-1.43-1.92a1.56,1.56,0,0,0-1.45,1,2.1,2.1,0,0,0-.09.69V21H13.39s0-7.69,0-8.48h2.82v1.2a2.81,2.81,0,0,1,2.54-1.4c1.86,0,3.25,1.21,3.25,3.82V21Z"> share-email"> " class="cls-1" d="M15,0A15,15,0,1,0,30,15,15,15,0,0,0,15,0Zm9,21H6V10H24V21Zm-1-1.71v-7l-4,3ZM15,17l8-6H7Zm0.6,1H14.4l-2.57-2L7.71,20H22.29l-4.12-4ZM7,12.25v7l4-4Z"> share-print"> " class="cls-1" d="M10,8v3H20V8H10ZM8,12v6H9V17h1v5H20V17h1v1h1V12H8Zm2,2H9V13h1v1Zm9,7H11V20h8v1Zm0-2H11V18h8v1ZM8,12v6H9V17h1v5H20V17h1v1h1V12H8Zm2,2H9V13h1v1Zm9,7H11V20h8v1Zm0-2H11V18h8v1ZM10,8v3H20V8H10Zm0,0v3H20V8H10ZM8,12v6H9V17h1v5H20V17h1v1h1V12H8Zm2,2H9V13h1v1Zm9,7H11V20h8v1Zm0-2H11V18h8v1ZM8,12v6H9V17h1v5H20V17h1v1h1V12H8Zm2,2H9V13h1v1Zm9,7H11V20h8v1Zm0-2H11V18h8v1ZM20,8H10v3H20V8ZM15,0A15,15,0,1,0,30,15,15,15,0,0,0,15,0Zm8,19H21v4H9V19H7V11H9V7H21v4h2v8ZM8,18H9V17h1v5H20V17h1v1h1V12H8v6Zm3,0h8v1H11V18Zm0,2h8v1H11V20ZM9,13h1v1H9V13ZM20,8H10v3H20V8ZM10,8v3H20V8H10ZM8,12v6H9V17h1v5H20V17h1v1h1V12H8Zm2,2H9V13h1v1Zm9,7H11V20h8v1Zm0-2H11V18h8v1ZM8,12v6H9V17h1v5H20V17h1v1h1V12H8Zm2,2H9V13h1v1Zm9,7H11V20h8v1Zm0-2H11V18h8v1ZM10,8v3H20V8H10Z"> SaveRemove

@@ -1,0 +1,42 @@
+Join our team of machine learning experts to develop and implement cutting-edge models specifically tailored for price optimization. You will work closely with data scientists to deploy low latency services in production with the objective to infer customer willingness to pay and optimize bid pricing, leveraging theories of opportunity cost. Your work will directly influence pricing strategies for millions of customers.
+
+
+
+YOUR ROLE AT SIXT
+
+Model Deployment and Optimization: You will collaborate with data scientists to deploy and optimize machine learning models focused on price optimization ranging from an array of techniques, including and not limited to Neural Networks, Gradient Boosting methods, Genetic Algorithms, Linear Programming, and Time Series Forecasting.
+Build and Maintain ML Pipelines: You will design, develop, and maintain robust pipelines specifically for deploying and scaling machine learning models that drive dynamic pricing strategies. Ensure these pipelines are scalable, reliable, and seamlessly integrated with the company's existing systems.
+Cross-Functional Collaboration: You will work closely with data scientists, product managers, and software engineers to transform experimental models into operational systems that effectively drive pricing optimization and enhance business outcomes.
+Monitoring and Performance Tuning: You will continuously monitor deployed models for performance and accuracy. Implement feedback loops and conduct regular updates to refine models in response to market changes and business needs.
+Scalability and Automation: You will automate tasks and build infrastructure capable of handling large-scale data processing and complex model serving, ensuring systems are scalable and capable of executing real-time pricing adjustments.
+Knowledge Sharing: You will document best practices and deployment workflows related to price optimization. Share technical insights and model impacts with both technical and non-technical stakeholders to foster understanding and drive strategic decisions.
+
+
+
+
+YOUR SKILLS MATTER
+
+Strong Foundations in Machine Learning Engineering: Experience in building, deploying, and maintaining ML models in production environments.
+Proficiency in Python and ML Frameworks: Skilled in production-oriented machine learning frameworks such as TensorFlow, PyTorch, and Scikit-learn.
+Experience with ML Pipeline Tools: Familiarity with tools like MLflow and Airflow for managing machine learning workflows.
+Understanding of Causal Inference Models: Knowledge of A/B testing, difference-in-differences, propensity score matching, and double machine learning, as they relate to pricing.
+Cloud and Big Data Experience: Hands-on experience with cloud platforms (AWS) and big data technologies like Spark, Dask, or Polars.
+Collaboration and Communication Skills: Ability to work effectively with cross-functional teams, understanding modeling requirements, and translating them into scalable engineering solutions.
+Problem-Solving Mindset: Proactive approach and a passion for solving complex pricing challenges through advanced engineering solutions.
+
+
+
+
+WHAT WE OFFER
+
+Generous Time Off Enjoy 28 days of vacation, an additional day off for your birthday, and 1 volunteer day per year
+Work-Life Balance & Flexibility Benefit from a hybrid working model, flexible working hours, and no dress code
+Great Employee Benefits Access discounts on SIXT rent, share, ride, and SIXT+, along with partner discounts
+Training & Development Participate in training programs, external conferences, and internal dev & tech talks designed for your personal growth and development
+Health & Well-being Private health insurance to support your well-being
+Additional Perks Enjoy the Coverflex advantage system to enhance your employee experience
+
+
+About us:
+
+We are a leading global mobility service provider with sales of €3.07 billion and around 9,000 employees worldwide. Our mobility platform ONE combines our products SIXT rent (car rental), SIXT share (car sharing), SIXT ride (cab, driver and chauffeur services), SIXT+ (car subscription) and gives our customers access to our fleet of 222,000 vehicles, the services of 1,500 cooperation partners and around 1.5 million drivers worldwide. Together with our franchise partners, we are present in more than 110 countries at 2,098 rental stations. At SIXT, a first-class customer experience and outstanding customer service are our top priorities. We focus on true entrepreneurship and long-term stability and align our corporate strategy with foresight. Want to take off with us and revolutionize the world of mobility? Apply now!

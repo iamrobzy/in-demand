@@ -1,0 +1,49 @@
+🚀 ¡En SII Group estamos en búsqueda de un/a Machine Learning Engineer ! 💻✨
+
+Misión 🎯 
+
+Como Machine Learning Engineer, tu misión es aplicar técnicas de aprendizaje automático para resolver problemas del mundo real, desde la comprensión de los requisitos del negocio hasta la implementación y el mantenimiento de modelos en entornos de producción
+
+¿Qué harás? 💡
+
+👉 Implementar su entendimiento del negocio a los objetivos comerciales, comprendiendo las necesidades de este. 
+
+👉 Identificar y recopilar los datos relevantes para los dolores en cuestión. 
+
+👉 Participar en la limpieza de datos, preparación y visualización de estos. 
+
+👉 Proponer algoritmos de ML adecuados a las necesidades de la situación. 
+
+👉 Desarrollar, entrenar y ajustar modelos de ML utilizando conjuntos de datos históricos. 
+
+¿Cuáles son los requisitos? 🛠️ 
+
+✔️ Experiencia demostrada con Python, Scikit-learn, Pandas, Tensorflow, Pytorch. 
+
+✔️ Mínimo tres años de experiencia demostrada en desarrollo de algoritmos de datos y machine learning. 
+
+✔️ Conocimientos prácticos demostrables en todo el ciclo de vida del desarrollo de algoritmos que apoyen al negocio. 
+
+✔️ Experiencia con Cloud (Deseable).
+
+✔️ Inglés Avanzado (Deseable)
+
+Acerca de SII Group 
+
+SII Group Chile es parte del Grupo SII, que opera desde hace más de 40 años en los dominios de TI e Ingeniería. El Grupo se enorgullece de emplear a más de 16.000 profesionales en todo el mundo y es uno de los principales proveedores de servicios de TI e ingeniería. Llevamos a cabo varios proyectos para empresas líderes a nivel mundial en múltiples industrias como Banca y Finanzas, Manufactura y Retail, Automoción y Transporte, Aeroespacial y Defensa, Telecomunicaciones, Servicios Públicos y Ciencias de la Vida.
+
+A pesar de nuestro crecimiento expansivo, seguimos creyendo que las personas son nuestro activo más importante y este es el núcleo de nuestro concepto #Fungineer que hoy se extiende a nuestro concepto #Greengineer.
+
+La misión de SII es acompañar a sus clientes en su viaje digital; creemos que podemos lograrlo gracias a nuestros profesionales de Ingeniería.
+
+El Grupo SII fue elegido Great Place To Work 2022 en 14 países, y por segunda vez en Chile como uno de los Best Place to Work, pasando del #16 en 2021 al #11 en 2022.
+
+“Está vacante está disponible para personas con discapacidad de acuerdo a la Ley 21.015, por lo que, si presentas una discapacidad y estás interesado/a en la posición, te agradeceremos nos indiques las adecuaciones necesarias para que tu proceso de entrevista sea óptimo”. 
+
+En SII Group Chile
+
+⏰ Tu tiempo nos importa: días administrativos libres.
+
+🏆 Queremos que te desarrolles: Programas de capacitaciones a tu medida.
+
+🚀 Ser #fungineer es fun: ¡FunFridays y eventos varios!

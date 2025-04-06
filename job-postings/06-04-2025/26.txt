@@ -1,0 +1,42 @@
+About the company
+
+
+
+Skyfall is disrupting the entire AI ecosystem by building the first world model for the enterprise. The goal of the ‘Enterprise world Model’ is to overcome the severe limitations of LLMs (Safety, Hallucinations, Expensive training) in order to provide the enterprises significant value by having a comprehensive understanding of the complex interplay between data, people and processes with organizations.
+
+
+
+The Skyfall founding team consists of Maluuba founders who were previously pioneers in the Deep learning revolution. Maluuba worked with AI pioneers such as Yoshua Bengio and Richard Sutton before it was acquired by Microsoft for $160M and became Microsoft’s AI research center in Canada.
+
+
+
+Job Overview 
+
+
+
+Skyfall is hiring multiple ML Engineers to deploy and optimize large language models (LLMs) in production. You’ll be responsible for fine-tuned and RLHF-trained LLM deployment, optimizing inference for cost and latency, and building scalable training pipelines using DeepSpeed, Accelerate, and Ray. The role involves designing distributed training infrastructure, managing multi-cloud ML deployments, and implementing cutting-edge model compression techniques. Skyfall is hiring multiple ML Engineers across New York, Toronto and Bangalore. 
+
+
+
+Key Responsibilities
+
+Deploy post-trained LLMs (fine-tuned or RLHF-trained) into production environments.
+Optimize LLM inference for cost and latency, leveraging techniques like model quantization, FlashAttention, and vLLM.
+Develop scalable training and inference pipelines using DeepSpeed, Accelerate, and Ray.
+Build internal tools for the data science and research teams to enable multi-GPU training and large-scale experimentation.
+Design and maintain distributed training infrastructure, ensuring efficient resource allocation.
+Develop cluster management tools for external compute infrastructure, potentially spanning multiple cloud vendors.
+Implement continuous model evaluation pipelines to track model drift, inference performance, and cost efficiency.
+Research and implement state-of-the-art model compression and inference acceleration techniques.
+
+
+Minimum Requirements
+
+3+ years of experience in ML engineering, model deployment, and large-scale training.
+Experience with vector databases (FAISS, Pinecone, Weaviate) for retrieval-augmented generation (RAG).
+Experience with multi-cloud ML deployment across AWS, GCP, and Azure.
+Hands-on experience deploying LLMs or similar large-scale models in a production setting.
+Expertise in multi-GPU training, model parallelism, and inference optimizations.
+Strong knowledge of ML system performance tuning, latency optimization, and cost reduction strategies.
+Experience in building and managing large-scale ML clusters across cloud or hybrid environments.
+Solid understanding of LLM fine-tuning techniques, RLHF, and model evaluation metrics.

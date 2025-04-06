@@ -1,0 +1,77 @@
+Are you an AI aficionado with a passion for building models that make a real-world impact? Do you dream in Python and get excited by clean data? Forget needing 100 years of experience, we're looking for a brilliant Machine Learning Engineer ready for a new adventure at a fast-paced, mission-driven startup! If you love tackling complex problems, owning the ML lifecycle, and working with a unique, energetic team, keep reading!
+
+👋 ABOUT CURVECATCH
+CurveCatch is a Belgian venture-backed startup revolutionising the way people shop for intimate apparel. We’re a bra shopping companion that plugs into any intimate apparel webshop and uses AI to help shoppers find the perfect bra. We help shoppers with style, shape and size and reduce the number of decisions and clicks they have to make. This way we fast-track them to conversion to grow webshop revenue and shopper delight. We operate on a SaaS business model.
+Before launching as a SaaS, we were our own first customer with our home-try-on e-commerce service. It’s a 7-figure profitable business that allows us to be very close to end-users.
+We started from the local specialty shops of founder Kimia’s parents during Covid-19. Since then, we’re a team of 5 and have raised just under €1 million in pre-seed funding from strategic angels, accelerator XX in San Francisco, an innovation grant, and a grant from Y Combinator.
+Never thought your next adventure would be in the lingerie sector? Stick around and find out!
+
+🚀 WHAT WILL YOU DO?
+As our Machine Learning Engineer, you'll be pivotal in developing and deploying the AI that powers CurveCatch's personalization magic. You'll work across the ML lifecycle to deliver impactful models and shape our AI strategy. Your responsibilities will likely include:
+Designing, developing, training, and deploying machine learning models to enhance product personalization (style, shape, size) and recommendation systems.
+Researching and implementing novel ML techniques and algorithms suitable for our unique lingerie domain datasets.
+Managing and improving the end-to-end ML workflow, including data preparation, feature engineering, model training, validation, deployment, and monitoring in production.
+Optimizing ML models and infrastructure for performance, scalability, and cost-effectiveness (leveraging tools like AWS Sagemaker, Metaflow, W&B and making smart use of cloud credits).
+Collaborating closely with the CTO (Nils) on the AI/R&D roadmap, data strategy, and continuous improvement of our MLOps processes and lean toolstack (Postgres, DBT, Snowflake, PyTorch etc.).
+Working with our Engineer (Denis) on infrastructure decisions impacting data and AI systems.
+Providing input on product features related to ML models and data collection, championing data quality ("garbage in, garbage out").
+Actively seeking and implementing ways to automate and streamline ML processes to maximize time spent on modelling and impact.
+
+👊 WHY IS YOUR ROLE CRUCIAL FOR US?
+Your work is core to our product's unique value. You will directly accelerate the development and release of foundational AI models, making our service significantly more compelling through deeper personalization and accuracy. Without you, our AI development would be slower, limiting the features and value we can offer customers. Your contributions will directly impact business outcomes by optimizing revenue through better recommendations or reducing costs through automation, ensuring CurveCatch stays at the forefront of AI in this domain.
+
+🏆 ABOUT THE TEAM
+Kimia (CEO): Our growth & finance lead, the push-up bra of the team – an eternal dreamer and optimist driving us forward.
+Nils (CTO): Our software & recommender systems guru, the spacer bra – the experimenter and brain behind our innovations. (You'll work very closely with Nils, defining the roadmap and improving our ML stack).
+Lore (Operations Manager): Our process & onboarding expert, the balcony bra – keeping us all tightly together.
+Denis (Engineering): Our seamless bra, making complex engineering look simple. (You'll collaborate with Denis on engineering/data intersections).
+Veerle, Sanne, Marjolein and Eden (Lingerie Guides): Our frontline experts providing incredible support.
+Machine Learning Engineer (You!): You'll be the driving force behind our production ML models and AI capabilities. You'll have significant autonomy and impact, with the willingness to potentially coach a junior/intern down the line as the team grows.
+
+💪💪💪 MUST-HAVE QUALIFICATIONS
+Proven experience designing, building, training, and deploying machine learning models in a production environment.
+Strong theoretical understanding and practical application of ML fundamentals (algorithms, evaluation, feature engineering).
+Proficiency in Python and common ML libraries/frameworks (e.g., PyTorch, Scikit-learn, Pandas).
+Strong SQL skills and experience with data processing and warehousing concepts (experience with tools like DBT, Snowflake is a plus).
+Hands-on experience with cloud platforms (AWS preferred, GCP useful) and familiarity with MLOps principles and tools (e.g., Metaflow, W&B, Sagemaker, or similar).
+A pragmatic approach focused on delivering impactful ML solutions efficiently in a small team ("garbage in, garbage out" mindset, passion for automation).
+Excellent problem-solving skills and the ability to independently drive research and development projects.
+Strong communication skills in English.
+
+💪 NICE-TO-HAVE QUALIFICATIONS
+Experience specifically with personalization or recommendation systems.
+Experience working in an e-commerce environment.
+Experience working in a start-up environment.
+Experience with any of our specific stack tools (DBT, Snowflake, Metaflow, W&B, Sagemaker, Hex, Metabase).
+Experience mentoring junior data professionals or interns.
+
+💔 WHY WOULDN'T YOU LIKE THIS ROLE?
+You prefer highly specialized roles (e.g., only research, only ops) rather than working across the full ML lifecycle.
+You thrive in large, established teams with extensive existing infrastructure and tooling support. (We value a lean setup).
+You dislike ambiguity and prefer very clearly defined tasks over exploring datasets and proposing solutions.
+You aren't passionate about maintaining high data quality as a foundation for good models.
+Honestly … we can't think of anything else. This is an out-of-this-world opportunity 🚀!
+
+💜 OUR VALUES
+Build the Rocket While Flying It: Expect to learn constantly, take ownership, embrace challenges collaboratively, and value progress over perfection. It's an adventure!
+Catch the Day, Every Day: We move fast, focus on daily impact, make quick decisions, and enjoy the team journey – 'mud splatters and all'.
+Brain, Belly, Blast Off: We combine data-driven insights with a strong drive to act, all focused on our mission to close the gender data gap (fuelled by facts... and occasional Indian food!).
+
+🚩 WHAT DOES THE PROCESS LOOK LIKE?
+We believe in a transparent process and value your time. Here’s what you can generally expect:
+Application Review: We carefully review your application and aim to reply within one week.
+Intro Call (30 mins): A brief virtual chat with Lore (HR Manager) to get a first impression and discuss basics like salary expectations.
+Manager Vibe Check (20 mins): A short virtual meeting with your future manager to ensure initial alignment and fit.
+Take-Home Assignment + debrief meeting (2 hours): We’ll send you a practical assignment relevant to the role's core skills for you to complete at your convenience.
+Team Fit Interviews (2 hours, In-Person): If the assignment aligns well, we'll invite you for the final interview stage. This involves meeting key team members and having a more extensive conversation with your manager. This 2-hour session takes place in person, typically at our Antwerp co-working space.
+Final Offer: If it's a great match on both sides, we'll extend an offer!
+We'll keep you informed of your status throughout the process, and our goal is to move through all steps within a maximum of 4 weeks.
+
+💸 BENEFITS
+Competitive salary package (we have an open salary policy).
+Stock options? Heck yeah, we're building CurveCatch together!
+Work from anywhere (within a 3-hour timezone difference from Belgium) 3 weeks per month. We value connection, so we huddle together 1 day per week in our co-working space in Antwerp (typically Thursdays).
+Adventurous team getaways 1x per quarter (expect the unexpected!).
+Personal development plan and budget/coaching opportunities.
+A super cool, supportive, and mission-driven team applying AI to a unique domain!
+The chance to genuinely support (😜) the lives and confidence of half the population (not a bad stat to tell your family in law at Christmas, right?).

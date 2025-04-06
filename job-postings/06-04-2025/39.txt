@@ -1,0 +1,50 @@
+Lensa is the leading career site for job seekers at every stage of their career. Our client, META, is seeking professionals in Sunnyvale, CA. Apply via Lensa today!
+
+Summary
+
+Reality Labs at Meta is building products that make it easier for people to connect with the ones they love most, enjoy top-notch, wire-free AR/MR, and push the future of computing platforms. We are a team dedicated to AR/VR research and products, committed to driving the state-of-the-art forward through relentless innovation. The potential of AR and VR to change the world is immense—and we're just getting started.The Reality Labs Silicon team explores, develops, and delivers new cutting-edge technologies that serve as the foundation of current and future Reality Labs products. From mixed reality and human interaction to natural input and beyond, the silicon team focuses on taking new technologies from early concept to the product level while iterating, prototyping, and realizing the human value and new experiences they open up.The team's mission is to develop cutting-edge image processing, computer vision, and machine learning core technologies for on-device imaging in combination with cloud computing. We are combining ML and classic algorithms to achieve product requirements.
+
+Required Skills
+
+Image Processing and Machine Learning Engineer (PhD) Responsibilities:
+
+Develop algorithms for image processing and computer vision that are based on machine learning and classic approaches. 
+Develop machine learning models that interact efficiently with specialized imaging hardware, optimizing for performance, energy efficiency, and scalability. 
+Run ML models, including training, optimization, and analysis of results. 
+Perform image and video quality evaluations using both objective and subjective methods. 
+Build new tools and workflows for evaluating and improving the visual quality and computational efficiency of vision systems. 
+Collaborate with hardware teams to co-design algorithms that leverage specialized accelerators or custom silicon for optimized performance. 
+
+Minimum Qualifications
+
+Minimum Qualifications:
+
+Currently has, or is in the process of obtaining a Bachelor's degree in Computer Science, Computer Engineering, relevant technical field, or equivalent practical experience. Degree must be completed prior to joining Meta. 
+Currently has, or is in the process of obtaining, a PhD degree in Computer Science, Electrical Engineering, machine learning, computer vision or related field. 
+Experience in developing and implementing advanced algorithms for imaging, computer vision, or machine learning applications. 
+Experience in Python and/or MATLAB, and C++. 
+Familiarity with machine learning frameworks such as PyTorch, TensorFlow, or other related tools. 
+Must obtain work authorization in the country of employment at the time of hire and maintain ongoing work authorization during employment. 
+
+Preferred Qualifications
+
+Preferred Qualifications:
+
+Proven track record of achieving significant results, as demonstrated by first-authored publications at leading workshops or conferences in imaging, computer vision, or machine learning (e.g., CVPR, ICCV, ECCV, NeurIPS, ICML). 
+Experience with designing image processing or computer vision algorithms optimized for specialized hardware such as GPUs, Digital Signal Processors(DSP), or custom Application-Specific Integrated Circuits(ASIC). 
+Knowledge of image and video quality metrics and evaluation methodologies. 
+Experience with software-hardware co-design and developing models that interact with low-level system components. 
+Demonstrated experience in designing tools for data processing, visualization, and performance evaluation. 
+Familiarity with state-of-the-art techniques in computational imaging, computer vision, or AR/VR applications. 
+
+Public Compensation
+
+$114,000/year to $166,000/year + bonus + equity + benefits
+
+Industry: Internet
+
+Equal Opportunity
+
+Meta is proud to be an Equal Employment Opportunity and Affirmative Action employer. We do not discriminate based upon race, religion, color, national origin, sex (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender, gender identity, gender expression, transgender status, sexual stereotypes, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics. We also consider qualified applicants with criminal histories, consistent with applicable federal, state and local law. Meta participates in the E-Verify program in certain locations, as required by law. Please note that Meta may leverage artificial intelligence and machine learning technologies in connection with applications for employment.
+
+Meta is committed to providing reasonable accommodations for candidates with disabilities in our recruiting process. If you need any assistance or accommodations due to a disability, please let us know at accommodations-ext@fb.com.

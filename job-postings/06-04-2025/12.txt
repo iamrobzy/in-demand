@@ -1,0 +1,29 @@
+🌟 #Postdoc Opportunity: #MachineLearning for #DigitalBiomarkers 🌟
+
+Exciting news for researchers passionate about #WearableTechnology, #AI, and #HealthcareInnovation! We’re hiring a Postdoctoral Researcher at the Wearable Robotic Systems Lab, Stevens Institute of Technology, with a secondary appointment at Columbia University Irving Medical Center.
+
+📍 Location:
+Hoboken, NJ (Stevens Institute of Technology)
+New York, NY (Columbia University Irving Medical Center)
+
+🚀 About the Role:
+Join our interdisciplinary team working on cutting-edge research to develop AI-enabled digital biomarkers for #NeuromuscularDisorders. This project involves real-world #GaitMonitoring using instrumented insoles and advanced ML models to evaluate disease progression through#DigitalMobilityOutcomes (DMOs).
+
+💼 Responsibilities:
+* Lead the development of the next-generation #AISole for natural environment gait monitoring.
+* Build and evaluate supervised ML models for spatiotemporal and kinetic gait DMOs.
+* Collaborate with clinical experts and contribute to impactful research.
+* Publish in high-impact journals and present at conferences.
+* Supervise graduate students and support grant writing.
+
+🔑 Qualifications:
+* Ph.D. in Computer Science, Electrical/Computer Engineering, or related fields.
+* Expertise in machine learning, signal processing, and wearable sensors.
+* Experience with gait analysis and digital biomarkers (preferred).
+* Proficiency in MATLAB (required) and Python (preferred).
+* Strong publication record and excellent communication skills.
+
+📅 Application Deadline:
+We encourage applications by May 31, 2025, but the position will remain open until filled.
+
+📧 To apply, send a cover letter, CV, and three references to damiano.zanotto@stevens.edu.

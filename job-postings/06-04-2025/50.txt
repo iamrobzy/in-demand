@@ -1,0 +1,39 @@
+Let's make the difference together!
+
+Siemens EDA is one of the top tier suppliers in the Electronic Design Automation industry and part of Siemens DI. As a technology leader, the company offers innovative solutions for electronic hardware and software design.
+
+We are looking for a highly motivated and capable Software Engineer to join the R&D team developing Design-for-Test (DFT) tools as part of the industry-leading Tessent product line. These advanced tools are vital to silicon validation of integrated circuits and used by the world’s leading semiconductor companies.
+
+Development will be done in C++ on a Linux platform. The candidate must be able to design and implement high-quality, very efficient, and maintainable software solutions to complex problems. Additionally, the candidate is expected to be a fast learner and self starter, with excellent verbal and written communication skills, and ability to work effectively within a distributed team.
+
+The position can be in-office or hybrid at our location in Poznan, Poland.
+
+Required Qualifications
+
+Bachelors (or higher) in Computer/Electrical Engineering, or other related field.
+C++ programming experience.
+Understanding of software architecture best practices and object-oriented programming.
+Excellent and creative problem-solving skills, including skills with algorithms and data structures.
+At least basic knowledge of digital logic design.
+Attention to details and high-quality work.
+Excellent verbal, written, and interpersonal communication skills.
+
+Preferred Qualifications
+
+Hardware description languages: Verilog, SystemVerilog or VHDL will be a strong plus.
+Experience with software development on Linux, and development tools such as Git.
+Knowledge of machine learning methodologies.
+
+Working at Siemens Software
+
+Why us?
+
+Working at Siemens Software means flexibility - Choosing between working at home and the office at other times is the norm here. We offer great benefits and rewards, as you'd expect from a world leader in industrial software.
+
+We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, sex, gender, gender expression, sexual orientation, age, marital status, veteran status, or disability status.
+
+Siemens Industry Software is an equal opportunities employer and does not discriminate unlawfully on the grounds of age, disability, gender assignment, marriage, and civil partnership, pregnancy and maternity, race, religion or belief, sex, sexual orientation, or trade union membership.
+
+Siemens. Making Real What Matters
+
+If you want to make a difference – make it with us!

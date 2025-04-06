@@ -1,0 +1,94 @@
+About
+
+Machine Learning Compiler Engineer
+
+Sunnyvale, California, United States
+
+Machine Learning and AI
+
+Summary
+
+Posted:
+
+Feb 18, 2025
+
+Role Number
+
+200591580
+
+At Apple, we're on the cutting edge of delivering transformative experiences through Artificial Intelligence. If you're passionate about pushing the boundaries of AI and hardware optimization, we want you to join our team! As a Machine Learning Compiler Engineer on the Apple Neural Engine (ANE) team, you'll work to bring high-performance, low-power AI solutions to life on iconic Apple products like the Vision Pro, iPhone, iPad, Mac, and more. This is a dynamic opportunity to work with us in a creative, collaborative environment while developing groundbreaking technologies that will shape the future of computing! We are looking for an engineer with deep expertise in compiler technology, and eager to tackle new challenges and responsibilities as the role evolves. As the position progresses, there will be opportunities to demonstrate leadership, influence key decisions, collaborate with and support other engineers, and help guide the direction of Apple’s AI-driven capabilities across the ecosystem.
+
+Description
+
+As a Machine Learning Compiler Engineer, you will: - Architect and develop the compiler for Apple's proprietary Neural Engine Accelerator, optimizing it for deep learning inference with a focus on performance, scalability, and power efficiency - Collaborate with cross-functional teams, including hardware and platform architecture teams, to bring new hardware silicon to market and ensure compiler support for next-gen features - Lead the design and implementation of complex compiler features, advancing both technical capabilities and strategic alignment across the team and company - Mentor and guide emerging and mid-level engineers, sharing expertise to foster their growth in compiler technologies and ensuring high standards of code quality, innovation, and efficiency - Play an instrumental role in defining new compiler architecture approaches and optimizations, balancing trade-offs between performance, energy efficiency, and hardware constraints - Identify and drive initiatives that will improve the scalability and general performance of AI workloads on Apple hardware, contributing to the vision and roadmap of the Apple Neural Engine team - Cultivate a culture of learning and collaboration, encouraging innovation, and supporting engineers in their development, with the potential to expand influence across the organization
+
+Minimum Qualifications
+
+Bachelor’s degree in Computer Science, Computer Engineering, or a related field with 5 years of relevant experience
+
+Experience with program analysis and IR (Intermediate Representation), or programming language design, particularly with MLIR and LLVM
+
+Proven expertise in compiler design and architecture, including deep experience with front-end and middle-end optimizations, register allocation, and back-end code generation
+
+High-level proficiency in C++ and experience working with large, complex software systems
+
+Preferred Qualifications
+
+Bachelor’s (and/or Master's/PhD) degree in Computer Science, Computer Engineering, or a related field with 10 years of relevant experience
+
+Demonstrated ability to ship high-quality production software
+
+Strong communication skills and ability to collaborate effectively across teams and functions
+
+Experience optimizing compilers for distributed, parallel, or heterogeneous execution environments, with a solid understanding of shared memory, synchronization, and multi-threading techniques
+
+Expertise in neural network inference on specialized SoCs or GPUs, and knowledge of deep learning frameworks and tools
+
+Familiarity with Just-in-Time (JIT) compilation and dynamic optimization techniques for real-time code execution
+
+Proven track record in mentoring and coaching engineers, with an interest in taking on increasing responsibilities and contributing to the team's development
+
+Pay & Benefits
+
+At Apple, base pay is one part of our total compensation package and is determined within a range. This provides the opportunity to progress as you grow and develop within a role. The base pay range for this role is between $175,800 and $312,200, and your base pay will depend on your skills, qualifications, experience, and location.
+
+Apple employees also have the opportunity to become an Apple shareholder through participation in Apple’s discretionary employee stock programs. Apple employees are eligible for discretionary restricted stock unit awards, and can purchase Apple stock at a discount if voluntarily participating in Apple’s Employee Stock Purchase Plan. You’ll also receive benefits including: Comprehensive medical and dental coverage, retirement benefits, a range of discounted products and free services, and for formal education related to advancing your career at Apple, reimbursement for certain educational expenses — including tuition. Additionally, this role might be eligible for discretionary bonuses or commission payments as well as relocation.Learn more about Apple Benefits. (https://www.apple.com/careers/us/benefits.html)
+
+Note: Apple benefit, compensation and employee stock programs are subject to eligibility requirements and other terms of the applicable plan or program.
+
+Apple is an equal opportunity employer that is committed to inclusion and diversity. We take affirmative action to ensure equal opportunity for all applicants without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, Veteran status, or other legally protected characteristics.Learn more about your EEO rights as an applicant. (https://www.eeoc.gov/sites/default/files/2023-06/22-088_EEOC_KnowYourRights6.12ScreenRdr.pdf)
+
+Apple Footer
+
+Apple is an equal opportunity employer that is committed to inclusion and diversity. We take affirmative action to ensure equal opportunity for all applicants without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, Veteran status, or other legally protected characteristics. Learn more about your EEO rights as an applicant (Opens in a new window) .
+
+Apple will not discriminate or retaliate against applicants who inquire about, disclose, or discuss their compensation or that of other applicants. United States Department of Labor. Learn more (Opens in a new window) .
+
+Apple participates in the E-Verify program in certain locations as required by law. Learn more about the E-Verify program (Opens in a new window) .
+
+Apple is committed to working with and providing reasonable accommodation to applicants with physical and mental disabilities. Reasonable Accommodation and Drug Free Workplace policy Learn more (Opens in a new window) .
+
+Apple is a drug-free workplace. Reasonable Accommodation and Drug Free Workplace policy Learn more (Opens in a new window) .
+
+Apple will consider for employment all qualified applicants with criminal histories in a manner consistent with applicable law. If you’re applying for a position in San Francisco, review the San Francisco Fair Chance Ordinance guidelines (opens in a new window) applicable in your area.
+
+It is unlawful in Massachusetts to require or administer a lie detector test as a condition of employment or continued employment. An employer who violates this law shall be subject to criminal penalties and civil liability.
+
+Nice-to-have skills
+
+Machine Learning
+Artificial Intelligence
+C++
+LLVM
+Neural Networks
+GPUs
+California, United States
+
+Work experience
+
+Machine Learning
+Software Architect
+
+Languages
+
+English

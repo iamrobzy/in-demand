@@ -1,0 +1,17 @@
+The ideal candidate is a team player who will be responsible for working with company data in various business areas. Specific responsibilities include reporting metrics, analyzing methodologies, suggesting operation improvements, and building proposal evaluations in a cross-functional environment.
+
+Job Title: Server Module - ML / DevOps
+Location-BANGALORE
+Exp-8+ yrs
+Education-Full time B.E. / B. Tech / M. Tech / MSc / MCA
+
+Required Technical Skill Set:
+
+1 Design and develop machine learning models and algorithms.
+2 Implement and optimize AI and ML solutions for real-world applications.
+3 Collaborate with cross-functional teams to integrate models into production systems.
+4 Analyze large datasets to extract actionable insights and identify patterns.
+5 Perform data preprocessing and feature engineering to prepare data for modeling.
+6 Tune and improve model performance and accuracy.
+7 Stay updated with advancements in AI and ML technologies.
+8 Document and maintain AI/ML models, experiments, and processes.
