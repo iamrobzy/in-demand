@@ -1,0 +1,61 @@
+Why us?
+
+We believe that AI has the potential to revolutionize how cancer and other complex diseases are diagnosed and treated. We also believe that AI is a tool, not an identity – without access to high-quality data and a scientifically rigorous, transparent approach to model development, AI is just a buzzword. That's where we come in.
+
+Aignostics is a spin-off from one of Europe's largest and most prestigious university hospitals (Charité), with employees in Berlin and New York. We have received over $50M in funding from leading investors and are a growing team of over 100 interdisciplinary professionals. We work with academic partners as well as leading global life sciences companies.
+
+As a Staff Machine Learning Engineer at Aignostics, you will play a crucial role in shaping the technical direction and architecture of our ML platform and infrastructure. You will work hand in hand with fellow engineering leads at Aignostics, as well as collaborators in academia and industry. Your expertise will be instrumental in driving technical excellence across all ML engineering teams, ensuring we deliver high-quality, scalable solutions that transform complex biomedical data into actionable insights for cancer research and diagnostics. You will report directly to the Head of ML Engineering.
+
+This is a unique opportunity to join a fun, diverse and growing team of 100+ software engineers, applied scientists, biologists and pathologists to shape the next generation of cancer treatments. You will be part of a dedicated community that works in an agile, supportive and interdisciplinary research environment where your results make a difference to patients. In our established startup, you have the opportunity to grow personally and technically, take on significant responsibilities and benefit from a dynamic work environment.
+
+At Aignostics, we believe that fighting cancer is a job for people of all identities, backgrounds, and cultures. We value and celebrate diversity and inclusion and are committed to offering equal employment and promotion opportunities for all applicants and employees. Applicants will be considered regardless of their age, disability, ethnicity, race, gender identity or expression, sexual orientation, religion, etc. We thrive through collaboration and believe the more inclusive we are, the better our work will be.
+
+Where your expertise is needed 
+
+Steer: Define and drive the technical architecture and system design principles for our AI platform and infrastructure. Work in close collaboration with engineering leads to build flexible frameworks and systems for model training, evaluation and inference across different pathology applications.
+Consult: Guide the CTO office, product management and fellow engineering leads through complex decisions by providing expert consultation on feasibility, architecture, trade-offs and risk mitigation strategies, while ensuring alignment with our technical vision.
+Coordinate: Foster technical alignment across teams by establishing shared architectural principles and best practices, facilitating cross-team design reviews to enable consistent decision-making across domains.
+Lead: Champion technical excellence by leading strategic initiatives that modernize our architecture and reduce technical debt while measuring and improving our technical health metrics.
+Educate: Elevate the technical capabilities of our engineering staff through structured mentoring, workshops and establishing comprehensive technical guidelines that enable teams to make better design decisions.
+Advocate: Drive innovation by evaluating emerging technologies, leading proof-of-concept initiatives and building support for strategic technical investments that advance our engineering capabilities while ensuring measurable business value.
+
+What We Are Looking For
+
+Solid foundations: Advanced degree in a relevant field or extensive work experience.
+Proven experience: 8+ years of industry experience, with at least 2 years as Staff Engineer or an equivalent role.
+Excellence in execution: Proven track record of driving technical excellence and innovation.
+Software architect: Solid background in data-intensive systems and software architecture, design patterns and clean coding. Expert Python programming and fluency in C/C++ or other low-level language(s). Experience with designing and implementing large-scale, distributed ML systems and platforms; proven track record of deploying ML models into production environments.
+Machine Learning expertise: Strong knowledge of machine learning fundamentals, experience with deep learning frameworks (e.g. Pytorch and Tensorflow) and state-of-the-art techniques (e.g. generative models).
+Cloud native: Deep understanding of cloud technologies (e.g. GCP, AWS), containerization and orchestration (Kubernetes). Experience with workflow orchestration tools (e.g. Prefect, Kubeflow or Airflow) and distributed computing frameworks (e.g. Ray, Spark).
+MLOps advocate: Familiarity with MLOps practices and model lifecycle management, complex CI/CD pipelines, infrastructure as code, code, experiment and model versioning tools (e.g. Git, WandB). Experience with designing and implementing large-scale, distributed ML systems and platforms; proven track record of deploying ML models into production environments, including performance monitoring (e.g. detection of data drift).
+Well-rounded communicator: Excellent communication skills, able to articulate complex technical concepts to both technical and non-technical stakeholders.
+Self-driven learner: Stays up-to-date with technology trends and latest advancements in AI and ML technologies, explores and evaluates new solutions and grows with our challenges.
+
+Our tech stack
+
+Ideally, You Also
+
+Gained experience in data storage, management and processing at scale. Familiar with event-driven systems.
+Contribute to open-source projects and technical publications.
+Worked in a regulated environment, e.g. financial services, aerospace or healthcare.
+Have knowledge of digital pathology or experience with working with biomedical data.
+
+We are still keen to hear from you if you don't match all the above points! Our needs are diverse and growing and you are encouraged to apply if you have a strong combination of the above skills.
+
+Our offer
+
+Join a purpose-driven start up: We are working collectively to fight cancer and improve patient outcomes. Come help us make a difference!
+Cutting-edge AI research and development, with involvement of Charité, TU Berlin and our other partners
+Work with a welcoming, diverse and highly international team of colleagues 
+Opportunity to take responsibility and grow your role within the startup
+Expand your skills by benefitting from our Learning & Development yearly budget of 1,000 € (plus 2 L&D days), language classes and internal development programs
+Mentoring program, you’ll learn from great experts
+Flexible working hours and teleworking policy
+Enjoy your well-deserved time off within our 28 paid vacations days per year
+We are family & pet friendly and support flexible parental leave options
+Pick a subsidized membership of your choice among public transport, sports and well-being
+Enjoy our social gatherings, lunches and off-site events for a fun and inclusive work environment
+
+About Us
+
+aignostics.com

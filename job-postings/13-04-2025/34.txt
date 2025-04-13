@@ -1,0 +1,50 @@
+Job Title: Part-Time Machine Learning Engineer / Data Scientist (RAG, NLP, and NLU Specialist)
+Location: Remote
+Job Type: Part-time
+
+About Us
+Life and me is a tech innovator who creates empathetic and intelligent conversational AI solutions. We are seeking an experienced Machine Learning Engineer or Data Scientist to develop an emotional chatbot that uses Retrieval-Augmented Generation (RAG), Natural Language Processing (NLP), and Natural Language Understanding (NLU) to deliver supportive and contextually aware responses.
+
+Job Description
+As a Machine Learning Engineer / Data Scientist, you will support the efforts to build an emotional chatbot capable of understanding and responding to users' nuanced emotional cues. Your responsibilities will include data gathering, NLP/NLU model development, and supporting the scalable RAG system to retrieve and generate empathetic and contextually relevant responses. This role involves close collaboration with the CTO to ensure the chatbot understands user intent and emotional tone for meaningful interactions.
+
+Key Responsibilities
+Data Collection and Processing:
+Gather, preprocess, and analyze conversational and emotional data for training the RAG, NLP, and NLU models.
+Design and maintain data pipelines that capture emotional nuances, intent, and relevant context from text.
+NLP and NLU Model Development:
+Support the Development of fine-tuned Natural Language Processing (NLP) models for language generation and Natural Language Understanding (NLU) models for sentiment analysis, intent recognition, and entity extraction.
+Support advanced NLP/NLU techniques to enhance the chatbot's ability to interpret emotional tone, intent, and context for empathetic responses.
+RAG Model Development and Fine-tuning:
+Build and fine-tune retrieval-augmented generation models, integrating transformers and vector databases to retrieve contextually relevant responses based on emotional and conversational cues.
+Combine RAG with NLP/NLU insights to deliver tailored responses that adapt dynamically to users' emotional states.
+System Integration and Deployment:
+Support the deployment and integration of RAG, NLP, and NLU models into production, optimizing for real-time performance in a conversational AI environment.
+Ensure the chatbot maintains responsiveness, scalability, and accuracy, focusing on seamless user interactions.
+Continuous Improvement and Evaluation:
+Support the implementation of model monitoring and feedback loops to evaluate and enhance response quality, emotional accuracy, and relevancy.
+Use user feedback and performance metrics to iteratively improve the model’s empathetic and conversational capabilities.
+
+Requirements
+Educational Background:
+Bachelor’s or Master’s in Computer Science, Machine Learning, Data Science, NLP, or related field.
+Technical Skills:
+Expertise in both Natural Language Processing (NLP) and Natural Language Understanding (NLU), with a focus on sentiment analysis, intent detection, and response generation.
+Strong programming skills in Python and experience with ML libraries such as TensorFlow, PyTorch, and Hugging Face Transformers.
+Knowledge of vector databases and retrieval techniques, such as Elasticsearch, FAISS, or Pinecone.
+(optional) Experience with data pipeline tools (e.g., Airflow, Spark) and cloud platforms (AWS, GCP, or Azure).
+Experience deploying NLP/NLU models in production, ideally for conversational AI applications.
+Experience:
+1+ years in a Machine Learning or Data Science role focused on NLP/NLU, emotional intelligence, and conversational AI.
+Proven track record with RAG or similar NLP-based models, particularly in applications requiring sensitivity to user emotions and contextual understanding.
+
+Soft Skills:
+Strong analytical skills and a passion for creating technology that can interpret and adapt to emotional language.
+Excellent communication and teamwork abilities, with the capability to work effectively across departments to enhance user experience.
+
+Benefits
+Flexible work hours and remote work
+Opportunities for professional growth in a leading-edge AI environment.
+
+How to Apply:
+If you're passionate about AI and mental wellness, and you're excited about making a positive impact through your work, we want to hear from you! To be considered, please provide your resume and portfolio through LinkedIn.

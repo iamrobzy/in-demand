@@ -1,0 +1,100 @@
+Job Title: Group Product Manager (Machine Learning)
+
+Location: Remote, US
+
+Department: Product Engineering
+
+Type: Full-Time
+
+Experience: Senior, 8+ years of experience
+
+Salary Range: $185,000 - $200,000 / year (+bonus, equity, and benefits)
+
+Core Hours: 9 AM - 1 PM PT / 12 PM - 4 PM ET
+
+About tvScientific
+
+tvScientific is the first and only CTV advertising platform purpose-built for performance marketers. We leverage massive data and cutting-edge science to automate and optimize TV advertising to drive business outcomes. Our solution combines media buying, optimization, measurement, and attribution in one, efficient platform. Our platform is built by industry leaders with a long history in programmatic advertising, digital media, and ad verification who have now purpose-built a CTV performance platform advertisers can trust to grow their business.
+
+Role Summary
+
+We are seeking a Machine Learning Product Manager to drive the development and optimization of our advanced ML-based advertising solutions. In this role, you will leverage your strong technical background in data science, statistics, or computer science and your expertise in CPC, CPA, and ROAS-based advertising to define and execute a product strategy that maximizes advertiser performance on the TVScientific platform.
+
+This team member will be the key contributor to data science products that precisely understand the value of any piece of inventory and the bid price required to maximize the impact of that impression within the constraints of a real time auction environment.
+
+As a key product manager you will collaborate with cross-functional teams—Data Science, Engineering, Marketing, and Customer Success—to deliver cutting-edge machine learning products that give our customers set it and forget it performance..
+
+If this excites you - join us as we shape the future of television advertising technology!
+
+What You'll Do
+
+Product Strategy & Roadmap
+
+Define and own the roadmap for machine learning solutions that optimize advertiser performance (CPV, CPA, ROAS).
+Prioritize features using market research, customer feedback, strategic business goals, and data-driven insights.
+
+Technical Leadership
+
+Collaborate with Data Science and Engineering teams to design, refine, and implement ML models for predictive analytics, audience segmentation, and budget optimization.
+Apply industry-standard algorithms (e.g., regression, decision trees, gradient boosting, neural networks) while staying ahead of emerging trends.
+
+Cross-functional Collaboration
+
+Bridge the gap between technical and non-technical stakeholders, translating complex ML concepts into actionable product requirements.
+Partner with Marketing and Sales to align product capabilities with go-to-market strategies and customer needs.
+Lead an effective sprint process, maintaining a prioritized backlog with clear product requirements and success metrics.
+
+Performance Analysis & Optimization
+
+Define key performance indicators (KPIs) to measure the effectiveness of ML-driven products.
+Analyze performance data to identify opportunities for improvement and continuously iterate on features to enhance campaign outcomes.
+
+Stakeholder Management & Communication
+
+Present product updates, strategies, and performance insights to senior leadership and key external partners.
+Build strong customer relationships, gathering feedback to inform product enhancements.
+
+Compliance & Best Practices 
+
+Ensure all ML-driven solutions comply with industry regulations and privacy standards (e.g., CCPA, GDPR).
+Advocate for best practices in product management, agile methodologies, and data governance.
+You'll Be Successful in This Role if You Have:
+
+Bachelor's or Master's degree in Data Science, Statistics, Computer Science, or a related field—or equivalent practical experience.
+6+ years of experience managing performance-based advertising products (CPC, CPA, ROAS).
+Proven track record of launching and scaling ML-driven products in high-growth or innovative environments.
+Deep knowledge of ML models, including linear/logistic regression, tree-based methods, and neural networks, along with optimization techniques like gradient descent and Bayesian optimization.
+Experience applying ML solutions to performance marketing, measurement, or predictive analytics.
+Strong ability to define product visions, prioritize roadmaps effectively, and meet deadlines consistently.
+Excellent communication and presentation skills, with the ability to influence both technical teams and executive stakeholders.
+Data-driven mindset with excellent problem-solving skills and proficiency in leveraging analytics tools to inform product decisions.
+Experience collaborating with cross-functional teams, including data science, engineering, and marketing, in an agile environment.
+Demonstrated leadership and mentoring skills, with a willingness to coach junior product managers and foster team growth.
+
+You May Also Have
+
+Familiarity with TV advertising or linear/digital broadcasting landscapes.
+Hands-on experience with tools like Python, R, SQL, and ML frameworks (TensorFlow, PyTorch, scikit-learn)
+Experience with big data technologies (e.g., Spark, Hadoop, Airflow, or similar) and cloud platforms (AWS, GCP, Azure)
+
+Culture and Benefits
+
+At tvScientific we believe people do their best work when they feel challenged and engaged by their day to day responsibilities, when they're surrounded by smart, hard working people, and when they have a healthy work life balance. Our company culture and benefits package reflects these beliefs.
+
+Full health, dental, and vision insurance - up to 95% funded by the company for employees.
+Employee stock option program.
+Company-sponsored retirement plan with a matching contribution program.
+12 annual paid holidays (including 2 flexible days).
+Generous PTO policy (get your work done and take the time you need).
+A remote-first environment that allows employees flexibility to work from most places in the US.
+
+As tvScientists We Are...
+
+Big Thinkers: We believe in setting audacious goals and envisioning transformative change.
+Radically Transparent: We value transparency in all aspects of our business. We foster a culture of open communication, honesty, and accountability.
+Performance-obsessed: We are passionate about achieving exceptional results. We strive for excellence in everything we do and set high standards for ourselves.
+Data-driven: We embrace the power of data, science, and technology as crucial drivers of our success.
+Trust Builders: We prioritize building and nurturing trust with our stakeholders. We understand that trust is the foundation of successful relationships and business partnerships. Through our actions, integrity, and commitment to delivering on promises.
+Forever Students: Challenge assumptions to look for solutions. We create a safe environment for experiments and risk-taking by our customers and employees.
+
+tvScientific is committed to building an inclusive environment for people of all backgrounds and everyone is encouraged to apply. tvScientific is an Equal Opportunity Employer and does not discriminate on the basis of race, color, gender, sexual orientation, gender identity or expression, religion, disability, national origin, protected veteran status, age, or any other status protected by applicable national, federal, state, or local law.

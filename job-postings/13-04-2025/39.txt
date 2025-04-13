@@ -1,0 +1,53 @@
+Looking for Healthcare focused within Electronic Health Records. Proficiency in Containerization Tech: exp with Docker, Kubernetes, or similar. REMOTE PST hours
+
+This Jobot Consulting Job is hosted by: Brett Walker
+
+Are you a fit? Easy Apply now by clicking the "Apply Now" button and sending us your resume.
+
+Salary: $75 - $150 per hour
+
+A bit about us:
+
+A leading healthcare organization on the west coast that focuses on EHR environments. Apply today to learn more about this Healthcare focused contract role!
+
+Please note you must have EHR and Healthcare setting experience to be considered.
+
+Why join us?
+
+12+ Month Contract
+
+REMOTE
+
+PST Hours
+
+W2 or C2C Options
+
+Job Details
+
+Desired Experience for a Machine Learning Engineer
+
+3 or more years relevant Machine Learning Engineer Experience 
+Production Deployment and Model Engineering: Proven experience in deploying and maintaining production-grade machine learning models, with real-time inference, scalability, and reliability.
+Scalable ML Infrastructures: Proficiency in developing end-to-end scalable ML infrastructures using on-premise cloud platforms such as Amazon Web Services (AWS), Google Cloud Platform (Google Cloud Platform), or Azure.
+Engineering Leadership: Ability to lead engineering efforts in creating and implementing methods and workflows for ML/GenAI model engineering, LLM advancements, and optimizing deployment frameworks while aligning with business strategic directions.
+AI Pipeline Development: Experience in developing AI pipelines for various data processing needs, including data ingestion, preprocessing, and search and retrieval, ensuring solutions meet all technical and business requirements.
+Collaboration: Demonstrated ability to collaborate with data scientists, data engineers, analytics teams, and DevOps teams to design and implement robust deployment pipelines for continuous improvement of machine learning models.
+Continuous Integration/Continuous Deployment (CI/CD) Pipelines: Expertise in implementing and optimizing CI/CD pipelines for machine learning models, automating testing and deployment processes.
+Monitoring and Logging: Competence in setting up monitoring and logging solutions to track model performance, system health, and anomalies, allowing for timely intervention and proactive maintenance.
+Version Control: Experience implementing version control systems for machine learning models and associated code to track changes and facilitate collaboration.
+Security and Compliance: Knowledge of ensuring machine learning systems meet security and compliance standards, including data protection and privacy regulations.
+Documentation: Skill in maintaining clear and comprehensive documentation of ML Ops processes and configurations.
+
+Preferred:
+
+Proficiency in Containerization Technologies: Experience with Docker, Kubernetes, or similar tools. 
+Healthcare Expertise: Understanding of healthcare regulations and standards, and familiarity with Electronic Health Records (EHR) systems, including integrating machine learning models with these systems.
+Master's Degree a plus 
+Bachelor's Degree computer science, artificial intelligence, informatics or closely related field 
+Certification(s) in Machine Learning a plus
+
+Interested in hearing more? Easy Apply now by clicking the "Apply Now" button.
+
+Jobot is an Equal Opportunity Employer. We provide an inclusive work environment that celebrates diversity and all qualified candidates receive consideration for employment without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state or local laws.
+
+Sometimes Jobot is required to perform background checks with your authorization. Jobot will consider qualified candidates with criminal histories in a manner consistent with any applicable federal, state, or local law regarding criminal backgrounds, including but not limited to the Los Angeles Fair Chance Initiative for Hiring and the San Francisco Fair Chance Ordinance.

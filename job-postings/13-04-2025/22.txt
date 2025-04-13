@@ -1,0 +1,50 @@
+Genies Is An AI Avatar And Games Technology Company Powering The Next Generation Of Digital Experiences. Genies' Technology Stack Is Rooted In Empowering User Generated Content Through The Company's Two Main Mantras
+
+“Anyone can create anything” & “Everything works with everything”
+
+By combining these two guiding principles, individuals can craft limitless experiences while IP owners can build dynamic social gaming ecosystems powered by user-generated content (UGC) and AI Avatars—what Genies calls "Parties."
+
+Genies' technology stack features a comprehensive suite of UGC tools that enable anyone to create AI avatars, complete with customizable fashion, props, behaviors, and personalities, as well as immersive AI avatar experiences. At its core is the Genies Avatar Framework, which leverages machine learning and computer graphics to ensure seamless interoperability across all user-generated AI avatars and experiences—unlocking boundless creative potential.
+
+Early adopters of Genies’ first gen avatars include icons like Justin Bieber, Rihanna, J Balvin, Migos, and thousands more. With offices in Los Angeles and San Francisco, Genies has raised $200M from notable investors including Silver Lake, BOND, NEA, and Bob Iger.
+
+We are seeking an Engineering Manager, Machine Learning with a passion for highly configurable digital avatars and intuitive content tools that empower user creativity. In this role, you will be responsible for leading a team of machine learning engineers to execute department strategies and achieve key performance metrics. You will guide the professional development of their direct reports, ensuring the team's skills and knowledge are up-to-date with the latest machine learning technologies and methodologies. The role also involves overseeing the design, development, and deployment of machine learning models and algorithms, and collaborating with other departments to integrate these models into the company's products or services. They are expected to maintain a balance between hands-on technical work and managerial duties.
+
+What You’ll Be Doing
+
+Lead a team of machine learning engineers to execute department strategies and achieve key performance metrics.
+Guide the professional development of direct reports, ensuring their skills and knowledge are up-to-date with the latest machine learning technologies and methodologies.
+Oversee the design, development, and deployment of machine learning models and algorithms.
+Collaborate with other departments to integrate machine learning models into the company's products or services.
+Maintain a balance between hands-on technical work and managerial duties.
+Foster a culture of continuous improvement and innovation within the team.
+
+What You Should Have
+
+Bachelor's degree in Computer Science, Data Science, Statistics, or a related field.
+8+ years of experience in machine learning or related fields.
+2+ years of experience in a leadership or managerial role
+Insight into the most efficient ways to bring ML technologies to production.
+Experience with data structures, data modeling, and software architecture.
+ML-based optimization techniques for 3D meshes, textures, and rendering.
+Deep learning & generative models (Diffusion, VAEs, GANs, NeRF).
+Experience in the current NLP and LLM technology evolution.
+Experience with real-time graphics engines (Unreal, Unity).
+Strong C++ or CUDA skills for ML-powered rendering acceleration.
+Knowledge of OpenUSD, Houdini, shaders (bonus).
+
+Here's Why You'll Love Working At Genies
+
+You'll work with a team that you’ll be able to learn from and grow with, including support for your own professional development
+You'll be at the helm of your own career, shaping it with your own innovative contributions to a nascent team and product with flexible hours and a work from home policy
+You'll enjoy the culture and perks of a startup, with the stability of being well funded 
+Comprehensive health insurance for you and your family (Anthem + Kaiser Options Available), Dental and Vision Insurance
+Competitive salaries for all full time employees 
+Unlimited paid time off, sick time, and paid company holidays, in addition to paid parental leave, bereavement leave, and jury duty leave for full-time employees
+Health & wellness support through programs such as monthly wellness reimbursement 
+Working in a brand new, bright, open-environment and fun office space - there’s even a slide! 
+Choice of MacBook or windows laptop
+
+Starting Salary Range: $260K - $300K
+
+Genies is an equal opportunity employer committed to promoting an inclusive work environment free of discrimination and harassment. We value diversity, inclusion, and aim to provide a sense of belonging for everyone.

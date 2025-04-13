@@ -1,0 +1,36 @@
+Waymo is an autonomous driving technology company with the mission to be the most trusted driver. Since its start as the Google Self-Driving Car Project in 2009, Waymo has focused on building the Waymo Driver—The World's Most Experienced Driver™—to improve access to mobility while saving thousands of lives now lost to traffic crashes. The Waymo Driver powers Waymo One, a fully autonomous ride-hailing service, and can also be applied to a range of vehicle platforms and product use cases. The Waymo Driver has provided over one million rider-only trips, enabled by its experience autonomously driving tens of millions of miles on public roads and tens of billions in simulation across 13+ U.S. states.
+
+The Simulator Team at Waymo builds simulations of realistic environments for testing and training the Waymo Driver. We are a diverse,, and collaborative group of software engineers, machine learning (ML) engineers, and data scientists. We develop industry-leading simulation solutions using advanced ML algorithms that measure and enhance the performance of the Waymo Driver. By applying machine learning, we model the real world, including realistic agents (vehicles, pedestrians, cyclists, motorcyclists), roads, traffic control systems, and weather conditions.
+
+To increase the fidelity and steerability of our simulations, we employ the latest ML technologies such as large foundation models trained on our datasets and diffusion technology. We also invest in capable infrastructure that allows us to quickly set up and roll out multiple scenarios to rigorously test our autonomous driving systems.
+
+In this hybrid role, you will report to a Senior Engineering Manager 
+
+You Will
+
+Lead a top-tier applied ML team focused on building ML-driven especially Generative AI (GenAI) simulation solutions to accelerate Waymo’s growth.
+Develop remarkable ML and software engineers in an exciting, fast-paced, and diverse environment.
+Set technical direction for the team and Guide the whole lifecycle of product innovation:
+Create quarterly and annual technical roadmaps that meet product requirements and guide the team’s efforts towards those goals. 
+Work with other departments to align execution with product goals.
+Collaborate with technical leads, product managers, and program managers to lead and complete broad plans.
+You Have
+
+PHD or M.S. in CS, EE, Deep Learning or related fields 
+7+ years of experience leading engineering teams of 5-15 people
+Academic foundation and industrial expertise in machine learning, with the ability to assess technical trade-offs and their impact on project scope, risk, and timelines
+7+ years of hands-on experience building and deploying machine learning products in production environments
+7+ years of experience applying machine learning to solve complex challenges.
+Exposure to and practical knowledge of generative AI technologies.
+
+We Prefer
+
+Direct experience in Generative AI, with expertise in multi-modal foundation models and Diffusion models
+
+The expected base salary range for this full-time position across US locations is listed below. Actual starting pay will be based on job-related factors, including exact work location, experience, relevant training and education, and skill level. Your recruiter can share more about the specific salary range for the role location or, if the role can be performed remote, the specific salary range for your preferred location, during the hiring process.
+
+Waymo employees are also eligible to participate in Waymo’s discretionary annual bonus program, equity incentive plan, and generous Company benefits program, subject to eligibility requirements.
+
+Salary Range
+
+$238,000—$302,000 USD

@@ -1,0 +1,80 @@
+Company Description
+
+Depop is the community-powered circular fashion marketplace where anyone can buy, sell and discover desirable secondhand fashion. With a community of over 35 million users, Depop is on a mission to make fashion circular, redefining fashion consumption. Founded in 2011, the company is headquartered in London, with offices in New York and Manchester, and in 2021 became a wholly-owned subsidiary of Etsy. Find out more at www.depop.com 
+
+Our mission is to make fashion circular and to create an inclusive environment where everyone is welcome, no matter who they are or where they’re from. Just as our platform connects people globally, we believe our workplace should reflect the diversity of the communities we serve. We thrive on the power of different perspectives and experiences, knowing they drive innovation and bring us closer to our users. We’re proud to be an equal opportunity employer, providing employment opportunities without regard to age, ethnicity, religion or belief, gender identity, sex, sexual orientation, disability, pregnancy or maternity, marriage and civil partnership, or any other protected status. We’re continuously evolving our recruitment processes to ensure fairness and are open to accommodating any needs you might have.
+
+If, due to a disability, you need adjustments to complete the application, please let us know by sending an email with your name, the role to which you would like to apply, and the type of support you need to complete the application to adjustments@depop.com. For any other non-disability related questions, please reach out to our Talent Partners.
+
+The Role
+
+At Depop, machine learning is integral to our value proposition.
+
+In the ranking team, we build learning-to-rank models that power personalised experiences across the Depop app (in search results, user recommendations, etc.).
+
+As a Machine Learning Scientist in this team, you will work on building state-of-the-art ranking models to power Depop's app, serving millions of personalised results to users daily.
+
+Responsibilities
+
+Research, design and deliver machine learning solutions to tackle problems within the ranking space
+Understand requirements from various stakeholders across the business, designing machine learning solutions to solve business problems, such as: How can we surface relevant products for this search? OR How can we personalise the user experience in real-time?
+Set up and conduct large-scale experiments to test hypotheses and drive product development
+Keep up to date with state-of-the-art research, contribute to Machine Learning groups, and apply new techniques for NLP, image processing, etc.
+Participate in team ceremonies (follow the agile cadence, technical whiteboarding sessions, product road mapping, etc)
+Report and present technical findings to technical and non-technical audiences
+
+Skills And Experience
+
+Experience working as a Machine Learning Scientist, with a track record of delivering models to solve industry-scale problems
+Solid understanding of machine learning concepts, familiarity working with common frameworks such as Transformers, PyTorch or TensorFlow
+Proficiency in Python, with the ability to write production-grade code and a good understanding of data engineering & MLOps
+Collaborative and humble team player with an ability to work with cross-functional teams, including technical and non-technical stakeholders
+Passion for learning new skills and staying up-to-date with ML algorithms
+
+Bonus Points
+
+Experience working on learning-to-rank, search or recommendation models
+Experience with deep learning & large language models
+Experience with experiment design and conducting A/B tests
+Experience with Databricks and PySpark
+Experience working with AWS or another cloud platform (GCP/Azure)
+
+Additional Information
+
+Health + Mental Wellbeing
+
+PMI and cash plan healthcare access with Bupa
+Subsidised counselling and coaching with Self Space
+Cycle to Work scheme with options from Evans or the Green Commute Initiative
+Employee Assistance Programme (EAP) for 24/7 confidential support
+Mental Health First Aiders across the business for support and signposting
+
+Work/Life Balance
+
+25 days annual leave with option to carry over up to 5 days
+1 company-wide day off per quarter
+Impact hours: Up to 2 days additional paid leave per year for volunteering
+Fully paid 4 week sabbatical after completion of 5 years of consecutive service with Depop, to give you a chance to recharge or do something you love.
+Flexible Working: MyMode hybrid-working model with Flex, Office Based, and Remote options *role dependant
+All offices are dog-friendly
+Ability to work abroad for 4 weeks per year in UK tax treaty countries
+
+Family Life
+
+18 weeks of paid parental leave for full-time regular employees
+IVF leave, shared parental leave, and paid emergency parent/carer leave
+
+Learn + Grow:
+
+Budgets for conferences, learning subscriptions, and more
+Mentorship and programmes to upskill employees
+
+Your Future
+
+Life Insurance (financial compensation of 3x your salary)
+Pension matching up to 6% of qualifying earnings
+
+Depop Extras
+
+Employees enjoy free shipping on their Depop sales within the UK.
+Special milestones are celebrated with gifts and rewards!

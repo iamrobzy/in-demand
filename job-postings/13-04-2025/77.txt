@@ -1,0 +1,44 @@
+The application window is expected to close on April 15, 2025
+
+Job posting may be removed earlier if the position is filled or if a sufficient number of applicants are received.
+
+Meet the Team
+
+The AI Software & Platform Team delivers AI products, so businesses around the world defend against threats and safeguard the most important aspects of business with security resilience. We are passionate about making businesses secure and simplifying security with zero compromise.
+
+Your Impact
+
+As a Senior Machine Learning Engineer , you will develop and deploy ML models , work on transformer-based architectures , and contribute to end-to-end AI solutions . You will collaborate with engineers, researchers, and customers , helping to build and scale AI applications that address real-world industry challenge
+
+Build and optimize ML models for diverse applications 
+Develop and maintain ML infrastructure, pipelines, and deployment systems 
+Work across modeling, ML infra, and system development to deliver AI-driven solutions 
+Engage with customers and internal teams to refine AI models based on real-world feedback 
+Collaborate with cross-functional teams to ensure AI solutions are scalable and production-ready 
+Solve complex ML and AI system design challenges 
+
+Minimum Qualifications
+
+Bachelors degree with 5+ years (or) Masters degree with 3+ years (or) PhD degree with 1+ year of software development industry experience 
+2+ years of industry experience in machine learning to include building, fine tuning and deploying machine learning models into production 
+Experience in Python or Go and ML frameworks ( PyTorch , TensorFlow) 
+
+Preferred Qualificatio Ns
+
+Strong understanding of ML Fundamentals, classic ML algorithms, modern transfo rmer-ba sed mo dels and deep learning architectures 
+Knowledge of LangChain , LlamaIndex , and Hugging Face models 
+Background in AI security, risk detection, or fraud detection (a plus, but not required ) 
+Research experience or contributions to open-source ML projects 
+Self-starter with a strong problem-solving skills and ability to work independently 
+
+#WeAreCisco
+
+#WeAreCisco where every individual brings their unique skills and perspectives together to pursue our purpose of powering an inclusive future for all.
+
+Our passion is connection-we celebrate our employees' diverse set of backgrounds and focus on unlocking potential. Cisconians often experience one company, many careers where learning and development are encouraged and supported at every stage. Our
+
+technology, tools, and culture pioneered hybrid work trends, allowing all to not only give their best, but be their best.
+
+We understand our outstanding opportunity to bring communities together and at the heart of that is our people . One-third of Cisconians collaborate in our 30 employee resource organizations, called Inclusive Communities, to connect, foster belonging, learn to be informed allies, and make a difference. Dedicated paid time off to volunteer- 80 hours each year-allows us to give back to causes we are passionate about, and nearly 86% do!
+
+Our purpose, driven by our people, is what makes us the worldwide leader in technology that powers the internet. Helping our customers reimagine their applications, secure their enterprise, transform their infrastructure, and meet their sustainability goals is what we do best. We ensure that every step we take is a step towards a more inclusive future for all. Take your next step and be you, with us !

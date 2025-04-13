@@ -1,0 +1,42 @@
+Our Company
+
+Changing the world through digital experiences is what Adobe’s all about. We give everyone—from emerging artists to global brands—everything they need to design and deliver exceptional digital experiences! We’re passionate about empowering people to create beautiful and powerful images, videos, and apps, and transform how companies interact with customers across every screen.
+
+We’re on a mission to hire the very best and are committed to creating exceptional employee experiences where everyone is respected and has access to equal opportunity. We realize that new ideas can come from everywhere in the organization, and we know the next big idea could be yours!
+
+Adobe is a global leader in digital media and digital marketing solutions. Our creative, marketing, and document solutions empower everyone – from emerging artists to global brands – to bring digital creations to life and deliver immersive, compelling experiences to the right person at the right moment for the best results. In the Digital Marketing business unit, we are committed to empowering brands to achieve their digital transformation goals, ensuring the delivery of exceptional experiences across customer touchpoints.
+
+We are seeking a skilled Senior Machine Learning Engineer/Architect to join our Data Engineering team. You will take a leadership role in architecting, developing, and scaling machine learning solutions. You will be responsible for identifying innovative ways, owning sophisticated projects, and ensuring flawless integration of ML models into our products and services. You will collaborate closely with multi-functional teams across the organization, influencing effective approaches and streamlining processes to drive business impact.
+
+This role requires a balance of hands-on technical execution and critical thinking. You will play a key role in shaping our data and ML platform, crafting highly scalable data pipelines, and mentoring junior engineers. Your expertise in machine learning, cloud infrastructure, and API development will help us deliver production-grade solutions that are efficient, maintainable, and future-proof.
+
+What You’ll Do
+
+Lead the development and deployment of machine learning systems, ensuring detailed integration into production environments to meet critical business objectives. 
+Architect scalable ML pipelines that prioritize reliability, monitoring, and efficiency for high-impact applications. 
+Promote the implementation of generative AI solutions, including crafting and improving systems for use cases driven by LLM and proactive workflows. 
+Collaborate cross-functionally to translate business requirements into technical roadmaps, balancing rapid iteration with long-term maintainability. 
+Mentor engineers on production-grade ML engineering practices, including CI/CD, testing, and observability. 
+Stay ahead of industry trends, prototyping emerging AI advancements to address real-world business challenges. 
+
+What You Need to Succeed
+
+5+ years of experience in machine learning, with a focus on deploying and maintaining models in production environments. 
+Expertise in Python-based ML development and frameworks for training, evaluation, and deployment at scale. 
+Consistent track record to craft cloud-native ML systems, including infrastructure-as-code and containerized workflows. 
+Deep understanding of LLM integration, including fine-tuning, optimization, and operationalizing generative AI applications. 
+Strong software engineering fundamentals: System design, version control, and automated testing for robust ML systems. 
+Business insight: Ability to prioritize projects that align with interpersonal goals and deliver measurable impact. 
+
+Nice-to-Have Skills
+
+Experience with agentic AI applications or multi-step reasoning systems. 
+Familiarity with MLOps practices for model lifecycle management and monitoring. 
+Exposure to distributed computing for large-scale data processing and training. 
+Knowledge of generative AI evaluation frameworks or optimization strategies. 
+
+Adobe is proud to be an Equal Employment Opportunity and affirmative action employer. We do not discriminate based on gender, race or color, ethnicity or national origin, age, disability, religion, sexual orientation, gender identity or expression, veteran status, or any other applicable characteristics protected by law. Learn more.
+
+Adobe aims to make Adobe.com accessible to any and all users. If you have a disability or special need that requires accommodation to navigate our website or complete the application process, email accommodations@adobe.com or call (408) 536-3015.
+
+Adobe values a free and open marketplace for all employees and has policies in place to ensure that we do not enter into illegal agreements with other companies to not recruit or hire each other’s employees.

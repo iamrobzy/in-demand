@@ -1,0 +1,44 @@
+Dice is the leading career destination for tech experts at every stage of their careers. Our client, DivTek Global Solutions Inc., is seeking the following. Apply via Dice today!
+
+Job Title: Senior Machine Learning Ops Engineer
+
+Job Location: Monmouth County, NJ (Hybrid)
+
+Job Type: Full-Time
+
+Salary: stock options, competitive salary, and benefitsAbout Company: This is a full-time role, directly employed position through the client.
+
+Work Schedule Type: This is a hybrid position, currently requiring three days per week onsite
+
+As a Senior Machine Learning Ops Engineer, you ll be responsible for deploying, managing, and optimizing machine learning systems and pipelines. This hybrid role blends system administration, software engineering, and machine learning deployment, supporting mission-critical operations in cybersecurity.
+
+You ll work cross-functionally with data scientists, software engineers, and operations teams to streamline ML workflows and ensure robust, scalable infrastructure.
+
+Requirements & Responsibilities
+
+Required Qualifications:
+
+BS, MS, or PhD in Computer Science, Computer Engineering, Electrical Engineering, Mathematics, or related technical field
+Proven experience in ML Ops or DevOps for machine learning systems
+Solid software development background with C/C++ and/or Python
+Strong Linux experience, including scripting and system administration
+Understanding of ML lifecycle management and post-deployment support
+Familiarity with shallow learning models; knowledge of deep learning, transformers, or reinforcement learning is a plus
+Excellent communication and collaboration skills
+
+Key Responsibilities:
+
+Design, deploy, and maintain machine learning pipelines and infrastructure
+Support ML model lifecycle including updates, monitoring, and optimization
+Administer cloud-based services and on-premises systems (including VMware)
+Write and maintain efficient Python and shell scripts to automate workflows
+Collaborate with teams to integrate ML models into production environments
+Analyze system performance and troubleshoot issues across the stack
+
+Preferred Experience:
+
+Hands-on experience with ransomware or malware analysis (highly desirable)
+VMware administration and data pipeline optimization
+Experience with tools like Docker, Kubernetes, MLflow, Airflow, or similar
+
+How To Apply: If interested please apply through Dice.com or send an email to pramod AT dtgsi.com with jobid DIV25-MLOPSENG

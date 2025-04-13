@@ -1,0 +1,62 @@
+Company Description
+
+Etsy is the global marketplace for unique and creative goods. We build, power, and evolve the tools and technologies that connect millions of entrepreneurs with millions of buyers around the world. As an Etsy Inc. employee, whether a team member of Etsy, Reverb, or Depop, you will tackle unique, meaningful, and large-scale problems alongside passionate coworkers, all the while making a rewarding impact and Keeping Commerce Human.
+
+Salary Range
+
+$153,000.00 - $199,000.00
+
+What’s the role?
+
+Etsy is looking for a Machine Learning Engineer to join our Growth team. This team focuses on improving the buyer experience and increasing the number of visits that turn into purchases (aka driving conversion!). You'll help us build systems and tools that personalize the shopping journey, ensuring buyers find relevant information at the right time, ultimately helping them discover the perfect handmade or vintage item.
+
+We’re building a new machine learning team to support our product engineering squads, where you’ll play a key role in shaping how we understand our buyers and tailor their experiences. You'll work hands-on with a cross-disciplinary team to deliver robust, scalable production models and tools that will be A/B tested live on Etsy.com. Staying at the forefront of ML research, you’ll bring its best ideas to life for millions of Etsy shoppers.
+
+Does using the latest machine learning techniques to help people find the perfect item sound exciting to you? If so, we’d love to hear from you!
+
+This is a full-time position reporting to the Senior Engineering Manager, Growth. In addition to salary, you will also be eligible for an equity package, an annual performance bonus, and our competitive benefits that support you and your family as part of your total rewards package at Etsy.
+
+For this role, we are considering candidates based in the United States. Candidates living within commutable distance of Etsy’s Brooklyn Office Hub or in the San Francisco Bay Area may be the first to be considered. For candidates within commutable distance, Etsy requires in-office attendance once or twice per week depending on your proximity to the office. Etsy offers different work modes to meet the variety of needs and preferences of our team. Learn more details about our work modes and workplace safety policies here.
+
+What’s this team like at Etsy?
+
+Historically, our full-stack engineers have relied on enablement teams for features requiring machine learning solutions. With this new squad, you and four teammates will directly support four product squads (spanning web and mobile) to apply machine learning techniques that align with our broader goal of increasing sales.
+
+Here’s a glimpse of the problems you’ll help solve:
+
+Increase personalized engagement: use machine learning to identify the most effective moments and methods to engage buyers, tailoring their journey to inspire confidence and increase the likelihood of a purchase.
+Leverage generative AI to differentiate the experience: Use the latest developments in LLMs to enhance the customer experience across buyer touchpoints, making the shopping journey more intuitive and efficient.
+Build scalable and modular systems across our mobile app and web platforms, ensuring seamless integration and event logging.
+
+This team plays a critical role in shaping how buyers interact with Etsy, helping them discover what they love while driving meaningful business outcomes.
+
+What does the day-to-day look like?
+
+Collaborate in a cross-functional team to prioritize and execute projects that align with our product goals.
+Leverage experimentation and data: Use insights from previous experiments and research to ideate and implement efficient ML solutions.
+Partner closely with ML engineers, full-stack engineers, applied scientists, and product managers to develop and test large-scale experiments.
+Optimize ML models to meet latency SLAs at Etsy’s scale and launch live A/B tests to validate hypotheses.
+Build, deploy, test, and maintain scalable ML models by applying cutting-edge research and industry practices.
+Of course, this is just a sample of the kinds of work this role will require! You should assume that your role will encompass other tasks, too, and that your job duties and responsibilities may change from time to time at Etsy's discretion, or otherwise applicable with local law.
+
+Qualities that will help you thrive in this role are:
+
+You have experience developing impactful solutions to machine learning & NLP problems involving some or all of the following parts of the pipeline: data extraction, developing and training machine learning models, and working the new model into production applications.
+You have experience building scalable solutions taking into account localization specific needs to cater to global customer needs. 
+You have strong engineering and coding skills, with the ability to write high quality production code. Proficiency in Python, Scala, Java, PHP and/or other equivalent languages. 
+You have experience working with machine learning frameworks such as scikit-learn, PyTorch, TensorFlow/TFX and data engineering tools like Spark, Kubeflow or Airflow. In this role, you will focus on using these frameworks to build end-to-end production systems. 
+You are a mindful, empathetic, and communicative member of your team.
+Continuous and recent experience of pushing production level Machine Learning code. 
+You are product-minded and passionate about leveraging ML to enhance user experiences.
+Are an analytical thinker and understand how to wield data to make informed decisions about your work.
+An M.S. in Computer Science or related engineering fields, or 3+ years of practical machine learning experience interview process, please let your recruiter know. While Etsy supports visa sponsorship, sponsorship opportunities may be limited to certain roles and skills.
+
+Additional Information
+
+What's Next
+
+If you're interested in joining the team at Etsy, please share your resume with us and feel free to include a cover letter if you'd like. As we hope you've seen already, Etsy is a place that values individuality and variety. We don't want you to be like everyone else -- we want you to be like you! So tell us what you're all about.
+
+Our Promise
+
+At Etsy, we believe that a diverse, equitable and inclusive workplace furthers relevance, resilience, and longevity. We encourage people from all backgrounds, ages, abilities, and experiences to apply. Etsy is proud to be an equal opportunity workplace. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or veteran status, or any other characteristic protected by applicable law. If, due to a disability, you need an accommodation during any part of the application or interview process, please let your recruiter know. While Etsy supports visa sponsorship, sponsorship opportunities may be limited to certain roles and skills.

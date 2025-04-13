@@ -1,0 +1,54 @@
+About Agoda
+
+Agoda is an online travel booking platform for accommodations, flights, and more. We build and deploy cutting-edge technology that connects travelers with a global network of 4.7M hotels and holiday properties worldwide, plus flights, activities, and more . Based in Asia and part of Booking Holdings, our 7,100+ employees representing 95+ nationalities in 27 markets foster a work environment rich in diversity, creativity, and collaboration. We innovate through a culture of experimentation and ownership, enhancing the ability for our customers to experience the world.
+
+Our Purpose – Bridging the World Through Travel 
+
+We believe travel allows people to enjoy, learn and experience more of the amazing world we live in. It brings individuals and cultures closer together, fostering empathy, understanding and happiness.
+
+We are a skillful, driven and diverse team from across the globe, united by a passion to make an impact. Harnessing our innovative technologies and strong partnerships, we aim to make travel easy and rewarding for everyone.
+
+Get to Know our Team
+
+The Data department oversees all of Agoda’s data-related requirements. Our ultimate goal is to enable and increase the use of data in the company through creative approaches and the implementation of powerful resources such as operational and analytical databases, queue systems, BI tools, and data science technology. We hire the brightest minds from around the world to take on this challenge and equip them with the knowledge and tools that contribute to their personal growth and success while supporting our company’s culture of diversity and experimentation. The role the Data team plays at Agoda is critical as business users, product managers, engineers, and many others rely on us to empower their decision making. We are equally dedicated to our customers by improving their search experience with faster results and protecting them from any fraudulent activities. Data is interesting only when you have enough of it, and we have plenty. This is what drives up the challenge as part of the Data department, but also the reward.
+
+The Opportunity
+
+As a Principal Engineer in MLOps, you will lead the design, development, and implementation of machine learning operations across our platforms. You will collaborate with cross-functional teams in data platform, infrastructure & DevOps to ensure that machine learning workloads are easily & efficiently built and are seamlessly integrated into production environments, ensuring reliability, scalability, and reproducibility
+
+In this Role, you’ll get to:
+
+Lead and mentor a team of engineers focused on MLOps practices. 
+Work closely with data scientists & other ML practitioners to support the building & deployment of AI/ML models and ensure they meet production standards
+Communicate with TPMs & other stakeholders on the vision, roadmaps and immediate scope
+Foster a culture of continuous improvement and operational excellence within the team
+
+What you’ll Need to Succeed:
+
+Overall experience of 10+ years in engineering roles
+Proven experience in an engineering role with a focus on MLOps / Data Engineering / ML Engineering
+Strong programming skills in languages such as Kotlin, Scala, Java and familiarity with Python & machine learning libraries (e.g., TensorFlow, PyTorch, Scikit-learn). 
+Experience with MPP frameworks like Spark, Ray, Dask
+Experience with Orchestration platforms such as KubeFlow & Airflow
+Experience with model life cycle management tools like MLFlow and Weights & Biases
+Excellent problem-solving skills and a proactive approach to addressing issues
+Strong communication skills, with the ability to explain complex technical details to stakeholders at all levels. 
+Experience working in a large scale web company, with a multi-tenant data platform
+Can perform deep research & take decisions on complex projects. Can easily toggle between running as a lone wolf and also works great as part of a pack
+Bachelor’s degree in Computer Science, Engineering, or a related field. 
+
+It’s Great if you have: 
+
+Master’s or Ph.D. degree in a technical field
+Experience with Kubernetes for effective container orchestration and scaling, as well as pipeline orchestration platform such as Airflow or Kubeflow
+Deep understanding of CI/CD pipelines, automation tools, and practices relevant to Back End and and Front End development
+
+#Toronto #london #seattle #Texas #singapore #toronto #boston #chicago #sydney #telaviv #atlanta #dallas #Bengaluru #hyderabad #pune #noida #chennai #gurgaon #newdelhi #mumbai #jakarta #IT #ENG #4 #5
+
+Equal Opportunity Employer 
+
+At Agoda, we pride ourselves on being a company represented by people of all different backgrounds and orientations. We prioritize attracting diverse talent and cultivating an inclusive environment that encourages collaboration and innovation. Employment at Agoda is based solely on a person’s merit and qualifications. We are committed to providing equal employment opportunity regardless of sex, age, race, color, national origin, religion, marital status, pregnancy, sexual orientation, gender identity, disability, citizenship, veteran or military status, and other legally protected characteristics.
+
+We will keep your application on file so that we can consider you for future vacancies and you can always ask to have your details removed from the file. For more details please read our privacy policy .
+
+To all recruitment agencies: Agoda does not accept third party resumes. Please do not send resumes to our jobs alias, Agoda employees or any other organization location. Agoda is not responsible for any fees related to unsolicited resumes.

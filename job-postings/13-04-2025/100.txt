@@ -1,0 +1,38 @@
+This job is with Amazon, an inclusive employer and a member of myGwork – the largest global platform for the LGBTQ+ business community. Please do not contact the recruiter directly. 
+
+Description
+
+Are you interested in shaping the future of movies and television? Do you want to define the next generation of how and what Amazon customers are watching? Prime Video is one of the world's leading digital video services, and we're just getting started changing the way millions of people around the world enjoy content. Now available in more than 200 countries and territories, Prime Video offers customers the broadest selection of any on-demand video service, including our critically-acclaimed Amazon Originals Series such as The Boys, The Marvelous Mrs. Maisel, The Underground Railroad; UK-produced hit Amazon Original series like Good Omens, The Grand Tour, All or Nothing and Premier League football.
+
+Amazon Studios is the movies and television development and production arm of Amazon. It is our role to produce original content and license studio programs worldwide in exclusive service of Amazon's Prime Video customers. We need your passion, innovative ideas, and creativity to help take us to new heights.
+
+Do you like inventing, growing and learning from world-class engineers and scientists? If so, we want to hear from you!
+
+This a hybrid applied science and engineering team that is developing bleeding edge AI solutions to enhance efficiency, elevate creativity, and ultimately redefine industry standards, ensuring that every decision is accelerated by intelligence and foresight. We need your passion, innovative ideas, and creativity to help take us to new heights.
+
+The solutions we're building are demanding. Collaborating with teams across Amazon and world leading universities we create novel algorithms to automate workflows and innovate on behalf of our studios customers. This requires the use of the latest technologies across foundational models, transformer based architectures, image processing, image analysis, computer vision and machine learning. We need to optimise those algorithms to run accurately and efficiently. The scope of our charter means we're also utilising techniques such as contextual understanding and correction, to ensure the highest levels of video quality for our customers. The range of problems we have to solve in our space, and the enormous potential to positively impact Amazon Studios' ability to scale, provides a breath of opportunities for MLEs to grow and develop their skills.
+
+Key job responsibilities
+
+You will be part of a team of applied scientists and software development engineers responsible for research, design, development and deployment of algorithms into production pipelines. As a technologist, you will also contribute to publications of original work in top-tier conferences in Computer Vision and Machine Learning. You will be expected to deal with ambiguity! We're looking for someone with outstanding analytical abilities and someone comfortable working with cross-functional teams and systems. You must be a self-starter and be able to learn on the go.
+
+About The Team
+
+The team is based in Amazon's engineering centre in London and consists of engineers with a variety of backgrounds, from seasoned Amazonian to newly hired; a mix of applied scientists, AWS experts and generalists, but all of us are learning and growing. We work closely with other Prime Video engineering and science teams, including teams based on the US west coast as well as in London.
+
+Basic Qualifications
+
+Experience contributing to the architecture and design (architecture, design patterns, reliability and scaling) of new and current systems
+Experience in professional, non-internship software development
+Experience programming with at least one modern language such as Java, C++, or C# including object-oriented design
+Experience in one or more of the following: machine learning, multimodal models, computer vision, natural language processing and audio/signal processing.
+
+Preferred Qualifications
+
+Experience with full software development life cycle, including coding standards, code reviews, source control management, build processes, testing, and operations
+
+Amazon is an equal opportunities employer. We believe passionately that employing a diverse workforce is central to our success. We make recruiting decisions based on your experience and skills. We value your passion to discover, invent, simplify and build. Protecting your privacy and the security of your data is a longstanding top priority for Amazon. Please consult our Privacy Notice (https://www.amazon.jobs/en/privacy_page) to know more about how we collect, use and transfer the personal data of our candidates.
+
+Amazon is committed to a diverse and inclusive workplace. Amazon is an equal opportunity employer and does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, or other legally protected status.
+
+Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you're applying in isn't listed, please contact your Recruiting Partner.

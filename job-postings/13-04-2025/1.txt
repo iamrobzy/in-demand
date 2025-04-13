@@ -1,0 +1,42 @@
+Dice is the leading career destination for tech experts at every stage of their careers. Our client, DivTek Global Solutions Inc., is seeking the following. Apply via Dice today!
+
+Job Title: Principal Machine Learning Software Engineer
+
+Job Location: Monmouth County, NJ (Hybrid)
+
+Job Type: Full-Time
+
+Salary: stock options, competitive salary, and benefitsAbout Company: This is a full-time role, directly employed position through the client.
+
+Work Schedule Type: This is a hybrid position, currently requiring three days per week onsite
+
+As a Principal Machine Learning Software Engineer, you will play a critical role in designing, developing, and optimizing high-performance software systems that leverage machine learning for tasks such as anomaly and ransomware detection. You ll work in a dynamic Scrum team to deliver production-ready code, improve existing models, and ensure seamless software integration.
+
+Requirements & Responsibilities
+
+Required Qualifications:
+
+Bachelor s, Master s, or Ph.D. in Computer Science, Computer Engineering, Electrical Engineering, Mathematics, or a related field
+Proven experience in software development with strong computer science fundamentals (data structures, algorithms, etc.)
+Proficiency in Python, C/C++, and Linux scripting
+Practical experience with ML libraries and frameworks such as scikit-learn and pandas
+Demonstrated end-to-end experience in machine learning projects, including post-release model updates
+Solid foundation in traditional (shallow) ML models; exposure to deep learning, transformers, and reinforcement learning is a plus
+Strong interpersonal skills and a collaborative mindset
+Ability and eagerness to learn, grow, and contribute in a fast-paced team environment
+
+Key Responsibilities:
+
+Develop, maintain, and optimize software using Python and C/C++ on Linux systems
+Design, train, and deploy machine learning models with a focus on security applications
+Collaborate with cross-functional teams to integrate ML components and resolve technical issues
+Participate in Agile development cycles and contribute to sprint planning and reviews
+Stay current with emerging trends and continuously improve your technical skillset
+
+Nice to Have:
+
+Background in cybersecurity, particularly in anomaly or ransomware detection
+Familiarity with Agile methodologies and Scrum practices
+Experience working in a hybrid or distributed team setting
+
+How To Apply: If interested please apply through Dice.com or send an email to pramod AT dtgsi.com with jobid DIV25-PMLSENG

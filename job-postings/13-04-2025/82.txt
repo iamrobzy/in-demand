@@ -1,0 +1,36 @@
+Waymo is an autonomous driving technology company with the mission to be the most trusted driver. Since its start as the Google Self-Driving Car Project in 2009, Waymo has focused on building the Waymo Driver—The World's Most Experienced Driver™—to improve access to mobility while saving thousands of lives now lost to traffic crashes. The Waymo Driver powers Waymo One, a fully autonomous ride-hailing service, and can also be applied to a range of vehicle platforms and product use cases. The Waymo Driver has provided over one million rider-only trips, enabled by its experience autonomously driving tens of millions of miles on public roads and tens of billions in simulation across 13+ U.S. states.
+
+Software Engineering builds the brains of Waymo's fully autonomous driving technology. Our software allows the Waymo Driver to perceive the world around it, make the right decision for every situation, and deliver people safely to their destinations. We think deeply and solve complex technical challenges in areas like robotics, perception, decision-making and deep learning, while collaborating with hardware and systems engineers. If you're a software engineer or researcher who's curious and passionate about Level 4 autonomous driving, we'd like to meet you.
+
+In this hybrid role, you will report to a Director in Machine Learning.
+
+You Will
+
+Push forward on the state of the art of deep learning to solve extremely challenging real world robotics problems that is already driving at large scale.
+Manage multiple teams of world class machine learning software engineers
+Drive the short term and long term technical vision in a space where the long term is an open research problem
+Develop a strong collaborative relationship with peers spanning across the entire company
+
+You Have
+
+Deep learning expertise, including recent innovation in large pre-trained foundational models and architecture performance optimizations
+PhD in ML, specifically with a deep-learning focus
+4+ years of experience managing large teams (50+ people) in complex, fast growth environments
+Strong track record in designing org structures and growing people
+Execution mindset and skills in a fast paced environment
+
+We Prefer
+
+Experience in ML infrastructure, and how to build a culture with sustainable engineering practices
+Managed organizations (100+ people)
+Led an organization through a time of technical or product change
+Experience co-developing closely with research teams
+A strong publication record
+
+The expected base salary range for this full-time position across US locations is listed below. Actual starting pay will be based on job-related factors, including exact work location, experience, relevant training and education, and skill level. Your recruiter can share more about the specific salary range for the role location or, if the role can be performed remote, the specific salary range for your preferred location, during the hiring process.
+
+Waymo employees are also eligible to participate in Waymo’s discretionary annual bonus program, equity incentive plan, and generous Company benefits program, subject to eligibility requirements.
+
+Salary Range
+
+$332,000—$421,000 USD

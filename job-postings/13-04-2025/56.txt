@@ -1,0 +1,75 @@
+Job Title: Senior Machine Learning Engineer
+
+Location: Remote, US
+
+Department: Data Science
+
+Type: Full-Time, Exempt
+
+Experience: Senior (5+ Years)
+
+Salary Range: $180,000 - $210,000 base
+
+Core Hours: 9 AM - 1 PM PST / 12 - 4 PM EST
+
+About tvScientific
+
+tvScientific is the first and only CTV advertising platform purpose-built for performance marketers. We leverage massive data and cutting-edge science to automate and optimize TV advertising to drive business outcomes. Our solution combines media buying, optimization, measurement, and attribution in one, efficient platform. Our platform is built by industry leaders with a long history in programmatic advertising, digital media, and ad verification who have now purpose-built a CTV performance platform advertisers can trust to grow their business.
+
+Role Summary
+
+tvScientific is looking for a Senior Machine Learning Engineer to join our growing team! You'll be working with a distributed engineering team on our Connected TV ad-buying platform, as we scale our Data Science practice. We're building data science tools for constructing ad campaigns from content to timing to scheduling to bid optimization.
+
+Our self-managed platform makes it easy to buy, optimize, and prove the value of TV advertising. In this role, you'll lead small project teams, provide direction, and keep stakeholders informed. You'll have the autonomy to determine key milestones and provide updates and check-ins to relevant teams and partners.
+
+What You'll Do
+
+Lead the design, prototyping, building, and maintenance of an RL-based bidding agent at tvScientific.
+Drive improvements in the speed and scalability of tvScientific's ML inference.
+Write and review production-level Python code to ensure quality and efficiency.
+Collaborate effectively within a talented team, providing expertise and guidance.
+
+
+
+How We'll Define Success
+
+Demonstrated effectiveness of the RL-based Bidding Agent.
+Significant enhancements in the speed and efficiency of ML inference.
+High-quality production code contributing to platform stability and performance.
+Valuable contributions to team collaboration, fostering a productive and inclusive work environment.
+Consistent achievement of key project milestones and objectives.
+
+
+
+You'll Be Successful in This Role if You Have
+
+Proficiency in writing and reviewing production-level Python code.
+Deep understanding of statistics and its application in machine learning.
+Strong communication and writing skills.
+Desire to excel in a fast-paced Series B startup environment, embracing uncertainty and driving innovation through experimentation and iteration.
+
+
+
+You May Also Have
+
+Experience in adtech or connected TV (CTV) environments.
+Proficiency with big data technologies such as Scala, Apache Spark, Apache Beam, and AWS Athena.
+Experience with experimental design and A/B testing methodologies.
+Previous work with bandit algorithms and reinforcement learning techniques.
+Teaching experience.
+Systems programming experience in Zig.
+MLOps/KubeFlow.
+Causal inference.
+
+Culture and Benefits
+
+At tvScientific we believe people do their best work when they feel challenged and engaged by their day to day responsibilities, when they're surrounded by smart, hard working people, and when they have a healthy work life balance. Our company culture and benefits package reflects these beliefs.
+
+Full health, dental, and vision insurance - up to 95% funded by the company for employees.
+Employee stock option program.
+Company-sponsored retirement plan with a matching contribution program.
+12 annual paid holidays (including 2 flexible days).
+Generous PTO policy (get your work done and take the time you need).
+A remote-first environment that allows employees flexibility to work from most places in the US.
+
+tvScientific is committed to building an inclusive environment for people of all backgrounds and everyone is encouraged to apply. tvScientific is an Equal Opportunity Employer and does not discriminate on the basis of race, color, gender, sexual orientation, gender identity or expression, religion, disability, national origin, protected veteran status, age, or any other status protected by applicable national, federal, state, or local law.

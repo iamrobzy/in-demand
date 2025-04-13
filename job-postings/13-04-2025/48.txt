@@ -1,0 +1,81 @@
+At Capital One, we’re changing banking for good. We were founded on the belief that no one should be locked out of the financial system. We’re dedicated to helping foster a world where everyone has an equal opportunity to prosper.
+
+We’re a bank. But we don’t think like one. We’re always thinking about what’s next. About how we can innovate, inspire, and develop the tools our customers need to improve their financial lives.
+
+Machine learning and AI are at the heart of our approach. We provide millions of customers with individualized, real-time experiences, protection, and decisions driven by advanced AI/ML techniques. The Enterprise Tooling team maintains a suite of reusable AI/ML tools that empower Capital One developers to rapidly bring models to market and power best-in-class customer experiences.
+
+As a Product Manager on the Enterprise ML Tooling product team, you will be the voice of the customer – data scientists and engineers at Capital One – and identify cutting-edge technologies to help them deliver next-generation capabilities to market. You’ll collaborate with a cross-functional team of product managers, engineers, and designers to define requirements and drive delivery of high value solutions to the enterprise.
+
+The ideal candidate for this role is familiar with traditional ML techniques and emerging trends in Generative AI. They are equally comfortable discussing technical concepts with engineers and delivering presentations to senior leadership.
+
+
+
+Specific responsibilities include, but are not limited to:
+
+Develop and communicate the product vision for key ML and Generative AI capabilities. 
+Prioritize the product backlog to maximize business and customer outcomes. 
+Incorporate design thinking and analytics to inform product design. 
+Facilitate collaboration and communication between teams. 
+Maintain a healthy backlog of work and play a critical role in many agile ceremonies. 
+Keep the team unblocked by escalating road-blocks and fast-tracking resolutions. 
+Serve as a critical connection between your customers and your team. 
+
+
+
+We want you if you are:
+
+Passionate about building impactful products. 
+You deeply understand the needs of modern data scientists, machine learning engineers, and Generative AI practitioners. 
+You have experience shipping products powered by ML or GenAI
+You have experience developing ML models
+You have excellent oral and written communication skills. 
+You are a learner who is able to quickly get up to speed in a highly technical environment. 
+You are experienced working in an Agile environment. 
+You are a do-er who can also zoom out and think strategically. 
+You are highly collaborative and have the ability to influence and lead. 
+
+Basic Qualifications:
+
+At least 3 years of experience working in Product Management
+Currently has, or is in the process of obtaining one of the following with an expectation that the required degree will be obtained on or before the scheduled start date:
+A Bachelor's Degree in a quantitative field (Statistics, Economics, Operations Research, Analytics, Mathematics, Computer Science, Computer Engineering, Software Engineering, Mechanical Engineering, Information Systems or a related quantitative field)
+A Master's Degree in a quantitative field (Statistics, Economics, Operations Research, Analytics, Mathematics, Computer Science, Computer Engineering, Software Engineering, Mechanical Engineering, Information Systems or a related quantitative field) or an MBA with a quantitative concentration
+Preferred Qualifications:
+
+Experience translating business strategy and analysis into consumer facing digital products
+Bachelor’s Degree in Computer Science or Engineering
+MBA or Master’s degree 
+3+ years of experience in Agile product management
+Familiarity with Machine Learning lifecycle and Gen AI frontier
+
+Capital One will consider sponsoring a new qualified applicant for employment authorization for this position.
+
+The minimum and maximum full-time annual salaries for this role are listed below, by location. Please note that this salary information is solely for candidates hired to perform work within one of these locations, and refers to the amount Capital One is willing to pay at the time of this posting. Salaries for part-time roles will be prorated based upon the agreed upon number of hours to be regularly worked.
+
+Chicago, IL: $144,000 - $164,400 for Manager, Product Management
+
+McLean, VA: $158,400 - $180,800 for Manager, Product Management
+
+New York, NY: $172,800 - $197,200 for Manager, Product Management
+
+Richmond, VA: $144,000 - $164,400 for Manager, Product Management
+
+San Francisco, CA: $172,800 - $197,200 for Manager, Product Management
+
+Candidates hired to work in other locations will be subject to the pay range associated with that location, and the actual annualized salary amount offered to any candidate at the time of hire will be reflected solely in the candidate’s offer letter.
+
+This role is also eligible to earn performance based incentive compensation, which may include cash bonus(es) and/or long term incentives (LTI). Incentives could be discretionary or non discretionary depending on the plan.
+
+Capital One offers a comprehensive, competitive, and inclusive set of health, financial and other benefits that support your total well-being. Learn more at the Capital One Careers website. Eligibility varies based on full or part-time status, exempt or non-exempt status, and management level.
+
+This role is expected to accept applications for a minimum of 5 business days.
+
+No agencies please. Capital One is an equal opportunity employer committed to diversity and inclusion in the workplace. All qualified applicants will receive consideration for employment without regard to sex (including pregnancy, childbirth or related medical conditions), race, color, age, national origin, religion, disability, genetic information, marital status, sexual orientation, gender identity, gender reassignment, citizenship, immigration status, protected veteran status, or any other basis prohibited under applicable federal, state or local law. Capital One promotes a drug-free workplace. Capital One will consider for employment qualified applicants with a criminal history in a manner consistent with the requirements of applicable laws regarding criminal background inquiries, including, to the extent applicable, Article 23-A of the New York Correction Law; San Francisco, California Police Code Article 49, Sections 4901-4920; New York City’s Fair Chance Act; Philadelphia’s Fair Criminal Records Screening Act; and other applicable federal, state, and local laws and regulations regarding criminal background inquiries.
+
+If you have visited our website in search of information on employment opportunities or to apply for a position, and you require an accommodation, please contact Capital One Recruiting at 1-800-304-9102 or via email at RecruitingAccommodation@capitalone.com. All information you provide will be kept confidential and will be used only to the extent required to provide needed reasonable accommodations.
+
+For technical support or questions about Capital One's recruiting process, please send an email to Careers@capitalone.com
+
+Capital One does not provide, endorse nor guarantee and is not liable for third-party products, services, educational tools or other information available through this site.
+
+Capital One Financial is made up of several different entities. Please note that any position posted in Canada is for Capital One Canada, any position posted in the United Kingdom is for Capital One Europe and any position posted in the Philippines is for Capital One Philippines Service Corp. (COPSSC).

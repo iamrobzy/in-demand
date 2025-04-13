@@ -1,0 +1,62 @@
+Company: Noora Health
+
+Website: Visit Website
+
+Business Type: Non-profit Organization
+
+Company Type: Service
+
+Business Model: Others
+
+Funding Stage: Seed
+
+Industry: HealthTech / Social Impact
+
+Salary Range: ₹ 36-48 Lacs PA
+
+Job Description
+
+About Noora Health
+
+At Noora Health, we believe in the power of caregivers. Since our founding in 2014, our mission has been to improve health outcomes and strengthen health systems by equipping family caregivers with the skills they need to care for their loved ones. Through our flagship Care Companion Program (CCP), we transform hospital hallways and waiting rooms into learning spaces—turning families into care teams. We've impacted more than 24 million caregivers and patients across 12,100+ healthcare facilities in India, Bangladesh, Indonesia, and Nepal.
+
+Backed by global recognition—including the TED 2022 Audacious Project and the 2022 Skoll Foundation Award for Social Innovation—we continue to scale our work and deepen our impact on communities around the world.
+
+Role Overview
+
+We are seeking a Senior Lead, Machine Learning Engineer to drive the development and deployment of AI systems that enhance our caregiver education products. You will lead the design and implementation of cutting-edge AI/ML solutions, mentor a team of engineers, and collaborate across functions to build meaningful, impactful technology that improves patient outcomes.
+
+Key Responsibilities
+
+AI/ML Development: Lead the end-to-end development of AI systems, from concept through deployment, including LLM-based features such as sentiment analysis, intent recognition, and Retrieval Augmented Generation (RAG).
+Cross-functional Collaboration: Work closely with product managers, designers, and clinical experts to identify and implement AI-driven innovations aligned with product goals.
+Model Deployment & Optimization: Build scalable ML pipelines and deployment systems across cloud environments (e.g., Google Cloud), focusing on performance, efficiency, and seamless integration.
+Performance Monitoring: Establish robust frameworks and success metrics for evaluating AI model performance using tools like Langfuse, Langsmith, or Lunary.
+Team Leadership: Hire, mentor, and lead a high-performing team of AI/ML engineers. Foster a collaborative, curious, and inclusive engineering culture.
+Rapid Experimentation: Enable and manage A/B testing processes to optimize product outcomes and continuously refine AI-powered features.
+Documentation & Knowledge Sharing: Document technical specifications, methodologies, and research findings to facilitate cross-team collaboration and transparency.
+
+Who You Are
+
+Experience: 8+ years in software development with a strong focus on AI/ML. Proven experience with:
+LLMs and generative AI
+Retrieval-Augmented Generation (RAG)
+Fine-tuning and self-hosting open-weight models
+Technical Proficiency:
+Languages: Python, JavaScript, Java (or similar)
+Databases: Strong SQL skills and familiarity with relational databases and data warehouses
+Infrastructure: Kubernetes, Docker, CI/CD pipelines, and cloud platforms (preferably Google Cloud)
+ML Expertise: Strong experience building AI/ML models from scratch, including dataset preparation, model training, evaluation, and optimization.
+Observability & QA: Familiar with model observability tools and automated testing frameworks like Jest or Mocha.
+Education: Bachelor's or Master’s degree in Computer Science, Data Science, Information Science, Mathematics, or equivalent hands-on experience.
+Mindset & Skills: Excellent problem-solving abilities, strong communication skills, a detail-oriented mindset, and the ability to work both independently and collaboratively.
+Why Join Us
+
+Work on impactful problems with real-world outcomes that improve millions of lives
+Join a globally recognized, award-winning organization at the forefront of health innovation
+Be part of a mission-driven, values-led, and deeply collaborative team
+Build AI solutions for one of the most underserved and powerful segments of healthcare—family caregivers
+
+Diversity, Equity & Inclusion
+
+At Noora Health, we celebrate diversity and are committed to creating an inclusive environment for all team members. We welcome applicants from all backgrounds—regardless of gender identity, caste, religion, sexual orientation, disability, or any other aspect of identity.

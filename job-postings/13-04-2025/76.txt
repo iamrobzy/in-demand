@@ -1,0 +1,43 @@
+Designation: Machine Learning Engineer
+Email: careers.april@azistaindustries.com
+Experience: Minimum 1 year
+Location: Hyderabad
+
+About APRIL:
+APRIL (Advanced Pixel Research & Intelligence Lab) is a strategic business unit of Azista Industries. As part of our endeavor to provide vertically integrated solutions to end users, the APRIL unit focuses on leveraging state-of-the-art AI, GIS, remote sensing, and image and signal processing algorithms to meet customer requirements in satellite data processing and analytics. APRIL's solutions support various critical applications across sectors, while working with diverse datasets to deliver actionable intelligence to strategic users.
+
+About Azista Industries:
+Azista Industries Pvt. Ltd. (AIPL), established in 2016 and headquartered in Hyderabad, was founded with a vision to serve the aerospace and defence sectors. Over the years, Azista has evolved into a technology conglomerate offering services across a range of domains including Aerospace, Composites, Defence, Data Analytics, Food, Healthcare, Surveillance, Satellites, and Satcom.
+
+Azista stands as one of the largest space systems firms in India. The company successfully launched its first satellite, "AFR," on June 13th, 2023. AFR is a wide-swath, medium-resolution remote sensing satellite with diverse applications for both civilian and defence purposes.
+
+With ever-growing focus on research and technological advancement, Azista is looking to onboard impactful engineers and scientists who are eager to shape the future.
+
+Job Overview:
+We are seeking a highly skilled and innovative Machine Learning Engineer to join our team, specializing in the development of AI models for analytics on satellite images. In this role, you'll get to be part of an R&D team working on applying state of the art Computer Vision and AI techniques on Satellite data.
+
+Key Responsibilities:
+• Contribute across different stages of deep learning model development including data collection, data cleaning, model development, validation and deployment. 
+• Develop AI/ML models for a wide variety of tasks spanning object detection, segmentation, tracking, image enhancements and so on. 
+• Continuously improve the quality and performance of existing deep learning models by applying latest research in the field. 
+• Continuously monitor and fine-tune AI models to adapt to changing conditions and improve their accuracy and efficiency. 
+• Stay up-to-date with the latest advancements in AI, edge computing, and space technology to drive innovation in the field. 
+• Create and maintain documentation related to the ongoing/developed processes and applications.
+
+Qualifications:
+• Professional Experience: 1+ years in the field of Machine Learning. 
+• Good understanding of developing models with different architectural complexities like layer architecture, depth, convolution operations, connections etc. Should have good understanding of optimization techniques and hardware consideration. 
+• Knowledge in areas like image classification, object detection and instance segmentation. Understanding of deep learning fundamentals including network architectures, training artefacts, overfitting and regularisation in neural networks, batch normalisation and so on. 
+• Proficiency in python, numpy and opencv. 
+• Proficient in deep learning frameworks e.g. PyTorch or Tensorflow. Familiarity contributing and maintaining code in github. 
+• Bachelor's or Master's degree in Computer Science, Machine Learning, or a related field and should have taken a ML course in Bachelor’s or Master’s Degree or should have a certification from a reputed institute. 
+• Strong problem-solving and debugging skills. Excellent communication and teamwork abilities. 
+• Understanding of SQL and docker technology is a bonus. 
+• Basic understanding of Image Processing and basic understanding of Remote Sensing is a plus.
+
+Benefits:
+• Opportunity to work on cutting-edge Image Processing & Analytics technology for space applications.
+• Collaboration with a dynamic and innovative team.
+• Professional development and growth opportunities in a rapidly evolving field. 
+
+“Inclusion and diversity are critical to the success of Azista, and we actively encourage applications from people of all backgrounds. We are committed to providing equal employment opportunity without regard to race, colour, caste, religion, sex, sexual orientation, gender identity, age, national origin, disability, status as a protected veteran, or any other protected category.”

@@ -1,0 +1,51 @@
+Job Description
+
+In Data Science Platform Squad, we Build and maintain a generic, scalable and govern platform for Data Science model of online models to enable an automated, compliant and efficient Model Life Cycle process. We use technologies like Open-Shift to build Containerized platform for Hosting Model execution & Deployment.
+
+Our squad is responsible for hosting Python statistical and machine learning models, primarily serving the Data Science communities who develop these models on behalf of various enterprise domains within the bank. We manage AAPF (Advanced Analytical Platform for Fraud), which works alongside CMDEP (Containerized Management Deployment and Execution platform) to execute machine learning models for scoring payment transactions for fraud, including e-banking domestic/international and District International models deployed in CMDEP. Additionally, we are tasked with transforming the current On-Prem infrastructure into a Cloud-Native platform.
+
+As a MLOps IT Platform Engineer, you will work closely with the Product Owner and Chapter Lead in a “2 in a box” model, using agile methodologies. You will be responsible to develop and maintain scalable ML pipelines on futured MLOps platform built on AWS and Databricks. You will be tasked with ensuring seamless and automated transition of models from development to production using CICD workflows, implement the infrastructure as code. You will ensure that our machine learning models operate reliably, efficiently and at scale.
+
+You will:
+
+Implement automated pipelines for model training, validation and inference
+Build and maintain CI/CD workflows using Github actions to ensure model code is versioned and seamlessly deployed to production
+Utilize tools like MLflow for model tracking, versioning and deployment
+Use terraform to provision and manage scalable secure infrastructure required for ML workloads
+Leverage docker containers to build, deploy and manage containerized ML models
+
+About you:
+
+Minimum of 2 years of practical experience in MLOps platform to build model development deployment, execution and maintenance of ML pipelines
+In-depth knowledge of AWS services and Databricks
+Proficiency in Python, Pyspark
+Experience in CI/CD tools Terraform and container orchestration
+Problem-solving and debugging skills
+Understanding and practical experience with PubSub and Kafka streaming services would be beneficial
+Upper-Intermediate English skills
+
+“We believe that the most valuable asset is human potential.”
+
+We offer:
+
+If you are hired in Lithuania, the applicable salary range will be from 3280 EUR to 4920 EUR gross (based on your competencies relevant for the job).
+
+Additionally, each Danske Bank employee receives employee benefits package which includes:
+
+Growth opportunities: professional & supportive team, e-learnings, numerous development programs; (incl. professional certificates); 100+ professions for internal mobility opportunities.
+Health & Well-being: a diverse, inclusive, work & life balance work environment; additional health insurance; mental well-being practices; partial psychologist counselling compensation; silence and sleep zones at the office; game rooms.
+Hybrid working conditions: Work from home up to two days a week; home office budget (after the probation period); modern Danske Campus workplace developed with anthropologist for the best employee experience.
+Additional days of leave: for rest, health, volunteering, exams in higher education institutions, and other important activities. Moreover, for seniority with Danske Bank.
+Monetary compensation package: accidents & critical diseases insurance; financial support in case of unfortunate events, travel insurance; IIIrd Pillar Pension Fund contribution.
+
+See all the benefits HERE.
+
+Your title in job contract will be IT Platform Engineer.
+
+If you're interested in this role and joining my team, feel free to contact me - Dinesh Chaudhari via LinkedIn or email dinc@danskebank.dk, and I will answer your questions!
+
+#DK
+
+About Us
+
+Danske Bank is a Nordic bank with bridges to the world around us. For 150 years, we have supported people and businesses in releasing their potential. A career with us is an opportunity to join a community of 22,000 colleagues in a culture where we are committed to Teaming Up, Owning It and Being Open. Together, we are on a journey to transform Danske Bank into a better bank. For our customers, our employees and the societies around us.

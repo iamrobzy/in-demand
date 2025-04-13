@@ -1,0 +1,29 @@
+Job Description: Machine Learning Engineer (Data Annotator) Trainee
+
+Location: Pune, India (Work-from-home option available)
+
+About Rasta.AI: Rasta.AI is revolutionizing road safety and infrastructure monitoring using cutting-edge AI technologies. Our AI-powered solutions depend on high-quality data to predict, analyze, and improve road conditions globally. At Rasta.AI, we believe impactful AI starts with precise data annotation.
+
+Role: Machine Learning Engineer (Data Annotator) Trainee
+Stipend - 4-7 K Per Month
+Responsibilities:
+Accurately annotate images and videos to provide high-quality datasets for AI model training.
+Identify, label, and categorize road conditions, objects, and scenarios clearly and consistently.
+Collaborate with data scientists and AI researchers to refine annotation strategies and improve data quality.
+Regularly review annotated data to ensure accuracy and consistency, providing feedback to team members as needed.
+Maintain documentation and annotation guidelines, updating them based on evolving project needs.
+Requirements:
+High attention to detail with a strong commitment to quality.
+Basic understanding of computer operations and data annotation tools.
+Ability to follow instructions precisely and consistently.
+Comfortable working independently and collaboratively in a dynamic team environment.
+Passionate about technology, AI, and contributing to impactful products.
+Preferred Qualifications:
+Previous experience in data annotation, labeling, or data entry.
+Familiarity with AI, machine learning, or computer vision projects.
+Perks and Benefits:
+Internship opportunity with potential for a Pre-Placement Offer (PPO) based on performance.
+Play a crucial role in creating AI-driven solutions that positively impact society.
+Be part of an innovative team committed to technological excellence.
+Opportunity to learn, grow, and build a meaningful career in the booming AI and Data Science industry.
+Join Rasta.AI and be a part of the journey to transform road safety through data-driven AI solutions!

@@ -1,0 +1,70 @@
+Lensa is the leading career site for job seekers at every stage of their career. Our client, Cisco, is seeking professionals. Apply via Lensa today!
+
+Join us as we pursue our disruptive new vision to make machine data accessible, usable and valuable to everyone via AI. We are a company filled with people who are passionate about our product and seek to deliver the best experience for our customers. At Splunk, we’re committed to our work, customers, having fun and most importantly to each other’s success. Learn more about Splunk careers and how you can become a part of our journey!
+
+Role
+
+As the Machine Learning Engineer, AI Platform in the Splunk AI Dev Tools team, you will be building services and tools that underlie our AI products and also accelerate our AI developers. This role combines traditional software engineering with modern cloud infrastructure and machine learning technologies. The ideal candidate will help build and maintain scalable AI systems while ensuring robust deployment and operational excellence.
+
+Responsibilities
+
+Design, develop, and maintain AI services in our AI platform that powers all our AI products. 
+Implement and optimize CI/CD pipelines for machine learning model deployment 
+Architect and manage cloud infrastructure using Infrastructure as Code principles 
+Collaborate with ML Engineers and Applied Scientists to build efficient model serving systems 
+Monitor system performance and implement improvements for scalability 
+Participate in code reviews and technical documentation 
+Troubleshoot production issues and implement solutions 
+
+Required Qualifications
+
+US Citizenship 
+Bachelor's degree in Computer Science, Software Engineering, or related field 
+3+ years of experience in software development using languages such as Python and Golang 
+Strong experience with cloud platforms (AWS, GCP, or Azure) 
+Proficiency in containerization technologies (Docker, Kubernetes) 
+Experience with CI/CD tools (Jenkins, GitLab CI, or similar) 
+Knowledge of Infrastructure as Code (Terraform, CloudFormation, or similar) 
+Understanding of RESTful APIs 
+Knowledge of data storage technologies including cloud object stores (e.g. S3), databases (e.g. postgreSQL), vector databases 
+Knowledge of monitoring and observability tools (Prometheus, Grafana, Splunk) 
+Experience with version control systems (Git) and collaborative development workflows 
+
+Preferred Qualifications
+
+Experience with machine learning frameworks (TensorFlow, PyTorch) 
+Understanding of ML deployment patterns and model serving 
+Familiarity with MLOps practices and tools 
+Experience with automated testing and quality assurance 
+Knowledge of security best practices in cloud environments 
+
+Soft Skills
+
+Strong problem-solving and analytical abilities 
+Excellent written and verbal communication 
+Ability to work independently and in a team environment 
+Strong documentation skills 
+Proactive approach to identifying and solving problems 
+Ability to learn and adapt to new technologies quickly 
+
+Splunk, a Cisco company, is an Equal Opportunity Employer and all qualified applicants will receive consideration for employment without regard to race, color, religion, gender, sexual orientation, national origin, genetic information, age, disability, veteran status, or any other legally protected basis.
+
+Note
+
+Base Pay Range
+
+SF Bay Area, Seattle Metro, and New York City Metro Area
+
+Base Pay Range: $146,400.00 - 201,300.00 per year
+
+California (excludes SF Bay Area), Washington (excludes Seattle Metro), Washington DC Metro, and Massachusetts
+
+Base Pay Range: $131,760.00 - 181,170.00 per year
+
+All other cities and states excluding California, Washington, Massachusetts, New York City Metro Area and Washington DC Metro Area.
+
+Base Pay Range: $117,120.00 - 161,040.00 per year
+
+Splunk provides flexibility and choice in the working arrangement for most roles, including remote and/or in-office roles. We have a market-based pay structure which varies by location. Please note that the base pay range is a guideline and for candidates who receive an offer, the base pay will vary based on factors such as work location as set out above, as well as the knowledge, skills and experience of the candidate. In addition to base pay, this role is eligible for incentive compensation and may be eligible for equity or long-term cash awards.
+
+Benefits are an important part of Splunk's Total Rewards package. This role is eligible for a competitive benefits package which includes medical, dental, vision, a 401(k) plan and match, paid time off and much more! Learn more about our next-level benefits at https://splunkbenefits.com .

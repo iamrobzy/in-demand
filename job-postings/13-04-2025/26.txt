@@ -1,0 +1,46 @@
+Genies Is An AI Avatar And Games Technology Company Powering The Next Generation Of Digital Experiences. Genies' Technology Stack Is Rooted In Empowering User Generated Content Through The Company's Two Main Mantras
+
+“Anyone can create anything” & “Everything works with everything”
+
+By combining these two guiding principles, individuals can craft limitless experiences while IP owners can build dynamic social gaming ecosystems powered by user-generated content (UGC) and AI Avatars—what Genies calls "Parties."
+
+Genies' technology stack features a comprehensive suite of UGC tools that enable anyone to create AI avatars, complete with customizable fashion, props, behaviors, and personalities, as well as immersive AI avatar experiences. At its core is the Genies Avatar Framework, which leverages machine learning and computer graphics to ensure seamless interoperability across all user-generated AI avatars and experiences—unlocking boundless creative potential.
+
+Early adopters of Genies’ first gen avatars include icons like Justin Bieber, Rihanna, J Balvin, Migos, and thousands more. With offices in Los Angeles and San Francisco, Genies has raised $200M from notable investors including Silver Lake, BOND, NEA, and Bob Iger.
+
+We are looking for an ML Engineer with a passion for highly configurable digital avatars and intuitive content tools that inspire user creativity. In this role, you will design and implement machine learning models, perform complex data analysis, and develop cutting-edge algorithms that push the boundaries of avatar expression and interactivity. You will be expected to propose innovative, data-driven solutions with minimal guidance, driving informed decision-making. Strong collaboration with cross-functional teams is essential to ensure the seamless deployment and optimization of machine learning systems. Additionally, staying ahead of the latest advancements in machine learning and artificial intelligence will be a key aspect of your role.
+
+What You’ll Be Doing
+
+Develop AI-driven character animation models for body motion, facial expressions, and behavioral AI.
+Train reinforcement learning (RL) or deep learning models to generate motion sequences.
+Work with game engines (Unity, Unreal) to integrate AI-generated animation.
+Collaborate with graphics engineers to blend AI motion with traditional animation.
+Optimize character movement for real-time applications (XR, mobile).
+
+What You Should Have
+
+Bachelor's degree in Computer Science, Data Science, Statistics, or a related field.
+5+ years of experience in machine learning or related fields.
+Experience with data structures, data modeling, and software architecture.
+ML expertise (Deep learning, Reinforcement Learning, Motion AI)
+Experience with physics-based animation or motion synthesis
+Game engine knowledge (Unreal, Unity) for motion blending
+Some 3D geometry understanding (meshes, rigging, skeletons)
+Experience with OpenUSD, Houdini (bonus)
+
+Starting Salary Range: $165,000 - $230,000
+
+Here's Why You'll Love Working At Genies
+
+You'll work with a team that you’ll be able to learn from and grow with, including support for your own professional development
+You'll be at the helm of your own career, shaping it with your own innovative contributions to a nascent team and product with flexible hours and a work from home policy
+You'll enjoy the culture and perks of a startup, with the stability of being well funded 
+Comprehensive health insurance for you and your family (Anthem + Kaiser Options Available), Dental and Vision Insurance
+Competitive salaries for all full time employees 
+Unlimited paid time off, sick time, and paid company holidays, in addition to paid parental leave, bereavement leave, and jury duty leave for full-time employees
+Health & wellness support through programs such as monthly wellness reimbursement 
+Working in a brand new, bright, open-environment and fun office space - there’s even a slide! 
+Choice of MacBook or windows laptop
+
+Genies is an equal opportunity employer committed to promoting an inclusive work environment free of discrimination and harassment. We value diversity, inclusion, and aim to provide a sense of belonging for everyone.

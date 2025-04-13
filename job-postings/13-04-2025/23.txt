@@ -1,0 +1,45 @@
+Genies Is An AI Avatar And Games Technology Company Powering The Next Generation Of Digital Experiences. Genies' Technology Stack Is Rooted In Empowering User Generated Content Through The Company's Two Main Mantras
+
+“Anyone can create anything” & “Everything works with everything”
+
+By combining these two guiding principles, individuals can craft limitless experiences while IP owners can build dynamic social gaming ecosystems powered by user-generated content (UGC) and AI Avatars—what Genies calls "Parties."
+
+Genies' technology stack features a comprehensive suite of UGC tools that enable anyone to create AI avatars, complete with customizable fashion, props, behaviors, and personalities, as well as immersive AI avatar experiences. At its core is the Genies Avatar Framework, which leverages machine learning and computer graphics to ensure seamless interoperability across all user-generated AI avatars and experiences—unlocking boundless creative potential.
+
+Early adopters of Genies’ first gen avatars include icons like Justin Bieber, Rihanna, J Balvin, Migos, and thousands more. With offices in Los Angeles and San Francisco, Genies has raised $200M from notable investors including Silver Lake, BOND, NEA, and Bob Iger.
+
+We are seeking a Lead ML Engineer with a passion for highly configurable digital avatars and intuitive content tools that spark user creativity. In this role, you will design and implement advanced machine learning models, algorithms, and systems to tackle complex business challenges. As a subject matter expert, you will provide technical guidance to junior professionals and contribute to shaping the company’s machine learning strategies. Your responsibilities will also include researching emerging technologies and methodologies to enhance system performance, as well as collaborating with cross-functional teams to ensure the seamless deployment and scalability of ML solutions.
+
+What You’ll Be Doing
+
+Design & develop generative models (Diffusion, GANs, VAEs, NeRF, Gaussian Splatting) for 3D mesh generation, texture maps, and procedural content creation.
+Work with 3D geometry processing (segmentation, tagging, optimization).
+Optimize ML-generated 3D assets for real-time use in XR, mobile, or game engines.
+Collaborate with graphics engineers to integrate AI-generated assets into pipelines (Houdini, OpenUSD, shaders, real-time rendering).
+
+What You Should Have
+
+Bachelor's degree in Computer Science, Data Science, Statistics, or a related field.
+8+ years of experience in machine learning or related fields.
+Experience with data structures, data modeling, and software architecture.
+Deep learning (PyTorch, TensorFlow), generative models (Diffusion, GANs, VAEs)
+3D geometry experience (meshes, texture generation, post-processing)
+3D graphics APIs (OpenGL, Vulkan, DirectX) and shaders (nice to have)
+Some C++ knowledge for real-time optimization (not mandatory)
+Game engine experience (Unity, Unreal, or custom engines) is a plus
+
+Starting Salary Range: $180K - $266K
+
+Here's Why You'll Love Working At Genies
+
+You'll work with a team that you’ll be able to learn from and grow with, including support for your own professional development
+You'll be at the helm of your own career, shaping it with your own innovative contributions to a nascent team and product with flexible hours and a work from home policy
+You'll enjoy the culture and perks of a startup, with the stability of being well funded 
+Comprehensive health insurance for you and your family (Anthem + Kaiser Options Available), Dental and Vision Insurance
+Competitive salaries for all full time employees 
+Unlimited paid time off, sick time, and paid company holidays, in addition to paid parental leave, bereavement leave, and jury duty leave for full-time employees
+Health & wellness support through programs such as monthly wellness reimbursement 
+Working in a brand new, bright, open-environment and fun office space - there’s even a slide! 
+Choice of MacBook or windows laptop
+
+Genies is an equal opportunity employer committed to promoting an inclusive work environment free of discrimination and harassment. We value diversity, inclusion, and aim to provide a sense of belonging for everyone.

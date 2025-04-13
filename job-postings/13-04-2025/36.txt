@@ -1,0 +1,65 @@
+hackajob is collaborating with GSK to connect them with exceptional tech professionals for this role.
+
+Site Name: USA - Massachusetts - Waltham, Belgium-Wavre, Italy - Siena, Philadelphia Walnut Street, UK - London
+
+Posted Date: Apr 9 2025
+
+Uniting science, technology and talent to get ahead of disease together.
+
+GSK is a global biopharma company with a special purpose - to unite science, technology and talent to get ahead of disease together - so we can positively impact the health of billions of people and deliver stronger, more sustainable shareholder returns - as an organisation where people can thrive. We prevent and treat disease with vaccines, specialty and general medicines. We focus on the science of the immune system and the use of new platform and data technologies, investing in four core therapeutic areas (infectious diseases, HIV, respiratory/ immunology and oncology).
+
+Our success absolutely depends on our people. While getting ahead of disease together is about our ambition for patients and shareholders, it’s also about making GSK a place where people can thrive. We want GSK to be a place where people feel inspired, encouraged and challenged to be the best they can be. A place where they can be themselves - feeling welcome, valued, and included. Where they can keep growing and look after their wellbeing. So, if you share our ambition, join us at this exciting moment in our journey to get Ahead Together.
+
+Join our team to develop and validate advanced AI/ML models addressing complex challenges in life science R&D areas such as target choice, patient identification, molecule design and clinical trial effectiveness. Design and implement AI/ML pipelines for rapid experimental iteration, including classical ML models and advanced LLM customization techniques. Collaborate with subject matter experts and AI engineers to develop and deploy models and ensure high-quality, scientifically sound solutions.
+
+Responsibilities
+
+Develop and validate advanced AI/ML models to tackle complex problems in target choice, patient identification, molecule design/chemistry, manufacturing and controls (CMC), and clinical trial effectiveness.
+Design and implement AI/ML pipelines for data preprocessing, feature engineering, model training, hyperparameter tuning, and model evaluation, enabling rapid experimental iteration and adhering to industry’s best practices in MLOps.
+Besides classical ML models fine-tuning (i.e., support vector machine and random forest), this team is also responsible for large language model (LLM) customization and fine-tuning using complex techniques (i.e., low-rank adaptation (LoRA) and reinforcement learning (RL) with human feedback).
+Collaborate with AI engineers to deploy AI/ML models in both classical inference pipelines and agentic framework approaches.
+Collaborate with subject matter experts in pre-clinical research, clinical trial design and operation, precision medicine, regulatory science, and CMC to guarantee scientifically sound and high-quality simulation modeling and analytical solutions.
+
+Why you?
+
+Basic Qualifications
+
+We are looking for professionals with these required skills to achieve our goals:
+
+BS degree in computer science or equivalent quantitative science fields (e.g., bioinformatics, applied math, statistics, engineering) 
+3+ years of data science and machine learning developer experience in high-velocity, high-growth companies. Alternatively, a strong background in relevant ML research in academia will be considered as an equivalent qualification.
+Experience working with LLM technologies, including developing generative and embedding techniques, modern model architectures, retrieval-augmented generation (RAG), fine tuning / pre-training LLM (including parameter efficient fine-tuning), and evaluation benchmarks.
+Experience in data wrangling from large databases for feature engineering and model training purposes.
+Proficiency in Python, TensorFlow/PyTorch, and scalable ML architectures.
+Proficiency of AI/ML model metrics (e.g., F1 and AI-contents evaluation metrics)
+Coding and software engineering skills, and familiarity with software engineering principles around testing, code reviews and deployment.
+
+Preferred Qualifications
+
+If you have the following characteristics, it would be a plus
+
+MA degree in computer science or equivalent qualitative science fields
+Experience with reinforcement learning (RL) and multi-agent framework
+Experience with computer vision
+Experience designing and managing AI workloads on cloud platforms and/or high-performance computing environments
+Experience in establishing AI/ML best practices, standards, and ethics
+Experience in AI/ML applications in life science domain areas: pre-clinical research, clinical trial design and operation, precision medicine, regulatory science, and CMC.
+Strong written and verbal communication skills
+
+Why GSK?
+
+Uniting science, technology and talent to get ahead of disease together.
+
+GSK is a global biopharma company with a special purpose - to unite science, technology and talent to get ahead of disease together - so we can positively impact the health of billions of people and deliver stronger, more sustainable shareholder returns - as an organisation where people can thrive. We prevent and treat disease with vaccines, specialty and general medicines. We focus on the science of the immune system and the use of new platform and data technologies, investing in four core therapeutic areas (infectious diseases, HIV, respiratory/ immunology and oncology).
+
+Our success absolutely depends on our people. While getting ahead of disease together is about our ambition for patients and shareholders, it’s also about making GSK a place where people can thrive. We want GSK to be a place where people feel inspired, encouraged and challenged to be the best they can be. A place where they can be themselves - feeling welcome, valued, and included. Where they can keep growing and look after their wellbeing. So, if you share our ambition, join us at this exciting moment in our journey to get Ahead Together.
+
+If you require an accommodation or other assistance to apply for a job at GSK, please contact the GSK Service Centre at 1-877-694-7547 (US Toll Free) or +1 801 567 5155 (outside US).
+
+GSK is an Equal Opportunity Employer and, in the US, we adhere to Affirmative Action principles. This ensures that all qualified applicants will receive equal consideration for employment without regard to race, color, national origin, religion, sex, pregnancy, marital status, sexual orientation, gender identity/expression, age, disability, genetic information, military service, covered/protected veteran status or any other federal, state or local protected class.
+
+Important notice to Employment businesses/ Agencies
+
+GSK does not accept referrals from employment businesses and/or employment agencies in respect of the vacancies posted on this site. All employment businesses/agencies are required to contact GSK's commercial and general procurement/human resources department to obtain prior written authorization before referring any candidates to GSK. The obtaining of prior written authorization is a condition precedent to any agreement (verbal or written) between the employment business/ agency and GSK. In the absence of such written authorization being obtained any actions undertaken by the employment business/agency shall be deemed to have been performed without the consent or contractual agreement of GSK. GSK shall therefore not be liable for any fees arising from such actions or any fees arising from any referrals by employment businesses/agencies in respect of the vacancies posted on this site.
+
+Please note that if you are a US Licensed Healthcare Professional or Healthcare Professional as defined by the laws of the state issuing your license, GSK may be required to capture and report expenses GSK incurs, on your behalf, in the event you are afforded an interview for employment. This capture of applicable transfers of value is necessary to ensure GSK’s compliance to all federal and state US Transparency requirements.

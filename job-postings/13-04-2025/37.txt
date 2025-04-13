@@ -1,0 +1,57 @@
+Come join a growing Manufacturing Company in the USA!
+
+This Jobot Job is hosted by: Chris Gorman
+
+Are you a fit? Easy Apply now by clicking the "Apply Now" button and sending us your resume.
+
+Salary: $115,000 - $120,000 per year
+
+A bit about us:
+
+Founded in 1970, we have over 40 years of experience designing and manufacturing signage solutions for the fuel retail and transportation industries. We are a leading provider of electronic sign systems and software for fuel price management, as well as dynamic message signs and control software for transportation applications across North America.
+
+Due to growth, we are looking to add a Remote Machine Learning Engineer to our team!
+
+Why join us?
+
+What We Offer:
+
+100% Remote work
+Competitive base salary and overall compensation package
+Full benefits: Medical, Dental, Vision
+Generous PTO, vacation, sick, and holidays
+Life Insurance coverage
+401K
+
+Job Details
+
+Responsibilities:
+
+Design, develop, and implement end-to-end machine learning models and systems.
+Collaborate with data scientists, software engineers, and other stakeholders to define system requirements, data pipelines, and performance metrics.
+Analyze large and complex data sets to derive valuable insights.
+Develop machine learning applications according to requirements.
+Use predictive modeling to increase and optimize customer experiences, revenue generation, ad targeting, and other business outcomes.
+Validate your models against business requirements to ensure accuracy.
+Work with the engineering team to integrate these models into existing systems.
+Work with cloud platforms to deploy machine learning solutions.
+Use container technologies like Docker and Kubernetes to deploy applications.
+Implement Agile methodologies to ensure effective project management.
+Use version control systems like Git to manage codebase.
+
+Qualifications:
+
+Bachelor's degree in Computer Science, Data Science, Mathematics, or a related field.
+Proficiency in programming languages such as Python, Java, and C++.
+Strong knowledge of machine learning libraries and frameworks such as PyTorch, Keras, and Scikit-learn.
+Experience with data manipulation and analysis libraries such as Pandas and NumPy.
+Proficiency in SQL.
+Experience with cloud platforms such as AWS, Azure, and Google Cloud.
+Experience with container technologies like Docker and Kubernetes.
+Experience with pricing models is a big plus.
+
+Interested in hearing more? Easy Apply now by clicking the "Apply Now" button.
+
+Jobot is an Equal Opportunity Employer. We provide an inclusive work environment that celebrates diversity and all qualified candidates receive consideration for employment without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state or local laws.
+
+Sometimes Jobot is required to perform background checks with your authorization. Jobot will consider qualified candidates with criminal histories in a manner consistent with any applicable federal, state, or local law regarding criminal backgrounds, including but not limited to the Los Angeles Fair Chance Initiative for Hiring and the San Francisco Fair Chance Ordinance.

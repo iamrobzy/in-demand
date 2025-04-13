@@ -1,0 +1,38 @@
+STAFF SPA
+
+STAFF SPA Agenzia Per Il Lavoro, Filiale Di Santa Croce Sull'Arno (PI), Seleziona Per Azienda Di Sviluppo Software Operante Nel Settore Della Logistica
+
+Mid-level Machine Learning Engineer
+
+Requisiti
+
+Laurea triennale/magistrale in materie Scientifico-Informatiche;
+Conoscenza primaria del linguaggio Python (Preferibile ulteriore conoscenza del linguaggio C#);
+Esperienza nella programmazione nel linguaggio Python;
+Conoscenza dei principali algoritmi di ML/Deep Learning;
+Esperienza con i principali tools di Machine Learning e Deep Learning (Tensorflow, Keras, Scikit-learn, Pytorch);
+Esperienza nell'ottimizzazione delle performance in ambito IA e Machine Learning;
+Conoscenza del Software Development Life Cycle e familiarità nell'uso di sistemi di Source Code & Versioning Control systems (es SVN, Git);
+Familiarità con i linguaggi di interrogazione dei database;
+Conoscenza di tecnologie containerized environments (Docker e Kubernetes).
+
+Offerta
+
+Inquadramento e retribuzione commisurati all'esperienza;
+Ambiente di lavoro stimolante e in crescita.
+
+ORARIO DI LAVORO: Full time - Giornaliero
+
+LUOGO DI LAVORO: Parto (PO)
+
+I candidati sono invitati a leggere l'informativa privacy nell'apposita sezione del sito web www.staff.it La ricerca si intende rivolta ai candidati di ambo i sessi ai sensi delle leggi 903/77 e 125/91. Staff S.p.A. è iscritta all'Albo informatico delle Agenzie per il Lavoro sez. I del Ministero del Lavoro e P.S. prot.N°39/0011781
+
+Settore: Trasporti e logistica
+
+Ruolo: IT/Technology
+
+Percentuale di occupazione: Full-time
+
+Tipo di occupazione: Lavoro temporaneo a scopo assunzione
+
+Patente: B

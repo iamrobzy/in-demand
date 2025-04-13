@@ -1,0 +1,43 @@
+It's fun to work in a company where people truly BELIEVE in what they're doing!
+
+Are you experienced in machine learning and eager to tackle innovative AI projects?
+
+At evoila, we're hiring a Senior Machine Learning Engineer to join our team and contribute to advanced AI solutions across diverse industries.
+
+Your Role
+
+Develop, train, and deploy machine learning models to solve complex industry-specific challenges.
+Create robust machine learning solutions using established AI frameworks and methodologies.
+
+Requirements
+
+5+ years of practical experience developing and deploying machine learning models in production environments.
+Solid understanding of mathematics, algorithms, and data structures.
+Strong proficiency in Python.
+Hands-on experience with ML libraries such as TensorFlow, Keras, PyTorch, or scikit-learn.
+Excellent analytical and problem-solving skills.
+Experience with cloud-based ML platforms, specifically Azure ML or Google Cloud AI Platform.
+
+Preferred Qualifications
+
+Degree in artificial intelligence, computer science, mathematics, or a related field.
+Familiarity with data engineering or stream processing.
+Experience optimizing and fine-tuning large language models.
+
+We support your professional development with comprehensive onboarding and ongoing training opportunities.
+
+Permanent Full-Time
+
+In addition to a varied project landscape, we offer you a high degree of personal responsibility and the cooperation with a growing and motivated team, in which you can bring in your ideas.
+
+What We Offer You
+
+Mobile Office
+Premium Work Equipment
+Extensive Further Training
+Employee Events
+Country-Specific Employee Bonuses (e.g. cooperation with EGYM Wellpass, JobRad and much more)
+
+Contact
+
+Emina Durakovic

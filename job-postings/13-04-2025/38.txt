@@ -1,0 +1,87 @@
+Immediate Opportunity! Excellent Pay! Great Benefits! Room for Growth!
+
+This Jobot Job is hosted by: Caitlyn Hardy
+
+Are you a fit? Easy Apply now by clicking the "Apply Now" button and sending us your resume.
+
+Salary: $120,000 - $160,000 per year
+
+A bit about us:
+
+We are a fast-growing engineering consulting firm specializing in mechanical, electrical, plumbing (MEP), structural engineering, Revit modeling, and CFD analysis. Our mission is to deliver cutting-edge solutions that drive efficiency, innovation, and excellence in the engineering industry.
+
+Our team of skilled engineers and technology professionals is dedicated to leveraging the latest advancements in AI, automation, and computational analysis to enhance project outcomes.
+
+We pride ourselves on a collaborative work environment that encourages creativity, problem-solving, and professional growth. By integrating machine learning and software development into engineering processes, we continue to push the boundaries of innovation and efficiency in the industry.
+
+Why join us?
+
+Medical
+Dental
+Vision
+Paid Vacation
+Paid Sick Leave
+Paid Holidays
+401(k) with company match
+
+Job Details
+
+Key Responsibilities
+
+Software Development & Automation
+
+Design, develop, and maintain custom software applications for engineering workflows using C#.
+
+Automate repetitive engineering tasks in MEP, CFD, and structural analysis to improve efficiency.
+
+Develop algorithms to process and analyze engineering data, integrating AI models for predictive insights.
+
+Machine Learning & AI Integration
+
+Implement machine learning models for image recognition, pattern detection, and predictive analytics in engineering projects.
+
+Utilize AI-powered tools to enhance Revit modeling, CFD analysis, and structural simulations.
+
+Apply computer vision techniques to analyze engineering drawings, blueprints, and CAD models.
+
+Engineering & Computational Analysis
+
+Assist in the development of AI-driven CFD simulations for airflow, heat distribution, and energy efficiency predictions.
+
+Enhance predictive modeling for HVAC, electrical, and plumbing systems to optimize design performance.
+
+Develop data-driven insights for predictive maintenance and risk analysis in engineering structures.
+
+Collaboration & Support
+
+Work closely with mechanical, electrical, and structural engineers to develop AI-enhanced software solutions.
+
+Collaborate with engineering teams to identify automation opportunities and improve software performance.
+
+Support the integration of AI tools into existing engineering platforms.
+
+Qualifications & Requirements
+
+Education & Background:
+
+Bachelor's degree in Computer Science, Software Engineering, Electrical Engineering, or a related field.
+
+Strong foundation in machine learning, AI, and software development.
+
+Technical Skills:
+
+Proficiency in C# programming (required).
+
+Experience with machine learning frameworks (such as TensorFlow, PyTorch, or Scikit-learn).
+
+Basic knowledge of AI-driven image processing and computer vision techniques.
+
+Understanding of engineering-related software (Revit, AutoCAD, CFD analysis tools) is a plus.
+
+Experience with databases, APIs, and software integration is a plus.
+
+Interested in hearing more? Easy Apply now by clicking the "Apply Now" button.
+
+Jobot is an Equal Opportunity Employer. We provide an inclusive work environment that celebrates diversity and all qualified candidates receive consideration for employment without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state or local laws.
+
+Sometimes Jobot is required to perform background checks with your authorization. Jobot will consider qualified candidates with criminal histories in a manner consistent with any applicable federal, state, or local law regarding criminal backgrounds, including but not limited to the Los Angeles Fair Chance Initiative for Hiring and the San Francisco Fair Chance Ordinance.

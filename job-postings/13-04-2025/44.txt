@@ -1,0 +1,58 @@
+About SiFive
+
+As the pioneers who introduced RISC-V to the world, SiFive is transforming the future of compute by bringing the limitless potential of RISC-V to the highest performance and most data-intensive applications in the world. SiFive’s unrivaled compute platforms are continuing to enable leading technology companies around the world to innovate, optimize and deliver the most advanced solutions of tomorrow across every market segment of chip design, including artificial intelligence, machine learning, automotive, data center, mobile, and consumer. With SiFive, the future of RISC-V has no limits.
+
+At SiFive, we are always excited to connect with talented individuals, who are just as passionate about driving innovation and changing the world as we are.
+
+Our constant innovation and ongoing success is down to our amazing teams of incredibly talented people, who collaborate and support each other to come up with truly groundbreaking ideas and solutions. Solutions that will have a huge impact on people's lives; making the world a better place, one processor at a time.
+
+Are you ready?
+
+To learn more about SiFive’s phenomenal success and to see why we have won the GSA’s prestigious Most Respected Private Company Award (for the fourth time!), check out our website and Glassdoor pages.
+
+Job Description:
+
+The Role:
+
+SiFive is proud to take a software-first approach to develop tools and frameworks that achieve cutting-edge performance without compromising quality. SiFive's Intelligence processors leverage and extend RISC-V Vectors to accelerate AI applications for the edge and beyond. Our Core IPs navigate tradeoffs between performance, power, and area, but do not sacrifice flexibility or programmability. Our software stack is co-designed with the hardware and developed with scalability and quality in mind. Join us to create revolutionary software from the ground up.
+
+The Algorithms and Libraries Team seeks an expert performance programmer passionate about developing and optimizing numerical algorithms for machine learning, signal processing, and computational science applications.
+
+Responsibilities:
+
+Develop high-performance algorithms and software libraries for RISC-V machines, leveraging vector processing and SiFive's custom ISA extensions.
+Participate in codesign efforts with architects and hardware engineers, navigating tradeoffs between micro/architecture and algorithm designs, shaping products in early development stages.
+Collaborate with compiler and runtime engineers to improve compiler optimizations and integrate high-performance algorithms into our MLIR-based parallel programming framework.
+Lead a cross-functional project from conception to product release.
+
+Requirements:
+
+Masters or PhD in computer science, applied mathematics, or a related field.
+Theoretical background in analysis of algorithms, linear algebra, and parallel computing.
+Practical background (3+ years experience) in developing and optimizing algorithms for specific microarchitectures, writing low-level C and assembly code.
+
+If you want to do incredible work and be challenged by exciting, truly innovative projects that will test the boundaries of your skills and creativity, then
+
+SiFive is the place for you! Be proud of your work. Do things better. Join SiFive.
+
+Benefits
+
+SiFive is proud to be an equal employment opportunity workplace. We offer a competitive compensation package that includes a flexible work environment, enabling our employees to work smarter and in their own way, a generous time-off policy, an employee stock option program, pension scheme and much more.
+
+We will ensure that individuals with disabilities are provided reasonable accommodation to participate in the job application or interview process, to perform
+
+essential job functions, and to receive other benefits and privileges of employment. Please contact us to request accommodation.
+
+Notice to Staffing Agencies / External Recruiters:
+
+Thank you for your interest in SiFive Inc. Please note that SiFive does not accept unsolicited resumes from external agencies unless contracted to fill a specific position. Agencies are hereby specifically directed NOT to contact SiFive employees directly in an attempt to present candidates – all applications must go through SiFive's internal recruiting team. Any third-party resume forwarded by agencies/external recruiters to a SiFive mailing address, fax machine or email address, directly to SiFive employees, or to SiFive's resume database will be considered property of SiFive Inc and treated as a direct application.
+
+Additional Information:
+
+This position requires a successful background and reference checks and satisfactory proof of your right to work in:
+
+Taiwan
+
+Any offer of employment for this position is also contingent on the Company verifying that you are a authorized for access to export-controlled technology under applicable export control laws or, if you are not already authorized, our ability to successfully obtain any necessary export license(s) or other approvals.
+
+SiFive is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees.

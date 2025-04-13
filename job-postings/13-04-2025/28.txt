@@ -1,0 +1,60 @@
+Why us?
+
+We believe that AI has the potential to revolutionize how cancer and other complex diseases are diagnosed and treated. We also believe that AI is a tool, not an identity – without access to high-quality data and a scientifically rigorous, transparent approach to model development, AI is just a buzzword. That's where we come in.
+
+Aignostics is a spin-off from one of Europe's largest and most prestigious university hospitals (Charité), with employees in Berlin and New York. We have received over $50M in funding from leading investors and are a growing team of over 100 interdisciplinary professionals. We work with academic partners as well as leading global life sciences companies.
+
+As a Senior Machine Learning Research Scientist in Aignostics’ foundation model team, you will work on developing large-scale self-supervised models. Together with collaborators in academia and industry you will push the state of the art in foundation models for digital pathology. Within our team of experts on large-scale machine learning and data handling, you will work on improving, benchmarking and extending our family of best-in-class foundations models, bridging image, text and other pathology data modalities. Moreover, using our foundation models you will contribute to developing prototypes for new applications to assist pathologists and generate new insights for improving cancer treatment.
+
+This is a unique opportunity to join a fun, diverse, and growing team of 100+ data scientists, software developers, biologists, and pathologists to shape the next generation of cancer treatments. You will be part of a driven community that works in an agile, supportive and interdisciplinary research environment where your results make a difference to patients. In our established startup you have the opportunity to grow personally and technically, take responsibility and benefit from a dynamic work environment.
+
+At Aignostics, we believe that fighting cancer is a job for people of all identities, backgrounds, and cultures. We value and celebrate diversity and inclusion and are committed to offering equal employment and promotion opportunities for all applicants and employees. Applicants will be considered regardless of their age, disability, ethnicity, race, gender identity or expression, sexual orientation, religion, etc. We thrive through collaboration and believe the more inclusive we are, the better our work will be.
+
+Where your expertise is needed 
+
+Plan and execute interdisciplinary projects connecting machine learning, software engineering and biomedical domain knowledge
+Research, pilot and evaluate novel self-supervised learning approaches for extracting insight from high-resolution biological images and other data modalities
+Analyze experiments that you and others run, and form ideas and hypotheses to explain results
+Run large-scale distributed machine learning experiments
+Transform proof-of-concept machine learning models into automated, tested and production-ready systems
+Support and mentor junior colleagues
+Clearly communicate your results in internal and external presentations
+
+What We Are Looking For
+
+Ph.D or MSc. in a relevant field, e.g. Computer Science, Machine Learning or Bioinformatics
+Eagerness to lead initiatives, learn new technologies and excel in a complex space
+Solid theoretical foundations and at least 4+ years"developing novel machine learning techniques
+Experience with developing large-scale self-supervised deep learning models ("Foundation Models") for vision, language, or multimodal applications
+Advanced skills in Python, Linux, cloud computing and machine learning software stacks
+Passion for clean code and high standards for quality assurance
+Ability to independently define, organize and complete research projects 
+Excellent communication and team working skills
+
+Bonus points for
+
+Prior experience with digital pathology or medical imaging
+Leadership experience in a research context
+Hands-on experience with developing and integrating Vision Language Models (VLMs)
+
+We are still keen to hear from you if you don't match all the above points! Our needs are diverse and growing and you are encouraged to apply if you have any combination of these skills. The recruitment process is a comparative exercise and decisions will be made based on the applications we review at each time.
+
+Our offer
+
+Join a purpose-driven start up: We are working collectively to fight cancer and improve patient outcomes. Come help us make a difference!
+Cutting-edge AI research and development, with involvement of Charité, TU Berlin and our other partners
+Work with a welcoming, diverse and highly international team of colleagues 
+Opportunity to take responsibility and grow your role within the startup
+Expand your skills by benefitting from our Learning & Development yearly budget of 1,000€ (plus 2 L&D days), language classes and internal development programs
+Mentoring program, you’ll learn from great experts
+Flexible working hours and teleworking policy
+Enjoy your well-deserved time off within our 28 paid vacations days per year
+We are family & pet friendly and support flexible parental leave options
+Pick a subsidized membership of your choice among public transport sports and well-being
+Enjoy our social gatherings, lunches, and off-site events for a fun and inclusive work environment
+
+Join us to make a difference!
+
+About Us
+
+aignostics.com

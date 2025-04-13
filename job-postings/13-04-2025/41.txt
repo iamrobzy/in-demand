@@ -1,0 +1,106 @@
+About
+
+The UFZ
+
+The Helmholtz Centre for Environmental Research (UFZ) with its 1,100 employees has gained an excellent reputation as an international competence centre for environmental sciences. We are part of the largest scientific organisation in Germany, the Helmholtz association. Our mission: Our research seeks to find a balance between social development and the long-term protection of our natural resources.
+
+The job
+
+Are you passionate about cutting-edge research at the intersection of machine learning (ML) and environmental sciences? Do you want to contribute to solving complex challenges in reactive transport modelling using advanced computational techniques? If so, we invite you to apply for a Scientist/PostDoc position in our dynamic research team!
+
+Your tasks
+
+Being part of the OpenWorkFlow project, this position aims to enhance reactive transport modelling by integrating state-of-the-art machine learning methods. Reactive-transport models are critical for understanding and predicting the movement and biogeochemical transformation of contaminants in natural and engineered systems, such as predicting the spread and fate of radionuclides within and around deep geological repositories. However, these models are often computationally expensive and limited by uncertainties in input parameters. This scientist with the possibility of a PhD/PostDoc project will explore how ML may enhance the efficiency, resolution, and predictive power of reactive transport simulations, opening new avenues for environmental and geoscience applications. The candidate will join the department of Environmental Informatics and is tasked, after an intense basic research phase, to finally implement the successfully tested ML techniques into the OpenGeoSys software environment (www.opengeosys.org). This project is under the lead of UFZ but will be conducted together with the Helmholtz-Centre for Geosciences in Potsdam. The successful candidate will work under the supervision of / in close cooperation with Dr. Haibing Shao (UFZ), Dr. Philipp Selzer (UFZ), and Dr. Marco De Lucia(GFZ).
+
+The research work of this position is also linked to the EURAD and DECOVALEX projects, in which inter-code benchmarking and comparisons are conducted on an international level.
+
+Main Tasks Are
+
+Develop and implement novel ML algorithms to improve reactive transport modelling.
+Work with datasets from literature and numerical simulations.
+Collaborate with a multidisciplinary team of environmental- and geoscientists, hydrogeologists, engineers, physicists, and computer scientists.
+Publish your findings in high-impact journals and present at international conferences.
+
+We offer
+
+The freedom to master even the most demanding challenges between basic research and practical application
+The chance to work in interdisciplinary, international teams and benefit from a variety of perspectives
+Firstclass integration into national and international research networks to work together on global challenges
+Excellent research infrastructure and research data management to optimally support your work
+Flexible working hours and a wide range of options for balancing work and care responsibilities through our family office
+Competent support and advice for international colleagues arriving at the UFZ from the 'International Office'
+Special annual payment, capital-forming benefits and subsidised Germany Job Ticket
+A workplace in a vibrant region with a high life quality and social and cultural diversity
+
+Your profile
+
+A highly motivated candidate with a Master or PhD degree in Computer Science, Environmental Sciences or Geosciences, Environmental Engineering, Applied Mathematics, or a related field. 
+Very strong programming skills (Experience in Python, Julia, or Matlab is mandatory, skills in C/C++ are an add-on).
+Experience or interest in machine learning, data analysis, and/or numerical modelling. 
+A background in reactive transport modelling, (geo)hydrology, or geochemistry is a plus but not required. 
+Excellent written and verbal communication skills in English. 
+Good track record in scientific publications according to scientific age for a PostDoc.
+
+The job
+
+Are you passionate about cutting-edge research at the intersection of machine learning (ML) and environmental sciences? Do you want to contribute to solving complex challenges in reactive transport modelling using advanced computational techniques? If so, we invite you to apply for a Scientist/PostDoc position in our dynamic research team!
+
+Place of work
+
+Leipzig, mobile working is possible
+
+Working time
+
+Start of employment: asap, from July 1st, 2025.
+
+The job position is available for full-time or part-time employment.
+
+Contract limitations
+
+limited contract / For PostDoc, working time 100% (39 h per week), limited to two years (24 m); For scientist with the possibility of a PhD, working time 65%, limited to three years (36 m).
+
+Salary
+
+Remuneration according to the TVöD public-sector up to pay grade 13 including attractive public-sector social security benefits.
+
+Contact
+
+Your contact for any questions you may have about the job:
+
+Dr. Haibing Shao (haibing.shao@ufz.de)
+
+Dr. Philipp Selzer (philipp.selzer@ufz.de)
+
+Your application
+
+Please submit your application via our online portal with your cover letter, CV (please omit your photo, age, or marital status) and relevant attachments.
+
+Diversity and Inclusion
+
+The UFZ has a strong commitment to diversity and actively supports equal opportunities for all employees regardless of their origin, religion, ideology, disability, age or sexual identity.
+
+We look forward to applications from people who are open-minded and enjoy working in diverse teams.
+
+Apply now
+
+Application deadline: 16.04.2025
+
+Nice-to-have skills
+
+Python
+Julia
+Matlab
+C
+C++
+Machine Learning
+Data Analysis
+Leipzig, Saxony, Germany
+
+Work experience
+
+Data Engineer
+Machine Learning
+
+Languages
+
+English

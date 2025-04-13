@@ -1,0 +1,32 @@
+Job Title: Junior Machine Learning Engineer
+
+Role Overview:
+We are looking for a Junior Machine Learning Engineer who is passionate about solving real-world problems using AI. You'll work closely with our data and tech teams to develop and improve ML-based features. This is a full-time, in-office role based in Indore, suitable for someone with a strong foundation and eagerness to build the database for AI.
+
+Key Responsibilities:
+- Assist in developing datasets for AI models.
+- Write Python code for data extraction and processing using Pandas, BeautifulSoup, and regular expressions.
+- Understand and integrate with various APIs for different LLMs.
+- Collaborate with ML teams to ensure smooth deployment.
+
+What You Should Know:
+- Basics of Python programming and Fundamentals of Machine Learning.
+- Knowledge of web scraping techniques to extract data. 
+- Understanding how APIs work and how to perform inference using APIs to connect with different LLMs.
+- Experience in developing Rest APIs & Knowledge of PyTorch, TensorFlow, NLP, LLMs architectures.
+- Prompt writing – Ability to craft clear, specific, and effective prompts to get accurate and relevant responses from language models (LLMs).
+- A problem-solving mindset and a willingness to learn in a startup environment, along with strong communication skills.
+
+What You’ll Get:
+- Annual CTC: ₹4-5.5 LPA
+- Opportunity to work on high-impact AI/ML products
+- Fast learning curve and mentorship from experienced professionals
+- Vibrant startup culture and the chance to grow with us
+
+About Arivihan:
+Imagine an India where students choose their courses and careers purely based on their passion — no financial barrier, no language barrier. We are bringing this revolution to our country. Arivihan is democratizing education in India. After rocking the MP Board exams, Arivihan is now going national across all State Boards and the NEET exam.
+
+If you too dream of creating equal opportunity for every student, join us in this revolution.
+
+How to apply:
+Share your CV on career@arivihan.com

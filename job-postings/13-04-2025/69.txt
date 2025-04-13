@@ -1,0 +1,37 @@
+Description
+
+Are you interested in building state-of-the-art machine learning systems for the most complex, and fastest growing, transportation network in the world? If so, Amazon has the most exciting, and never-before-seen, challenges at this scale (including those in sustainability, e.g. how to reach net zero carbon by 2040).
+
+Amazon’s transportation systems get millions of packages to customers worldwide faster and cheaper while providing world class customer experience – from online checkout, to shipment planning, fulfillment, and delivery. Our software systems include services that use tens of thousands of signals every second to make business decisions impacting billions of dollars a year, that integrate with a network of small and large carriers worldwide, that manage business rules for millions of unique products, and that improve experience of over hundreds of millions of online shoppers.
+
+As part of this team you will focus on the development and research of machine learning solutions and algorithms for core planning systems, as well as for other applications within Amazon Transportation Services, and impact the future of the Amazon delivery network. Current research and areas of work within our team include machine learning forecasting, planning systems and robust decision making on large networks, as well as uncertainty quantification, generative models on graphs and ml explainability, among others.
+
+We are looking for an Applied Scientist with a strong academic background in the areas of machine learning, time series forecasting, and/or optimization.
+
+At Amazon, we strive to continue being the most customer-centric company on earth. To stay there and continue improving, we need exceptionally talented, bright, and driven people. If you'd like to help us build the place to find and buy anything online, and deliver in the most efficient and greenest way possible, this is your chance to make history.
+
+About The Team
+
+The EU ATS Science and Technology (SnT) team owns scalable algorithms, models and systems that improve customer experience in middle-mile. We work backwards from Amazon's customers aiming to make transportation faster, cheaper, safer, more reliable and ecologically sustainable.
+
+Basic Qualifications
+
+PhD, or a Master's degree and experience in CS, CE, ML or related field
+Experience in building models for business application
+Experience in patents or publications at top-tier peer-reviewed conferences or journals
+Experience programming in Java, C++, Python or related language
+Experience in any of the following areas: algorithms and data structures, parsing, numerical optimization, data mining, parallel and distributed computing, high-performance computing
+
+Preferred Qualifications
+
+Experience using Unix/Linux
+Experience in professional software development
+
+Amazon is an equal opportunities employer. We believe passionately that employing a diverse workforce is central to our success. We make recruiting decisions based on your experience and skills. We value your passion to discover, invent, simplify and build. Protecting your privacy and the security of your data is a longstanding top priority for Amazon. Please consult our Privacy Notice (https://www.amazon.jobs/en/privacy_page) to know more about how we collect, use and transfer the personal data of our candidates.
+
+Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.
+
+
+Company - Amazon External Fulfillment Services Europe SARL
+
+Job ID: A2894071

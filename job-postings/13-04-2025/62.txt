@@ -1,0 +1,46 @@
+About The Role
+
+At National Grid, we keep people connected and society moving. But it’s so much more than that. National Grid supplies us with the environment to make it happen. As we generate momentum in the energy transition for all, we don’t plan on leaving any of our customers in the dark. So, join us as a Lead Machine Learning Engineer, and find your superpower.
+
+National Grid is hiring a Lead Machine Learning Engineer for our IT & Digital department. This is a hybrid role that offers flexible working options and will require occasional visits to Warwick or London. 
+
+As a Lead Machine Learning Engineer on the National Grid Data Science team, you will develop data pipelines, take data science prototype models to production, fix production bugs, monitor operations, and provision the necessary infrastructure in Azure.
+
+Key Accountabilities
+
+Lead Machine Learning projects end-to-end.
+Develop platform tooling (e.g., internal conda library, CLI tool for project setup, and provisioning infrastructure) for the Data Science team.
+Work with data scientists to understand their data needs and put together data pipelines to ingest data.
+Work with data scientists to take data science model prototypes to production.
+Mentor and train junior team members.
+Work with internal IT teams (security, Cloud, Global Active Directory, Architecture, Networking, etc.) to advance the team’s projects.
+Enhance code deployment lifecycle
+Improve model monitoring frameworks
+Refine project operations documentation
+Design, provision, and maintain the cloud infrastructure needed to support Data Engineering, Data Science, Machine Learning Engineers, and Machine Learning Operations.
+Write high-quality code that has high test coverage.
+Participate in code reviews to help improve code quality.
+
+
+Technologies/Tools we use: Python, Azure (Virtual Machines, Azure Web Apps, Cloud Storage, Azure ML), Anaconda packages, Git, GitHub, GitHub Actions, Terraform, SQL, Artifactory, Airflow, Docker, Kubernetes, Linux/Windows VMs.
+
+About You
+
+Hands-on industry experience in some combination of Software Engineering, ML Engineering, Data Science, DevOps, and Cloud Infrastructure work.
+Expertise in Python which includes experience in libraries such as Pandas, scikit-learn. High proficiency in SQL.
+Knowledge of best practices in software engineering is necessary.
+Hands-on industry experience in some combination of the following technologies: Python ecosystem, Azure (VMs, Web Apps, Managed Databases), GitHub Actions, Terraform, Packer, Airflow, Docker, Kubernetes, Linux/Windows VM administration, Shell scripting (primary Bash but PowerShell as well).
+A solid understanding of modern security and networking principles and standards.
+A foundational knowledge of Data Science is strongly preferred.
+Bachelor’s or higher degree in Computer Science, Data Science, and/or related quantitative degree is preferred from an accredited institution.
+
+
+More Information
+
+A salary between £80,000 – £95,000 – dependent on capability
+
+As well as your base salary, you will receive a bonus of up to 15% of your salary for stretch performance and a competitive contributory pension scheme where we will double match your contribution to a maximum company contribution of 12%. You will also have access to a number of flexible benefits such as a share incentive plan, salary sacrifice car and technology schemes, support via employee assistance lines and matched charity giving to name a few.
+
+At National Grid, we work towards the highest standards in everything we do, including how we support, value and develop our people. Our aim is to encourage and support employees to thrive and be the best they can be. We celebrate the difference people can bring into our organisation, and welcome and encourage applicants with diverse experiences and backgrounds, and offer flexible and tailored support, at home and in the office. 
+
+Our goal is to drive, develop and operate our business in a way that results in a more inclusive culture. All employment is decided on the basis of qualifications, the innovation from diverse teams & perspectives and business need. We are committed to building a workforce so we can represent the communities we serve and have a working environment in which each individual feels valued, respected, fairly treated, and able to reach their full potential.

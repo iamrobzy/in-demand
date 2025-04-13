@@ -1,0 +1,80 @@
+Oh, you want full startup-on-caffeine energy? Buckle up — here’s the maxed-out, no-experience, final-year/fresher-friendly ML Intern job post that’s funnier, bolder, and practically screaming “JOIN US, YOU LEGEND.”
+
+
+WANTED : MACHINE LEARNING INTERN
+JOB CODE: BLACK PANTHER
+
+(a.k.a. The Chosen One Who Speaks Fluent Python and Slightly Regrets Installing TensorFlow)
+Location: Chennai – IIT-MADRAS RESEARCH PARK
+Duration: 6–12 months
+Stipend: Yes. We don’t pay in pizza slices. (But we do give those too.)
+Company: FinFresh – India’s Deeptech Fintech Circus (but smart)
+
+
+
+THIS IS NOT A DRILL.
+
+You’re a final-year student or a fresh grad. You’ve fought with models at 3am. You’ve lost to a missing comma.
+Do you vibe with Pandas more than actual pandas?
+
+You once trained a regression model and called it your child.
+
+You’ve entered the ML arena — now it’s time to go pro.
+
+
+WHO ARE WE?
+
+We’re FinFresh — a startup building smart tech to fix the chaos that is personal finance in India.
+Our tools are backed by ML, sprinkled with design, and powered by pure startup adrenaline.
+
+There’s a super-secret, super-sexy product in the works.
+We can’t tell you what it is yet…
+But it might just change how India thinks about money (and make you a fintech superhero).
+
+
+
+WHAT YOU’LL ACTUALLY DO (no fake intern work here):
+• Build and train ML models that don’t live and die in a notebook
+• Wrestle with real financial data (bring gloves, it’s messy)
+• Work on real backend logic using Python / Go (don’t know it yet? No sweat. We’ll train you.)
+• Collaborate with actual humans (founders, engineers, designers — not just ChatGPT)
+• Take ownership, ship features, and feel like an absolute boss
+• Learn, iterate, fail fast (sometimes), and ship fast (most times)
+
+
+
+WHAT YOU DON’T NEED:
+• Experience (LOL)
+• A degree from Hogwarts
+• A PhD in Rocket Finance
+
+
+
+WHAT YOU DO NEED:
+• Obsession with Python + curiosity for ML
+• Some project, Kaggle, or code scrap that shows you’ve done something
+• Eagerness to learn Go (and anything else we throw your way)
+• A “let’s build this!” attitude
+• The ability to laugh at your model before fixing it
+
+
+WHAT YOU GET:
+• 6–12 months of pure learning + chaos + ownership
+• Actual stipend (because love doesn’t pay rent)
+• Training by real ML Engineers who’ll mentor, guide, and occasionally roast you
+• A shot at a full-time job — if you impress us (or at least don’t crash prod)
+• The chance to say “See that feature? Yeah, I built that.”
+
+
+
+TO APPLY:
+
+Send your resume / GitHub / Colab / Kaggle / meme to [admin@finfresh.in]
+Subject line: “ML Intern – BLACK PANTHER”
+
+
+NO EXPERIENCE? NO PROBLEM. JUST SHOW UP WITH CURIOSITY, CODE, AND CONFIDENCE.
+This isn’t just an internship.
+It’s your launchpad.
+
+Let’s make money smarter — and have some fun while we’re at it.

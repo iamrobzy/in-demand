@@ -1,0 +1,65 @@
+Located on the beautiful homeland that is the traditional territory of the Ojibwe, Potawatomi and Odawa Nations, for over 50 years, Lambton College has been a ground-breaking institution. Lambton College is a national leader in applied research, teaching methodologies, experiential learning opportunities and future-facing educational innovations. With 13,000+ students from 20 countries around the world, two main campuses in Sarnia, Ontario, and a growing roster of more than 90 diploma, certificate and degree programs, Lambton College offers students flexible learning options with a broad range of programs and courses that incorporate elements of classroom, mobile, hybrid and accelerated educational alternatives.
+
+Lambton College currently ranks third overall in Canada, and second overall in Ontario for Research in addition to maintaining a ranking within the top 4 Colleges for Research in Canada for seven straight years.
+
+At Lambton College, we're proud of where we have been, but more importantly, where we are going, together. With Caring and Vitality as two of our core values at Lambton College, you know you'll be joining a team of passionate and fun colleagues.
+
+About The Position
+
+Lambton College Ottawa invites applications from qualified and passionate individuals interested in teaching Artificial and Machine Learning Program on a part-time basis for the Information Technology Division, pending sufficient enrolment.
+
+This role is part-time, commencing September 2025. Classes will be held in person at the Lambton College Lambton Ottawa, located at the St. Paul’s University campus in Ottawa, Ontario.
+
+Rate of pay is to be determined at time of hire in accordance with education & qualifications based on our classification form in the Collective Agreement.
+
+Specific Accountabilities
+
+Create a positive teaching and learning environment;
+Prepare and/or update lesson plans;
+Deliver course materials and provide instruction in-person or online;
+Prepare and grade student assessments including detailed feedback;
+Communicate with students in a timely manner;
+Follow the Academic Calendar and the policies and procedures.
+
+Qualifications
+
+A minimum of a bachelor's degree in Computer Science or a closely related field, with a preference for a focus on Artificial Intelligence.
+At least three years of direct experience in AI and ML.
+In-depth knowledge and practical experience in AI, including but not limited to:
+Deep Learning: Understanding of various deep learning architectures (CNNs, RNNs, GANs, transformers) and their applications in real-world scenarios.
+Neural Networks: Proficiency in designing, training, and implementing neural network models.
+Large Language Models (LLMs): Experience with LLMs such as GPT, BERT, and their applications in natural language processing and understanding.
+LangChain: Familiarity with the LangChain framework for building language model applications, including chatbots and automated reasoning systems.
+Hugging Face: Hands-on experience with the Hugging Face Transformers library for developing and deploying state-of-the-art machine learning models.
+Demonstrable skills in Big Data technologies, analytics, Hadoop, data mining, database design, and machine learning.
+Excellent communication skills, with the ability to effectively convey complex technical concepts in an accessible manner.
+Preferred previous teaching or training experience in a relevant field.
+Proficiency in programming languages and software tools relevant to AI and machine learning.
+Strong analytical and problem-solving abilities, with a knack for innovative thinking.
+A commitment to adaptive teaching methods that cater to a diverse student body.
+
+This role is designed for individuals who are passionate about AI and ML and are eager to share their knowledge and expertise with the next generation of technology professionals. Successful candidates will be at the forefront of AI education, equipping students with the skills needed to excel in the rapidly evolving tech landscape.
+
+We would like to acknowledge that Lambton College Ottawa is located on the traditional unceded territory of the Anishinabeg (Algonquin) people. We would like to honour the Anishinabeg, the First Peoples of the lands and waters of the Kichi Sibi (Ottawa River Valley) from time immemorial. We acknowledge that the site of the City of Ottawa serves as the home of the Anishinabeg, as a place for spiritual ceremonies, cultural gatherings and exchanges among First Peoples. Today, this spirit of peace and friendship is the foundation of relationships among Indigenous Peoples and non-Indigenous peoples, from around the globe.
+
+Lambton College is committed to an inclusive, barrier-free selection process. If contacted regarding this competition, please advise the interview coordinator of accommodation measures you may require during our selection process. Information received relating to accommodation needs of applicants will be addressed confidentially.
+
+We thank all applicants for their interest and wish to advise that only those candidates selected for an interview will be contacted.
+
+Lambton College is an equal opportunity employer seeking to live its values in all we do. We are committed to taking proactive steps to provide and create opportunities for historically marginalized groups. We seek applicants who will strengthen our commitment to diversity, equality, and inclusion. We strongly encourage the following qualified candidates: women, Indigenous peoples, racialized people, persons with disabilities, and those who identify as 2SLGBTQ+ to consider working with and for Lambton College.
+
+We recognize that structural barriers shape experiences and job qualifications, and therefore we seek to use employment equity to differentiate between candidates who meet the required qualifications; and encourage people to apply even if they feel that the position would be a stretch.
+
+Employee Perks
+
+Lambton College provides a wide range of exciting opportunities for both unionized and non-unionized positions with competitive total compensation packages, wages and benefits.
+
+Investing In Our People
+
+Lambton College is committed to the personal and professional growth of all our employees. Employees of Lambton College are incredibly valued and part of a transformative adventure. They enjoy an engaging and vibrant culture where they are encouraged to realize their full potential via development opportunities and accessible, supportive employee wellness initiatives.
+
+Investing in our People
+
+Lifetime Retirement Pension - Defined Benefit Pension Plan
+
+Our employee benefit package includes a defined benefit pension to help you create a secure future. The CAAT Pension Plan provides you with a predictable lifetime retirement income, survivor benefits, early retirement options, and more without the stress of making investment decisions. CAAT makes it easy for you to build stable, secure retirement income while you work.
