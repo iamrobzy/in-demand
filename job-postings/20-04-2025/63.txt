@@ -1,0 +1,52 @@
+About
+
+At Censys, our mission is to bring internet visibility and intelligence to the world’s security teams. Our platform not only identifies potential threats, but provides actionable insights and enables proactive defense strategies. Founded by researchers and practitioners, we are deeply committed to the quality, trustworthiness, and transparency of our data and results. As our own strongest critics, we continuously innovate to better understand the Internet and empower our customers with the visibility they need to succeed. Location
+
+This is a
+
+hybrid
+
+role located in Ann Arbor, Michigan / Tysons Corner, VA / Kirkland, WA / Los Altos, CA Role Summary
+
+Censys is looking for a
+
+Staff Machine Learning Engineer
+
+to join our team and help us derive valuable insights from internet security datasets. This role is responsible for building and maintaining a robust internal Machine Learning Operations (MLOps) platform capable of handling petabyte-scale data and delivering high-throughput, low-latency predictions. You will engineer and optimize this platform to support a diverse range of machine learning applications, including computer vision, natural language processing, and reinforcement learning, ensuring seamless deployment and scalability. We’re a highly collaborative, creative team dedicated to empowering customers with innovative solutions to improve their security posture. You’ll work closely with data scientists, engineers, and product teams to build scalable systems that enhance how customers interact with and understand our data. You will design machine learning systems that not only process and analyze data but also bring critical insights to the surface in a way that empowers decision-making. What You’ll Do
+
+Deploy and maintain containerized workloads to support machine learning development, deployment, and post-deployment monitoring. Utilize tools like Helm and Kustomize to accelerate the deployment of machine learning models and data pipelines. Apply various optimization techniques such as compilation, quantization-aware training (QAT), and pruning to improve the latency and throughput of models. Utilize open-source software like Metaflow, Prefect, Temporal, and Argo Workflows to facilitate data science development. Build and optimize machine learning models to analyze security data, extract actionable insights, and identify trends, anomalies, and other relevant security signals. Develop and maintain systems for drift detection and model monitoring to ensure continuous improvement and accuracy of insights. Collaborate with cross-functional teams to design data pipelines that can efficiently process petabytes of raw internet security data. Qualifications
+
+Bachelor’s degree in Computer Science, Data Science, Engineering, or other technical discipline (or equivalent professional experience). 5+ years of experience in docker, Kubernetes, and Helm. Strong proficiency in Python and machine learning libraries like PyTorch, Transformers, and Timm. Strong proficiency in MLOps tooling like Metaflow, MLflow, Argo Workflows, Torchrun, and Ray. Experience with streaming data processing frameworks like Kafka and Spark. Experience with applying model optimization techniques such as quantization, pruning, and distillation to improve performance. Experience working with cloud platforms like AWS, GCP, and Azure. Preferred Qualifications
+
+Experience working in the cyber security domain. Strong communication skills, including the ability to collaborate with both technical and non-technical stakeholders. Experience with DevOps tooling like Grafana and Prometheus. Proficiency in GoLang and Protocol Buffers. Our target salary range for this role is between $190,000 USD and $250,000 USD + bonus eligibility and equity. In addition to our great compensation package, our benefits are effective on day one and include but are not limited to: 401k match, health, vision, dental, and more! Please see our careers page for more details. Our roots are in Ann Arbor, Michigan with location hubs in Seattle, the Bay Area, and Washington D.C. Our innovation is fueled by the team’s global perspectives.
+
+For this role, we are looking for candidates based in Ann Arbor, Michigan, Tysons Corner, VA, Kirkland, WA, OR Los Altos, CA.
+
+#J-18808-Ljbffr
+
+Nice-to-have skills
+
+Machine Learning
+Computer Vision
+Python
+PyTorch
+Kafka
+Spark
+AWS
+GCP
+Azure
+Docker
+Kubernetes
+Grafana
+Prometheus
+California, United States
+
+Work experience
+
+Machine Learning
+Computer Vision
+NLP
+
+Languages
+
+English

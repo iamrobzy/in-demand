@@ -1,0 +1,68 @@
+About
+
+About Anthropic
+
+Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems.
+
+About The Role
+
+Anthropic is seeking an ML Engineering Manager to lead an Applied ML team in our Trust & Safety organization. This role bridges trust & safety expertise with applied machine learning to protect and enhance our AI services. You'll lead a team that develops AI-driven detection models for identifying misuse while implementing practical safety measurements. Working closely with policy and enforcement teams, you'll translate complex ML capabilities into effective protective measures that ensure our products remain both safe and accessible. This position combines strategic oversight of trust & safety operations with hands-on guidance of ML applications, making it crucial for maintaining the integrity and responsible deployment of Anthropic's AI services.
+
+Responsibilities
+
+Set team vision and roadmap to detect and prevent harmful usage of Anthropic's AI services through applied machine learning solutions. Lead a team of ML and software engineers to translate complex AI capabilities into practical safety mechanisms, with qualitative and quantitative harm measurement. Partner with T&S Product, Policy, and Enforcement teams to identify risk vectors and implement ML-driven detection and enforcement actions. Maintain a deep understanding of both AI safety research and trust & safety best practices. Drive major collaborations between research and policy teams across Anthropic. Hire, support, and develop team members through continuous feedback, career coaching, and people management practices. You May Be a Good Fit If You
+
+Have 5+ years of management experience in a technical ML-focused environment. Have 5+ years of experience in trust & safety or anti-fraud/risk engineering, with a focus on applied Machine Learning. Have deep experience with techniques for detecting harmful content and platform misuse. Demonstrated ability to lead and manage high-performing technical teams. Show excellent communication skills in translating complex technical concepts for various audiences. Possess strong project management skills with the ability to balance multiple priorities. Have experience managing teams through periods of rapid growth and change. Strong Candidates May Also
+
+Have experience working with or managing teams focused on applied machine learning. Possess knowledge of common internet threats and evolving adversarial techniques. Excel at building strong relationships with stakeholders at all levels. Have experience implementing AI-driven safety measures in production environments. Demonstrate passion for ensuring the responsible development and deployment of AI systems and products. At Anthropic, we value diversity and are committed to creating an inclusive environment for all employees. We encourage applications from candidates of all backgrounds.
+
+Deadline To Apply
+
+None. Applications will be reviewed on a rolling basis.
+
+Annual Salary
+
+The Expected Salary Range For This Position Is
+
+$340,000 - $425,000 USD.
+
+Logistics
+
+Education Requirements
+
+We require at least a Bachelor's degree in a related field or equivalent experience.
+
+Location-based hybrid policy:
+
+Currently, we expect all staff to be in one of our offices at least 25% of the time. However, some roles may require more time in our offices.
+
+Visa Sponsorship
+
+We do sponsor visas! However, we aren't able to successfully sponsor visas for every role and every candidate. But if we make you an offer, we will make every reasonable effort to get you a visa, and we retain an immigration lawyer to help with this.
+
+We encourage you to apply even if you do not believe you meet every single qualification.
+
+Not all strong candidates will meet every single qualification as listed. Research shows that people who identify as being from underrepresented groups are more prone to experiencing imposter syndrome and doubting the strength of their candidacy, so we urge you not to exclude yourself prematurely and to submit an application if you're interested in this work. We think AI systems like the ones we're building have enormous social and ethical implications. We think this makes representation even more important, and we strive to include a range of diverse perspectives on our team.
+
+How We're Different
+
+We believe that the highest-impact AI research will be big science. At Anthropic we work as a single cohesive team on just a few large-scale research efforts. And we value impact — advancing our long-term goals of steerable, trustworthy AI — rather than work on smaller and more specific puzzles. We view AI research as an empirical science, which has as much in common with physics and biology as with traditional efforts in computer science. We're an extremely collaborative group, and we host frequent research discussions to ensure that we are pursuing the highest-impact work at any given time. As such, we greatly value communication skills.
+
+Come work with us!
+
+Anthropic is a public benefit corporation headquartered in San Francisco. We offer competitive compensation and benefits, optional equity donation matching, generous vacation and parental leave, flexible working hours, and a lovely office space in which to collaborate with colleagues. #J-18808-Ljbffr
+
+Nice-to-have skills
+
+Machine Learning
+Project Management
+California, United States
+
+Work experience
+
+Machine Learning
+Agile Coach / Scrum Master
+
+Languages
+
+English

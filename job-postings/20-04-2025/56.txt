@@ -1,0 +1,66 @@
+About
+
+Machine Learning Engineer - AgenticSearch & Knowledge Graphs
+
+Salesforce is seeking a visionary Machine Learning Engineer to lead advancements in agentic Search and Knowledge Graph solutions within our Einstein Foundation team. Do you want to build next-gen Generative AI platforms for
+
+Empowering Enterprise Wide Knowledge Discovery ,
+
+Accelerating AI with Knowledge Driven Context ,
+
+Human Like Understanding of Relationships and Context using Knowledge graphs
+
+Salesforce, the world’s #1 AI CRM, has recently unveiled
+
+Agentforce , a groundbreaking suite of
+
+autonomous AI agents
+
+that augment employees and handle tasks in service, sales, marketing, and commerce, driving unprecedented efficiency and customer satisfaction.
+
+This role is pivotal in redefining how we enable innovative, knowledge driven experiences across Salesforce’s next-gen AI products. As an authority in Search, Knowledge Graphs, and Large Language Models (LLMs), you will drive the evolution of Salesforce's AI systems with innovative retrieval, representation, and context expansion technologies that serve millions of users globally.
+
+The Team
+
+Our Einstein Foundation team is an interdisciplinary mix of machine learning engineers, data scientists, and software engineers working collaboratively to build adaptive, context-aware systems that elevate customer interactions and insights. Our team values innovation, multi-functional collaboration, and a commitment to scaling AI driven customer success solutions.
+
+The Role
+
+In this role, you will drive the development of agentic Search and Knowledge Graph solutions at scale, integrating the latest advancements in machine learning, LLMs, and vector databases. You will be responsible for leading the end-to-end AI lifecycle, from conceptualization through production, focusing on scalable search and retrieval architectures optimized for enterprise use cases. As a motivated leader with a point of view, you will define standard methodologies and collaborate closely with Product Managers, Data Scientists, and Research teams to shape and deliver groundbreaking AI experiences.
+
+What You’ll Do
+
+Lead the Architecture of Sophisticated Search & Knowledge Graph Solutions Architect and implement end-to-end, large scale search and retrieval solutions that demonstrate Knowledge Graphs and are optimized for high-performance, multi-tenant environments. Develop Intelligent Retrieval Pipelines Innovate hybrid retrieval pipelines combining semantic, vector, and symbolic search to improve contextual relevance, speed, and accuracy in knowledge driven AI applications. Optimize and Automate Search Systems Enhance system efficiency through automation in demand forecasting, configuration, and proactive monitoring, driving real time search optimization. Collaborate Across Teams for AI Driven Product Innovation Work closely with multi-functional teams, including Product Managers, Knowledge Engineers, and ML Researchers, to assemble requirements and translate them into scalable, innovative search and retrieval solutions. Pioneer Search and Knowledge Graph Innovations Guide discussions on emerging technologies and advancements in vector search, graph embeddings, and knowledge augmented retrieval, valuing continuous innovation. Required Skills:
+
+Preferred Skills
+
+5+ years in Machine Learning & Search Systems Extensive experience with large-scale search, Machine Learning, and knowledge driven systems, specifically focused on integrating Knowledge Graphs, search optimization, and sophisticated retrieval techniques. Expertise in Semantic and Vector-Based Search Deep knowledge of vector databases (e.g., FAISS, Pinecone, Milvus), approximate nearest neighbor (ANN) search algorithms, and embedding techniques to power high relevance search systems. Strong Background in NLP & LLMs Experience with natural language processing (NLP), prompt engineering, and applying LLMs to enhance knowledge based search and retrieval in enterprise contexts. Sophisticated Knowledge Graph Skills Proficiency in graph databases (e.g., Neo4j, Amazon Neptune), graph embedding, and linking techniques to enable rich contextual search and high dimensional graph-based retrieval. Proficiency in Distributed Systems & ML Frameworks Authority understanding of distributed systems, data streaming (e.g., Kafka, Spark), and Machine Learning frameworks (TensorFlow, PyTorch) to support realtime, resilient AI applications. Programming Mastery in Python & Graph Based Frameworks Strong programming skills in Python, with expertise in machine learning and graph-based frameworks to facilitate scalable, high-performance AI solutions. Preferred Search & Knowledge Graph-Specific Skills:
+
+Experience with Multi-Stage Retrieval Pipelines Hands-on experience in designing and optimizing multi-stage retrieval workflows that balance precision, recall, and relevance at scale. In-Depth Knowledge of Re-Ranking & Retrieval Optimization Expertise in retrieval-specific optimizations, including re-ranking, hybrid search, and knowledge augmented retrieval, to improve relevance in enterprise-scale systems. Graph Embedding & Contextual Retrieval Expertise Confirmed skills in graph based search, context expansion techniques, and Knowledge Graph integration to enhance retrieval depth and accuracy. Knowledge Graph Curation & Ontology Management Experience in Knowledge Graph curation, schema design, and ontology management, ensuring efficient and adaptable knowledge driven search solutions. Familiarity with Feedback Loops and Fine-Tuning Knowledge of incorporating user feedback and relevance signals to fine-tune contextual embeddings and improve Search and Knowledge Graph system performance. Additional Preferred Skills:
+
+Broad ML Experience with Diverse Approaches Strong foundation in diverse ML techniques, from neural networks to probabilistic models, adaptable for Search and Knowledge Graph-centric AI use cases. Exceptional Communication and Collaboration Skills Outstanding written and verbal communication abilities, with confirmed expertise in collaborating across engineering, research, and product teams. If you’re an industry leader passionate about Search, Knowledge Graphs, and innovative AI, and eager to make an impact at the world’s #1 CRM company, we’d love to meet you!
+
+#J-18808-Ljbffr
+
+Nice-to-have skills
+
+Machine Learning
+Prompt Engineering
+Neo4J
+Distributed Systems
+Kafka
+Spark
+TensorFlow
+PyTorch
+Python
+California, United States
+
+Work experience
+
+Machine Learning
+NLP
+Search
+
+Languages
+
+English

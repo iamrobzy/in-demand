@@ -1,0 +1,28 @@
+About
+
+Blue Rose Research develops a wide range of cutting-edge products used by the most important progressive organizations in the country. Our research informs short-term and long-term strategy for advancing progressive causes and has a trusted track record among key decision makers. The team has a storied history, and has worked with central players to develop strategy and direct hundreds of millions of dollars of resources. The work produced by Blue Rose Research is widely regarded as among the most technically sophisticated in the space. If you join us, you’ll be plugging into a diverse team of engineers, data scientists, and political analysts, who are closely connected to some of the most important decision makers in the progressive ecosystem. We are looking for a machine learning engineer to help develop applied ML models and own end-to-end pipelines that will enable us to deliver real-time insights and guidance to key clients this election cycle. Our pipeline involves using deep learning to fine-tune large, powerful transformer models, and we are excited to be applying the latest advances in AI tools to our unique, private dataset. This role requires full-stack machine learning and data engineering skills, and will closely collaborate with our interdisciplinary team to scope technical needs, contribute new functionality to our ML framework, wrangle messy data and write ETL, train and iterate on models, and own modeling output that will be delivered to client-facing stakeholders. We’re a fast and dynamic team, and you’ll be contributing to innovative work that evolves week by week. We’re looking for you to bring your passion for data science, a strong attention to detail, and a desire to make a big impact — sometimes under tight timelines. You will: Train, debug, and optimize deep learning runs on our GPU servers, and find new ways to increase model accuracy on both small and large datasets. Conduct deep learning experiments, do feature engineering, and contribute new ideas to improve our core data science approach. Work with a variety of datasets and survey results, clean and preprocess data, and figure out which models and loss functions are most appropriate for a given problem. Construct agentic workflows using off-the-shelf and custom fine-tuned LLMs. Augment agentic workflows with embedding databases. Deliver actionable guidance to important internal stakeholders, helping them understand nuances of the model output. Build subject matter context and think critically about what the data is saying, to understand what’s a real trend versus what’s a potential bug. Minimum Qualifications: Has 2+ years of professional data engineering and/or machine learning experience. Has significant experience with applied statistics and data modeling. Has experience with SQL and relational databases. Has experience building and owning production-level deep learning pipelines using real-world data. Is a strong Python programmer, and is familiar with standard software development tools and best practices. Has experience with NLP and training transformer ML models using PyTorch, or similar tools. Experience with Agentic workflows, vector embeddings, and RAG systems. Is familiar with cloud services, distributed systems, and other DevOps tools (Docker, Kubernetes, Terraform, etc.). Thrives in multi-disciplinary teams working with engineers, statisticians and political experts. Willingness to engage with the wider progressive political ecosystem and develop domain knowledge in addition to technical insight. Has strong oral and written communication skills, especially in a remote environment. Is a kind person and a team player who contributes to a warm working environment. We don’t expect every applicant to have expertise in every area listed above. We encourage you to apply if you don’t feel your experience and background sound like a perfect fit. Many of our team members have taken an unusual path to get to where they are today, and our unique and diverse perspectives make us more effective. We also believe strongly in our team’s ability to learn and excel at new skills and challenges. Join us! The salary range for this position is $130,000 - $170,000 annually, commensurate with experience. Candidates must be authorized to work lawfully in the United States. Apply for this job #J-18808-Ljbffr
+
+Nice-to-have skills
+
+Machine Learning
+Deep Learning
+Python
+SQL
+PyTorch
+Cloud Services
+Distributed Systems
+DevOps
+Docker
+Kubernetes
+Terraform
+District of Columbia, United States
+
+Work experience
+
+Machine Learning
+Data Engineer
+Fullstack
+
+Languages
+
+English

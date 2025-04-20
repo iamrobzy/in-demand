@@ -1,0 +1,32 @@
+About
+
+Career Opportunities with Elder Research A great place to work. Careers At Elder Research Current job opportunities are posted here as they become available. R & D Computer Vision or LLM Machine Learning Engineer
+
+Clearance Required
+
+TS/SCI with polygraph On-site Location:
+
+McLean, VA Home Office
+
+Arlington, VA People Centered. Data Driven Elder Research Inc. is a recognized leader in data science, machine learning and AI. We pride ourselves in our ability to find creative, cutting-edge solutions to real-world problems. We are looking for innovative and inquisitive self-starters who enjoy understanding a problem space and building fast, efficient, and tractable data infrastructure to deliver real value for our clients. Summary of Position: We are looking for a curious and passionate person to join our team! This is a unique opportunity to work on an exciting project that is very rewarding and join a growing center of excellence in machine learning and artificial intelligence within the Intelligence Community. You will work to enhance existing analytic tradecraft and help to craft new practices and capabilities for the Intelligence Community. You will work across the analytic lifecycle: integrating data from a variety of sources, training foundation models, fine-tuning existing models to address real-world intelligence questions, evaluating results, and crafting compelling reports and documentation for technical peers and decision makers. Job Specifications/Requirements: Bachelor’s Degree in Computer Science, International Relations, Mathematics, Statistics, Political Science, or related field. Experience with Python, R or related programming languages. Knowledge of and at least one year of experience with machine learning, computer vision or object detection (exposure to pytorch, tensorflow, and overheard imagery ideal) OR exposure to large language models and associated tools. About Elder Research, Inc Elder Research is a growing consulting firm specializing in data (analytics, data science, AI and machine learning), and related strategy and training. Our organization has over 25 years of experience and 100+ practitioners that have partnered with hundreds of organizations to achieve significant value through innovative applications of data, analytics, and people-centered processes. We are tackling hard problems, big and small, where off-the-shelf solutions don’t work or don’t exist. To achieve success, we value humble, hardworking teammates with the ability to be flexible, think critically and experiment. At Elder Research, you’ll be part of a fun, friendly, and supportive community where we need each other to succeed, your point of view matters, and asking questions with a beginner’s mindset is applauded. In keeping with our entrepreneurial spirit, we want candidates that are self-motivated with an innate curiosity and strong team work ethic. We are constantly learning and offer teammates free access to a wide range of learning opportunities including Elder’s own platform statistics.com and technical mentors or sponsors. Broadening and deepening your technical and consulting skills both on the job and off is something we are passionate about, and we pay you to do it. To achieve success with defense, intelligence and security work we frequently bring together the expertise of decision-makers, analysts, agents, investigators, and even behavioral scientists. Our team enjoys great variety in the type of work they do and exposure to a wide range of analytic techniques and tools. Elder Research believes in continuous learning. Elder Research provides a supportive work environment with established parental, bereavement, and PTO policies. By prioritizing a healthy work-life balance - with reasonable hours, solid pay, low travel, and extremely flexible time off - Elder Research enables and encourages its employees to serve others. Elder Research, Inc. is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, or protected veteran status and will not be discriminated against on the basis of disability. Elder Research is a Government contractor and our positions require US Citizenship.
+
+#J-18808-Ljbffr
+
+Nice-to-have skills
+
+Python
+R
+Machine Learning
+Computer Vision
+PyTorch
+TensorFlow
+Virginia, United States
+
+Work experience
+
+Computer Vision
+Machine Learning
+
+Languages
+
+English

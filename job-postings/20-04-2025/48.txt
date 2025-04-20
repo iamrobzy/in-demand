@@ -1,0 +1,23 @@
+About
+
+Who We Are At Twelve Labs, we are pioneering the development of frontier multimodal foundation models that can see, hear and understand the world as humans do. Our models have redefined the standards in video-language modeling, allowing developers to build programs with state-of-the-art semantic search, summarization and analysis capabilities. Twelve Labs has raised $107 million in Seed + Series A funding from world-class VC & corporate partners: NVIDIA, NEA, Radical Ventures, Index Ventures, Snowflake and Databricks. Our advisory team features AI visionaries and founders such as Fei-Fei Li, Silvio Savarese, Alexandr Wang and more. Headquartered in San Francisco, with an influential APAC presence in Seoul, our global footprint underscores our commitment to driving worldwide innovation. About The Role As a Machine Learning Engineer at Twelve Labs, you will drive our ML systems + platform engineering efforts in all facets of our e2e research & engineering workflows. Scaling our training, inference, and evaluation systems — all while improving the reliability of our model deployments / operations / versioning / etc. — is the essence of the role. This role is a perfect fit for senior engineers who get excited by the prospect of advancing the State of the Art in vision-language modeling by perfecting ML systems and infrastructure! In This Role, You Will: Advance our industry-leading enterprise video solutions by incorporating already-great research into fault tolerant, low latency e2e systems Own model deployment, metadata management, and high-throughput inference strategy for both retrieval ('Marengo') and generative ('Pegasus') models Mentor junior engineers/researchers, and hold a high bar around code quality / engineering best practices Build the highest impact, not the flashiest, libraries and services Lead by example in interviewing, hiring, and onboarding passionate and empathetic engineers Deliver industry leading applied research solutions to problems like VLM finetuning, auto-labeling of video-text datasets, and model-based filtering of said datasets to optimize (end-)model performance Work across teams to understand and manage project priorities and product deliverables, evaluate trade-offs, and drive technical initiatives from ideation to execution to shipment You May Be A Good Fit If You Have: 6+ years of relevant industry experience Demonstrated experience as a technical lead to deliver projects end to end. Strong Python expertise and considerable prior work history with at least one statically typed language (we use Golang) Experience with modern ML frameworks (i.e. PyTorch, Tensorflow) Strong Candidates May Also Have Experience: Scaling ML systems and/or data infrastructure to workloads of petabyte+ scale Building 0-to-1 mission critical AI/ML applications from scratch Optimizing model inference (TensorRT, ONNX, Triton Inference Server) Building Kubernetes-based systems for distributed data/ML workflows Working with FFmpeg or other high performance image/video processing libraries A PhD, or a Master's degree, in machine learning or a closely related discipline Acquiring, filtering, (re)labeling, or sanitizing large scale language or vision-language datasets for LLM/VLM pretraining Interview Process Recruiter Phone Screen Initial Technical Assessment Technical Interview 1: Coding Technical Interview 2: System Design & Project Deep Dive Final Interview: Culture Even if there are a few checkboxes that aren’t ticked through your prior experience, we still encourage you to apply! If you are a 0-1 achiever, a ferocious learner, and a kind and fun team player who motivates others, you will find a home at Twelve Labs. We are a global company that values the uniqueness of each person’s journey. It is the differences in our cultural, educational, and life experiences that allow us to constantly challenge the status quo. We are looking for individuals who are motivated by our mission and eager to make an impact as we push the bounds of technology to transform the world. Join us as we revolutionize video understanding and multimodal AI. Benefits and Perks An open and inclusive culture and work environment. Work closely with a collaborative, mission-driven team on cutting-edge AI technology. Full health, dental, and vision benefits. ️Flexible PTO and parental leave policy. Office closed the week of Christmas and New Years. VISA support (such as H1B and OPT transfer for US employees).
+
+#J-18808-Ljbffr
+
+Nice-to-have skills
+
+Python
+PyTorch
+TensorFlow
+Kubernetes
+FFmpeg
+Machine Learning
+California, United States
+
+Work experience
+
+Machine Learning
+
+Languages
+
+English

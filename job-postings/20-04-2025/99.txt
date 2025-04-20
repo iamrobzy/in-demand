@@ -1,0 +1,29 @@
+About
+
+Staff Machine Learning Engineer - ML Algorithms
+
+Mountain View, US ABOUT EARNIN As one of the first pioneers of earned wage access, our passion at EarnIn is building products that deliver real-time financial flexibility for those with the unique needs of living paycheck to paycheck. Our community members access their earnings as they earn them, with options to spend, save, and grow their money without mandatory fees, interest rates, or credit checks. We’re fortunate to have an incredibly experienced leadership team, combined with world-class funding partners like A16Z, Matrix Partners, DST, Ribbit Capital, and a very healthy core business with a tremendous runway. We’re growing fast and are excited to continue bringing world-class talent onboard to help shape the next chapter of our growth journey. POSITION SUMMARY Machine learning is integral to every financial service we provide. As we embark on a transformative phase, EarnIn is making significant investments to innovate and set new standards in ML applications within fintech. We are seeking skilled engineers to create groundbreaking solutions with large language models, generative AI, and advanced machine learning algorithms, generating substantial business and social impact. Machine learning is the enabler for every financial service EarnIn provides its community members. We aim to lead innovation and operational excellence in machine learning for the fintech industry. We seek experienced engineers to create first-of-a-kind success stories through large language models, generative AI, and state-of-the-art machine learning algorithms. The Mountain View base salary range for this full-time position is $272,700 - $333,300 plus equity and benefits. Our salary ranges are determined by role, level, and location. This is a hybrid position in Mountain View and will require in-office work 2-3 days a week.
+
+WHAT YOU'LL DO Design, develop, A/B test, and deploy machine learning models that drive EarnIn’s products. Train, fine-tune, evaluate, and operationalize large language models (LLMs) and AI agents, delivering radical efficiency gains to our core processes. Continuously improve model performance by leveraging the latest research and open-source tools. Champion data-driven decision-making and maintain scientific rigor in the deployment of ML solutions. Collaborate closely with ML platform engineers to optimize tools and processes for stability and reproducibility. Explore and integrate cutting-edge technologies to enhance EarnIn’s ML capabilities. Mentor junior team members, offering guidance and technical expertise. Lead by example, fostering an environment of operational excellence and driving transformative change. WHAT WE'RE LOOKING FOR Bachelor's or Master’s degree in Computer Science, Engineering, or a related field. 7+ years of experience in machine learning with strong software engineering skills. Proficiency in a broad range of ML techniques, including LLMs, deep learning, sequence models, and tree-based models. Advanced programming skills in Python and experience with ML frameworks such as TensorFlow or PyTorch. Hands-on experience with cloud-based ML platforms (e.g., AWS Sagemaker, Databricks, GCP Vertex AI). Hands-on experience with modern LLM stack: foundation models and APIs such as OpenAI and Anthropic; LLM guardrails, frameworks such as LangGraph, LangChain; ML flow. Strong communication and collaboration skills. Passion for continuous learning and staying updated on industry trends. At EarnIn, we believe that the best way to build a financial system that works for everyday people is by hiring a team that represents our diverse community. Our team is diverse not only in background and experience but also in perspective. We celebrate our diversity and strive to create a culture of belonging. EarnIn does not unlawfully discriminate based on race, color, religion, sex (including pregnancy, childbirth, breastfeeding, or related medical conditions), gender identity, gender expression, national origin, ancestry, citizenship, age, physical or mental disability, legally protected medical condition, family care status, military or veteran status, marital status, registered domestic partner status, sexual orientation, genetic information, or any other basis protected by local, state, or federal laws. EarnIn is an E-Verify participant. Apply for this job
+
+indicates a required field First Name * Last Name * Email * Phone * Location (City) * Resume/CV * Are you legally authorized to work in the country that this role is based? * Select... Do you need, or will you need in the future, any immigration-related support or sponsorship from EarnIn in order to begin or continue employment with EarnIn? * Select... What is your preferred pronoun? Select... Have you previously applied to a role at EarnIn? * Select... What is your primary mailing address? * Should you receive an offer, this will be used for offer and onboarding purposes. LinkedIn Profile
+
+#J-18808-Ljbffr
+
+Nice-to-have skills
+
+Machine Learning
+Deep Learning
+Python
+TensorFlow
+PyTorch
+California, United States
+
+Work experience
+
+Machine Learning
+Data Engineer
+
+Languages
+
+English

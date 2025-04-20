@@ -1,0 +1,56 @@
+About
+
+Leonardo.Ai seeks a Senior Machine Learning Engineer to join our expanding global AI team. At Leonardo.Ai, we are advancing our generative AI platform to empower millions, regardless of expertise, with intuitive tools for creating high-quality images and videos. Now part of the Canva family, we're ready to build a world-class R&D team to seamlessly integrate AI products, tools, and features, making creativity limitless for nearly a quarter of a billion users. The Role As a Senior Machine Learning Engineer, you will be pivotal in creating robust, scalable, and efficient infrastructure for machine learning workflows. You will leverage your MLOps, cloud technologies, and automation expertise to bridge the gap between research and production. Your contributions will enable the seamless deployment, monitoring, and optimisation of machine learning models, supporting the development of next-gen AI products and the growth of Leonardo. What you'll do: MLOps Infrastructure Development:
+
+Design, build, and maintain robust MLOps pipelines to support the end-to-end lifecycle of machine learning models, including data preparation, training, deployment, monitoring, and retraining. Develop reusable tools and modules to enable efficient experimentation, model deployment, and versioning. Integrate ComfyUI nodes and other workflow tools into the MLOps ecosystem, optimising for performance and scalability.
+
+Cloud And DevOps Integration
+
+Collaborate with DevOps teams to implement and manage cloud infrastructure, focusing on AWS (e.g., S3, EC2, SageMaker) using tools like Terraform and CloudFormation. Implement CI/CD pipelines tailored for machine learning workflows, ensuring smooth transitions from research to production. Optimise resource allocation and manage costs associated with cloud-based machine learning workloads.
+
+Data Engineering And Management
+
+Design and maintain scalable data pipelines for collecting, processing, and storing large volumes of data. Automate data acquisition and preprocessing workflows, optimising I/O bandwidth and implementing efficient storage solutions. Manage data integrity and ensure compliance with privacy and security standards.
+
+Model Deployment And Monitoring
+
+Deploy machine learning models to production, ensuring robustness, scalability, and low latency. Implement monitoring solutions for deployed models to track performance metrics, detect drift, and trigger retraining pipelines. Continuously optimise inference performance using techniques like model quantisation, distillation, or caching strategies.
+
+Collaboration And Independent Work
+
+Work closely with cross-functional teams, including AI researchers, data engineers, and software developers, to support ongoing projects and align MLOps efforts with organisational goals. Proactively identify opportunities to streamline and automate workflows, driving innovation and efficiency. Operate independently to manage deadlines, deliverables, and high-quality solutions in a dynamic environment.
+
+Skills we like: Strong experience building and managing MLOps pipelines using frameworks like Kubeflow, MLflow, or similar. Proficiency in Python, focusing on writing high-performance, maintainable code. Hands-on experience with AWS services (e.g., S3, EC2, SageMaker), and infrastructure-as-code tools like Terraform. Deep understanding of Docker and container orchestration tools like Kubernetes. Experience designing scalable ETL pipelines and working with SQL and NoSQL databases. Familiarity with API integrations, network configurations (e.g., proxies, SSH, NAT, VPN), and security best practices. Knowledge of monitoring tools such as Prometheus, Grafana, or CloudWatch. Highly adaptable and eager to learn emerging tools and technologies in the MLOps landscape. Additional Skills: Strong grasp of DevOps principles, including CI/CD and infrastructure automation. Understanding of machine learning model lifecycle, including data versioning, experiment tracking, and model explainability. Experience with distributed computing frameworks like Apache Spark, Dask, or Ray. Familiarity with performance optimisation techniques such as multi-threading, vectorisation, or distributed computing. Our Culture: Inclusive Culture : We celebrate diversity and are committed to creating an inclusive environment where everyone feels valued and empowered. At Leonardo AI, your unique perspectives and experiences are welcomed and essential to our success. Flexible Work Environment:
+
+We Understand The Importance Of Work-life Balance. Enjoy The Flexibility To Work Remotely Or From Our Vibrant Offices. We Have Employees All Over Australia, Ensuring You Can Thrive Personally And Professionally. Empowering Growth
+
+Your development is our priority. We offer continuous learning opportunities and career growth tailored to your goals. You’ll be encouraged to grow and excel in your career at Leonardo AI. Impactful Work:
+
+Join us in shaping the future of AI. You'll work on innovative projects that have a meaningful impact, and your contributions will help drive advancements in AI creativity. Leonardo.Ai Benefits: A range of benefits to set you up for every success in and outside of work. Here's a taste of what's on offer: Impact the future of AI Reward package including equity - we want our success to be yours too Inclusive parental leave policy that supports all parents & carers with 18 weeks paid leave An annual Vibe & Thrive allowance to support your wellbeing, social connection, office setup & more Flexible leave options that empower you to be a force for good, take time to recharge and supports you personally, including remote working abroad Support with your professional development Fun and engaging company events, both virtual and in-person 20 days annual leave
+
+#J-18808-Ljbffr
+
+Nice-to-have skills
+
+Machine Learning
+Automation
+AWS
+Terraform
+Docker
+Kubernetes
+SQL
+NoSQL
+Prometheus
+Grafana
+Python
+California, United States
+
+Work experience
+
+Data Engineer
+Fullstack
+Data Infrastructure
+
+Languages
+
+English

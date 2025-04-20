@@ -1,0 +1,37 @@
+About
+
+Principal Machine Learning Engineer page is loaded Principal Machine Learning Engineer
+
+Apply remote type Onsite locations Boston time type Full time posted on Posted 30+ Days Ago job requisition id R-043713 Company Description At Red Hat, we connect an innovative community of customers, partners, and contributors to deliver an open source stack of trusted, high-performing solutions. We offer cloud, Linux, middleware, virtualization, and AI technologies, together with award-winning global customer support, consulting, and implementation services. Red Hat is a rapidly-growing company supporting more than 90% of Fortune 500 companies. Job Summary AI Platform Core Components drive Red Hat’s contribution to key open source AI communities. We work on PyTorch, vLLM, Triton and their many dependent and related projects. Our mission is to support and foster these communities, as well as productise them as part of RHEL AI and OpenShift AI. The PyTorch team is looking for a Software Engineer to contribute to PyTorch upstream and PyTorch integration into the RHEL AI and OpenShift AI products. What You Will Do (Key Responsibilities) Contribute to the PyTorch upstream community Contribute to the integration of PyTorch into the RHEL AI and OpenShift AI products Work closely with teams within AI Engineering, where collaboration opportunities present themselves Adhere to architectural and design principles that help improve overall development within the group Learn the architectural concepts that are key to the development of our product set What You Bring (Key Skills) Experience contributing to Open-Source projects Experience using and contributing to AI related projects Existing PyTorch contributions a strong plus Experience with test-base development and agile/scrum methodologies Salary Range The salary range for this position is $181,440.00 - $299,260.00. Actual offer will be based on your qualifications. Pay Transparency Red Hat determines compensation based on several factors including but not limited to job location, experience, applicable skills and training, external market value, and internal pay equity. Annual salary is one component of Red Hat’s compensation package. This position may also be eligible for bonus, commission, and/or equity. For positions with Remote-US locations, the actual salary range for the position may differ based on location but will be commensurate with job duties and relevant work experience. About Red Hat Red Hat
+
+is the world’s leading provider of enterprise
+
+open source
+
+software solutions, using a community-powered approach to deliver high-performing Linux, cloud, container, and Kubernetes technologies. Spread across 40+ countries, our associates work flexibly across work environments, from in-office, to office-flex, to fully remote, depending on the requirements of their role. Red Hatters are encouraged to bring their best ideas, no matter their title or tenure. We're a leader in open source because of our open and inclusive environment. We hire creative, passionate people ready to contribute their ideas, help solve complex problems, and make an impact. Benefits
+
+Comprehensive medical, dental, and vision coverage
+Flexible Spending Account - healthcare and dependent care
+Health Savings Account - high deductible medical plan
+Retirement 401(k) with employer match
+Paid time off and holidays
+Paid parental leave plans for all new parents
+Leave benefits including disability, paid family medical leave, and paid military leave
+Additional benefits including employee stock purchase plan, family planning reimbursement, tuition reimbursement, transportation expense account, employee assistance program, and more! Note:
+
+These benefits are only applicable to full time, permanent associates at Red Hat located in the United States. Diversity, Equity & Inclusion at Red Hat Red Hat’s culture is built on the open source principles of transparency, collaboration, and inclusion, where the best ideas can come from anywhere and anyone. When this is realized, it empowers people from diverse backgrounds, perspectives, and experiences to come together to share ideas, challenge the status quo, and drive innovation. Our aspiration is that everyone experiences this culture with equal opportunity and access, and that all voices are not only heard but also celebrated. We hope you will join our celebration, and we welcome and encourage applicants from all the beautiful dimensions of diversity that compose our global village. Equal Opportunity Policy (EEO) Red Hat is proud to be an equal opportunity workplace and an affirmative action employer. We review applications for employment without regard to their race, color, religion, sex, sexual orientation, gender identity, national origin, ancestry, citizenship, age, veteran status, genetic information, physical or mental disability, medical condition, marital status, or any other basis prohibited by law.
+
+#J-18808-Ljbffr
+
+Nice-to-have skills
+
+PyTorch
+Massachusetts, United States
+
+Work experience
+
+Machine Learning
+
+Languages
+
+English

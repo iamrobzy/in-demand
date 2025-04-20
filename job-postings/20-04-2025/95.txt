@@ -1,0 +1,30 @@
+About
+
+Machine Learning Engineer — Trust and Safety (Account Trust)
+
+Machine Learning and AI The Trust and Safety group at Apple is responsible for ensuring that users of Apple’s services and products have genuine and safe experiences. Within Trust and Safety, our team ensures the protection of several systems, including Apple’s account creation flows and iMessage spam. The solutions we deploy help us keep Apple ecosystem safe, while mitigating constant attack by external actors. We are seeking a machine learning engineer who will strive to turn huge amounts of data into actionable insights that improve safe customer experience. Successful candidates will have a demonstrated history of self-directed research and investigations spanning sophisticated, interdependent systems that led to novel insights directly impacting well-defined success metrics. Description Success in this role is defined by your ability to: Maintain a deep understanding of Apple's account types, services, and evolving protection systems. Simplify complex systems and communicate technical concepts to non-technical audiences. Analyze user behavior from diverse data sources, building narratives that explain fraudulent activity and attack methods. Build strong partnerships to close data gaps and mitigate attack vectors. Identify weaknesses, propose better fraud-fighting tools, and anticipate attacker adaptations. This role requires exceptional collaboration across Data Science, Software Engineering, and Machine Learning Research. You’ll work with partner teams to develop strategic, long-term fraud prevention solutions while continuously enhancing your software engineering and machine learning expertise. Minimum Qualifications Proven experience in anti-fraud (or similar) with at least two complex investigations in incomplete data environments, demonstrating initiative and measurable impact. 3+ years of experience with big data tools (SQL, Spark, Splunk, Python, Jupyter Notebook). Familiarity with machine learning algorithms including classifiers, clustering algorithms, and anomaly detection. Experience collaborating across engineering and non-engineering teams. Preferred Qualifications Experience with Python, Scala, Java, or similar, including relevant libraries (e.g., scikit-learn, TensorFlow, PyTorch, Spark MLlib). 2+ years of industry software development experience using source control (e.g., Git). Hands-on experience implementing machine learning solutions (classifiers, clustering, anomaly detection). Advanced degree (MS/PhD) in a quantitative field (Computer Science, Statistics, Mathematics, Operations Research). Effective interpersonal, written, and verbal communication skills. Curiosity, integrity, and a passion for learning and enhancing the Apple customer experience. Additional Requirements At Apple, base pay is one part of our total compensation package and is determined within a range. This provides the opportunity to progress as you grow and develop within a role. The base pay range for this role is between $175,800 and $312,200, and your base pay will depend on your skills, qualifications, experience, and location. Apple employees also have the opportunity to become an Apple shareholder through participation in Apple’s discretionary employee stock programs. Apple employees are eligible for discretionary restricted stock unit awards, and can purchase Apple stock at a discount if voluntarily participating in Apple’s Employee Stock Purchase Plan. You’ll also receive benefits including: Comprehensive medical and dental coverage, retirement benefits, a range of discounted products and free services, and for formal education related to advancing your career at Apple, reimbursement for certain educational expenses — including tuition. Additionally, this role might be eligible for discretionary bonuses or commission payments as well as relocation. Learn more about Apple Benefits. Note: Apple benefit, compensation and employee stock programs are subject to eligibility requirements and other terms of the applicable plan or program. Apple is an equal opportunity employer that is committed to inclusion and diversity. We take affirmative action to ensure equal opportunity for all applicants without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, Veteran status, or other legally protected characteristics. Learn more about your EEO rights as an applicant.
+
+#J-18808-Ljbffr
+
+Nice-to-have skills
+
+Machine Learning
+SQL
+Spark
+Splunk
+Python
+Scala
+Java
+Scikit-learn
+TensorFlow
+PyTorch
+Git
+California, United States
+
+Work experience
+
+Machine Learning
+
+Languages
+
+English

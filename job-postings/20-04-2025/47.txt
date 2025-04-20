@@ -1,0 +1,38 @@
+About
+
+Staff Machine Learning Engineer, Payments & Risk
+
+About Gusto Gusto is a modern, online people platform that helps small businesses take care of their teams. On top of full-service payroll, Gusto offers health insurance, 401(k)s, expert HR, and team management tools. Today, Gusto offices in Denver, San Francisco, and New York serve more than 400,000 businesses nationwide. Our mission is to create a world where work empowers a better life, and it starts right here at Gusto. That’s why we’re committed to building a collaborative and inclusive workplace, both physically and virtually. About the role
+
+Role
+
+Gusto’s Data Science team leverages Gusto’s rich dataset to guide product direction and decision-making. We operate full-stack, conducting analyses, prototyping and deploying predictive models and statistical tools both for internal use and for our customers. For this role, we are looking for a technical leader (an individual contributor) to drive machine learning and AI in the payment and risk domains. You will build a model-driven risk platform to provide a trusted environment for Gusto Ecosystem. You’ll be working with an established team and seasoned payments and risk leaders in Engineering, Product, Design, Operation, Identity and Compliance. In this role, you’ll work cross-functionally to build Platforms that span the entire breadth of the Payments and Risk Stacks, and use ML and AI to build a world-class, high secure platform that safeguards our users’ activities and money, and ensures unparalleled reliability. Here’s what you’ll do day-to-day:
+
+Build and deploy machine learning models to identify, assess and mitigate risks. Responsible for driving research in the problem space, working with stakeholders to understand model requirements, developing the model from scratch, deploying the model alongside your engineering counterparts, and monitoring and maintaining the model’s performance over time. Partner with Engineering, Design, and Product counterparts in Payment and Risk to solve complex cross-functional problems. Develop scalable frameworks and libraries that enhance and contribute to the team’s core analysis and modeling capabilities. Identify new opportunities to leverage data to improve Gusto’s products and help risk management team to understand business requirements and develop tailored solutions. Present and communicate results to stakeholders across the company. Here’s what we're looking for:
+
+8+ years experience conducting statistical analyses on large datasets and deep domain knowledge in machine learning. This could mean either a MS or PhD in a quantitative field with at least 5 years experience in a business environment, or BS or Data Science Bootcamp graduate with at least 8 years of experience working as a data scientist or a machine learning engineer in a business setting. Must have proven experience in credit risk modeling or fraud risk modeling using logistic regression, random forest, Xgboost or neural networks. Experience applying a variety of statistical and modeling techniques using Python, R or another statistical modeling language, as indicated by familiarity with many of the following techniques - predictive modeling, anomaly detection, ensemble methods, natural language processing (NLP, optional). Strong programming skills - comfortable with all phases of the data science development process, from initial analysis and model development all the way through to deployment. Excellent communication skills - able to effectively deliver findings and recommendations to non-technical stakeholders in a clear and compelling fashion. PhD or Masters plus equivalent experience in a quantitative field is a plus. Experience in the Fintech industry is a plus. Our cash compensation amount for this role is targeted at $161,000-$199,000/year in Denver, Chicago, Miami, Austin and Atlanta, $175,000-$217,000/year in Los Angeles, and $195,000- $241,000/year for San Francisco, Seattle and New York. Final offer amounts are determined by multiple factors, including candidate experience and expertise, and may vary from the amounts listed above. Gusto has physical office spaces in Denver, San Francisco, and New York City. Employees who are based in those locations will be expected to work from the office on designated days approximately
+
+2-3 days
+
+per week (or more depending on role). Our customers come from all walks of life and so do we. We hire great people from a wide variety of backgrounds, not just because it's the right thing to do, but because it makes our company stronger. If you share our values and our enthusiasm for small businesses, you will find a home at Gusto. Gusto is proud to be an equal opportunity employer. We do not discriminate in hiring or any employment decision based on race, color, religion, national origin, age, sex (including pregnancy, childbirth, or related medical conditions), marital status, ancestry, physical or mental disability, genetic information, veteran status, gender identity or expression, sexual orientation, or other applicable legally protected characteristic.
+
+#J-18808-Ljbffr
+
+Nice-to-have skills
+
+Machine Learning
+Logistic Regression
+XGBoost
+Neural Networks
+Python
+R
+Predictive Modeling
+California, United States
+
+Work experience
+
+Machine Learning
+
+Languages
+
+English

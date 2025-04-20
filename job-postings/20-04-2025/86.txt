@@ -1,0 +1,31 @@
+About
+
+The Brand Ads Team builds technologies that unlock business growth potential. This team owns several ads products: reservation ads, auction ads, and innovative content ads that enable advertisers and users to foster more awareness of their brand to attain their business goals. We work on the end-to-end ads delivery tech stack, including ads bidding, ranking, and forecasting. We are looking for seasoned engineers who have strong problem-solving skills and algorithm understanding to build and manage systems with high performance, scalability, and availability. You will have the opportunity to partner closely with global engineering and product teams in a high-impact and fast-paced environment. What you'll do:
+
+Requirements
+
+Create innovative monetization products that drive engagement and revenue. Participate in the development of a large-scale Ads system. Participate in the development and iteration of Ads algorithms using Machine Learning. Work on NLP and CV related technology for content understanding and taxonomy. Contribute to the success of a rapidly growing and evolving organization with speediness and quality. Minimum Requirements:
+
+BS degree in Computer Science, Computer Engineering, or other relevant majors, with 3+ years of related work experience. Excellent programming, debugging, and optimization skills in one or more general-purpose programming languages including but not limited to: Go, C/C++, Python. Ability to think critically and to formulate solutions to problems in a clear and concise way. Relevant professional experience with machine learning, data mining, data analysis, and distribution systems. Good understanding in one of the following domains: brand ads, content ads, auction, bidding, ranking, and ads forecasting. Experience with one or more of the following: Machine Learning, Deep Learning, NLP, ranking systems, recommendation systems, backend, large-scale systems, data science, full-stack. Good product sense and experience designing and implementing product features.
+
+#J-18808-Ljbffr
+
+Nice-to-have skills
+
+Go
+Python
+Machine Learning
+Deep Learning
+Data Science
+California, United States
+
+Work experience
+
+Fullstack
+Machine Learning
+NLP
+Frontend
+
+Languages
+
+English

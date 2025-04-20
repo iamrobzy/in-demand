@@ -1,0 +1,55 @@
+Job Summary
+
+The Machine Learning Engineer will be a highly visible individual contributor position with the goal of developing ML/AI modeling function at PODS. This teammate will bring extensive knowledge and demonstrated experience using Machine Learning and generative AI techniques. They will build data models and algorithms to grow customer base and PODS revenue, improve customer satisfaction, and optimize PODS resource utilization.
+
+While passionate about developing the function and technology stack at PODS, the Machine Learning Engineer will retain focus on long-term value and strategic objectives. To be successful, the individual in this position will work closely with departmental leaders to identify opportunities, prove value, and apply advanced modeling techniques at PODS. Additionally, the Machine Learning Engineer is expected to stay up to date on innovations in the ML and AI space and will advise leadership on promising new technologies that could be relevant to PODS.
+
+Finally, this individual will work closely with leadership as well as internal/external stakeholders to facilitate shared learning, coach and develop talent, and ensure business implications of insights are understood and properly actioned.
+
+Essential Duties And Responsibilities
+
+Develop expert understanding of PODS internal data and business processes
+Build data models and algorithms in pursuit of strategic objectives to grow customer base and PODS revenue, improve customer satisfaction, and optimize PODS resource utilization
+Collaborate with colleagues and leaders in other departments to identify needs and proactively suggest solutions rooted in application of Machine Learning/AI
+Create and present reports that detail findings, recommendations, and solutions to decision makers within the organization, business partners, and investors
+Identify relevant external data sources and support their vetting and acquisition by demonstrating impact to model accuracy and overall ROI
+Work with IT and business partners to package and deploy automated models to support business processes
+Develop tool stack, frameworks, and go-to market processes to ensure accurate and sustainable implementation
+Expand PODS knowledge base around market insights and opportunities for growth
+Train and develop PODS talent on the ML methods and techniques
+
+MANAGEMENT & SUPERVISORY RESPONSIBILTIES
+
+Direct supervisor job title(s) typically include: VP, Marketing Analytics
+Job may require managing Analytics associates
+
+JOB QUALIFICATIONS: Essential Skills, Abilities, and Example Behavior(s)
+
+DELIVER QUALITY RESULTS: Able to deliver top quality service to all customers (internal and external); Able to ensure all details are covered and adhere to company policies; Able to strive to do things right the first time; Able to meet agreed-upon commitments or advises customer when deadlines are jeopardized; Able to define high standards for quality and evaluate products, services, and own performance against those standards
+
+TAKE INITIATIVE: Able to exhibit tendencies to be self-starting and not wait for signals; Able to be proactive and demonstrate readiness and ability to initiate action; Able to take action beyond what is required and volunteers to take on new assignments; Able to complete assignments independently without constant supervision
+
+BE INNOVATIVE / CREATIVE: Able to examine the status quo and consistently look for better ways of doing things; Able to recommend changes based on analyzed needs; Able to develop proper solutions and identify opportunities
+
+BE PROFESSIONAL: Able to project a positive, professional image with both internal and external business contacts; Able to create a positive first impression; Able to gain respect and trust of others through personal image and demeanor
+
+ADVANCED COMPUTER USER: Able to use required software applications to produce correspondence, reports, presentations, electronic communication, and complex spreadsheets including formulas and macros and/or databases. Able to operate general office equipment including company telephone system
+
+JOB QUALIFICATIONS: Education & Experience Requirements
+
+Master’s degree in quantitative discipline such as engineering, mathematics, machine learning, statistics, operations research, or computer science; PhD is preferred
+4+ years of post-academic experience in for-profit setting
+Modeling experience using cloud-based technology stack such as Azure ML, Databricks, Google Cloud AI, AWS Sagemaker; automated ML model training, monitoring, and analysis
+Proven track record of delivering value by leveraging AI/ML capabilities to transform business functions in corporate setting
+Demonstrated experience with Natural Language Processing is highly desirable
+Data acquisition, prototyping, and scripting skills in SQL, R, Python/PySpark
+Experience with conversion of ML models into API endpoints, containers, or other standardized packages for production deployments
+Data visualization experience in Tableau or PowerBI
+Experience working in Agile teams
+Extensive data and results interpretation experience with the ability to communicate insights and findings to senior management and external partners in a clear, compelling way
+Comfort in dealing with ambiguity and demonstrated ability to put structure around vague and unstructured requests/discussions
+Skills in mentoring analytics team to help develop their career paths and scale their influence
+
+Unsolicited Resumes from Third-Party Recruiters 
+
+Please note that as per PODS policy, we do not accept unsolicited resumes from third-party recruiters unless such recruiters are engaged to provide candidates for a specified opening and in alignment with our Inclusive Diversity values. Any employment agency, person or entity that submits an unsolicited resume does so with the understanding that PODS will have the right to hire that applicant at its discretion without any fee owed to the submitting employment agency, person, or entity.

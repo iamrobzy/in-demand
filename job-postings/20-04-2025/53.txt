@@ -1,0 +1,42 @@
+About
+
+Summary: At Apple, new ideas have a way of becoming excellent products, services, and customer experiences very quickly. Bring passion and dedication to your job and there's no telling what you could accomplish! The Product Marketing Customer Analytics team is seeking a Machine Learning Engineer with deep technical experience in predictive analytics and analytic engineering. Description
+
+Support Product Marketing, Investor Relations, and the Executive Team with predictive analytics for customer product and services engagement. Understand product requirements then translate them into modeling tasks and engineering tasks. Develop scalable ML algorithms and models to understand customer behavior and provide leadership with actionable insights and recommendations. Design and implement end-to-end machine learning pipelines—from feature engineering to model serving—using best in class MLOps frameworks. Develop and optimize deep learning and traditional ML solutions on high-volume datasets using GPU clusters or distributed CPU environments. Experiment with cutting-edge algorithms, providing advanced insights into customer behavior and engagement. Manage ML projects through all phases, including data quality, algorithm/feature development, predictive modeling, visualization, and deployment and maintenance. Tackle difficult, non-routine analysis/prediction problems, applying advanced ML methods as needed. Partner with peers to build and prototype analysis pipelines that provide insights at scale. Collaborate with data engineers and infrastructure partners to implement robust solutions and operationalize models. Enhance and evolve solutions to meet changing business needs with agility. Minimum Qualifications
+
+8+ years of hands-on programming skills for large-scale data processing Graduate degree required in Computer Science, Statistics, Data Mining, Machine Learning, Operations Research, or related field Key Qualifications Preferred Qualifications
+
+Excellent understanding of analytical methods and machine learning algorithms including regression, clustering, classification, optimization, and other advanced analytic techniques. 8+ years of proven experience building and scaling predictive models across distributed systems (e.g., Spark, Kubernetes, GPU clusters), production model hosting, and handling end-to-end performance optimization to solve business problems. 8+ years of hands-on programming skills (Python, and/or Spark) for large-scale data processing, deriving key insights, developing machine learning models on structured and unstructured data, and with demonstrated success maintaining robust, high-throughput ML pipelines in a production environment. Comfortable with advanced deep learning frameworks (Tensorflow, PyTorch) and adept at designing and scaling ML platforms that include feature stores, automated retraining pipelines, and CI/CD integration. Able to design systems to handle high-volume ML workflows and implement scalable, fault-tolerant solutions. Solid technical database and data modeling knowledge (Oracle, Hadoop, SnowFlake), and experience optimizing SQL queries on large datasets for performance-critical analytics. Able to work effectively on ambiguous data and constructs within a fast-changing environment, tight deadlines, and priority changes. Strong communication skills and ability to explain complex technical topics to both data science peers and non-technical business stakeholders, effectively presenting findings and recommendations to senior executives. Demonstrated success in partnering cross-functionally, guiding diverse technical teams, aligning business stakeholders, invested in the collective success of teams and project outcomes. Education & Experience Additional Requirements
+
+Pay & Benefits
+
+At Apple, base pay is one part of our total compensation package and is determined within a range. This provides the opportunity to progress as you grow and develop within a role. The base pay range for this role is between $207,800 and $312,200, and your base pay will depend on your skills, qualifications, experience, and location. Apple employees also have the opportunity to become an Apple shareholder through participation in Apple’s discretionary employee stock programs. Apple employees are eligible for discretionary restricted stock unit awards and can purchase Apple stock at a discount if voluntarily participating in Apple’s Employee Stock Purchase Plan. You’ll also receive benefits including: Comprehensive medical and dental coverage, retirement benefits, a range of discounted products and free services, and for formal education related to advancing your career at Apple, reimbursement for certain educational expenses — including tuition. Additionally, this role might be eligible for discretionary bonuses or commission payments as well as relocation. Learn more about Apple Benefits. Note: Apple benefit, compensation, and employee stock programs are subject to eligibility requirements and other terms of the applicable plan or program. Apple is an equal opportunity employer that is committed to inclusion and diversity. We take affirmative action to ensure equal opportunity for all applicants without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, Veteran status, or other legally protected characteristics.
+
+Learn more about your EEO rights as an applicant.
+
+#J-18808-Ljbffr
+
+Nice-to-have skills
+
+Machine Learning
+Deep Learning
+GPU Clusters
+Classification
+Optimization
+Spark
+Kubernetes
+Python
+TensorFlow
+PyTorch
+Oracle
+Hadoop
+SQL
+California, United States
+
+Work experience
+
+Machine Learning
+
+Languages
+
+English

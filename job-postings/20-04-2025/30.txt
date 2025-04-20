@@ -1,0 +1,63 @@
+About
+
+Netflix is one of the world’s leading entertainment services with 278 million paid memberships in over 190 countries enjoying TV series, films and games across a wide variety of genres and languages. Members can play, pause and resume watching as much as they want, anytime, anywhere, and can change their plans at any time.
+
+The Role
+
+As Netflix continues to grow, we are venturing into exciting new frontiers of personalization to help our members find the content they will most enjoy. In particular, we’re seeking to expand the breadth of entertainment we can provide our members beyond movies and series to include games and live-streaming events. To do this, we need to enable our algorithms to recommend a broader range of content both by extending our existing approaches and taking on the unique challenges of different types of entertainment.
+
+We are looking for a Manager to lead the Content Personalization Algorithms Engineering team. You will lead the way for a team of machine learning engineers and researchers to develop the next generation of algorithms that are capable of recommending from a wider selection of content. This includes being able to respond quickly to trending live events and using bootstrapping or transfer learning to personalize new entities within our system. It also involves enhancing our system’s understanding of the unique aspects of the content that we recommend.
+
+In this role, you will be responsible for building and leading a team of world-class engineers and researchers doing cutting-edge applied machine learning. You will cultivate a vision and strategy for the team aligned with our mission and guide innovation projects from end-to-end: idea to production A/B tests. Your team will be responsible for improving our core recommendation algorithms as well as developing new ones, working in conjunction with many other teams spanning personalization, serving, product management, machine learning platforms, data engineering, data science, different content areas, and more. To be successful in this role, you need to have a strong machine learning and engineering background, be data-driven, have a passion for personalization, have an execution focus, a love of learning, and have the ability to partner well with multi-disciplinary, cross-functional teams and stakeholders. You also need to be great at giving and receiving feedback, championing new ideas, fostering an inclusive team culture, mentoring, empowering others, and balancing the needs of both engineering and research.
+
+What We Are Looking For
+
+Experience building and leading a team of machine learning engineers and researchers.
+
+A track record of leading successful real-world applications of machine learning.
+
+Ability to lead in alignment with our unique culture (https://jobs.netflix.com/culture) .
+
+Broad knowledge of machine learning with a strong mathematical foundation.
+
+Strong understanding of software engineering and large-scale distributed systems.
+
+Great interpersonal skills.
+
+MS or PhD in Computer Science, Statistics, or a related field.
+
+You Will Ideally Have Experience With
+
+10+ years of total experience including 5+ years of machine learning management.
+
+Leading teams focused on Personalization, Search, or Recommender Systems.
+
+Deep Learning, Ranking, LLMs, or Bandits/Reinforcement Learning.
+
+Experience working on large-scale, consumer-facing machine-learning applications.
+
+Our compensation structure consists solely of an annual salary; we do not have bonuses. You choose each year how much of your compensation you want in salary versus stock options. To determine your personal top of market compensation, we rely on market indicators and consider your specific job family, background, skills, and experience to determine your compensation in the market range. The range for this role is $190,000 - $920,000.
+
+Netflix provides comprehensive benefits including Health Plans, Mental Health support, a 401(k) Retirement Plan with employer match, Stock Option Program, Disability Programs, Health Savings and Flexible Spending Accounts, Family-forming benefits, and Life and Serious Injury Benefits. We also offer paid leave of absence programs. Full-time hourly employees accrue 35 days annually for paid time off to be used for vacation, holidays, and sick paid time off. Full-time salaried employees are immediately entitled to flexible time off. See more detail about our Benefits here (http://jobs.netflix.com/work-life-philosophy) .
+
+Netflix is a unique culture and environment. Learn more here (http://jobs.netflix.com/culture) .
+
+We are an equal-opportunity employer and celebrate diversity, recognizing that diversity of thought and background builds stronger teams. We approach diversity and inclusion seriously and thoughtfully. We do not discriminate on the basis of race, religion, color, ancestry, national origin, caste, sex, sexual orientation, gender, gender identity or expression, age, disability, medical condition, pregnancy, genetic makeup, marital status, or military service.
+
+Nice-to-have skills
+
+Machine Learning
+Deep Learning
+Software Engineering
+Distributed Systems
+California, United States
+
+Work experience
+
+Machine Learning
+Search
+Product Owner / Product Manager
+
+Languages
+
+English

@@ -1,0 +1,70 @@
+About
+
+Machine Learning Engineer II or Senior Machine Learning Engineer
+
+Job Locations
+
+US-Remote Position | US-IA-Iowa City
+
+Job ID
+
+2025-2608
+
+# of Openings
+
+1
+
+Category
+
+Research
+
+Travel
+
+Up to 25%
+
+Overview
+
+At ACT Your Work Makes a Difference Education has power - a power that changes lives forever. It creates opportunities that lift up individuals, their families, and sparks societal change that echoes through generations to come. From our grassroots we have fought the good fight for fairness in education, and we remain devoted to helping anyone who struggles to access that power. This is what matters to us and we must do better -- we've never been more sure of our purpose. ACT Education Corp. team members are part of an organization dedicated to an important mission: Helping people achieve education and workplace success. Advancing the mission internally, by helping team members achieve education and workplace success of their own, is core to our values. ACT values a diverse workplace and is committed to fostering an inclusive environment in which every team member has equal opportunity to grow. We want our team members to have the well-being and confidence they need to do their best work, in an environment where both they and ACT thrive. To support this, our total rewards include company paid life insurance, medical, dental, vision, flexible health and dependent spending accounts, 401(k) retirement savings with company match, paid holidays, paid time off, and so much more.You can find a comprehensive list of our benefits here. We are seeking a
+
+Machine Learning Engineer II or Senior Machine Learning Engineer
+
+to help us fulfill that mission. The finalist will be hired at the salary and level commensurate with their qualifications. For this position, we anticipate offering an annual salary in the range of $95,000 to $118,000 for a Machine Learning Engineer II. The anticipated annual salary offering for a Senior Machine Learning Engineer will be $130,000 - $143,000. ACT manages salaries within the range based on relevant factors including skills, experience, and internal equity. This position is not incentive eligible. Location:
+
+Remote (can also be onsite or hybrid if in Iowa City, Iowa area) What you will be working on: Analyzing and improving ML algorithms
+
+Designing, developing, and deploying machine learning models Managing the ML lifecycle from data collection to deployment and monitoring Collaborating with data scientists and engineers to enhance data quality and efficiency Documenting machine learning processes Developing models that align to and support achievement of ACT's business objectives Role Progression: Within 1 month
+
+you will become familiar with ACT's internal stakeholders and the different types of AI projects they are currently working on. You will attend meetings with non-technical and technical staff and assist with gathering requirements for projects requiring ML/AI solutions. You will work under the supervision of other digital science staff to execute these projects. You will understand ACT's client infrastructure and management solutions and be able to provide solutions to solve well-defined problems. Within 3 months
+
+you will co-facilitate meetings with non-technical and technical staff to gather requirements for projects requiring AI/ML solutions. You will work collaboratively with other digital science staff to execute these projects. You will collaborate with IT teams to build and deploy strategic initiatives. Within 6 months
+
+you will facilitate meetings with internal stakeholders to gather requirements for projects requiring AI/ML solutions. You will work collaboratively with other digital science staff or as an individual contributor to execute these projects, as well as assist, prompt engineers and/or Senior AI/ML researchers with other ML projects as needed. You will collaborate with IT teams to build and deploy strategic initiatives. You will also identify and execute opportunities to improve internal efficiency using AI and automation solutions. This could be the job for you if you have (minimum requirements): Experience with Python in Linux-based environments, Git, and ML frameworks (PyTorch/TensorFlow/scikit-learn, etc.) Strong background in mathematics and statistics Proficiency in programming languages like Python, Java, or R Experience with visualizing and manipulating big datasets Experience with training and building applications with generative models Requirements for Level II: 3 years professional machine learning and/or data science experience that includes developing and deploying machine learning models Familiarity with relational databases (Postgres, MySQL) Requirements for Senior level: 5 years professional machine learning and/or data science experience, with a proven track record of developing and deploying machine learning models Experience working with relational databases (Postgres, MySQL) Excellent problem-solving, troubleshooting, and analytical skills Excellent communicator with ability to synthesize and communicate ideas visually, verbally, and in writing and with ability to explain highly technical concepts to non-technical stakeholders Adaptability and a willingness to learn and grow in a rapidly evolving field Ability to stay current with industry trends and advancements in technology and apply this knowledge Ability to collaborate within cross-functional teams and across the organization Excellent time management, planning, prioritization, and organization skills Familiarity with Agile practices Skills and knowledge required for success in this position attained through experience and/or education (Bachelor's Degree in Electrical & Computer Engineering, Data Science, Machine Learning, Computer Science, or related field of study) It's a plus if you have: Experience with cloud deployment (GCP, AWS), containerization (Docker), vector search engines, knowledge graphs, and PyTorch ecosystem projects ML publications and/or competition participation About ACT
+
+When ACT was founded in 1959, it disrupted the assessment industry with a new approach to helping students better understand their readiness so they could take steps to improve it. By leveraging our expertise and authority in assessment and research, we will again disrupt the industry-helping more people learn, better measure their progress, and improve their navigation through life's transitions. More than ever before, ACT is fulfilling its mission of helping people achieve education and workplace success. We're doing it by pushing the boundaries of learning innovation through the work of our people, who we call team members because we're all in this together. We know transformation does not come without challenge. That's why ACT invests in a variety of experiences for team members to strengthen their connections, explore ideas, learn from customers, and celebrate success. Learn more about working at ACT at act.org! ACT is an equal opportunity employer, and all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability status, protected veteran status, or any other characteristic protected by law. ACT values diversity in people and ideas and participates in E-verify. ACT's online position announcements are intended only to provide general descriptions of employment opportunities; none of the information provided for any position should be interpreted as a commitment by ACT to specific terms and conditions for employment. Application FAQs If you have received an ACT employment-related communication from an email address that is not affiliated with @act.org and/or that requests personal or financial information, please do not reply. Instead, reach out to us at careers@act.org with the details. ACT's recruitment team appreciates your interest in working with us to transform college and career readiness pathways for all learners and wishes you the best of luck in your career journey. Need help finding the right job?
+
+We can recommend jobs specifically for you! Click here to get started.
+
+Nice-to-have skills
+
+Python
+Linux
+Git
+PyTorch
+TensorFlow
+Scikit-learn
+Statistics
+Java
+R
+MySQL
+GCP
+AWS
+Docker
+Iowa, United States
+
+Work experience
+
+Machine Learning
+
+Languages
+
+English

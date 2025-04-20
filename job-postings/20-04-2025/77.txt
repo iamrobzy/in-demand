@@ -1,0 +1,43 @@
+About
+
+Software & Machine Learning Engineer, Alexa Analytics
+
+Job ID: 2936061 | Amazon.com Services LLC We are seeking an experienced and curious machine learning engineer to join our predictive CX metrics organization.
+
+As our SDE/MLE superstar, you'll have the power to lead the charge in developing cutting-edge inference and architectures to ensure our scientists can push the boundaries of large model training (esp. experience with breadth/depth of various chips and compute options). Your groundbreaking work will directly impact our customers' lives through life-changing and delightful products and services.
+
+So, if you're passionate about pushing the limits of AI, thrive in a fast-paced and innovative environment, and are ready to make a lasting impact on the world, this is your chance! Key job responsibilities
+
+Ability to quickly learn cutting-edge technologies and algorithms in the field of Generative AI to participate in our journey to build the best LLMs. Responsible for the development and maintenance of key platforms needed for developing, evaluating and deploying LLM for real-world applications. Work with other team members (applied/research/data scientists, linguists, other engineers, product leads) to investigate design approaches, prototype new technology and evaluate technical feasibility. Work closely with Applied scientists to process massive data (e.g., 20B parameter), scale machine learning models while optimizing. Learn and support existing Gale (Alexa Analytics) software products. Hold and raise the bar for operational readiness, operational excellence and runbook documentation. Ability to be curious and pivot your perspective. Ability to work hard, have fun, and make history! A day in the life
+
+Design, document, and build novel inference infrastructure and/or modeling techniques using hardware like AWS Inferentia2 (and/or others). Inform and guide predictive metrics roadmap based on learnings, opportunities, and efficiencies in hardware and infrastructure. Attend daily/weekly/monthly/quarterly scrum activities to ensure technical delivery is on-time, under-budget, and meeting customer requirements. Hold and raise a high bar for technical implementation standards -- from code revision submissions/reviews to operational readiness and excellence. Support on-call rotations. Learn existing Gale (Alexa Analytics) packages and software, contributing to design and improvements (enhancements) for customers. Be the eyes and ears and caring of your customers, but internally on our team/org. You will constantly look around corners for ways to improve predictive metrics and infra for our customers. About the team
+
+We are a cross-functional org comprised of product managers, data engineers, business intelligence engineers, software development engineers, and science-focused teams with applied scientists, research scientists, and machine learning engineers. We are passionate about building and improving our analytics platform, "Gale", which enables Alexa developers and leaders to make informed business and CX decisions reliably and quickly. We are deeply rooted in big data, responsible (privacy, secure) data, performant services, and user-friendly analytics applications. BASIC QUALIFICATIONS
+
+3+ years of non-internship professional software development experience. 2+ years of non-internship design or architecture (design patterns, reliability and scaling) of new and existing systems experience. Experience programming with at least one software programming language. PREFERRED QUALIFICATIONS
+
+3+ years of full software development life cycle, including coding standards, code reviews, source control management, build processes, testing, and operations experience. Bachelor's degree in computer science or equivalent. Experience in machine learning, data mining, information retrieval, statistics or natural language processing. Amazon is committed to a diverse and inclusive workplace. Amazon is an equal opportunity employer and does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, or other legally protected status. Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit
+
+this link
+
+for more information.
+
+#J-18808-Ljbffr
+
+Nice-to-have skills
+
+Machine Learning
+Software Development
+Data Mining
+Statistics
+Massachusetts, United States
+
+Work experience
+
+Machine Learning
+Frontend
+Fullstack
+
+Languages
+
+English

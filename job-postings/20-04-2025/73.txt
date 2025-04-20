@@ -1,0 +1,59 @@
+About
+
+Lead Machine Learning Engineer
+
+Job ID
+
+10100856 Location:
+
+Disney Entertainment & ESPN Technology Date Posted
+
+San Francisco, California, United States / Santa Monica, California, United States / New York, New York, United States / Seattle, Washington, United States Business:
+
+3月. 19, 2025 Job Summary
+
+Disney Entertainment & ESPN Technology On any given day at Disney Entertainment & ESPN Technology, we are reimagining ways to create magical viewing experiences for the world’s most beloved stories while also transforming Disney’s media business for the future. Whether that is evolving our streaming and digital products in new and immersive ways, powering worldwide advertising and distribution to maximize flexibility and efficiency, or delivering Disney’s unmatched entertainment and sports content, every day is a moment to make a difference to partners and to hundreds of millions of people around the world. A few reasons why we think you would love working for Disney Entertainment & ESPN Technology Building the future of Disney’s media business:
+
+DE&E (Disney Entertainment & ESPN) Technologists Are Designing And Building The Infrastructure That Will Power Disney’s Media, Advertising, And Distribution Businesses For Years To Come. Reach & Scale
+
+The products and platforms this group builds and operates delight millions of consumers every minute of every day – from Disney+ and Hulu, to ABC News and Entertainment, to ESPN and ESPN+, and much more. Innovation:
+
+Utilize Cutting Edge Machine Learning Methods To Deploy And Develop Algorithms For Personalization, Recommendation, And Other Predictive Systems; Maintain Algorithms Deployed To Production And Be The Point Person In Explaining Methodologies To Technical And Non-technical Teams. Feature Engineering And Optimization
+
+We develop and execute groundbreaking products and techniques that shape industry norms and enhance how audiences experience sports, entertainment & news. The vision of the Machine Learning (ML) Engineering team at Disney is to drive and enable ML usage across several domains in heterogeneous language environments and at all stages of a project’s life cycle, including ad-hoc exploration, preparing training data, model development, and robust production deployment. The team is invested in continual innovation on the ML infrastructure itself to carefully orchestrate a continuous cycle of learning, inference, and observation while also maintaining high system availability and reliability. We seek to maximize the positive business impact of all ML at Disney streaming by supporting key product functions like personalization and recommendation, fraud and abuse prevention, capacity planning, subscriber growth and lifecycle intelligence, and so on. In this role, you will be expected to lead recommendation and personalization algorithm research, development, implementation, and optimization for product areas, and work on event and context processors to federate data, infrastructure and tooling to enable event-driven ML pipelines. You will own and expand part of our central feature store that powers ML use cases in domains like recommendations, search and fraud. You will work on cross-functional projects and push the envelope on data and ML infrastructure. What You Will Do Algorithm Development and Maintenance:
+
+Develop And Maintain ETL Pipelines Using Orchestration Tools Such As Airflow And Jenkins; Deploy Scalable Streaming And Batch Data Pipelines To Support Petabyte Scale Datasets. Development Best Practices
+
+Maintain existing and establish new algorithm development, testing, and deployment standards. Collaborate with product and business stakeholders:
+
+Identify and define new personalization opportunities and work with other data teams to improve how we do data collection, experimentation and analysis. What You Will Bring Basic Qualifications 7+ years of relevant experience developing machine learning models, performing large-scale data analysis, and/or data engineering experience. 7+ years of experience writing production-level, scalable code (e.g. Python, Scala). 5+ years of experience developing algorithms for deployment to production systems. In-depth understanding of modern machine learning (e.g. deep learning methods), models, and their mathematical underpinnings. Experience deploying and maintaining pipelines (AWS, Docker, Airflow) and in engineering big-data solutions using technologies like Databricks, S3, and Spark. Strong written and verbal communication skills. Preferred Qualifications MS or PhD in statistics, math, computer science, or related quantitative field. Production experience with developing content recommendation algorithms at scale. Experience building and deploying full stack ML pipelines: data extraction, data mining, model training, feature development, testing, and deployment. Ability to gauge the complexity of machine learning problems and a willingness to execute simple approaches for quick, effective solutions as appropriate. Familiar with metadata management, data lineage, and principles of data governance. Experience loading and querying cloud-hosted databases. Building streaming data pipelines using Kafka, Spark, or Flink. Experience with: AWS, Docker, Airflow, Databricks. Required Education Bachelor’s Degree in Computer Science, Mathematics, Statistics, or related quantitative field or comparable field of study, and/or equivalent work experience. #DISNEYTECH
+
+About Disney Entertainment & ESPN Technology
+
+Disney Entertainment and ESPN Technology (DE&E Technology) provides the technological backbone and product development for Disney’s two media business units, while helping to keep the company at the vanguard of innovation – enabling the Company to continuously leverage technology to enhance storytelling and creativity, while delivering scalability, flexibility, and efficiency for its businesses. About The Walt Disney Company:
+
+The Walt Disney Company, together with its subsidiaries and affiliates, is a leading diversified international family entertainment and media enterprise that includes three core business segments: Disney Entertainment, ESPN, and Disney Experiences. From humble beginnings as a cartoon studio in the 1920s to its preeminent name in the entertainment industry today, Disney proudly continues its legacy of creating world-class stories and experiences for every member of the family. Disney’s stories, characters and experiences reach consumers and guests from every corner of the globe. With operations in more than 40 countries, our employees and cast members work together to create entertainment experiences that are both universally and locally cherished. This position is with Disney Streaming Technology LLC, which is part of a business we call Disney Entertainment & ESPN Technology. Disney Streaming Technology LLC is an equal opportunity employer. Applicants will receive consideration for employment without regard to race, religion, color, sex, sexual orientation, gender, gender identity, gender expression, national origin, ancestry, age, marital status, military or veteran status, medical condition, genetic information or disability, or any other basis prohibited by federal, state or local law. Disney champions a business environment where ideas and decisions from all people help us grow, innovate, create the best stories and be relevant in a constantly evolving world.
+
+#J-18808-Ljbffr
+
+Nice-to-have skills
+
+Python
+Scala
+Deep Learning
+AWS
+Docker
+S3
+Spark
+Kafka
+California, United States
+
+Work experience
+
+Machine Learning
+Data Engineer
+Data Infrastructure
+
+Languages
+
+English

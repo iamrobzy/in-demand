@@ -1,0 +1,38 @@
+About
+
+About the Role
+
+We are seeking a Machine Learning Systems Engineer to join our Model Evaluations team at Anthropic. This team is responsible for our Model Evaluations infrastructure and the APIs and infrastructure tailored for 'Research Inference.' In this role, you will build scalable systems that enable our researchers to effectively evaluate models and conduct inference tasks critical to our research mission. You'll collaborate with researchers across Anthropic to understand their needs and build infrastructure that makes their workflows more efficient and reproducible. Your work will directly impact Anthropic's ability to advance the frontiers of AI in a safe and responsible manner. Responsibilities
+
+Design, build, and maintain Model Evaluations infrastructure that enables researchers to systematically test and assess model capabilities. Develop and optimize APIs and infrastructure for Research Inference to accelerate the model development lifecycle. Create scalable data pipelines for collecting, processing, and analyzing research outputs. Implement monitoring, logging, and performance optimization for research-focused inference systems. Build intuitive interfaces and tools that allow researchers to configure, run, and analyze complex evaluation workflows. Collaborate with research teams to understand their evolving needs and translate requirements into reliable technical solutions. Improve system performance, reliability, and scalability to handle increasingly complex research needs. Participate in your team's on-call rotation, deliver operationally ready code, and exercise a high degree of customer focus in your work. Document systems thoroughly to enable broader adoption and ease of use. You May Be a Good Fit If You
+
+Have 5+ years of software engineering experience. Have significant software engineering experience. If you’re a strong engineer with no ML experience, that’s okay! Are results-oriented, with a bias towards flexibility and impact. Have experience with data infrastructure and processing large datasets. Are comfortable working independently and taking ownership of projects from conception to delivery. Have excellent communication skills and can collaborate effectively with research teams. Are proficient in Python and have experience with cloud infrastructure (AWS, GCP). Can anticipate the needs of research users and design systems that are both powerful and usable. Pick up slack, even if it goes outside your job description. Enjoy pair programming (we love to pair!). Care about the societal impacts of your work and are committed to developing AI responsibly. Strong Candidates May Also Have Experience With
+
+High Performance, Large-scale ML Systems. GPUs, Kubernetes, PyTorch, Or ML Acceleration Hardware. Building Evaluation Frameworks For Machine Learning Models. Working In Or Adjacent To ML Research Teams. Distributed Systems Design And Optimization. Real-time Inference Systems For Large Language Models. Performance Profiling And Optimization. Infrastructure As Code And CI/CD Pipelines. Deadline To Apply
+
+None. Applications will be reviewed on a rolling basis.
+
+#J-18808-Ljbffr
+
+Nice-to-have skills
+
+Machine Learning
+Python
+AWS
+GCP
+Kubernetes
+PyTorch
+GPUs
+Distributed Systems
+Optimization
+California, United States
+
+Work experience
+
+Machine Learning
+Data Engineer
+Data Infrastructure
+
+Languages
+
+English

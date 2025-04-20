@@ -1,0 +1,46 @@
+Your Job
+
+The growing demand for energy transformation to counter the effects of climate change and reduce dependence on imported energy sources and raw materials is driving the European energy system towards a dynamic, supply- and demand-driven approach, often organized in local energy communities with a high penetration of renewable resources.
+
+Power grids are critical infrastructure requiring ultra-reliable state estimation and control. With rising renewable energy integration, operators need certifiable performance guarantees to prevent blackouts while optimizing grid efficiency. Current models struggle to quantify uncertainty, risking overconfidence in volatile scenarios.
+
+The goal is to enhance grid stability predictions by integrating probabilistic models with dynamic decision-making strategies.
+
+Your Tasks In Detail
+
+Enhance existing Bayesian state estimation with reliability margins using both simulated and, if necessary, real-world grid data.
+Develop Use-Case-Specific Reinforcement Learning Algorithm for Grid Optimization linked to Bayesian uncertainty outputs
+Test bidirectional interaction: Bayesian updates → Reinforcement Learning policy adaptation → grid performance feedback.
+Validate on Critical Infrastructure Scenarios
+Formalize Performance Guarantees for Deployment 
+
+Your Profile:
+
+Excellent university degree (Bachelor) in field of Data Science or a comparable field i.e. Electrical Engineering, Computer Science/ Engineering or Physics
+Strong mathematical background
+Interest in energy systems, power grids and communication infrastructures
+Excellent knowledge and experience in programming Python
+Excellent knowledge and experience in machine learning
+Experience with git is welcome
+Excellent ability for cooperative collaboration
+Very good communication skills in English
+Prior German knowledge is not strictly required
+
+Our Offer:
+
+We Work On The Very Latest Issues That Impact Our Society And Are Offering You The Chance To Actively Help In Shaping The Change! We Support You In Your Work With
+
+A highly motivated research group in one of the biggest research centers in Europe
+An excellent scientific and technical infrastructure: both necessary conditions for a successful Master thesis
+Participation in project meetings and, if necessary, conferences
+Strong support and mentoring for setting up a future career in science and/or the industry
+The opportunity to work flexibly (in terms of location), partly e.g. from home
+Targeted services for international employees, e.g. through our International Advisory Service
+
+In addition to exciting tasks and a collaborative working atmosphere in Jülich, we have a lot more to offer: https://go.fzj.de/benefits
+
+The position is for a flexible term of 0,5 - 1 year.
+
+We welcome applications from people with diverse backgrounds, e.g. in terms of age, gender, disability, sexual orientation / identity, and social, ethnic and religious origin. A diverse and inclusive working environment with equal opportunities in which everyone can realize their potential is important to us.
+
+Further information on diversity and equal opportunities: https://go.fzj.de/equality

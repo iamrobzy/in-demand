@@ -1,0 +1,38 @@
+About
+
+Pison is developing breakthrough consumer and healthcare products that are harnessing the power of the mind. We’ve pioneered the science of electroneurography (ENG) to non-invasively sense, analyze, and apply electrical signals coming from the brain. Our neural biosensor and artificial intelligence software are opening a new window to thousands of new, neural-based applications that can improve human health and wellness and help individuals control their environment via gesture recognition. Our vision is to deliver real-time, actionable insights into the state of the body’s nervous system, guiding users to better health and higher achievement in every domain of human endeavor. We are looking for an experienced Machine Learning Engineer to join our growing team and bring their knowledge and expertise to the team. You will work side by side with the Algorithm and Research teams to develop robust, production-level Machine Learning codes and libraries for R&D efforts. We are looking for a seasoned engineer who can build and contribute to our growth and success. Due to our work with the United States government, US citizenship is mandatory. This position is located in our Boston, MA office. This position would be expected to work onsite Mon - Thurs. Duties/Responsibilities:
+
+Skills
+
+Develop production-level ML libraries and algorithms for gesture classifications for our current device and future products. Help architect, design, and build ML software tools used by the ALGO team. Mentor junior-level scientists and engineers, focusing on software engineering skills and practices. Review the code developed by other members on the team - providing feedback and insight to peers. Contribute to the ALGO team’s model research effort. Education and Experience:
+
+A BS degree in CS or related fields with industrial experience. Fluent in Python. Good knowledge and experience with Asyncio, Numpy, Scipy, Pandas, Tornado or other Python web frameworks. Good knowledge and experience with Cython, numeric code optimization, complexity analysis, and multi-processing in Python. Experience with Git, Google Compute Cloud, and Docker. Self-starter and comfortable working autonomously. Excited to mentor and help junior engineers grow. Bonus:
+
+Experience with GUI development in Python. PyQt is preferred, but experience with other frameworks will be good. $115,000 - $140,000 a year
+
+This Employer Participates in E-Verify. We understand that candidates can feel discouraged if they do not tick every box. We encourage you to apply. Pison is building a diverse team with people from all backgrounds who can help us build an inclusive organization.
+
+#J-18808-Ljbffr
+
+Nice-to-have skills
+
+Machine Learning
+Python
+Numpy
+SciPy
+Pandas
+Tornado
+Cython
+Git
+Docker
+GUI Development
+PyQt
+Massachusetts, United States
+
+Work experience
+
+Machine Learning
+
+Languages
+
+English

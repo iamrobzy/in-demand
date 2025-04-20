@@ -1,0 +1,94 @@
+About
+
+Summary:
+
+Meta is seeking Machine Learning Engineers to join our engineering team. The ideal candidate will have industry experience working on a range of classification and optimization problems like payment fraud, click-through rate prediction, click-fraud detection, search ranking, text/sentiment classification, collaborative filtering/recommendation, or spam detection. The position will involve taking these skills and applying them to some of the most exciting and massive social data and prediction problems that exist on the web.
+
+Required Skills
+
+Software Engineer (Technical Leadership) - Machine Learning Responsibilities:
+
+Drive the team's goals & technical direction to pursue opportunities that make your larger organization more efficient
+
+Effectively communicate complex features & systems in detail
+
+Understand industry & company-wide trends to help assess & develop new technologies
+
+Partner & collaborate with organization leaders to help improve the level of performance of the team & organization
+
+Identify new opportunities for the larger organization & influence the appropriate people for staffing/prioritizing these new ideas
+
+Suggest, collect and synthesize requirements and create an effective feature roadmap
+
+Develop highly scalable classifiers and tools leveraging machine learning, data regression, and rules-based models
+
+Adapt standard machine learning methods to best exploit modern parallel environments (e.g. distributed clusters, multicore SMP, and GPU)
+
+Minimum Qualifications
+
+Minimum Qualifications:
+
+Bachelor's degree in Computer Science, Computer Engineering, relevant technical field, or equivalent practical experience.
+
+Experience leading projects with industry-wide impact
+
+Experience Communicating And Working Across Functions To Drive Solutions
+
+Experience in mentoring/influencing senior engineers across organizations
+
+Proven track record of planning multi-year roadmap in which short-term projects ladder to the long-term vision
+
+Experience in driving large cross-functional/industry-wide engineering efforts
+
+12+ years of experience in programming languages (Python, C++, Java or R) with technical background
+
+8+ years of experience in one or more of the following areas: machine learning, recommendation systems, pattern recognition, NLP, data mining or artificial intelligence
+
+Preferred Qualifications
+
+Preferred Qualifications:
+
+Experience in shipping products to millions of customers or have started a new line of product
+
+Experience with Hadoop/HBase/Pig or MapReduce/Sawzall/Bigtable/Hive/Spark
+
+Public Compensation
+
+$213,000/year to $293,000/year + bonus + equity + benefits
+
+Industry
+
+Internet
+
+Equal Opportunity
+
+Meta is proud to be an Equal Employment Opportunity and Affirmative Action employer. We do not discriminate based upon race, religion, color, national origin, sex (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender, gender identity, gender expression, transgender status, sexual stereotypes, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics. We also consider qualified applicants with criminal histories, consistent with applicable federal, state and local law. Meta participates in the E-Verify program in certain locations, as required by law. Please note that Meta may leverage artificial intelligence and machine learning technologies in connection with applications for employment.
+
+Meta is committed to providing reasonable accommodations for candidates with disabilities in our recruiting process. If you need any assistance or accommodations due to a disability, please let us know at accommodations-ext@fb.com.
+
+Nice-to-have skills
+
+Python
+C++
+Java
+R
+Hadoop
+HBase
+Pig
+Hive
+Spark
+Machine Learning
+Pattern Recognition
+Data Mining
+Artificial Intelligence
+Montana, United States
+
+Work experience
+
+Machine Learning
+NLP
+Data Engineer
+
+Languages
+
+English

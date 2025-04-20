@@ -1,0 +1,38 @@
+About
+
+Data Scientist with Machine Learning and NLP
+
+3MK Software Solutions is the leading software service solutions provider and IT Staffing Supplier company, outsourcing and complex implementation services for the business across different functional areas and technologies with a core focus on software development and web designing development and GIS Software solutions and services. Our team is our core strength, we have selected the most skilled and talented specialists from the IT industry, and we continuously invest in developing their capabilities. The core management has many years of experience and has successfully led complex projects for major corporations in the field of healthcare, communication, retail, and finance. During the term of these projects, the team had needed to develop an advanced implementation methodology. Job Description: We are seeking a smart and engaged Data Scientist to work with our large data sets. As an intelligence connection & search-product oriented firm you can imagine the amount of
+
+data we're uncovering . We need your help
+
+Required Skills
+
+developing advanced mathematical and statistical models to map data and deliver web analytics. Our product is widely utilized but is perhaps most useful in an academic and/or research capacity. Natural Language Processing (NLP) Machine Learning Minimum Required Skills:
+
+R, Python, SQL, Hadoop, Algorithms, Machine Learning, Data Mining Responsibilities: Data Scientist - machine learning & NLP modeling Machine learning development and deployment Advanced
+
+NLP modeling Bachelor's or Master's degree in Computer Science, Statistics, or Mathematics Develop statistical modeling techniques for pattern recognition problems. Develop code in Python, R, and SQL, or other object-oriented languages for modeling optimization, simulation, and statistical analysis. Build models that maximize performance and accuracy Strategic planning and project management. All your information will be kept confidential according to EEO guidelines.
+
+#J-18808-Ljbffr
+
+Nice-to-have skills
+
+R
+Python
+SQL
+Hadoop
+Algorithms
+Machine Learning
+Data Mining
+California, United States
+
+Work experience
+
+Data Engineer
+Machine Learning
+NLP
+
+Languages
+
+English

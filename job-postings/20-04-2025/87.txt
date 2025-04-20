@@ -1,0 +1,27 @@
+About
+
+About Us We are on a mission to bridge the gap between enterprise business knowledge and data, democratizing data discovery and curation to prepare organizations for the era of generative AI. Today's data tools are overly complex, poorly integrated, and siloed, forcing AI Practitioners and data scientists alike to spend more time wrestling with tools, relying on tribal knowledge, and navigating data lakes rather than doing meaningful data science work. The current landscape of data tools and processes is heavily manual and needs to catch up with the vast amount of data generated daily. With the advent of Gen AI and multi-modality, this challenge has only grown more complex and broken. Backed by top VC funds, we are committed to making enterprise data AI-ready faster, more reliably, and with a stronger foundation of factual semantic knowledge. This leads to more accurate models, superior outcomes, and better business results. Our team of seasoned data infrastructure and machine learning experts (from LinkedIn, Visa, Truera, Hive, and Branch) has spent the past two decades building bespoke systems to solve these very challenges. Join our growing team of ML research and data infrastructure experts. We're committed to empowering AI and data scientists to seamlessly integrate semantic learning with generative AI. Be part of our journey to shape the future of enterprise AI. About the job We are looking for a Machine Learning Engineer to join our team who is
+
+Based In The Bay Area Or Willing To Move . The Ideal Candidate Should Have Expertise In One Or More Of The Following Areas
+
+Knowledge Extraction, Natural Language Understanding, Unsupervised Learning, Information Retrieval, and Fine-tuning LLMs . In this role, you'll play a critical part in developing and training the models, pipelines, and methodologies that power our semantic graph systems. We're looking for someone with a strong background in machine learning, natural language processing, LLMs, and semantic technologies, with a proven track record of tackling complex, large-scale machine learning projects. What You Will be Doing Build and/or use best-in-class models to extract knowledge from heterogeneous sources Develop methods to build and evaluate AI Data Graphs Fine-tuning LLMs with domain-specific context Work with data infra engineers to develop the best platform for your needs Prior Experience MS degree in CS or equivalent Startup experience is highly preferred 3+ yrs experience in Machine Learning or Knowledge Extraction 3+ yrs experience working with text Experience working with and fine-tuning language models such as BERT, LLM, SLMs Experience with NLP tools such as spacy, openNLP, openNER, GLiNER, etc. Experience with embedding-based retrieval Strong background in the fundamentals of machine learning Deployed and maintained ML, NLP or LLM models in production Strong data manipulation skills using tools such as numpy and pandas Great communication skills and a team player Nice to Have Familiar with LLM ecosystem and best practices of fine-tuning and prompt-engineering Experience working on ML and data in the cloud Experience with GPU optimization Experience working with docker, k8s Experience working with ray, vllm
+
+#J-18808-Ljbffr
+
+Nice-to-have skills
+
+Machine Learning
+Numpy
+Pandas
+Docker
+Kubernetes
+California, United States
+
+Work experience
+
+Machine Learning
+NLP
+
+Languages
+
+English

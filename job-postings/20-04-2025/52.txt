@@ -1,0 +1,38 @@
+About
+
+About Us DELFI Diagnostics, Inc. (DELFI Diagnostics) is developing next-generation, blood-based tests that are reliable, accessible and deliver a new way to help detect cancer. Employing advanced machine-learning methods to whole-genome sequencing data, the DELFI ("DNA EvaLuation of Fragments for early Interception") platform is built to address the highest-burden health challenges. DELFI Diagnostics prioritizes solutions that have the potential to save lives on a global scale, including for historically underserved populations. DELFI Diagnostics’ platform relies on fragmentomics – the discovery that cancer cells are more chaotic than normal cells and, when they die, leave behind tell-tale patterns and characteristics of cell-free DNA (cfDNA) fragments. FirstLook Lung, for individuals eligible for lung cancer screening, is DELFI Diagnostics’ first laboratory-developed screening test and can be part of routine blood work. FirstLook Lung uses millions of data points to reliably identify individuals who may have cancer detected through low-dose CT, including early stage disease with a negative predictive value of 99.8 percent. This test has not been cleared or approved by the FDA. In our passionate pursuit to radically improve health outcomes, we serve humanity when we: Lead with Science, Anchor in Pragmatism : We pioneer life-changing science by ensuring quality, transparency, and rigor at all times. We explore thoughtfully, experiment smartly, and deliver impact with conviction. Build With & For All : We embrace diverse backgrounds to innovate and achieve together. We are not just building a product - we aim to disrupt the path of cancer for all - no matter geography or socioeconomic class. Put We over I : We are a home for high-performing people. Through teamwork, we build collective intelligence. Each of us wins when those we serve and those who serve with us--win. We show up with empathy, humility, and integrity at every step of the journey. DELFI has 1-2 designated in-office working days each week for employees who live within 50 miles of Palo Alto CA or Baltimore MD offices. This role is responsible for leading a technical team focused on developing and validating computational algorithms for cancer detection using blood-based omics data. You will lead cross-functional collaboration with assay development teams, clinical data scientists, and software engineers to successfully transition cutting-edge research models into production environments. This position requires a unique blend of technical leadership, scientific expertise, and collaborative skills to advance cancer detection technologies from research concepts to practical applications. What you’ll do
+
+Manage and lead a team of data scientists developing and locking computational algorithms to detect cancer from blood-based omics assays. Oversee day to day technical work of the team, bringing to bear best practices from statistical / machine learning. Read and review the literature, code releases, patents, and hardware/systems updates to keep abreast of current advancements in the fast-moving field of computational biology & ML. Develop solid understanding of in-house assays and workflows, sources of variation, and data pipelines. Collaborate closely with peers in assay development, clinical data science, and software to advance performant models from research into a production environment. What you’ll bring to DELFI
+
+PhD in Computer Science, Computational biology/Bioinformatics, Mathematics, Statistics, or EE. 5+ years’ experience with a wide variety of classical and modern methods used in machine learning and AI (unsupervised, semi-supervised, or supervised learning) as evidenced by strong publication record and/or algorithms released into production. Strong grasp of veridical data science, explainable AI, scientific measurement error, sources of variation, and best practices to control variation either experimentally or algorithmically. 5+ years of industry experience in ML including at least 3 years’ experience in biotech, pharma, or diagnostics with increasing technical or managerial responsibility in a research or product development context. 5+ years expertise programming in Python/R including modern ML frameworks (Tensorflow, Pytorch, or Jax), production compute environments (AWS/Nvidia), and versioning principles for reproducible model-building and evaluation. Experience developing research-grade algorithms based on biological data, and collaborating with software teams to prioritize and move research efforts to production. 3+ years of experience managing a team in a fast-paced environment with proven success delivering statistical models, machine learning algorithms and results in pursuit of corporate objectives. Excellent mentor and manager with demonstrated ability to develop the career of junior scientists and engineers to inspire their best work. Collaborative, passionate, and driven with a “can-do” attitude. What we offer full-time employees
+
+100% paid medical, dental and vision premiums for employees and dependents. 4 months fully paid parental leave. Flexible Time Off. 5 day winter break in December. A meaningful mission and strong company culture. $180,000 - $263,000 a year
+
+The total compensation for this role includes salary, bonus, equity, and benefits. Actual compensation packages are based on a wide array of factors unique to each candidate, including but not limited to skillset, years & depth of experience, certifications & relevant education, geography.
+
+We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status. This position is not eligible for agency partnership. Resumes and outreach from staffing representatives will be declined.
+
+#J-18808-Ljbffr
+
+Nice-to-have skills
+
+Machine Learning
+Artificial Intelligence
+Data Science
+Python
+R
+TensorFlow
+PyTorch
+AWS
+Algorithms
+California, United States
+
+Work experience
+
+Machine Learning
+Data Engineer
+Data Scientist
+
+Languages
+
+English

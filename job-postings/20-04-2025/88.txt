@@ -1,0 +1,50 @@
+About
+
+Director, Product Management, Enterprise AI and Machine Learning (ML) - AI Safety Product Management Product Management at Capital One is a booming, vibrant craft that requires reimagining the status quo, finding value creation opportunities, and driving innovative and sustainable customer experiences through technology. We believe our portfolio of businesses and investments in growth and transformation will result in a company with the scale, brand, capabilities, talent, and values to succeed as the digital revolution transforms our society and our industry. Do you dream of well-designed and intuitive products and customer experiences? Do you want to be the one who introduces change to help tens of millions of customers make smarter financial choices? Do you want to change the way people manage their money? If you answered yes to all of these questions, then product management at Capital One may be a fit for you. In this role, you’ll be expected to demonstrate proficiency in four key areas: Human Centered
+
+You’ll deeply immerse yourself in knowing your internal and/or external customer(s) by employing empathy and design thinking to define broad-scale solutions that provide breakthrough leverage. You’ll model adaptability by encouraging continuous evolution to product strategy in light of industry trends, emerging solutions, new insights and changing customer and business needs.
+
+Business Focused
+
+You’ll deeply learn the financial drivers, externalities, and points of leverage within your domain to identify new products or product enhancements that drive sustainable value for Capital One. You’ll promote a culture anchored in data, used to instrument products, validate outcomes, drive insights, and manage the business both tactically and strategically.
+
+Technology Driven
+
+You’ll be responsible for fostering a strong agile discipline and inspiring teams to continuously improve delivery evidenced through key agility metrics. You’ll partner with Technology leaders to influence end-state architecture and drive secure, resilient, performant and scalable technology solutions that solve material customer and business problems. You’ll govern the responsible and efficient application of technology resources by assessing opportunities for reusing existing solutions, clearly defining minimum viable products, and always building with extensibility in mind.
+
+Transformational Leadership
+
+You’ll establish a long-term product portfolio strategy, informed by customer and business needs, and partner with leaders and stakeholders to regularly drive alignment, secure resources and overcome impediments. You’ll attract, grow, empower, and inspire top product talent as they develop and deliver on their local product strategy in an iterative, outcome-focused and well-managed way.
+
+As part of the Product Director - Enterprise AI/ML position, you will: Partner with researchers to bring cutting-edge Generative AI research to Capital One. Evaluate, test, and develop proof-of-concepts for AI Safety technologies including Guardrails, Content Moderation, Cyber Security and Data Loss prevention. Collaborate with tech, design and data science to scale and productionize AI Safety capabilities. Develop short- and long-term strategies for our products and research areas. Lead teams of product managers to drive exploration and development of new products. We want you if you are: Intellectually Curious:
+
+You’re Comfortable Navigating Between The Big Ideas And Executional Realities To Create An Achievable Strategic Product Vision. Comfortable With Ambiguity, a Hunger To Learn And a Seeker Of New Challenges. Communicator & Influencer
+
+You’re comfortable influencing a group of executives as well as communicating your product vision clearly to your associates and partners. You can be open to different communication styles and listen carefully to diverse sets of ideas. Do-er:
+
+You’re Biased Toward Action, And Are Willing To Make Commitments And Trade-offs With Other Leaders To Remove Impediments For Your Team; You Are a Leader Obsessed With Delivering Value In An Iterative Way Focusing On Minimum Viable Product. Passionate & Customer Focused
+
+You care about growing others and bringing them together around what’s possible. You have a desire and ability to connect with our external or internal customers to fully understand their needs and build long lasting relationships. Learner:
+
+You Have An Appetite To Learn New Things Or New Technologies All While Exhibiting Humbleness When Exploring Unknown Technologies; You Will Seek For Internal Solutions Before Building New. Team Player
+
+You enjoy working with diverse people and driving the team toward a common goal. You are also able to coach others and be a mentor in product development. Basic Qualifications: Bachelor’s Degree At least 7 years of experience in digital product management Preferred Qualifications: Bachelor’s Degree in Computer Science or Engineering MBA or Master’s degree 5+ years of experience in Agile product management 5+ years of experience translating business strategy and analysis into consumer facing digital products Familiarity with Generative AI technologies including Large Language Models (LLMs), Transformers, Retrieval Augmented Generation, LangChain, Guardrails, Agentic Workflows Capital One will consider sponsoring a new qualified applicant for employment authorization for this position. The minimum and maximum full-time annual salaries for this role are listed below, by location. Please note that this salary information is solely for candidates hired to perform work within one of these locations, and refers to the amount Capital One is willing to pay at the time of this posting. Salaries for part-time roles will be prorated based upon the agreed upon number of hours to be regularly worked. Chicago, IL: $205,400 - $234,400 for Director, Product Management McLean, VA: $226,000 - $257,900 for Director, Product Management San Francisco, CA: $246,500 - $281,300 for Director, Product Management Candidates hired to work in other locations will be subject to the pay range associated with that location, and the actual annualized salary amount offered to any candidate at the time of hire will be reflected solely in the candidate’s offer letter. This role is also eligible to earn performance based incentive compensation, which may include cash bonus(es) and/or long term incentives (LTI). Incentives could be discretionary or non-discretionary depending on the plan. Capital One offers a comprehensive, competitive, and inclusive set of health, financial and other benefits that support your total well-being. Learn more at the
+
+Capital One Careers website . Eligibility varies based on full or part-time status, exempt or non-exempt status, and management level. This role is expected to accept applications for a minimum of 5 business days. No agencies please. Capital One is an equal opportunity employer committed to diversity and inclusion in the workplace. All qualified applicants will receive consideration for employment without regard to sex (including pregnancy, childbirth or related medical conditions), race, color, age, national origin, religion, disability, genetic information, marital status, sexual orientation, gender identity, gender reassignment, citizenship, immigration status, protected veteran status, or any other basis prohibited under applicable federal, state or local law. Capital One promotes a drug-free workplace.
+
+#J-18808-Ljbffr
+
+Nice-to-have skills
+
+Cyber Security
+California, United States
+
+Work experience
+
+Product Owner / Product Manager
+Machine Learning
+Software Architect
+
+Languages
+
+English

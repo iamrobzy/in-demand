@@ -1,0 +1,54 @@
+About
+
+Amazon Web Services provides a highly reliable, scalable, low-cost infrastructure platform in the cloud that powers hundreds of thousands of businesses in 190 countries around the world. AWS has the broadest and deepest set of machine learning and AI services for our customers’ businesses. We are seeking experienced Physical Design Engineer to build the next generation of our cloud server platforms. Our success depends on our world-class infrastructure; we’re handling massive scale and rapid integration of emergent technologies.
+
+As a member of the Cloud-Scale Machine Learning Acceleration team you’ll be responsible for the design and optimization of Hardware in our data centers including technologies such as AWS Inferentia which is a machine learning inference product designed to deliver high performance at low cost.
+
+You’ll provide leadership in the application of new technologies to large scale deployments in a continuous effort to deliver a world-class customer experience. This is a fast-paced, intellectually challenging position, and you’ll work with thought-leaders in multiple technology areas. You’ll have relentlessly high standards for yourself and everyone you work with, and you’ll be constantly looking for ways to improve our products' performance, quality and cost. We’re changing an industry, and we want individuals who are ready for this challenge and want to reach beyond what is possible today.
+
+Key job responsibilities
+
+Develop & maintain flows for block and full-chip level static timing analysis Write, debug & validate timing constraints for blocks and full-chip. Run Static Timing Analysis and give frequent feedback to team members and leads. Provide guidance on how to fix timing issues (generate ECOs, fix constraint issues). Develop scripts to automate running timing analysis and generate reports. Be a highly-valued member of our start-up like team through excellent collaboration and teamwork with other physical design engineers as well as with the RTL/Arch. teams
+
+Basic Qualifications
+
+Preferred Qualifications
+
+BS + 8yrs or MS + 6yrs or PhD + 4yr in EE/CS
+Expertise in timing analysis fundamentals
+3+ years doing Static Timing Analysis
+3+ years with timing constraint development
+Timing Analysis using EDA tools (examples: PrimeTime, Tempus, or others)
+Understanding of ASIC Physical Design from RTL-to-GDSII
+Understanding of other sign-off activities (ir/em, physical verification, DFT)
+3+ years of scripting experience with Tcl, Perl or Python
+Expertise developing flows using STA tools (examples: PrimeTime, Tempus or others)
+Expertise in ECO flows (examples: PT-DMSA, Tempus-ECO, Tweaker or others)
+Experience in advanced nodes - 16nm or below
+Expertise in parasitic extraction tools (examples: STAR-RC, Quantus or others)
+Expertise on circuit level analysis using tools like SPICE / SPECTRE
+Experience with timing of IO interfaces like DDR, HBM, PCIe, Die-to-Die etc.
+Leadership and mentoring skills
+Meets/exceeds Amazon’s leadership principles requirements for this role
+Meets/exceeds Amazon’s functional/technical depth and complexity for this role
+
+Amazon is committed to a diverse and inclusive workplace. Amazon is an equal opportunity employer and does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, or other legally protected status.
+
+#J-18808-Ljbffr
+
+Nice-to-have skills
+
+Scripting
+TCL
+Perl
+Python
+PCIe
+California, United States
+
+Work experience
+
+Hardware
+
+Languages
+
+English

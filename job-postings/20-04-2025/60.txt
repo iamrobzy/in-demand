@@ -1,0 +1,35 @@
+About
+
+About Checkr Checkr is building the data platform to power safe and fair decisions. Established in 2014, Checkr’s innovative technology and robust data platform help customers assess risk and ensure safety and compliance to build trusted workplaces and communities. Checkr has over 100,000 customers including DoorDash, Coinbase, Lyft, Instacart, and Airtable.
+
+We’re a team that thrives on solving complex problems with innovative solutions that advance our mission. Checkr is recognized on Forbes Cloud 100 2024 List and is a Y Combinator 2024 Breakthrough Company. As a Senior Machine Learning Engineer
+
+on the ML & AI engineering team at Checkr you will be responsible for building and managing end–to-end, cutting edge ML application systems to contribute to Checkr top strategic goals. You will work closely with other engineering and product teams to implement the best algorithms and processes at scale across Checkr services. What you’ll do Develop Cutting-Edge ML/AI Solutions : Collaborate closely with product and engineering teams to design, develop, and deploy innovative ML/AI models and algorithms. Ship ML/AI in Product:
+
+Partner with product teams to embed and scale ML/AI capabilities within our external product offerings, ensuring state-of-the-art technology is seamlessly integrated to provide tangible value to our users. Model Evaluation and Optimization : Fully own the performance of machine learning models, iterating and optimizing them for accuracy, efficiency, and scalability. Cross-Functional Collaboration : Work with various stakeholders, including data scientists, software developers, and product managers, to understand business requirements and translate them into technical solutions. Stay Ahead of Industry Trends : Keep abreast of the latest advancements in machine learning, artificial intelligence, and related fields, championing innovation and applying cutting-edge techniques to solve complex problems. Mentorship and Leadership : Provide guidance and mentorship to junior engineers within the team, fostering a culture of continuous learning and improvement. What you bring Educational background : BSc, MSc, or PhD in Computer Science, Mathematics, or a related technical field, providing a strong foundation in technical knowledge and problem-solving skills. Industry experience : 7+ years, especially in roles focused on machine learning. Production-ready ML/NLP systems : Experience building ML/NLP systems ready for production, demonstrating expertise in natural language processing. Programming skills : Proficiency in Python, enabling seamless implementation and integration of your solutions. ML frameworks : Hands-on experience building and designing experiments to evaluate different ML/AI algorithms (including deep learning) is a plus. Knowledge of PySpark and MLOps frameworks like SageMaker and MLFlow is also a plus. GenAI:
+
+Knowledge of generative AI, fine-tuning, and AI design patterns is a plus. Data manipulation and analysis : Proficiency with Pandas and sci-kit learn, essential for data preprocessing and model evaluation. What you’ll get A fast-paced and collaborative environment Learning and development allowance Competitive compensation and opportunity for advancement 100% medical, dental, and vision coverage Up to $25K reimbursement for fertility, adoption, and parental planning services Flexible PTO policy Monthly wellness stipend, home office stipend Catered Lunch and snacks At Checkr, we believe a hybrid work environment strengthens collaboration, drives innovation, and encourages connection. Our hub locations are Denver, CO, San Francisco, CA, and Santiago, Chile. Individuals are expected to work from the office 2 to 3 days a week. In-office perks are provided, such as lunch four times a week, a commuter stipend, and an abundance of snacks and beverages. The base salary range for this role is
+
+$207,000 to $244,000
+
+in San Francisco, CA. Equal Employment Opportunities at Checkr Checkr is committed to hiring talented and qualified individuals with diverse backgrounds for all of its tech, non-tech, and leadership roles. Checkr believes that the gathering and celebration of unique backgrounds, qualities, and cultures enriches the workplace. Checkr also welcomes the opportunity to consider qualified applicants with prior arrest or conviction records. Checkr’s commitment to diversity extends to hiring talented individuals in spite of a prior criminal history in accordance with local, state, and/or federal laws, including the
+
+San Francisco’s Fair Chance Ordinance. Apply for this job #J-18808-Ljbffr
+
+Nice-to-have skills
+
+Python
+Pandas
+Scikit-learn
+PySpark
+Deep Learning
+California, United States
+
+Work experience
+
+Machine Learning
+NLP
+
+Languages
+
+English

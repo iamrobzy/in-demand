@@ -1,0 +1,37 @@
+Dice is the leading career destination for tech experts at every stage of their careers. Our client, URSI Technologies Inc., is seeking the following. Apply via Dice today!
+
+Title: Data Analyst ( Machine Learning )
+
+Location: Atlanta,GA- Hybrid
+
+Duration:12 Months
+
+Job Description
+
+Designing and maintaining data systems and databases; this includes fixing coding errors and other data-related problems. Mining data from primary and secondary sources, then reorganizing said data in a format that can be easily read by either human or machine. Using statistical tools to interpret data sets, paying particular attention to trends and patterns that could be valuable for diagnostic and predictive analytics efforts.
+Required Skills/Experience (Skills that the successful candidate(s) must have)
+Bachelor's degree in data science, data analytics, or a related field.
+Proficiency in programming languages: SQL, Python and PySpark.
+Minimum 3 years of experience with data visualization tools such as Power BI, Dax Queries, and best practices.
+Experience with GenAI and large language models.
+Must know how to analyze the root cause of dashboard errors.
+Have experience in ML Ops and have strong coding background.
+Have experience with Natural Language Processing (NLP).
+Expertise in data mining and machine learning.
+Knowledge or experience with A/B Testing.
+Working knowledge of designing, training, and implementing machine learning models.
+Familiarity with cloud-based infrastructure.
+7 or more years of experience in data science and machine learning engineering. 
+Additional Skills (Skills that are a plus, but not required)
+Master s degree or Ph.D. in a quantitative field, such as statistics, computer science, mathematics, or engineering.
+Azure Databrick Data Engineer Certification is a plus.
+Experience with big data analytics technologies such as Spark and Hadoop.
+Responsibilities
+Collaborate with business stakeholders to understand their requirements and translate them into technical specifications.
+Communicate insights and findings to business stakeholders.
+Build, deploy, and maintain data management systems and back-end data infrastructure for our machine learning pipeline.
+Build dashboards and analyze the root cause of dashboard malfunctions.
+Perform data mining, exploration, and analysis.
+Create data visualizations, reports, dashboards, and data audits.
+Design, train, and implement machine learning algorithms.
+Leverage predictive models to optimize customer experiences.

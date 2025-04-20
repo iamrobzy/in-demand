@@ -1,0 +1,51 @@
+About
+
+About Pinterest : Millions of people across the world come to Pinterest to find new ideas every day. It’s where they get inspiration, dream about new possibilities and plan for what matters most. Our mission is to help those people find their inspiration and create a life they love. In your role, you’ll be challenged to take on work that upholds this mission and pushes Pinterest forward. You’ll grow as a person and leader in your field, all the while helping Pinners make their lives better in the positive corner of the internet. Creating a life you love also means finding a career that celebrates the unique perspectives and experiences that you bring. As you read through the expectations of the position, consider how your skills and experiences may complement the responsibilities of the role. We encourage you to think through your relevant and transferable skills from prior experiences. Our new progressive work model is called PinFlex, a term that’s uniquely Pinterest to describe our flexible approach to living and working. Visit our
+
+PinFlex
+
+landing page to learn more. The Responsible AI team is part of the Advanced Technologies Group (ATG), Pinterest’s advanced machine learning team. ATG’s goal is to keep Pinterest at the forefront of machine learning technology across multiple use cases including recommendations, ranking, content understanding, and more. It is an applied team that works horizontally across the company on state of the art AI and ML and works on directly bringing that technology to the product in collaboration with product engineering teams. The team also publishes its work in applied research conferences, but the main goal of the team is to have a direct impact on business metrics. At Pinterest our goal is to inspire Pinners (our users) to live the life they love. The product is powered by state of the art ML algorithms which are used to understand both the billions of visually rich items on the platform and the interests of our 500M+ monthly active users and recommend inspiring personalized content to them. What this means is that ML at Pinterest is not only multi-modal utilizing image, text, and graph signals as input, but it needs to operate at a very large scale and often in a real time interactive user experience. Pinterest is known for being a positive and inspirational place on the internet and we believe that inspiration begins with representation and belonging. The Responsible AI team is a horizontal team that collaborates across the company on various initiatives. These range from Generative AI alignment, evaluation, and mitigations - ensuring these models are safe, bias-free, and aligned with Pinterest’s vision and policies - to championing ML Fairness and developing user-facing features that enhance our product for all users. This includes launching groundbreaking features such as user-controllable
+
+skin tone ,
+
+hair pattern
+
+search refinements, and more recently,
+
+body type . We are looking for a
+
+Tech Lead Engineer to steer pivotal engineering initiatives in the Responsible AI space , collaborating with senior leaders to refine and set our technical direction. You’ll help shape forward-thinking projects, develop advanced ML approaches rooted in fairness and equitability, and pioneer responsible AI safeguards for emerging technologies. By joining this team, you’ll make a lasting impact on our Pinners, our business, and the evolution of ethical AI at Pinterest. What you'll do: Lead projects in the responsible AI frontier, to identify, avoid, and mitigate bias across a wide range of ML applications at Pinterest including generative AI. Collaborate with other engineering teams (trust and safety, user modeling, content understanding) to leverage their platforms and signals and work with them to adopt and evaluate Responsible AI practices and ML Fairness tooling across Pinterest. Mentor junior engineers on the Responsible AI team and across the company in the R-AI space. Work with the team and senior leaders at the company to define and drive technical strategy in this area. What we're looking for: Extensive, real-world experience applying advanced ML methods to production systems, with a strong track record in responsible technology - spanning fairness, ethics, and broader societal considerations. Deep familiarity with cutting-edge ML architectures (e.g., transformer-based models, 2-tower architectures, LLMs) and their applications in large-scale Search and Recommender Systems. Proven ability to measure, deploy, and refine fairness interventions and broader Responsible AI solutions at scale, bridging state-of-the-art research with tangible product impact. 5+ years working experience in the engineering teams that build large-scale ML-driven user-facing products. 2+ years experience leading cross-team engineering efforts. Masters or PhD in Comp Sci or related fields. Desired skills:
+
+Demonstrated track record in shaping and executing large-scale technical roadmaps, balancing immediate needs with long-term vision, defining clear OKRs, and orchestrating cross-functional efforts to deliver production-grade solutions that significantly enhance user experiences. Deep expertise in designing and scaling backend and ML systems for high-traffic, user-facing products, with a full-stack understanding of system architecture, data pipelines, and model deployment workflows. Proven success in collaborating with engineering teams to deploy ML capabilities that improve fairness and reduce bias in recommendation, content understanding, and ranking systems at scale.
+
+Relocation Statement: This position is not eligible for relocation assistance. Visit our
+
+PinFlex
+
+page to learn more about our working model. In-Office Requirement Statement: We let the type of work you do guide the collaboration style. That means we're not always working in an office, but we continue to gather for key moments of collaboration and connection. At Pinterest we believe the workplace should be equitable, inclusive, and inspiring for every employee. In an effort to provide greater transparency, we are sharing the base salary range for this position. The position is also eligible for equity. Final salary is based on a number of factors including location, travel, relevant prior experience, or particular skills and expertise. Information regarding the culture at Pinterest and benefits available for this position can be found
+
+here . US based applicants only
+
+$208,145—$364,254 USD
+
+Our Commitment to Inclusion: Pinterest is an equal opportunity employer and makes employment decisions on the basis of merit. We want to have the best qualified people in every job. All qualified applicants will receive consideration for employment without regard to race, color, ancestry, national origin, religion or religious creed, sex (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender, gender identity, gender expression, age, marital status, status as a protected veteran, physical or mental disability, medical condition, genetic information or characteristics (or those of a family member) or any other consideration made unlawful by applicable federal, state or local laws. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. If you require a medical or religious accommodation during the job application process, please complete
+
+this form
+
+for support. #J-18808-Ljbffr
+
+Nice-to-have skills
+
+Machine Learning
+System Architecture
+California, United States
+
+Work experience
+
+Machine Learning
+Data Engineer
+Software Architect
+
+Languages
+
+English

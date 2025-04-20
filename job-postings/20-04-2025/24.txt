@@ -1,0 +1,19 @@
+Job Role: Senior Machine Learning Engineer
+Location onsite (4-5 days) – Charlotte
+Type: Any visa type
+Duration: 6+ months
+Please share the resumes to sathish.mailagani@datafactz.com
+For the client, we need a Senior Machine Learning Engineer with deep, hands-on experience delivering end-to-end ML solutions, including model design, optimization, deployment, and automation using AWS SageMaker.
+Key Responsibilities:
+Build and deploy scalable ML models to solve real-world business problems
+Own the full ML lifecycle: data exploration, feature engineering, model prototyping, validation, and productionization
+Optimize and automate workflows using best practices and MLOps principles
+Collaborate cross-functionally with data scientists, engineers, and business stakeholders
+Translate complex ML concepts into clear, actionable insights
+Mentor team members and guide best practices across projects
+Requirements:
+Expert in Python, SQL, and modern ML toolkits (e.g., scikit-learn, XGBoost)
+Extensive hands-on experience with AWS SageMaker (training, tuning, endpoints, pipelines)
+Strong understanding of model evaluation, tuning, and production deployment
+Proven ability to work across large, complex datasets and cloud-based infrastructures
+Bonus: Familiarity with Spark, Hive, and data governance frameworks

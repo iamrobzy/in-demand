@@ -1,0 +1,52 @@
+About
+
+Machine Learning Engineer Description - You are out to reimagine and reinvent what is possible—in your career as well as the world around you. So are we. We love taking on tough challenges, disrupting the status quo, and creating what is next. We are in search of talented people who are inspired by big challenges, driven to learn and grow, and dedicated to making a meaningful difference. We are 55,000 HP employees, united in creating technology that makes life better for everyone, everywhere. And we fervently believe that one powerful thought has the power to change the world. Interested in joining us? Let’s talk.
+
+Responsibilities: Architects, develops and programs integrated software solutions, especially in support of the development, deployment and life cycle of machine learning models. Applies machine learning and statistical modeling techniques to business or research problems. Defines collection protocols and analyzes data sources; develops, trains and evaluates models; creates visualizations of data properties and model performance. Deploys and maintains models. Directs technical teams in achieving these objectives. Ability to articulate the desired outcome, approach, tradeoffs, status and risks. Knowledge of business intelligence (e.g. Power BI) and development tools (Azure Dev Ops, GitHub). Keeps knowledge and skills current by reading state of the art research papers and blog posts from industry and research labs. Studies new methods to understanding industry trends and emerging technologies. Disseminates this knowledge within teams and across teams. Fluent in one or more Machine Learning Frameworks (e.g. Pytorch, TensorFlow, scikit-learn, etc). Fluent in Python and knowledge of one or more additional Programming Languages, such as C++, R, C#. Knowledge of modern computer science including algorithms, data structures, software architecture. Where applicable, knowledge of cloud and hybrid cloud service architectures and their impacts on development and deployment. Able to architect new solutions that combine services, data preparation and preprocessing, machine learning models and data presentation. Knowledge of the Mathematics of Machine Learning (particularly Linear Algebra, differential calculus) and Statistics. Deep understanding of current machine learning algorithms, under which circumstances each is applicable and their pros and cons. Able to compose new model architectures and objective functions. Knowledge of data processing/experiment techniques and data preprocessing requirements for the common machine learning approaches. Knowledge of data collection techniques. Knowledge of data augmentation approaches and their pros and cons. Scope & Impact: Works with tech leads and product and program managers to understand the business problem. Works with software engineers to understand systems and craft interfaces to model for deployment. Interacts with teams collecting data to assist in defining collection protocols and assure data quality. Codes, trains, validates and optimizes machine learning models, possibly utilizing new model architectures, optimization techniques or objective functions. Education and Experience: Masters Degree in Computer Science, Statistics, and/or Math or equivalent, demonstrated through work experience, journal and/or conference publications or open-source projects. 3-5 years experience. HP offers a comprehensive benefits package, including: Dental insurance Disability insurance Employee assistance program Flexible schedule Flexible spending account Health insurance Life insurance Our compensation reflects the cost of labor across several U.S. geographic markets, and we pay differently based on those defined markets. The typical base pay range for this role across the U.S. is $143850 - $221550 annually with additional opportunities for pay in the form of bonus and/or equity. Pay within this range varies by work location and may also depend on job-related knowledge, skills, and experience. Your recruiter can share more about the specific salary range for the job location during the hiring process. Job:
+
+Software Schedule
+
+Full time Shift:
+
+No Shift Premium (United States Of America) Travel
+
+25% Relocation:
+
+No Equal Opportunity Employer (EEO): HP, Inc. provides equal employment opportunity to all employees and prospective employees, without regard to race, color, religion, sex, national origin, ancestry, citizenship, sexual orientation, age, disability, or status as a protected veteran, marital status, familial status, physical or mental disability, medical condition, pregnancy, genetic predisposition or carrier status, uniformed service status, political affiliation or any other characteristic protected by applicable national, federal, state, and local law(s). Please be assured that you will not be subject to any adverse treatment if you choose to disclose the information requested. This information is provided voluntarily. The information obtained will be kept in strict confidence. If you’d like more information about HP’s
+
+EEO Policy
+
+or your EEO rights as an applicant under the law, please click here:
+
+Equal Employment Opportunity is the Law
+
+Equal Employment Opportunity is the Law – Supplement
+
+#J-18808-Ljbffr
+
+Nice-to-have skills
+
+Machine Learning
+Statistical Modeling
+Power BI
+Github
+PyTorch
+TensorFlow
+Scikit-learn
+Python
+C++
+R
+C#
+Algorithms
+Software Architecture
+Linear Algebra
+Statistics
+California, United States
+
+Work experience
+
+Machine Learning
+
+Languages
+
+English

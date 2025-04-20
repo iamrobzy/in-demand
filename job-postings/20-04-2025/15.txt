@@ -1,0 +1,44 @@
+Lensa is the leading career site for job seekers at every stage of their career. Our client, Autodesk, is seeking professionals. Apply via Lensa today!
+
+Job Requisition ID #
+
+25WD85714
+
+Position Overview
+
+The work we do at Autodesk touches nearly every person on the planet. By creating software tools for making buildings, machines, and even the latest movies, we influence and empower some of the most creative people in the world. As a Principal Machine Learning Developer with a focus on model optimization, you will play a critical role ensuring high performing models that enable our customers imagine, design, and make a better world. You are an experienced Machine Learning Engineer who is passionate about solving problems and building things. You are excited to collaborate with AI researchers to implement generative AI features in Autodesk products.
+
+You will report to a research manager in the Autodesk AI Lab team within Autodesk Research. We are a global team, located in London, San Francisco, Toronto, and remotely. For this role we support both in-person, hybrid, and remote work.
+
+Responsibilities
+
+Optimize new and existing ML models deployed in Autodesk software 
+Quantize, distill, and prune large-scale models and evaluate their efficiency and effectiveness 
+Utilize methods such as model compilation, PEFT and others to deliver and serve models rapidly 
+Experiment with various techniques to analyze as well as optimize throughput, latency and efficiency of productionized models 
+Optimize models for maximum utilization of compute resources 
+Evaluate and integrate new promising methods from recent AI/ML literature for faster inference 
+Present results to collaborators and leadership 
+
+Minimum Qualifications
+
+BSc or MSc in Computer Science, or equivalent industry experience 
+3+ years of professional experience in training, deploying and optimizing large and/or generative models 
+8+ years proficiency with modern deep learning techniques (e.g. Network architectures, regularization techniques, learning techniques, loss-functions, optimization strategies, etc.) as well as frameworks (e.g. PyTorch, Lightning, Ray etc.) 
+Experience and intuition for optimizing inference performance for large-scale deployments 
+Experience debugging production distributed systems 
+Experience in end-to-end deployment and maintenance of ML Models on cloud services and architecture (e.g. AWS, Azure) 
+Excellent written documentation skills to document code, architectures, and experiments 
+
+Preferred Qualifications
+
+Experience scaling ML training and data pipelines 
+Knowledge of Triton/CUDA programming 
+Experience with FlashAttention and other SOTA optimization methods 
+Knowledge of the design, manufacturing, AEC, or media & entertainment industries 
+Experience with Autodesk or similar products (CAD, CAE, CAM, etc.) 
+Publications in conferences such as MLSys, NeurIPS, etc. 
+
+At Autodesk, we're building a diverse workplace and an inclusive culture to give more people the chance to imagine, design, and make a better world. Autodesk is proud to be an equal opportunity employer and considers all qualified applicants for employment without regard to race, color, religion, age, sex, sexual orientation, gender, gender identity, national origin, disability, veteran status or any other legally protected characteristic. We also consider for employment all qualified applicants regardless of criminal histories, consistent with applicable law.
+
+Are you an existing contractor or consultant with Autodesk? Please search for open jobs and apply internally (not on this external site). If you have any questions or require support, contact Autodesk Careers (Careers%20%3Ccareers@autodesk.com%3E) .

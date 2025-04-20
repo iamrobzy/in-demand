@@ -1,0 +1,65 @@
+Dice is the leading career destination for tech experts at every stage of their careers. Our client, Booz Allen Hamilton, is seeking the following. Apply via Dice today!
+
+Job Number: R0214106
+
+Multimodal Machine Learning Engineer
+
+The Opportunity: 
+
+As an experienced machine learning engineer, you understand good sof tware is more than just a good user experience. To compete in today's technical landscape, mission-oriented machine learning solutions must be architected, designed, and built to handle fast-moving data, to seamlessly scale with infrastructure based on system usage, and to expand based on evolving mission requirements. We're looking for an engineer like you to create artifi cia l intelligence (AI) and machine learning ( ML ) enabled solutions that help solve our toughest challenges facing the Defense and Intelligence sectors.
+
+On our team, you'll design, create, and implement complete AI systems that will transform client operations, increase data accessibility, and optimize AI and ML systems. You'll ensure that your team's solutions consider the broader ecosystem and operating environment as well as future functionality and enhancements. Additionally, you'll deepen your skill set in areas like sof tware engineering, machine learning operations ( MLOps ) , and sof tware deployment and integration into a variety of different mission environments.
+
+Ready to transform the Defense and Intelligence sectors with sof tware systems to aid data accessibility and AI and ML operationalization?
+
+Join us. The world can't wait.
+
+You Have: 
+
+5+ years of experience as an ML engineer, building production-grade ML solutions with a programming language such as Python, Rus t, Go, Scala, or Java
+5+ years of experience working within data science, ML engineering, or data research in a professional or academic environment, and training and deploying models across multiple modalities of data
+3+ years of experience working in cloud environments, including AWS and Azure
+2+ years of experience deploying and integrating production-grade ML models using tools such as Docker and Kubernetes
+2+ years of experience with Generative AI, including transformers or LLM project work
+1+ years of experience building or deploying production-grade RESTful APIs or sof tware interfaces
+Experience evaluating architectural tradeoffs and designing robust service-based sof tware applications for scalable use
+Experience with MLOps, GitOps, and CI / CD tooling
+TS/SCI clearance with a polygraph 
+Bachelor's degree
+
+Nice If You Have: 
+
+Experience with programming, including ML frameworks such as TensorFlow, Keras, PyTorch, Caffe, or MXNET 
+Experience with client e nga gements, client-facing project work, and business development
+Experience with project work in deep learning, computer vision, NLP, or signal processing
+Experience deploying and managing data brokering solutions, including Kafka, Red Panda, Confluent, and other related services 
+Knowledge of Databricks, PyTorch, TensorFlow, LangChain, or Kubernetes 
+Ability to adapt in a rapidly changing environment
+Possession of excellent verbal and written communication skills
+Possession of excellent interpersonal, analytical, problem-solving, and organizational skills
+Master's degree
+
+Clearance:
+
+Applicants selected will be subject to a security investigation and may need to meet eligibility requirements for access to classified information ; TS/SCI clearance with polygraph is required.
+
+Compensation
+
+At Booz Allen, we celebrate your contributions, provide you with opportunities and choices, and support your total well-being. Our offerings include health, life, disability, financial, and retirement benefits, as well as paid leave, professional development, tuition assistance, work-life programs, and dependent care. Our recognition awards program acknowledges employees for exceptional performance and superior demonstration of our values. Full-time and part-time employees working at least 20 hours a week on a regular basis are eligible to participate in Booz Allen's benefit programs. Individuals that do not meet the threshold are only eligible for select offerings, not inclusive of health benefits. We encourage you to learn more about our total benefits by visiting the Resource page on our Careers site and reviewing Our Employee Benefits page.
+
+Salary at Booz Allen is determined by various factors, including but not limited to location, the individual's particular combination of education, knowledge, skills, competencies, and experience, as well as contract-specific affordability and organizational requirements. The projected compensation range for this position is $99,000.00 to $225,000.00 (annualized USD). The estimate displayed represents the typical salary range for this position and is just one component of Booz Allen's total compensation package for employees. This posting will close within 90 days from the Posting Date.
+
+Identity Statement
+
+As part of the application process, you are expected to be on camera during interviews and assessments. We reserve the right to take your picture to verify your identity and prevent fraud.
+
+Work Model
+
+Our people-first culture prioritizes the benefits of flexibility and collaboration, whether that happens in person or remotely.
+
+If this position is listed as remote or hybrid, you'll periodically work from a Booz Allen or client site facility.
+If this position is listed as onsite, you'll work with colleagues and clients in person, as needed for the specific role.
+
+Commitment to Non-Discrimination
+
+All qualified applicants will receive consideration for employment without regard to disability, status as a protected veteran or any other status protected by applicable federal, state, local, or international law.

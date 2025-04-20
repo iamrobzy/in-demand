@@ -1,0 +1,73 @@
+About
+
+Open to remote work except in South Dakota, Vermont and West Virginia.
+
+The annual base salary for this position ranges from $119,400.00 in our lowest geographic market to $267,500.00 in our highest geographic market. Actual salary will vary based on a candidate's location, qualifications, skills and experience.
+
+Information about benefits can be found here (https://jobs.nike.com/benefits) .
+
+This posting is for five Lead ML Engineer positions within the Enterprise AI/ML function.
+
+Who Are We Looking For
+
+We seek passionate engineers to join our team. As a Lead Machine Learning Engineer, you will develop robust advanced analytics and machine learning solutions that have a direct impact on the business. You should have experience in Python; a strong background in algorithms and data structures; hands-on AWS experience; as well as experience in database technology (e.g. Postgres, Redis) and data processing technology (e.g. EMR). You should also have a demonstrable history of team leadership and value delivery, and be comfortable working in an agile product model. As a Lead ML Engineer, you will be expected to own projects end-to-end - from conception to operationalization, demonstrating an understanding of the full software development lifecycle. As a result, you will be expected to provide technical vision and guidance to your teammates; therefore, strong communication skills are critical in this role.
+
+What Will You Work On
+
+If this is you, you’ll be working with the Artificial Intelligence and Machine Learning (AI/ML) team at Nike. With teammates in Portland, Boston, and Poland, you’ll be joining a global organization working to solve machine learning problems at scale. You’ll be designing and implementing scalable applications that leverage prediction models and optimization programs to deliver data driven decisions that result in immense business impact. You’ll also contribute to core advanced analytics and machine learning platforms and tools to enable both prediction and optimization model development. You thrive when surrounded by talented colleagues and aim to never stop learning. We are looking for candidates who enjoy a collaborative and academic environment where we develop and share new skills, mentor, and contribute knowledge and software back to the analytics and engineering communities both within Nike and at-large.
+
+We value and nurture our culture by seeking to always be collaborative, intellectually curious, fun, open, and diverse.
+
+Who Will You Work With
+
+In this role, you’ll be working closely with the rest of our global team, along with commercial and consumer analytics, and enterprise architecture teams.
+
+What You Bring
+
+Bachelor's degree in Computer Science, or combination of relevant education, experience.
+
+5+ years of professional experience in software engineering, data engineering, machine learning, or related field
+
+Strong analytical mindset and experience leading others in problem solving
+
+Experience working in a team to write robust, maintainable, and extendable code in Python; containerized in Docker, and automated with CI/CD
+
+Expertise with agile development and test driven development
+
+Expertise with data structures, data modeling and software architecture
+
+Experience with complex data sets, ETL pipelines, SQL, and general data engineering
+
+Expertise in MLOps, API development, or mathematical optimization are highly desirable
+
+Expertise with cloud architecture and technologies, in particular Amazon Web Services
+
+Expertise with technologies like Spark, Kubernetes, Docker, Jenkins, Databricks, Terraform is also highly desirable
+
+Effective communication skills (with team members, the business, and in code)
+
+Experience providing technical leadership within a team and mentorship to others
+
+NIKE, Inc. is committed to employing a diverse workforce. Qualified applicants will receive consideration without regard to race, color, religion, sex, national origin, age, sexual orientation, gender identity, gender expression, protected veteran status, or disability. NIKE is committed to working with and providing reasonable accommodation to individuals with disabilities. If, because of a medical condition or disability, you need a reasonable accommodation for any part of the employment process, please call +1 503-671-4156 and let us know the nature of your request, your location and your contact information.
+
+Nice-to-have skills
+
+Python
+AWS
+Redis
+EMR
+Docker
+SQL
+Spark
+Kubernetes
+Jenkins
+Terraform
+Oregon, United States
+
+Work experience
+
+Machine Learning
+
+Languages
+
+English

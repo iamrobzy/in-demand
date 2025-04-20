@@ -1,0 +1,36 @@
+About
+
+AI or Artificial Intelligence, Big Data, Analytics Job Id: 1438895 Location: Offsite, San Jose, California, US Area of Interest: Engineer - Software Compensation Range: 192500 USD - 244700 USD Job Type: Professional Technology Interest: AI or Artificial Intelligence, Big Data, Analytics Meet the Team
+
+The mission AI Defense at Cisco is to provide end-to-end protection for Enterprise AI applications. The team has deep expertise in AI and security and is an active contributor to cutting-edge research and standards on AI and security. At Cisco, our mission is to build AI Security at Cisco scale as well as lead the next generation of AI infrastructure for disruptive security products across Cisco. We are pioneers in all aspects of AI security from supply chain to development time model vulnerability detection to protecting against real-time attacks on deployed AI applications. Your Impact
+
+Join Cisco's AI Defense ML Team and be at the forefront of AI Security innovation. Here, you will tackle ever-evolving challenges and leverage the dynamic AI landscape to craft solutions that ensure AI safety and security for all. As a Data Platform Engineer, you'll have the chance to design the data platform driving cutting-edge ML algorithms that detect and protect against AI security risks. You'll gain deep expertise in the fields of both AI and security, engaging with all facets of detection techniques and their deployment in production environments. You will collaborate with a talented team of ML engineers and security experts, and play a pivotal role in developing groundbreaking AI solutions. Shape the future of AI safety and Security with us and make an enduring impact on AI adoption across the world! As a Data Platform Engineer, you will: Design scalable data pipelines for large semi-structured data using advanced distributed cloud data warehouse technologies. Build backend and data infrastructure that supports our need for fast data ingestion including customer telemetry data and open-source datasets, modeling experimentation, and model evaluation pipelines. Build data quality and labeling pipelines for continuous data quality improvements. Compile datasets from diverse data sources for AI Security applications. Ensure compliance with data provenance, governance, and privacy regulations; develop and enforce data creation and usage processes. Explore data generation strategies for textual and multi-modal data for AI Defense use cases, including working with the Threat Intelligence team to inform new data generation techniques. Contribute to our overall machine learning and data management culture as a member of the team. Minimum Qualifications:
+
+Preferred Qualifications
+
+A BS with a minimum of 3 years of experience or MS in Computer Science/Engineering. Experience with some backend datastore similar to Snowflake or Databricks. Strong programming skills in generic programming languages such as Python or Golang. SQL proficiency for complex data transformations and querying, strong understanding of semi-structured data handling. Preferred Qualifications:
+
+An attitude of hands-on learning and constant experimentation to decompose and understand problem areas. Comfortable with fast iterative style development in an environment that requires autonomous thinking, risk-taking, and bias for action. Familiarity with modern data warehousing technologies like Snowflake/Databricks and data formats like Snowpark/Iceberg. Ability to use the latest GenAI technologies and creative prompting. Comfortable with traditional ML frameworks like PyTorch, TensorFlow, FastAI, etc. Excellent written and verbal communication skills, strong analytical and problem-solving skills. #WeAreCisco where every individual brings their unique skills and perspectives together to pursue our purpose of powering an inclusive future for all.
+
+#J-18808-Ljbffr
+
+Nice-to-have skills
+
+Artificial Intelligence
+Big Data
+Machine Learning
+Python
+SQL
+PyTorch
+TensorFlow
+California, United States
+
+Work experience
+
+Data Engineer
+Machine Learning
+Cyber Security Specialist
+
+Languages
+
+English

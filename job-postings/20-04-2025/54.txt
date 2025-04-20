@@ -1,0 +1,45 @@
+About
+
+What’s so great about working on Calendly’s Data Science & Machine Learning team? We make things possible for our customers through innovation in data, analytics and AI. Why do we need you? Well, we are looking for a Senior Machine Learning Engineer who will bring the track record of delivering business value through executing hands-on full machine learning lifecycle. You will report to the head of Data Science & Machine Learning and will be responsible for driving new initiatives using the latest advancements in ML, working closely with cross-functional teams, and helping to drive business insights & growth as well as creating magical experiences for our end customers through innovation. We have a product focus and passion for using machine learning to solve real-world problems, and understand that being an effective MLE is about collaborating with people as much as it is about writing code. You will join a great data team and be an integral part of building new, machine learning-based experiences for internal and external customers alike. A day in the life of a Senior Machine Learning Engineer at Calendly
+
+On a typical day,
+
+you
+
+will be working on: Collaborating cross-functionally with software engineers, product managers, and data scientists to understand business needs, define priorities, and contribute to impactful machine learning solutions. Developing and deploying ML models and pipelines at scale, supporting both batch and real-time use cases. Leveraging cloud-based ML services and tools to build efficient, reusable, and high-performing machine learning systems that enable rapid model development and reliable serving. Optimizing ML models for performance and scalability, ensuring they meet latency SLAs while handling production traffic; conducting live experiments to evaluate and improve model performance. What do we need from you?
+
+5+ years of industry experience in applied Machine Learning (or 3+ years with a PhD in a relevant field). A solid foundation in machine learning and statistics
+
+– Extensive experiences with probabilistic modeling, statistical inference, hypothesis testing, and traditional ML techniques; familiarity with recent advancements in large language models and related technologies. Solid software engineering skills
+
+– Proficiency in Python and familiarity with CI/CD for ML, containerization (Docker, Kubernetes), and model observability. Backend engineering and ML infrastructure
+
+– Experience building scalable ML pipelines, integrating ML models into production, and working with cloud platforms (AWS, GCP, Azure); experience with distributed computing or database technologies is a plus. Familiarity with modern ML tools
+
+– Familiarity with PyTorch, TensorFlow, JAX, Hugging Face, LangChain, vector databases, and model-serving frameworks. The ability to take initiative, solve problems efficiently, and know when to seek help. Ability to thrive in ambiguity, move fast, and focus on delivering impact. Ability to clearly articulate technical concepts and work cross-functionally with engineers, product managers, and analysts. Curiosity and continuous learning
+
+– You stay updated on ML/AI advancements and explore opportunities to apply them effectively. Comfort with working remotely and with enabling tools like Slack, Confluence, etc. Authorized to work lawfully in the United States of America as Calendly does not engage in immigration sponsorship at this time. What’s in it for you?
+
+Ready to make a serious impact? Millions of people already rely on Calendly’s products, and we’re still in the midst of our growth curve — it’s a fantastic time to join us. Everything you’ll work on here will accelerate your career to the next level. If you want to learn, grow, and do the best work of your life alongside the best people you’ve ever worked with, then we hope you’ll consider allowing Calendly to be a part of your professional journey.
+
+#J-18808-Ljbffr
+
+Nice-to-have skills
+
+Python
+Docker
+Kubernetes
+AWS
+GCP
+Azure
+PyTorch
+TensorFlow
+California, United States
+
+Work experience
+
+Machine Learning
+
+Languages
+
+English

@@ -1,0 +1,55 @@
+Lensa is the leading career site for job seekers at every stage of their career. Our client, Cisco, is seeking professionals. Apply via Lensa today!
+
+Machine Learning Engineer (MLE), Artificial Intelligence
+
+Join us as we pursue our disruptive new vision to make machine data accessible, usable and valuable to everyone. We are a company filled with people who are passionate about our product and seek to deliver the best experience for our customers. At Splunk, we’re committed to our work, customers, having fun and most importantly to each other’s success. Learn more about Splunk careers and how you can become a part of our journey!
+
+Role
+
+As a Machine Learning Engineer in the Artificial Intelligence group, you will be responsible for developing the core AI/ML capabilities to power the entire Splunk product portfolio and help our customers to drive their journey to digital resiliency. You will collaborate with cross-functional teams, mentor junior team members, and help drive the engineering roadmap of the area.
+
+Responsibilities
+
+The responsibilities of this role include:
+
+Development of the AI/ML platform and infrastructure that drives our product’s key ML use cases in the cybersecurity and observability domains. 
+Collaborate closely with software engineers, applied scientists, and product managers to integrate generative AI solutions into our products and services. 
+Stay up to date with the latest developments in the field of AI/ML, and ensure that these advancements are properly incorporated into our technology roadmap. 
+Actively participate in cross-functional discussions and strategic decisions related to AI directions and product roadmaps. 
+
+Requirements
+
+Knowledge, Skills, and Abilities:
+
+Bachelor's or Master's degree in Computer Science, Engineering, or a related field with at least 3+ years of industry experience. 
+Experience with containerization and orchestration tools (e.g., Docker, Kubernetes). 
+Experience with model deployment and serving into production environments 
+Knowledge of version control systems, especially Git. 
+Knowledge of CI/CD principles and tools. 
+Familiarity with cloud platforms (AWS, GCP, Azure) and serverless architecture. 
+Experience with MLOps platforms such as MLflow or Kubeflow. 
+Previous experience working in cross-functional teams and collaborating with data scientists and DevOps teams. 
+Problem-solving skills and the ability to troubleshoot complex issues. 
+Communication skills with the ability to articulate complex technical concepts to both technical and non-technical audiences. 
+
+Splunk, a Cisco company, is an Equal Opportunity Employer and all qualified applicants will receive consideration for employment without regard to race, color, religion, gender, sexual orientation, national origin, genetic information, age, disability, veteran status, or any other legally protected basis.
+
+Note
+
+Base Pay Range
+
+SF Bay Area, Seattle Metro, and New York City Metro Area
+
+Base Pay Range: $146,400.00 - 201,300.00 per year
+
+California (excludes SF Bay Area), Washington (excludes Seattle Metro), Washington DC Metro, and Massachusetts
+
+Base Pay Range: $131,760.00 - 181,170.00 per year
+
+All other cities and states excluding California, Washington, Massachusetts, New York City Metro Area and Washington DC Metro Area.
+
+Base Pay Range: $117,120.00 - 161,040.00 per year
+
+Splunk provides flexibility and choice in the working arrangement for most roles, including remote and/or in-office roles. We have a market-based pay structure which varies by location. Please note that the base pay range is a guideline and for candidates who receive an offer, the base pay will vary based on factors such as work location as set out above, as well as the knowledge, skills and experience of the candidate. In addition to base pay, this role is eligible for incentive compensation and may be eligible for equity or long-term cash awards.
+
+Benefits are an important part of Splunk's Total Rewards package. This role is eligible for a competitive benefits package which includes medical, dental, vision, a 401(k) plan and match, paid time off and much more! Learn more about our next-level benefits at https://splunkbenefits.com .

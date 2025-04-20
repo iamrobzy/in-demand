@@ -1,0 +1,56 @@
+Job Number: R0216941
+
+Machine Learning Engineer
+
+The Opportunity: 
+
+As an experienced engineer, you know that machine learning (ML) is critical to understanding and processing massive datasets. Your ability to conduct statistical analyses on business processes using ML techniques makes you an integral part of delivering a customer-focused solution. We need your technical knowledge and desire to problem-solve to support critical defense missions. As an optical character recognition (OCR) and natural language processing (NLP) ML engineer on our Chief Technology Office team, you'll train, test, deploy, and maintain models that learn from data.
+
+In this role, you'll own and define the direction of mission-critical solutions by applying best-fit ML algorithms and technologies. You'll be part of a large community of machine learning engineers across the company and collaborate with data engineers, data scientists, solutions architects, and product owners to deliver world class solutions to the special operations community. Your extensive technical expertise will guide clients as they navigate the landscape of ML algorithms, tools, and frameworks.
+
+Join us. The world can't wait.
+
+You Have: 
+
+5+ years of experience with ML engineering, data science, research engineering, software engineering, development, or full stack engineering, including in an academic or professional environment
+Experience with object-oriented programming in Java, C++, or Python
+Experience with developing software architecture with containerization tools, including Docker or Kubernetes
+Experience in the Special Operations or DoD community
+Experience with databases, including SQL
+Knowledge of data science fundamentals and methods
+TS/SCI clearance
+Bachelor's degree in Computer Science or Engineering
+
+Nice If You Have: 
+
+5+ years of experience developing and deploying machine learning models into production within DoD enclaves
+Experience with training models in Databricks with MLflow
+Experience with software development, including API development or database management, and model deployment and usage with JavaScript frameworks, including React, Angular, or Node.js
+Knowledge of DoD and IC domain and artificial intelligence principles and practices
+Ability to deploy production application to a Cloud environment, including Google Cloud or Amazon Web Services
+Master's degree
+
+Clearance: 
+
+Applicants selected will be subject to a security investigation and may need to meet eligibility requirements for access to classified information; TS/SCI clearance is required.
+
+Compensation
+
+At Booz Allen, we celebrate your contributions, provide you with opportunities and choices, and support your total well-being. Our offerings include health, life, disability, financial, and retirement benefits, as well as paid leave, professional development, tuition assistance, work-life programs, and dependent care. Our recognition awards program acknowledges employees for exceptional performance and superior demonstration of our values. Full-time and part-time employees working at least 20 hours a week on a regular basis are eligible to participate in Booz Allen's benefit programs. Individuals that do not meet the threshold are only eligible for select offerings, not inclusive of health benefits. We encourage you to learn more about our total benefits by visiting the Resource page on our Careers site and reviewing Our Employee Benefits page.
+
+Salary at Booz Allen is determined by various factors, including but not limited to location, the individual's particular combination of education, knowledge, skills, competencies, and experience, as well as contract-specific affordability and organizational requirements. The projected compensation range for this position is $99,000.00 to $225,000.00 (annualized USD). The estimate displayed represents the typical salary range for this position and is just one component of Booz Allen's total compensation package for employees. This posting will close within 90 days from the Posting Date.
+
+Identity Statement
+
+As part of the application process, you are expected to be on camera during interviews and assessments. We reserve the right to take your picture to verify your identity and prevent fraud.
+
+Work Model
+
+Our people-first culture prioritizes the benefits of flexibility and collaboration, whether that happens in person or remotely.
+
+If this position is listed as remote or hybrid, you'll periodically work from a Booz Allen or client site facility.
+If this position is listed as onsite, you'll work with colleagues and clients in person, as needed for the specific role.
+
+Commitment to Non-Discrimination
+
+All qualified applicants will receive consideration for employment without regard to disability, status as a protected veteran or any other status protected by applicable federal, state, local, or international law.

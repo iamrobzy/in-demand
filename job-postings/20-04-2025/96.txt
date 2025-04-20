@@ -1,0 +1,32 @@
+About
+
+Job ID: 2933878 | Amazon Web Services, Inc. - A97 Do you want to be part of AI revolution? At AWS our vision is to make deep learning pervasive for everyday developers and to democratize access to cutting-edge infrastructure. In order to deliver on that vision, we’ve created innovative software and hardware solutions that make it possible. AWS Neuron is the SDK that optimizes the performance of complex ML models executed on AWS Inferentia and Trainium, our custom chips designed to accelerate deep-learning workloads. This role is for a senior software engineer in the Compiler team for AWS Neuron. As part of this role, you will be responsible for building next generation Neuron compiler which transforms ML models written in ML frameworks (e.g, PyTorch, TensorFlow, and JAX) to be deployed on AWS Inferentia and Trainium based servers in the Amazon cloud. You will be responsible for solving hard compiler optimization problems to achieve optimum performance for a variety of ML model families including massive scale large language models like Llama, Deepseek, and beyond as well as stable diffusion, vision transformers and multi-model models. You will be required to understand how these models work inside-out to make informed decisions on how to best coax the compiler to generate optimal implementation instruction. You will leverage your technical communications skill to partner with other teams and will be involved in pre-silicon design, bringing new products/features to market, and many other exciting projects. Experience in object-oriented languages like C++/Java is a must, experience with compilers or building ML models using ML frameworks on accelerators (e.g., GPUs) is preferred but not required. Experience with technologies like OpenXLA, StableHLO, MLIR will be an added bonus! Key job responsibilities
+
+You will design, implement, test, deploy and maintain innovative software solutions to transform Neuron compiler’s performance, stability and user-interface. You will work side by side with chip architects, runtime/OS engineers, scientists and ML Apps teams to seamlessly deploy cutting-edge ML models from our customers on AWS accelerators with optimal cost/performance benefits. You will have the opportunity to become the front-face of Neuron Compiler to work with open-source communities (e.g., StableHLO, OpenXLA, MLIR) and influence industry-wide partners to pioneer optimizing cutting-edge ML workloads on AWS software and hardware. You will also work on building innovative features that will deliver the best possible experiences for our customers – developers across the globe. A day in the life
+
+As you design and code solutions to help our team drive efficiencies in compiler architecture, you’ll create compiler optimization and verification passes, build features surface features and peculiarities of AWS accelerators to developers, implement tools to analyze numerical errors, and resolve the root cause of compiler defects. You’ll also participate in design discussions, code review, and communicate with internal (other Neuron SDK and Amazon wide teams) and external stakeholders (open-source communities and respond to Neuron compiler related questions in open forums, e.g. GitHub). Lastly, work in a startup-like development environment, where you’re always working on the most important stuff. BASIC QUALIFICATIONS
+
+5+ years of non-internship professional software development experience 5+ years of programming with at least one software programming language experience 5+ years of leading design or architecture (design patterns, reliability and scaling) of new and existing systems experience 5+ years of full software development life cycle, including coding standards, code reviews, source control management, build processes, testing, and operations experience Experience as a mentor, tech lead or leading an engineering team PREFERRED QUALIFICATIONS
+
+Master's degree or PhD in Computer Science, or a related technical field. 5+ years of experience writing production grade code in object-oriented languages such as C++/Java. Experience in compiler design for CPU/GPU/Vector engines/ML-accelerators. Experience with OpenSource compiler toolset like LLVM/MLIR. Experience with the following technologies: PyTorch, OpenXLA, StableHLO, JAX, TVM, deep learning models, and algorithms. Experience with modern build systems like Bazel/CMake. Amazon is committed to a diverse and inclusive workplace. Amazon is an equal opportunity employer and does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, or other legally protected status.
+
+#J-18808-Ljbffr
+
+Nice-to-have skills
+
+C++
+Java
+PyTorch
+TensorFlow
+LLVM
+CMake
+California, United States
+
+Work experience
+
+Machine Learning
+Software Architect
+
+Languages
+
+English

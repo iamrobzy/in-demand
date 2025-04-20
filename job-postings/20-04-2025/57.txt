@@ -1,0 +1,20 @@
+About
+
+Who We Are At Twelve Labs, we are pioneering the development of frontier multimodal foundation models that can see, hear and understand the world as humans do. Our models have redefined the standards in video-language modeling, allowing developers to build programs with state-of-the-art semantic search, summarization and analysis capabilities. Twelve Labs has raised $107 million in Seed + Series A funding from world-class VC & corporate partners: NVIDIA, NEA, Radical Ventures, Index Ventures, Snowflake and Databricks. Our advisory team features AI visionaries and founders such as Fei-Fei Li, Silvio Savarese, Alexandr Wang and more. Headquartered in San Francisco, with an influential APAC presence in Seoul, our global footprint underscores our commitment to driving worldwide innovation. About The Role As Machine Learning Engineer, Distributed Training Infrastructure, you will be responsible for ensuring that compute performance and ease-of-use never delay our research timeline. You will contribute to all compute & training infrastructure optimization, observability, scaling, and orchestration. You will collaborate closely with other engineers and scientists to define and implement your chosen roadmap. This role is a perfect fit for research-minded compute specialists who want to build SOTA video, vision, and video-language modeling systems! In This Role, You Will: Partner with researchers to understand our future research roadmap and to identify scaling limitations which will most imminently block us from achieving our goals. Be a hands-on leader who is excited to debug perplexing node failures at odd hours. Collaborate with ML engineers/researchers, and hold a high bar around code quality / engineering best practices. Work across teams to understand and manage project priorities and product deliverables, evaluate trade-offs, and drive technical initiatives from ideation to execution to shipment. You May Be A Good Fit If You Have: 6+ years of industry experience. Contributed to large scale distributed training efforts across thousands of accelerators. Experience with a panoply of HPC related tools and have developed strong opinions about how we should build our stack. A passion for solving the most pressing technical challenges, as opposed to the most intellectually satisfying ones. Strong Python and infrastructure-as-code expertise. Interview Process Recruiter Phone Screen Initial Technical Assessment Technical Interview 1: Coding Technical Interview 2: System Design & Project Deep Dive Final Interview: Culture Even if there are a few checkboxes that aren’t ticked through your prior experience, we still encourage you to apply! If you are a 0-1 achiever, a ferocious learner, and a kind and fun team player who motivates others, you will find a home at Twelve Labs. We are a global company that values the uniqueness of each person’s journey. It is the differences in our cultural, educational, and life experiences that allow us to constantly challenge the status quo. We are looking for individuals who are motivated by our mission and eager to make an impact as we push the bounds of technology to transform the world. Join us as we revolutionize video understanding and multimodal AI. Benefits and Perks An open and inclusive culture and work environment. Work closely with a collaborative, mission-driven team on cutting-edge AI technology. Full health, dental, and vision benefits. Flexible PTO and parental leave policy. Office closed the week of Christmas and New Years. VISA support (such as H1B and OPT transfer for US employees).
+
+#J-18808-Ljbffr
+
+Nice-to-have skills
+
+Python
+California, United States
+
+Work experience
+
+Data Engineer
+Fullstack
+Machine Learning
+
+Languages
+
+English
