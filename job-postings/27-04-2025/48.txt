@@ -1,0 +1,21 @@
+With Just Over 7 Years Of Experience In The Portuguese Market, We Share Our DNA With More Than 200 Workers And Position Our Offer According To 3 Lines Of Service
+
+Strategy (Outsourcing, NeXel, Team as a Service, Tech Academies);R&D (Bootcamps, POC, Tech Lab);Nearshore. In ADENTIS, we focus on PEOPLE. This is our emotional salary:
+
+Great Work-Life balance;Very flexible organizational routine;Health benefits (for you and your family);Team Building activities;Over 300 protocols to offer you great discounts in different areas;Continuous professional development sponsored by our Training and Certification Department;Regular feedback on your performance through a personalized plan;Comprehensive career plan and progression involving assertive performance reviews. Responsibilities: Develop and implement machine learning models tailored to CRM and platform contexts.Design and deploy models for retention use cases, anomaly detection, regression analysis, and other predictive analytics tasks.Create and manage automated data pipelines for efficient data processing and model deployment.Ensure seamless integration of machine learning models into existing systems and workflows.Monitor data flows to ensure the quality, consistency, and reliability of data used for machine learning models.Troubleshoot and resolve data-related issues promptly to maintain smooth operations.Utilize Azure Databricks for data processing, model training, and deployment.Optimize the use of Databricks resources to achieve efficient and cost-effective machine learning solutions.Design and maintain the infrastructure required for machine learning projects, ensuring scalability and performance.Collaborate with IT and DevOps teams to manage cloud resources and deployment environments. You must have:
+
+Bachelor's or Master's degree in Computer Science, Data Science, Engineering, or a related field.
+Proven experience as a Machine Learning Engineer or similar role, with a focus on CRM and platform-based solutions.
+Strong proficiency in developing machine learning models, particularly for retention use cases, anomaly detection, and regression analysis.
+Experience with pipeline automation and data flow monitoring.
+Hands-on experience with Azure Databricks for data processing and machine learning tasks.
+Familiarity with cloud infrastructure management, preferably within the Azure ecosystem.
+Proficiency in programming languages such as Python, R, or Scala, and experience with machine learning libraries and frameworks (e.g., TensorFlow, PyTorch, Scikit-Learn).
+Strong analytical and problem-solving skills, with the ability to work on complex data-driven projects.
+Excellent communication and collaboration skills, with the ability to work effectively in a team environment.
+Familiarity with DevOps practices and tools is a plus.
+Experience with CRM platforms and customer data analytics is an advantage.
+European Union Citizenship or Portuguese Working Visa / Portuguese Residency.
+Availability to go to the office, twice a week.
+
+If you want to be part of a real People First organization, join us! Send your CV to ******

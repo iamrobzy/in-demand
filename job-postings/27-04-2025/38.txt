@@ -1,0 +1,61 @@
+Join Solar Turbines!
+
+Solar Turbines Incorporated is a leader in industrial gas turbine manufacturing. We are at the forefront of technology development, delivering world class products and services to support our customers in delivering energy to the world. Solar Digital is a dedicated organization within our broader Customer Service organization that is committed to developing innovative digital products and services. We develop the next generation of Digital applications and platforms, that enable our customers to effectively navigate the energy transition, allowing them to move towards a cleaner, more sustainable future, while meeting the growing global energy demand. Our mission is to optimize operational costs, while maximizing availability and reliability of customers equipment to ensure secure energy availability for everyone. Embracing AI in machine operations is a strategic and necessary move, that positions us for future success in an increasingly competitive and digitized world.
+
+If you are passionate about AI technology, if you want to be in the forefront of developing advanced AI capabilities to help “powering the world”, Solar Digital is where you can make a real, measurable difference.
+
+We are seeking a visionary, talented and highly motivated Generative AI and Machine Learning Manager, to help build our new dynamic Solar Digital AI / ML team in Prague. In this role you will be working on state of the art and cutting-edge AI and Machine learning projects, supporting the continued development of Digital platform for managing our extensive fleet of industrial gas turbines. You will be focusing on deploying and optimizing generative AI capabilities for a range of real-world applications in the Energy and Oil & Gas industries.
+
+This role is pivotal to the ongoing development and application of generative AI, to help improve efficiency and unlock value, allowing our customers to focus on developing more sustainable, available and secure energy for the future.
+
+What will be your task at this position?
+
+Working knowledge of technology infrastructure, Software Engineering & enterprise architecture to act as the principal liaison with the technology, product & software engineering teams
+Experience of interpreting the needs of the business into technical solutions with AI & ML applications
+Identify, apply, train and optimize generative AI models (mainly LLMs) for various applications using advanced digital twin technologies with existing predictive analytics models based on structured and unstructured data, machine data (time series) and text
+Develop, implement and optimize machine learning algorithms for production grade solutions for both Digital Twin and Generative AI applications
+Conduct research and stay updated on the latest advancements in generative AI and machine learning tools, applications and approaches
+Develop scalable and efficient pipelines for data preprocessing, model training and development
+Collaborate with Software Engineers, Data Scientists, Mechanical Engineers, Field Engineers, Analytics Specialists and service personnel to integrate models into Solar Turbines AI Service framework and Digital platforms
+Evaluate model performance and iterate to improve accuracy, efficiency and reliability to support the development of enterprise quality AI/ML systems
+Document technical solutions and processes to ensure knowledge sharing and reproducibility. 
+
+What do we expect from a suitable candidate?
+
+Master’s degree in Computer Science, Artificial Intelligence, Data Science, or a related field, (Ph.D preferred)
+Experience performance managing people and leading technical teams, assigning work and ensuring deliverables
+Experience in creating and executing technology / delivery roadmaps and project backlogs
+Familiarity working within an Agile environment
+Minimum of 7 years of experience in software engineering and AI / ML models and applications, with 3 year experience in generative AI research and development
+Proven experience in fine-tuning and deploying machine learning models, particularly generative AI models
+Proficiency in OO programming languages (such as Python / Java / .Net)
+Solid understanding of machine learning concepts, deep learning architectures, as well as statistical and regression modeling
+Experience with data preprocessing, feature engineering, reduced order modeling and handling of large datasets
+Familiarity with cloud platforms, (AWS, GCP, or Azure) and containerization tools (Docker, Kubernetes)
+Experience with version control technology such as git
+Experience in managing and setting budgets
+Strong problem-solving skills and ability to work in a collaborative environment with a global team. 
+
+Preferred Skills:
+
+Knowledge of MLOps practices, including CI/CD pipelines and model monitoring
+Experience in libraries/frameworks like TensorFlow, PyTorch and Hugging Face
+Understanding of ethical AI principles and model interpretability
+Understanding of industrial gas turbine technology is a bonus
+
+What is Solar Turbines offering to you?
+
+Excellent professional growth and career opportunities in an international environment of a worldwide leader in a very exciting and growing sector of industry
+Fair and friendly atmosphere
+Interesting remuneration package - at Solar we share our achievements with all employees
+- Corporate bonus paid once a year
+- Performance bonus paid twice a year
+5 weeks holiday
+Meal allowance
+Cafeteria system 15000 points per year
+Multisport card
+Excellent coffee for free
+Pension or life insurance up to 24 000 CZ/per year
+Language trainings provided by company
+Extra pay for weekend and night work beyond the legislation
+Company events

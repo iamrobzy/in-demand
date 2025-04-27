@@ -1,0 +1,84 @@
+Job Title: Machine Learning Engineer
+Company: Darwix AI
+Location: Gurgaon (In-Office Preferred)
+Type: Full-Time
+Experience: 2–5 Years
+Compensation: Competitive salary + ESOPs + Performance Bonus
+
+🧠 About Darwix AI
+Darwix AI is one of India’s fastest-growing AI-first startups, transforming how enterprise sales teams across India, the Middle East, and Southeast Asia drive conversations and close deals. Our GenAI-powered Conversational Intelligence and Real-Time Agent Assist products analyze millions of sales conversations in real-time, generating hyper-personalized nudges, insights, and decision support for revenue teams.
+Our clients span multiple geographies and industries, and our systems work across voice, chat, CRM, and telephony—in multiple languages and enterprise environments.
+We are backed by top-tier venture funds and a world-class team of AI scientists, product leaders, and go-to-market specialists from IITs, IIMs, BITS Pilani, Meta, and Salesforce.
+
+🎯 Role Overview
+As a Machine Learning Engineer at Darwix AI, you will own and implement ML models that form the backbone of our real-time AI systems. You will work on language modeling, speech-to-text pipelines, retrieval-augmented generation (RAG) frameworks, and real-time inferencing architectures that run across 20+ enterprise clients and tens of thousands of end users.
+This is not a research-only role—we’re looking for applied ML experts who can build production-grade systems at scale and collaborate closely with product and engineering teams to push GenAI beyond the buzzwords.
+
+🛠️ Key Responsibilities🔍 Model Development
+Build, fine-tune, and deploy models across:
+ASR (Automatic Speech Recognition) for multi-lingual transcripts (Whisper, Deepgram, custom wav2vec2 models).
+Natural Language Understanding (NLU) for extracting speaker intent, sentiment, action items, and more.
+Language Models (LLMs) and RAG systems for contextual query resolution, summarization, and suggestions.
+Evaluate model architectures using precision, recall, latency, throughput, and cost per inference.
+Maintain and experiment with SLMs (Small Language Models) for high-speed use cases.
+
+📦 Data Pipeline Engineering
+Collaborate with backend engineers to build end-to-end training pipelines using FastAPI, Python, Airflow, and Redis.
+Build scalable ingestion and transformation pipelines for text, audio, CRM metadata, and user annotations.
+Structure, preprocess, clean, and annotate large-scale datasets for training and evaluation.
+
+🧪 Model Evaluation & Monitoring
+Design custom evaluation metrics and benchmarking pipelines (e.g., WER, ROUGE, BLEU, Latency vs. Quality).
+Deploy ML models into real-time agent assist systems with high uptime and observability.
+Set up monitoring and alerting to ensure model degradation is caught and addressed early.
+
+🔄 Deployment & DevOps
+Containerize models using Docker, deploy them via Kubernetes or CI/CD pipelines.
+Optimize inference using tools like ONNX, TorchScript, TensorRT, vLLM, or LoRA.
+Handle model versioning and release management in production-grade environments.
+
+📈 Product & Cross-Team Collaboration
+Translate business and product problems into ML problems, prototype solutions, and align on priorities.
+Work with product managers and clients to gather feedback, validate ML outputs, and iterate fast.
+Collaborate with UI/UX and full-stack teams to ensure AI insights are delivered intuitively and with context.
+
+✅ Required Qualifications🔍 Technical Expertise
+2–5 years of experience in machine learning, preferably in applied AI or NLP-heavy environments.
+Strong programming skills in Python, with experience in ML libraries such as PyTorch, TensorFlow, Hugging Face, scikit-learn, or transformers.
+Experience with real-time ML or streaming inferencing systems.
+Familiarity with speech models (Whisper, DeepSpeech, Wav2Vec2) and LLMs (OpenAI, LLaMA, GPT-Neo, Falcon, Mistral).
+📊 Data Engineering & Deployment
+Strong understanding of end-to-end ML lifecycles—data cleaning, model training, evaluation, and deployment.
+Experience with cloud environments (AWS/GCP) and containerization (Docker/Kubernetes).
+Experience integrating vector databases (Pinecone, FAISS, Weaviate, LlamaIndex) into ML pipelines.
+🧠 Core Skills
+Experience working with multi-lingual data, speech data, or noisy enterprise datasets is a big plus.
+Excellent problem-solving skills and a product mindset.
+Demonstrated ability to thrive in ambiguity and move fast in early-stage product teams.
+💡 Bonus Points
+Experience building or fine-tuning RAG pipelines using LangChain, LLMChain, or similar.
+Familiarity with model compression, quantization, and low-latency inference strategies.
+Background in Information Retrieval, Dialogue Systems, or Reinforcement Learning from Human Feedback (RLHF).
+Exposure to annotation tools (e.g., Prodigy, Label Studio) and ML observability platforms.
+🧬 What You'll Work With
+Languages & Frameworks: Python, PyTorch, HuggingFace Transformers, TensorFlow, ONNX
+Data Infra: Redis, Kafka, Postgres, MongoDB
+DevOps: Docker, Kubernetes, GitHub Actions, MLflow, DVC
+Cloud Platforms: AWS, GCP (optional)
+ML APIs: OpenAI, Claude, Gemini, Cohere, AssemblyAI
+🚀 Why Join Darwix AI?
+Work on a mission-driven product at the intersection of GenAI and revenue tech.
+Get the autonomy of a founding engineer with the velocity of a fast-scaling team.
+Collaborate with world-class minds from IITs, IIMs, Carnegie Mellon, and Meta AI.
+Learn how AI gets built, deployed, and sold in the real world—across 3 continents.
+Receive equity, mentoring, and a long-term growth path in one of the top AI product firms in the region.
+📩 How to Apply
+To Apply:
+Send your resume and a note (or GitHub/Colab link) highlighting any relevant ML projects to:
+📧 people@darwix.ai
+📌 Subject: Application – ML Engineer @ Darwix AI
+Bonus: Include a short paragraph on an ML system you admire (and why) or a model you’ve fine-tuned personally.
+🧠 Final Word
+This is not a role for paper pushers or Kaggle-only profiles. This is for real-world engineers who want to see their models in action, impacting thousands of users every day, and solving problems that haven’t been solved before.
+Come build the next frontier of applied AI at Darwix AI.
+From India, for the world.

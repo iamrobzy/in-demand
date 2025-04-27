@@ -1,0 +1,48 @@
+About Us
+
+Observe.AI is the fastest way to boost contact center performance with live conversation intelligence. Built on the most accurate AI engine in the industry, Observe.AI uncovers insights from 100% of customer interactions and maximizes frontline team performance through coaching and end-to-end workflow automation. With Observe.AI, companies can act faster with real-time insights and guidance to improve performance, from more sales to higher retention.
+
+Observe.AI is trusted by hundreds of customers and partners, including Pearson, Accolade, Group 1 Automotive, Southeast Trans, and Public Storage. Our recent $125 million Series C led by Softbank Vision Fund 2 with participation from Zoom Video Communications, Inc., brings our total funding to date to $213M, with investments from Menlo Ventures, Next47, NGP Capital, Emergent Ventures, Scale Ventures, Nexus Ventures, and Y-Combinator. For more information, visit www.observe.ai.
+
+The Opportunity
+
+As an Associate ML, you will support the ML R&D and Engineering team while gaining valuable experience that will prepare you to grow your career in the Machine Learning domain. The ideal candidate profile for this role would be someone with a foundational understanding of machine learning who wants to develop their skills in a customer-facing, practical environment.
+
+What You’ll Be Doing
+
+Support ML Engineers in addressing customer requests, implementing custom solutions, and internal R&D initiatives
+Handle business-critical data analysis or Machine Learning support tasks that require timely delivery with high accuracy and quality
+Implement and maintain code/scripts for data processing, analysis, modelling and other ML tasks
+Develop custom ML solutions, if required, to solve specific customer issues or internal problem statements
+Collaborate with cross-functional teams to understand customer needs, translate them into technical specifications, and develop solutions
+Create documentation and reports on completed work and findings, and communicate with stakeholders when necessary
+
+What You Bring To The Role
+
+Bachelor's degree in Computer Science, Statistics, Mathematics, or a related field
+Basic understanding of Machine Learning concepts and techniques
+Proficiency in Python programming is a must
+Familiarity with LLM prompting techniques/ prompt optimization
+Experience with data processing/ analysis and visualization libraries (e.g., Pandas, NumPy, Matplotlib)
+Familiarity with ML frameworks (e.g., scikit-learn, TensorFlow, or PyTorch)
+Strong problem-solving skills and attention to detail
+Good communication skills for customer/ stakeholder interactions
+Ability to work in a fast-paced startup environment
+
+Preferred Qualifications
+
+Previous internship or project experience in Machine Learning
+Experience 0 to 2 years with NLP, Speech or Conversational AI technologies
+Familiarity with cloud platforms (AWS, GCP, or Azure)
+Having taken ML courses is preferred
+Basic knowledge of European languages is a Plus
+Knowledge of data engineering concepts
+Experience with Git and other collaboration tools
+
+Our Commitment to Inclusion and Belonging
+
+Observe.AI is an Equal Employment Opportunity employer that proudly pursues and hires a diverse workforce. Observe AI does not make hiring or employment decisions on the basis of race, color, religion or religious belief, ethnic or national origin, nationality, sex, gender, gender identity, sexual orientation, disability, age, military or veteran status, or any other basis protected by applicable local, state, or federal laws or prohibited by Company policy. Observe.AI also strives for a healthy and safe workplace and strictly prohibits harassment of any kind.
+
+We welcome all people. We celebrate diversity of all kinds and are committed to creating an inclusive culture built on a foundation of respect for all individuals. We seek to hire, develop, and retain talented people from all backgrounds. Individuals from non-traditional backgrounds, historically marginalized or underrepresented groups are strongly encouraged to apply.
+
+If you are ambitious, make an impact wherever you go, and you're ready to shape the future of Observe.AI, we encourage you to apply. For more information, visit www.observe.ai.

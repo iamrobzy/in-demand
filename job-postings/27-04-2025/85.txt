@@ -1,0 +1,48 @@
+Description De L'entreprise
+
+Nous sommes en train de transformer notre approche de l'animation chez Ubisoft et sur Rainbow Six. L'intégration de l'apprentissage automatique et de l'IA générative a provoqué un changement de paradigme dans notre capacité à produire des animations de haute qualité semblables à celles des humains à une échelle que nous ne pouvions pas atteindre auparavant. En rejoignant cette équipe, vous contribuerez à moderniser notre pile technologique d'animation avec des techniques basées sur l'apprentissage automatique pour nous aider à créer des jeux plus grands et mieux conçus, avec un fort accent sur la qualité de l'animation. Ce poste représente un pas au-delà de la recherche et développement, avec un focus sur l'industrialisation de l'apprentissage automatique dans un moteur de jeu moderne.
+
+Description Du Poste
+
+Responsabilités
+
+
+Analyser la pile technologique d'animation existante et proposer ainsi qu’implémenter des approches novatrices en utilisant des techniques d'apprentissage automatique
+Se tenir au courant des développements actuels dans le domaine de l'apprentissage automatique et les partager avec les responsables de l'animation
+Exécuter et contribuer à la feuille de route d'animation existante pour l'équipe d'animation
+Travailler au sein d'une équipe d'animation polyvalente et diversifiée pour révolutionner notre manière de créer des animations en studio, en industrialisant des techniques d'apprentissage automatique pragmatiques dans nos piles technologiques d'animation
+Être capable de penser au-delà du domaine de l'animation et de fournir des solutions d'apprentissage automatique dans d'autres domaines pour résoudre des problèmes
+
+
+Qualifications
+
+Qualifications / Expérience
+
+
+Master ou doctorat dans un domaine de l’ingénierie logicielle en apprentissage automatique (ou expérience significative dans l'industrie)
+Diplôme de premier cycle en informatique (ou expérience significative dans l'industrie)
+Solides compétences en mathématiques 3D et en calcul différentiel
+Expérience avec des moteurs de jeu modernes (Unreal / Unity)
+Compréhension des techniques d'animation actuelles, innovantes et standard pour les jeux et le cinéma
+Penseur innovant capable également de suivre des directives
+Excellentes compétences en communication
+Pragmatisme et orientation vers les solutions
+Maîtrise des frameworks d'apprentissage profond (PyTorch / Keras)
+Compréhension des sujets de pointe en apprentissage automatique (VAE, NeRF, GAN, etc.)
+Passion pour l'animation dans les jeux
+Expérience en C++
+
+
+Informations complémentaires
+
+À propos de nous
+
+Les équipes d’Ubisoft comptent 19 000 personnes réparties sur plus de 30 pays aux quatre coins du monde et sont liées par une mission commune : enrichir la vie des joueurs et des joueuses au moyen d’expériences de jeu originales et mémorables. Leur énergie et leur talent ont permis de donner vie à de nombreuses franchises acclamées telles que Assassin’s Creed, Far Cry, Watch Dogs, Just Dance, Rainbow Six et bien d’autres à venir.
+
+Ubisoft est une entreprise soucieuse de l’égalité des chances et estime que la diversité des origines et des perspectives est essentielle pour créer des mondes qui permettent l’épanouissement et l’expression de tous·tes.
+
+Travailler à Ubi MTL, c’est jouir d’un milieu de travail qui éveille la créativité et favorise la connexion. Nous offrons un espace collaboratif axé sur l'avancement professionnel, les occasions d'apprentissage et le bien-être (nos importants avantages sociaux en témoignent!).
+
+Si vous êtes enthousiaste à l’idée de relever des défis passionnants, d’exploiter les toutes dernières technologies et de prendre part au futur du divertissement, rejoignez-nous pour créer l’inconnu. 
+
+À Ubisoft, vous êtes les bienvenu·es tel·les que vous êtes. Nous accueillons la diversité sous toutes ses formes. Nous nous engageons à favoriser un environnement de travail inclusif et respectueux de toutes les différences.

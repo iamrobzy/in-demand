@@ -1,0 +1,35 @@
+Como é o ambiente de trabalho?
+
+Nós, do KaBuM!, buscamos pessoas apaixonadas por tecnologia, obcecadas por agilidade, qualidade e excelência no atendimento. Todas as oportunidades são abertas para todas as pessoas, sem distinção de gênero, identidade de gênero, orientação sexual, raça, etnia, religião, idade e deficiência.
+
+Responsabilidades da Oportunidade
+
+Será responsável por desenvolver e implementar modelos de machine learning e inteligência artificial. Trabalhará em estreita colaboração com a equipe de dados e engenharia para garantir a integridade e consistência dos modelos, gerando produtos de dados.
+
+Requisitos
+
+Experiência em desenvolvimento e implementação de modelos de machine learning e inteligência artificial; 
+Conhecimento em linguagens de programação como Python, Java ou R;
+Habilidades em bibliotecas de machine learning como scikit-learn, TensorFlow ou PyTorch;
+Conhecimento em técnicas de deploy de modelos em produção (esteira, pipelines);
+Excelente habilidade de resolução de problemas e trabalho em equipe.
+Tempo de Atuação - Experiência mínima de 2 anos em desenvolvimento e implementação de modelos de machine learning e inteligência artificial;
+Experiência em desenvolvimento de sistemas de dados, processos de ETL, Modelagem de Dados e criação de pipelines;
+Habilidades em SQL dentro do ambiente do BigQuery (GCP);
+Experiência em trabalhar com grandes conjuntos de dados é desejável.
+
+Benefícios
+
+Assist. Médica
+Assist. Odontológica
+Desconto em Produtos
+Seguro de Vida
+Vale-Alimentação
+
+Observações e/ou Benefícios Adicionais
+
+GYMPASS
+TOTALPASS
+NEW VALUE
+PRIME NINJA
+NINJA ACADEMY

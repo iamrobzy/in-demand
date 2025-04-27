@@ -1,0 +1,62 @@
+Description
+
+THIS IS PART TIME - Shift options are:
+
+Monday– Friday from 8AM – 6PM
+
+Saturday 9AM – 1PM
+
+If you are Interested in a Second Shift Please let us know
+
+AI is the most transformational technology of our time, capable of tackling some of humanity’s most challenging problems. Amazon is investing in generative AI and the responsible development and deployment of large language models (LLMs) across all of our businesses. Come build the future of human-technology interaction with us.
+
+We are looking for those candidates who just don’t think out of the box, but make the box they are in ‘Bigger’. The future is now, do you want to be a part of it? Then read on!
+
+Key job responsibilities
+
+Maintain and follow strict confidentiality as customer privacy is our most important tenet
+Work with a range of different types of data including, but not limited to: text, speech, audio, image, and video
+Deliver high-quality labelled data, using guidelines provided to meet our KPIs and using in-house tools and software, as part of Amazon's commitment to developing and deploying AI responsibly.
+Demonstrate proficiency in generating high quality human insight data across a range of modalities, inclusive of text, image video and audio.
+Capable of making sound judgments and logical decisions when faced with ambiguous or incomplete information while performing tasks.
+Eye for detail and ability to pivot from one category of requirement to another instantaneously.
+Demonstrate support on daily operational deliverables for multiple task types assigned to you and the team
+Analyze root causes, identify error patterns, and propose solutions to enhance the quality of labeling tasks and their outputs.
+Responsible for identifying day-to-day process and operational issues in Standard Operating Procedure, tools and suggest changes to unblock operations
+Demonstrate ownership in floor support to clarify internal queries during execution on need basis
+
+A day in the life
+
+We are looking for a ML Data Associate (ML DA) to undertake the task of foundational labeling functions, such as dialogue evaluation on speech, text, audio, video data.
+
+Your ability to concentrate, multi-task and your high attention to detail helps you deliver high-quality work as well as maintaining strict confidentiality and follow all applicable Amazon policies for securing confidential information. You will be a part of a diverse team with the shared vision of improving customers’ lives with practical, useful generative AI innovations. An inner drive, individuality, and a creative mind are extremely beneficial.
+
+Basic Qualifications
+
+An Associate’s Degree or related work experience
+C1+ or equivalent fluency in English
+Strong business writing skills with ability to create reports, proposals, and professional correspondence
+Advanced reading comprehension with ability to analyze complex business documents
+Developed analytical thinking and structured problem-solving capabilities
+Strong ability to interpret and implement detailed instructions across various projects
+Proficient research skills with experience gathering and synthesizing information from multiple sources
+Proven attention to detail in managing complex tasks and documents
+
+Preferred Qualifications
+
+Bachelor’s degree in a relevant field
+2+ years of professional work experience with demonstrated task execution ability
+Proven capacity to leverage open-source resources effectively for comprehensive research purposes
+Ability to adapt well to fast-paced environments with changing circumstances, direction, and strategy
+2-3 years project coordination or management experience
+Experience managing stakeholder relationships across departments
+Advanced proficiency in Microsoft Office Suite and common business applications.
+
+Amazon is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status.
+
+Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.
+
+
+Company - Amazon.com Services LLC
+
+Job ID: A2966509

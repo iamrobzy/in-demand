@@ -1,0 +1,58 @@
+About The Company
+
+CrowdStrike is a global leader in cybersecurity, protecting the people, processes, and technologies that drive modern organizations. Since 2011, CrowdStrike has redefined modern security with the world’s most advanced AI-native platform, serving customers across all industries. A mission-driven company, CrowdStrike fosters a culture of flexibility, autonomy, innovation, and relentless focus on customer success, offering talented individuals the opportunity to join a team that’s shaping the future of cybersecurity.
+
+About The Role
+
+CrowdStrike’s Data Science Machine Learning Operations and Response Team is seeking a Threat Analyst to focus on both proactive and reactive threat analysis. In this role, you will analyze malware and threat detections, investigate detection tickets, and enhance detection capability and efficiency. You will work closely with internal teams, including Technical Account Managers, Falcon Complete, Data Scientists, and the Malware Research Center, playing a crucial role in improving detection efficacy and managing false positives.
+
+Responsibilities
+
+Review current product detections to ensure alignment with company standards.
+Perform tasks aimed at better management of false positive detections.
+Analyze binary files to assess legitimacy.
+Address internal inquiries and concerns regarding customer threat detections.
+
+Skills And Qualifications
+
+Basic Qualifications
+
+Exposure and understanding of malware types and functionality.
+Experience with reverse engineering malware or malware operations.
+Proficiency in Python and knowledge of programming and scripting languages.
+Understanding of binary file attributes such as imports/exports and packers.
+Practical knowledge of research/collection skills and analytical methods.
+Familiarity with operating systems and threat/risk management concepts.
+
+Bonus Points
+
+Experience in a Security Operations Center (SOC) or incident response environment.
+Thorough understanding of Windows OS internals and the Windows API.
+Knowledge of MacOS and/or Linux.
+Familiarity with tools used in cyber intrusions.
+Background in exploit and vulnerability analysis.
+Proficiency in programming languages such as C, C++, Java, and assembly.
+Experience with threat detection by machine learning.
+
+Education
+
+BA/BS or MA/MS degree or equivalent experience in Computer Science, Information Security, or a related field.
+
+Salary
+
+Base salary range in the U.S.: $100,000 - $150,000 per year, plus variable/incentive compensation, equity, and benefits.
+
+Benefits
+
+Remote-friendly and flexible work culture.
+Market-leading compensation and equity awards.
+Comprehensive physical and mental wellness programs.
+Competitive vacation and holiday benefits.
+Paid parental and adoption leave.
+Professional development opportunities.
+Employee Resource Groups and volunteer opportunities.
+Vibrant office culture with world-class amenities.
+
+Equal Opportunity
+
+CrowdStrike is proud to be an equal opportunity employer committed to fostering a culture of belonging. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity, sexual orientation, national origin, genetics, disability status, age, veteran status, or any other characteristic protected by applicable law. CrowdStrike also participates in the E-Verify program and is dedicated to providing equal pay for equal work.

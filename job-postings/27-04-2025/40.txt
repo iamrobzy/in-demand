@@ -1,0 +1,61 @@
+Want to learn more about this role and Jobot? Click our Jobot logo and follow our LinkedIn page!
+
+Job details
+
+Exciting ML Engineer Opportunity with Thriving HealthTech Organization!
+
+This Jobot Job is hosted by David DeCristofaro
+
+Are you a fit? Easy Apply now by clicking the "Easy Apply" button and sending us your resume.
+
+Salary $55,000 - $75,000 per year
+
+A Bit About Us
+
+We are an industry leader in the HealthTech space, but much more than that. We have built a customizable platform for health and wellness professionals to allow them provide the best care and treatment for their passions from start to finish. To keep it simple, our platform helps clinicians run and grow the practices with ease of service so they can concentrate on the most important thing... patients!
+
+
+
+Why join us?
+
+
+Competitive Base Salary!
+Ownership of feature development across the platform!
+Best in class healthcare, dental, vision, benefits across the board!
+Accelerated Career Growth!
+Extremely talented engineering leadership team to partner with on your path to further your career!
+Tackle challenging engineering tasks with state of the art new technology!
+
+Job Details
+
+We are seeking an experienced and passionate Senior Machine Learning Engineer to join our team. This is an exciting opportunity to work with a team of talented engineers and data scientists, leveraging cutting-edge technologies to design, develop, and deploy advanced machine learning models.
+
+Responsibilities
+
+Collaborate with Engineering, Product, and Design to ensure ML features are optimized.
+Develop and deploy ML Pipelines through building end to end solutions, from data exploration to model deployment.
+Utilize AWS for cloud-based model deployment and Kubernetes for orchestrating and automating tasks.
+Lead advanced analysis to uncover insights and drive product decisions.
+
+Qualifications
+
+Bachelor's degree in Computer Science, Statistics, Data Science, or a related field. Advanced degree is a plus.
+Minimum of 5 years of experience in a machine learning engineering role.
+Solid understanding of machine learning algorithms and principles, and experience in applying them to real-world problems.
+Proficiency in Python and Python libraries such as NumPy, Pandas, and Scikit-learn.
+Familiarity with Snowflake or similar data warehouses.
+Expertise with DBT for data transformation.
+Experience with AWS, particularly in relation to machine learning model deployment.
+Familiarity with Kubernetes, Outerbounds, or Argo Flows is a plus.
+Expertise with SQL
+Must be proficient in English.
+
+Interested in hearing more? Easy Apply now by clicking the "Easy Apply" button.
+
+Jobot is an Equal Opportunity Employer. We provide an inclusive work environment that celebrates diversity and all qualified candidates receive consideration for employment without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state or local laws.
+
+Sometimes Jobot is required to perform background checks with your authorization. Jobot will consider qualified candidates with criminal histories in a manner consistent with any applicable federal, state, or local law regarding criminal backgrounds, including but not limited to the Los Angeles Fair Chance Initiative for Hiring and the San Francisco Fair Chance Ordinance.
+
+Want to learn more about this role and Jobot?
+
+Click our Jobot logo and follow our LinkedIn page!

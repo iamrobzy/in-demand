@@ -1,0 +1,54 @@
+Disney Entertainment & ESPN Technology
+
+On any given day at Disney Entertainment & ESPN Technology, we’re reimagining ways to create magical viewing experiences for the world’s most beloved stories while also transforming Disney’s media business for the future. Whether that’s evolving our streaming and digital products in new and immersive ways, powering worldwide advertising and distribution to maximize flexibility and efficiency, or delivering Disney’s unmatched entertainment and sports content, every day is a moment to make a difference to partners and to hundreds of millions of people around the world.
+
+A few reasons why we think you’d love working for Disney Entertainment & ESPN Product & Technology:
+
+
+Building the future of Disney’s media business: DE&E Technologists are designing and building the infrastructure that will power Disney’s media, advertising, and distribution businesses for years to come.
+Reach & Scale: The products and platforms this group builds and operates delight millions of consumers every minute of every day – from Disney+ and Hulu, to ABC News and Entertainment, to ESPN and ESPN+, and much more.
+Innovation: We develop and execute groundbreaking products and techniques that shape industry norms and enhance how audiences experience sports, entertainment & news.
+
+
+The Commerce, Growth & Identity (CGI) team is dedicated to three business-critical areas at Disney that will help transform its media business. They create seamless user experiences for consumers who can choose from a wide range of subscription plans, enabling more choice and flexibility. The CGI team is also focused on building innovative and cutting-edge capabilities that will drive subscriptions, engagement, and monetization across Disney’s streaming and digital products.
+
+Job Summary:
+
+We are looking for a passionate Principal Machine Learning Engineer to drive the security and operation anomaly detection initiatives within the Commerce Growth and Identity Business Unit.
+
+We are seeking experienced ML engineers to lead on developing and deploying machine learning models that help reduce the security and operation risk for our services. In this role, you’ll work with teams across Commerce, Growth, and Identity to leverage machine learning solutions that enhance the security posture of our services. You will be a key leader helping drive the ML initiatives across the team. You will have an opportunity to learn about the various security challenges of a streaming organization.
+
+Responsibilities:
+
+
+Design, build, and optimize machine learning models that improve our security posture.
+Manage the full lifecycle of ML development, including data collection, feature engineering, model selection, evaluation, and production. Collaborate with engineers to deploy models at scale, ensuring robust A/B testing frameworks to assess the impact on key business metrics.
+Lead exploratory analyses and complex statistical modeling to deliver actionable insights that inform high-stakes business decisions.
+Translate complex data into clear and actionable insights through visualizations, reports, and presentations tailored to both technical and non-technical stakeholders.
+Drive data-informed decision-making by presenting findings that highlight security implications.
+Collaborate with other data teams to improve our data infrastructure, including models, visualizations, and experimentation capabilities.
+Mentor and grow a high-performing team of data scientists, creating an environment that encourages learning and innovation.
+
+
+Basic Qualifications:
+
+
+Bachelor’s degree in Data Science, Computer Science, Statistics, Mathematics, or a related field of study, and/or equivalent work experience. Master's degree or PhD is a plus.
+10+ years of experience in building, deploying, and evaluating real-world machine learning solutions.
+Proficiency in Python, R, SQL, and other relevant programming languages.
+Experience with data wrangling tools (e.g., Pandas, NumPy), databases (e.g., MySQL, PostgreSQL), and big data platforms (e.g., Spark, Databricks, Jupyter, Snowflake, Airflow, GitHub).
+Expertise in ML libraries such as scikit-learn, SciPy, and related technologies.
+Strong foundation in statistics, probability, and data modeling techniques.
+Excellent problem-solving, communication, and collaboration skills.
+
+
+Preferred Qualifications:
+
+
+Experience working with Amazon Web Services.
+Experience with Tableau, Power BI, or similar platforms.
+Experience building anomaly detection models.
+Knowledge of software security. 
+
+
+The hiring range for this position in New York is $212,600 to $285,100 per year. The base pay actually offered will take into account internal equity and also may vary depending on the candidate’s geographic region, job-related knowledge, skills, and experience among other factors. A bonus and/or long-term incentive units may be provided as part of the compensation package, in addition to the full range of medical, financial, and/or other benefits, dependent on the level and position offered.

@@ -1,0 +1,44 @@
+Responsibilities
+
+TikTok will be prioritizing applicants who have a current right to work in Singapore, and do not require TikTok's sponsorship of a visa.
+
+TikTok is the leading destination for short-form mobile video. At TikTok, our mission is to inspire creativity and bring joy. TikTok's global headquarters are in Los Angeles and Singapore, and its offices include New York, London, Dublin, Paris, Berlin, Dubai, Jakarta, Seoul, and Tokyo.
+
+Why Join Us
+
+Creation is the core of TikTok's purpose. Our platform is built to help imaginations thrive. This is doubly true of the teams that make TikTok possible.
+
+Together, we inspire creativity and bring joy - a mission we all believe in and aim towards achieving every day.
+
+To us, every challenge, no matter how difficult, is an opportunity; to learn, to innovate, and to grow as one team. Status quo? Never. Courage? Always.
+
+At TikTok, we create together and grow together. That's how we drive impact - for ourselves, our company, and the communities we serve.
+
+Join us.
+
+About The Team
+
+Our Search Ranking Team is responsible for building the relevance/retrieval/ranking models for TikTok's search engine. Here you’ll have the opportunity to build a full-stack search engine system based on advanced AI methods to provide a world leading search engine. We embrace a culture of self-direction, intellectual curiosity, openness, and problem-solving.
+
+We are looking for talented individuals to join us in 2025. As a graduate, you will get unparalleled opportunities for you to kickstart your career, pursue bold ideas and explore limitless growth opportunities. Co-create a future driven by your inspiration with TikTok.
+
+Responsibilities
+
+Optimize the searching algorithms to improve TikTok's search user experience
+Combine your understanding of product objectives and take full advantage of modern machine learning, AI, NLP/CV techniques to improve the search ranking algorithms, including query understanding, video understanding and various levels of result ranking.
+
+Qualifications
+
+Minimum Qualifications
+
+Bachelor degree or above in the field of computer science or a related technical discipline
+Proficient coding skills and strong algorithm & data structure using C++/Python/Java
+At least 5 years of relevant Search/Recommendation experience
+Have a solid knowledge of machine learning and practical experience in applying it
+
+Preferred Qualifications
+
+Effective communication and teamwork skills.
+Modeling experience in one or more of the following areas: Ads, Search engine, Recommender System, NLP/CV
+
+TikTok is committed to creating an inclusive space where employees are valued for their skills, experiences, and unique perspectives. Our platform connects people from across the globe and so does our workplace. At TikTok, our mission is to inspire creativity and bring joy. To achieve that goal, we are committed to celebrating our diverse voices and to creating an environment that reflects the many communities we reach. We are passionate about this and hope you are too.

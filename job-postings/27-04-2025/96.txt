@@ -1,0 +1,64 @@
+Responsibilities
+
+TikTok is the leading destination for short-form mobile video. At TikTok, our mission is to inspire creativity and bring joy. TikTok's global headquarters are in Los Angeles and Singapore, and its offices include New York, London, Dublin, Paris, Berlin, Dubai, Jakarta, Seoul, and Tokyo.
+
+Why Join Us
+
+Creation is the core of TikTok's purpose. Our platform is built to help imaginations thrive. This is doubly true of the teams that make TikTok possible. Together, we inspire creativity and bring joy - a mission we all believe in and aim towards achieving every day. To us, every challenge, no matter how difficult, is an opportunity; to learn, to innovate, and to grow as one team. Status quo? Never. Courage? Always. At TikTok, we create together and grow together. That's how we drive impact - for ourselves, our company, and the communities we serve. Join us.
+
+Our Team Supply Side Algorithms
+
+Our team is committed to expanding the number of merchants and creators on TikTok Shop, as well as providing them with comprehensive support to foster growth within the TikTok Shop ecosystem. We achieve this by developing end-to-end algorithmic capabilities utilizing machine learning, data mining, and causal inference methodologies.
+
+We are seeking a talented and motivated Machine Learning Engineer with expertise in marketplace growth to join our dynamic and fast-paced team. In this role, you will collaborate with cross-functional teams including data scientists, product managers, and business stakeholders to develop innovative solutions that drive the growth of merchants and creators in TikTok Shop.
+
+Responsibilities
+
+Utilize advanced machine learning techniques to analyze large-scale datasets and identify meaningful, correlations, and causal relations related to merchant and creator growth in TikTok Shop
+Collaborate with business stakeholders, product managers, and data scientists to define data mining objectives and develop strategies to address complex business problems and opportunities.
+Apply feature engineering techniques to derive relevant features and embeddings from raw data and improve the performance of machine learning models.
+Develop scalable and efficient data pipelines to preprocess and transform data for machine learning tasks, ensuring data quality, consistency, and availability.
+Evaluate and benchmark different machine learning approaches, algorithms, and tools, and recommend the most appropriate solutions based on performance, scalability, and interpretability.
+Stay updated with the latest advancements in data mining, machine learning, and related fields, and apply this knowledge to enhance the team's capabilities and identify new opportunities.
+Communicate findings, insights, and technical concepts effectively to both technical and non-technical stakeholders, fostering a collaborative and data-driven decision-making culture.
+
+Qualifications
+
+Minimum Qualifications
+
+Highly self-motivated to drive business growth and foster technical advancement.
+Master's or advanced degree in Computer Science, Data Science, Statistics, or a related field.
+3+ years experience as a Machine Learning Engineer, Data Scientist, and experience in causal machine learning
+Work experience in user growth, marketing algorithms, recommendation algorithms, advertisement algorithms or related fields
+Proficient in using SQL and Python and experience with data manipulation
+Experience with big data processing frameworks (e.g., Hadoop, Spark) and distributed computing for efficient data mining on large-scale datasets.
+
+Preferred Qualifications
+
+Solid understanding of machine/deep learning concepts and techniques, including feature engineering, model evaluation, and optimization.
+Strong analytical and problem-solving skills, with a demonstrated ability to handle and derive insights from complex and unstructured datasets.
+Excellent communication and collaboration skills, with the ability to work effectively in cross-functional teams and convey technical concepts to non-technical stakeholders.
+
+TikTok is committed to creating an inclusive space where employees are valued for their skills, experiences, and unique perspectives. Our platform connects people from across the globe and so does our workplace. At TikTok, our mission is to inspire creativity and bring joy. To achieve that goal, we are committed to celebrating our diverse voices and to creating an environment that reflects the many communities we reach. We are passionate about this and hope you are too.
+
+TikTok is committed to providing reasonable accommodations in our recruitment processes for candidates with disabilities, pregnancy, sincerely held religious beliefs or other reasons protected by applicable laws. If you need assistance or a reasonable accommodation, please reach out to us at https://shorturl.at/cdpT2
+
+Job Information
+
+【For Pay Transparency】Compensation Description (Annually)
+
+The base salary range for this position in the selected city is $137750 - $237500 annually.
+
+Compensation may vary outside of this range depending on a number of factors, including a candidate’s qualifications, skills, competencies and experience, and location. Base pay is one part of the Total Package that is provided to compensate and recognize employees for their work, and this role may be eligible for additional discretionary bonuses/incentives, and restricted stock units.
+
+Benefits may vary depending on the nature of employment and the country work location. Employees have day one access to medical, dental, and vision insurance, a 401(k) savings plan with company match, paid parental leave, short-term and long-term disability coverage, life insurance, wellbeing benefits, among others. Employees also receive 10 paid holidays per year, 10 paid sick days per year and 17 days of Paid Personal Time (prorated upon hire with increasing accruals by tenure).
+
+The Company reserves the right to modify or change these benefits programs at any time, with or without notice.
+
+For Los Angeles County (unincorporated) Candidates:
+
+Qualified applicants with arrest or conviction records will be considered for employment in accordance with all federal, state, and local laws including the Los Angeles County Fair Chance Ordinance for Employers and the California Fair Chance Act. Our company believes that criminal history may have a direct, adverse and negative relationship on the following job duties, potentially resulting in the withdrawal of the conditional offer of employment:
+
+Interacting and occasionally having unsupervised contact with internal/external clients and/or colleagues;
+Appropriately handling and managing confidential information including proprietary and trade secret information and access to information technology systems; and
+Exercising sound judgment.

@@ -1,0 +1,124 @@
+Data Scientist / ML Engineer 
+Experience: 0-1 years 
+
+Location: Bangalore 
+
+Job Type: Full Time 
+
+About the Role 
+
+We are looking for an enthusiastic and eager-to-learn ML Engineer/Data Scientist to join our growing team. You'll work in a fast-paced, collaborative environment where you'll have the opportunity to learn from experienced professionals while contributing to real-world machine learning projects. We value individuals who are self-motivated, curious about AI/ML technologies, and passionate about transforming complex data into actionable insights. 
+
+Expectation from this role: 
+
+• Work alongside senior team members to develop and deploy machine learning models that address business challenges 
+
+• Assist in transforming business problems into technical data problems through collaboration with stakeholders 
+
+• Support in building data preprocessing pipelines for structured and unstructured data 
+
+• Learn and implement various modeling algorithms using machine learning techniques 
+
+• Contribute to model monitoring, validation, and testing processes 
+
+• Participate in code reviews and learn best practices for predictive analytics infrastructure 
+
+• Demonstrate willingness to adapt quickly and wear multiple hats in our small, dynamic team 
+
+• Show initiative in learning new technologies and frameworks as needed 
+
+Required Skills and Qualifications: 
+
+Educational Background: 
+
+• Bachelor's degree in Computer Science, Statistics, Mathematics, Data Science, or related field preferred. 
+
+• Strong foundational knowledge in machine learning, statistics, and data analysis 
+
+• Demonstrated learning through coursework, online courses, bootcamps, or self-study projects involving Python programming and data science libraries 
+
+Technical Skills: 
+
+• Proficiency in Python with exposure to data science libraries such as NumPy, pandas, and scikit-learn 
+
+• Understanding of fundamental machine learning algorithms (linear/logistic regression, decision trees, clustering) 
+
+• Basic knowledge of data structures and algorithms 
+
+• Familiarity with SQL for basic data querying 
+
+• Exposure to version control systems like Git 
+
+• Understanding of data visualization principles and libraries (Matplotlib, Seaborn) 
+
+• Basic knowledge of probability and statistical concepts 
+
+Data Science Fundamentals: 
+
+• Understanding of machine learning workflows: data preprocessing, feature engineering, model training, and evaluation 
+
+• Knowledge of common data preprocessing techniques and handling missing data 
+
+• Basic understanding of model evaluation metrics and cross-validation 
+
+• Exposure to Jupyter notebooks for exploratory data analysis 
+
+• Familiarity with data types and data structures in Python 
+
+Soft Skills & Attitude: 
+
+• Strong problem-solving abilities and analytical thinking 
+
+• Excellent learning agility and adaptability to new technologies 
+
+• Eagerness to learn from senior team members and take constructive feedback 
+
+• Ability to work independently on assigned tasks while knowing when to seek help 
+
+• Strong communication skills to effectively collaborate with team members 
+
+• Curiosity about emerging AI/ML technologies and industry trends 
+
+
+Preferred Qualifications: 
+
+• Experience or coursework in Natural Language Processing (NLP) and familiarity with NLTK library 
+
+• Personal projects or academic work demonstrating practical application of machine learning 
+
+• Participation in kaggle competitions or similar data science challenges 
+
+• Basic exposure to deep learning frameworks like TensorFlow or PyTorch 
+
+• Understanding of cloud platforms (AWS, GCP, or Azure) at a beginner level 
+
+• Knowledge of API development using Flask or FastAPI 
+
+• Familiarity with Docker containers 
+
+• Experience with data visualization tools like Tableau or Power BI 
+
+• Contributions to open-source projects 
+
+• Certifications in data science or machine learning from recognized platforms 
+
+
+
+
+What Sets the Ideal Candidate Apart: 
+
+• Portfolio of personal projects showcasing ML applications, even if basic 
+
+• Demonstrated ability to learn new technologies quickly and independently 
+
+• Strong foundation in mathematics and statistics 
+
+• Genuine passion for AI/ML with active engagement in the community (blogs, meetups, online courses) 
+
+• Growth mindset and willingness to take on challenges beyond current skill level 
+
+• Ability to explain technical concepts in simple terms 
+
+• Proactive approach to problem-solving and debugging 
+
+• Enthusiasm for working in a startup environment with evolving requirements

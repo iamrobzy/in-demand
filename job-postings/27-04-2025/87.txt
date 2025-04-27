@@ -1,0 +1,38 @@
+Beehive Industries is dedicated to Powering American Defense by revolutionizing the design, development, and delivery of jet propulsion systems to support the warfighter. Through the integration of additive manufacturing, the company aims to meet the growing and urgent needs for unmanned aerial defense by dramatically improving a jet engine’s speed to market, fuel efficiency, and cost.
+
+Founded in 2020, the company is headquartered in Englewood, Colorado, with additional facilities in Knoxville, Tennessee, Loveland Ohio, and Mount Vernon, Ohio. Beehive is committed to grow and advance the defense industrial base while manufacturing exclusively in the USA. This role can be remote.
+
+Job Overview
+
+We are seeking a highly skilled Machine Learning Engineer with expertise in Large Language Models (LLMs) related to aerospace applications. The ideal candidate will design, develop, and deploy LLMs that enhance the performance, diagnostics, and overall development phase of jet engines used in uncrewed applications. This role requires deep knowledge of AI, natural language processing (NLP), and aerospace engineering principles.
+
+Key Responsibilities
+
+Develop and fine-tune LLMs to optimize the jet engine development phase including performance assessments, analysis, and test.
+Integrate AI models within the Digital Engineering thread at Beehive Ind.
+Responsible for researching, benchmarking, and recommending machine learning models for internal consumption. 
+Utilize natural language processing (NLP) through the development and test phases of a program.
+Collaborate with aerospace engineers, data scientists, and software developers to deploy AI-driven solutions.
+Design and implement machine learning pipelines for processing aerospace data. Create learning models to interface with / learn from computational fluid dynamics (CFD), aerodynamic analysis, finite element analysis (FEA), and CAD software as examples (i.e. mathematical, physics and thermodynamic based learning models and systems). 
+Research and apply state-of-the-art AI/ML methodologies to improve the propulsion systems, products, and development process.
+Ensure model robustness, interpretability, and compliance with applicable regulations. Partner with IT infrastructure team pertaining to security and deployment. 
+Train AI to provide technical support to the engineering team such as generating engineering reports, creating feasibility studies, etc.
+
+Qualifications
+
+Master’s or Ph.D. in Computer Science, Machine Learning, or a related field.
+6+ years of strong experience with Large Language Models (e.g., GPT, LLaMA, BERT) and NLP techniques.
+Proficiency in Python, Java, TensorFlow, PyTorch, or other deep learning frameworks.
+Background in aerospace systems, jet engines, or related disciplines is highly desirable.
+Experience with high-performance computing, data engineering, and/or cloud-based ML deployment.
+Knowledge of reinforcement learning, time-series analysis, and physics-informed machine learning models.
+Experience with data security best practices, protecting company IP, etc. within the AI systems 
+Ability to work in a cross-disciplinary environment with engineers and data scientists.
+Strong communication skills to teach others about AI, and deploy across the business. 
+Experiencing working on programs for the Department of Defense. 
+
+If this sounds like you, please submit an application with your resume. This could be the opportunity you are looking for to expand your skills, contribute to a winning team, and work with talented people who love what they do and take pride in our mission.
+
+Beehive Industries offers a comprehensive benefits package that includes group Medical, Dental, Life, and Short and Long-Term disability coverage from day one. We also offer a generous 401(k) Retirement Savings Plan with a Company match. Every role at Beehive Industries is bonus eligible, and will also receive equity in the company.
+
+Beehive Industries is committed to full compliance with applicable anti-discrimination laws. We are an equal opportunity employer and value diversity at our company. We strive to create an inclusive work environment and will not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.

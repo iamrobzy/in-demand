@@ -1,0 +1,40 @@
+About Pinterest
+
+Millions of people around the world come to our platform to find creative ideas, dream about new possibilities and plan for memories that will last a lifetime. At Pinterest, we’re on a mission to bring everyone the inspiration to create a life they love, and that starts with the people behind the product.
+
+Discover a career where you ignite innovation for millions, transform passion into growth opportunities, celebrate each other’s unique experiences and embrace the flexibility to do your best work. Creating a career you love? It’s Possible.
+
+Within the Ads Performance team, we try to connect the dots between the aspirations of Pinners and the products offered by our partners. In these roles, you will be responsible for developing and executing a vision for the evolution of the machine learning technology stack for Ads Ranking, including Candidate Generation, Lightweight Ranker, Engagement Modeling, and Conversion Modeling. You will work on tackling new challenges in Ads Ranking, such as user sequence modeling, large models, embedding features, model quantization, utility alignment, application of LLM and multi-modal models, as well as domain-specific challenges like next-gen lightweight ranking beyond two-tower architecture, quota allocation, new engagement type modeling, RoAS optimization and many more to advance the ML models that power the ads ranking stage and delivery that bring together pinners and partners in this unique marketplace.
+
+What You’ll Do
+
+Be responsible for the development of state-of-the-art applied machine learning projects for one of the 3 modeling problems in ads ranking: lightweight ranker, engagement modeling and conversion modeling
+Design features and build large-scale machine learning models to improve user ads action prediction with low latency
+Develop new techniques for inferring user interests from online and offline activity
+Mine text, visual, user signals to better understand user intention
+Work with product and sales teams to design and implement new ad products
+
+
+What We’re Looking For
+
+MS or PhD degree in Computer Science, Statistics or related field
+6+ years of industry experience building production machine learning systems at scale, data mining, search, recommendations, and/or natural language processing
+2+ years of experience leading projects/teams
+Strong mathematical skills with knowledge of statistical methods
+Cross-functional collaborator and strong communicator
+Background in computational advertising is preferred, but not required
+
+
+This position is not eligible for relocation assistance.
+
+At Pinterest we believe the workplace should be equitable, inclusive, and inspiring for every employee. In an effort to provide greater transparency, we are sharing the base salary range for this position. The position is also eligible for equity. Final salary is based on a number of factors including location, travel, relevant prior experience, or particular skills and expertise.
+
+Information regarding the culture at Pinterest and benefits available for this position can be found here.
+
+US based applicants only
+
+$176,924—$364,254 USD
+
+Our Commitment To Inclusion
+
+Pinterest is an equal opportunity employer and makes employment decisions on the basis of merit. We want to have the best qualified people in every job. All qualified applicants will receive consideration for employment without regard to race, color, ancestry, national origin, religion or religious creed, sex (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender, gender identity, gender expression, age, marital status, status as a protected veteran, physical or mental disability, medical condition, genetic information or characteristics (or those of a family member) or any other consideration made unlawful by applicable federal, state or local laws. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. If you require a medical or religious accommodation during the job application process, please complete this form for support.

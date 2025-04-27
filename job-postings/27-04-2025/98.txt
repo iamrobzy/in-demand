@@ -1,0 +1,39 @@
+Responsibilities
+
+TikTok is the leading destination for short-form mobile video. Our mission is to inspire creativity and bring joy. TikTok has global offices including Los Angeles, New York, London, Paris, Berlin, Dubai, Singapore, Jakarta, Seoul and Tokyo.
+
+Why Join Us
+
+Creation is the core of TikTok's purpose. Our platform is built to help imaginations thrive. This is doubly true of the teams that make TikTok possible.
+
+Together, we inspire creativity and bring joy - a mission we all believe in and aim towards achieving every day.
+
+To us, every challenge, no matter how difficult, is an opportunity; to learn, to innovate, and to grow as one team. Status quo? Never. Courage? Always.
+
+At TikTok, we create together and grow together. That's how we drive impact - for ourselves, our company, and the communities we serve.
+
+Join us.
+
+About The Team
+
+Our Recommendation Architecture Team is responsible for building up and optimizing the architecture for our recommendation system to provide the most stable and best experience for our TikTok users. The team is responsible for system stability and high availability, online services and offline data flow performance optimization, solving system bottlenecks, reducing cost overhead, building data and service mid-platform, realizing flexible and scalable high-performance storage and computing systems.
+
+Responsibilities
+
+Serving and training infra optimization of machine learning models
+Build and maintain high performance online services for TikTok recommendation system
+Build globalized large-scale recommendation system
+Research, design, and develop computer and network software or specialised utility programs
+Analyse user needs and develop software solutions, applying principles and techniques of computer science, engineering, and mathematical analysis
+Update software, enhances existing software capabilities, and develops and direct software testing and validation procedures
+Work with computer hardware engineers to integrate hardware and software systems and develop specifications and performance requirements
+
+Qualifications
+
+Bachelor's degree or above, majoring in Computer Science, or related fields, with 3+ years of experience building scalable systems.
+Experience at least one or two programming languages in Linux environment such as C/C++/golang;
+Understand GPU hardware architecture, understand GPU software stack (CUDA, cuDNN), and have experience in GPU performance analysis;
+Have experience in deep model inference/training, debugging, tuning, and familiar with model optimization tools such as TVM, MLIR, XLA;
+Familiar with mainstream machine learning frameworks (e.g., Tensorflow, Pytorch, MxNet);
+
+TikTok is committed to creating an inclusive space where employees are valued for their skills, experiences, and unique perspectives. Our platform connects people from across the globe and so does our workplace. At TikTok, our mission is to inspire creativity and bring joy. To achieve that goal, we are committed to celebrating our diverse voices and to creating an environment that reflects the many communities we reach. We are passionate about this and hope you are too.

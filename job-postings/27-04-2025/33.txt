@@ -1,0 +1,75 @@
+Join Amgen’s Mission of Serving Patients
+
+At Amgen, if you feel like you’re part of something bigger, it’s because you are. Our shared mission—to serve patients living with serious illnesses—drives all that we do.
+
+Since 1980, we’ve helped pioneer the world of biotech in our fight against the world’s toughest diseases. With our focus on four therapeutic areas –Oncology, Inflammation, General Medicine, and Rare Disease– we reach millions of patients each year. As a member of the Amgen team, you’ll help make a lasting impact on the lives of patients as we research, manufacture, and deliver innovative medicines to help people live longer, fuller happier lives.
+
+Our award-winning culture is collaborative, innovative, and science based. If you have a passion for challenges and the opportunities that lay within them, you’ll thrive as part of the Amgen team. Join us and transform the lives of patients while transforming your career.
+
+Senior Data Scientist
+
+What You Will Do
+
+Let’s do this. Let’s change the world. In this vital role you will harness the power of Computational Fluid Dynamics (CFD) and machine learning as the fundamental techniques, complemented by models encompassing transport phenomena, data-driven insights, machine learning, optics, and cell physiology. Leveraging these multidisciplinary models, you will develop mechanistic and data-driven solutions to address an array of intricate challenges across diverse functions, including bioprocesses (drug substance, drug product), and synthetic chemical processes. This position presents a distinctive opportunity to contribute to pioneering digital transformation endeavors that wield a substantial influence on the biomanufacturing sector. Join us in shaping the future of bioprocess optimization and leave an indelible mark on the industry's forefront.
+
+Utilize Computational Fluid Dynamic (CFD) models to simulate and analyze biomanufacturing processes.
+Develop machine learning and computer vision tools to streamline quality control processes in biomanufacturing.
+Enhance existing algorithms using programming languages such as Python, C++, Java, or other suitable languages.
+Collaborate with cross-functional teams to develop innovative biomanufacturing solutions by integrating expertise in engineering, data science, and biology, while managing multiple projects using agile methodologies.
+Build and maintain data pipelines to support advanced modeling techniques.
+
+What We Expect Of You
+
+We are all different, yet we all use our unique contributions to serve patients. The Data Sciences professional we seek is an individual with these qualifications.
+
+Basic Qualifications:
+
+High school diploma / GED and 10 years of Data Sciences experience; OR
+Associate’s degree and 8 years of Data Sciences experience; Or
+Bachelor’s degree and 4 years of Data Sciences experience; Or
+Master’s degree and 2 years of Data Sciences experience; Or
+Doctorate degree
+
+Preferred Qualifications:
+
+Ph.D. in Mechanical Engineering, Chemical Engineering, Data Science or a related field OR
+Master's degree with a minimum of 2 years of relevant industrial experience.
+Track record of leading computational, data science and machine learning projects
+Hands on experience in code development
+Strong background in computational model development with hands-on experience in real-world problems.
+Strong knowledge of machine learning and computer vision concepts and experience applying machine learning solutions to engineering problems.
+Proficiency in coding with the ability to write clean, efficient, and well-documented codes.
+Experience in building and maintaining data pipelines for efficient data collection and preprocessing
+Additional advanced degrees or certifications related to machine learning, or biomanufacturing.
+Prior experience in the biopharmaceutical or biotechnology industry.
+Publication record in relevant peer-reviewed journals or conferences.
+
+What you can expect from us
+
+As we work to develop treatments that take care of others, we also work to care for your professional and personal growth and well-being. From our competitive benefits to our collaborative culture, we’ll support your journey every step of the way.
+
+The expected annual salary range for this role in the U.S. (excluding Puerto Rico) is posted. Actual salary will vary based on several factors including but not limited to, relevant skills, experience, and qualifications.
+
+In addition to the base salary, Amgen offers a Total Rewards Plan, based on eligibility, comprising of health and welfare plans for staff and eligible dependents, financial plans with opportunities to save towards retirement or other goals, work/life balance, and career development opportunities that may include:
+
+A comprehensive employee benefits package, including a Retirement and Savings Plan with generous company contributions, group medical, dental and vision coverage, life and disability insurance, and flexible spending accounts
+A discretionary annual bonus program, or for field sales representatives, a sales-based incentive plan
+Stock-based long-term incentives
+Award-winning time-off plans
+Flexible work models, including remote and hybrid work arrangements, where possible
+
+Apply now and make a lasting impact with the Amgen team.
+
+careers.amgen.com
+
+In any materials you submit, you may redact or remove age-identifying information such as age, date of birth, or dates of school attendance or graduation. You will not be penalized for redacting or removing this information.
+
+Application deadline
+
+Amgen does not have an application deadline for this position; we will continue accepting applications until we receive a sufficient number or select a candidate for the position.
+
+As an organization dedicated to improving the quality of life for people around the world, Amgen fosters an inclusive environment of diverse, ethical, committed and highly accomplished people who respect each other and live the Amgen values to continue advancing science to serve patients. Together, we compete in the fight against serious disease.
+
+Amgen is an Equal Opportunity employer and will consider all qualified applicants for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, protected veteran status, disability status, or any other basis protected by applicable law.
+
+We will ensure that individuals with disabilities are provided reasonable accommodation to participate in the job application or interview process, to perform essential job functions, and to receive other benefits and privileges of employment. Please contact us to request accommodation. Amgen is an Equal Opportunity employer and will consider you without regard to your race, color, religion, sex, sexual orientation, gender identity, national origin, protected veteran status, or disability status.

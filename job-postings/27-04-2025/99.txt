@@ -1,0 +1,28 @@
+Responsibilities
+
+TikTok is the leading destination for short-form mobile video. Our mission is to inspire creativity and bring joy. TikTok has global offices including Los Angeles, New York, London, Paris, Berlin, Dubai, Singapore, Jakarta, Seoul and Tokyo.
+
+Why Join Us
+
+At TikTok, our people are humble, intelligent, compassionate and creative. We create to inspire - for you, for us, and for more than 1 billion users on our platform. We lead with curiosity and aim for the highest, never shying away from taking calculated risks and embracing ambiguity as it comes. Here, the opportunities are limitless for those who dare to pursue bold ideas that exist just beyond the boundary of possibility. Join us and make impact happen with a career at TikTok.
+
+Our engineering team is responsible for developing state-of-the-art machine learning models and algorithms to protect our platform and users from the content and behaviors that violate community guidelines and related local regulations. With the continuous efforts from our team, TikTok is able to provide the best user experience and bring joy to everyone in the world.
+
+Build industry-leading content safety systems for TikTok;
+Develop highly-scalable classifiers, tools, models and algorithms leveraging cutting-edge machine learning, computer vision and data mining technologies;
+Understand product objectives and improve trust and safety strategy and model's performance;
+Work with cross-functional teams to protect TikTok globally.
+
+Qualifications
+
+Major in computer science or a related technical discipline;
+At least 3 years of experience in at least one of the following areas: machine learning, pattern recognition, NLP, data mining, or computer vision.
+Experience in the recommendation, search, advertising, or other related projects.
+Published papers in the top AI conferences or journals is a plus, including KDD, IJCAI, WWW, WSDM, ICML, NeurIPS, CVPR, ECCV, ICCV, ACL, etc.;
+Competition experience in machine learning, data mining, CV, NLP and others.
+Experience in content moderation or trust & safety is a plus;
+Well understanding of data structures and algorithms;
+Great communication and teamwork skills;
+Passion for techniques and solving challenging problems.
+
+TikTok is committed to creating an inclusive space where employees are valued for their skills, experiences, and unique perspectives. Our platform connects people from across the globe and so does our workplace. At TikTok, our mission is to inspire creativity and bring joy. To achieve that goal, we are committed to celebrating our diverse voices and to creating an environment that reflects the many communities we reach. We are passionate about this and hope you are too.

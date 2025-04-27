@@ -1,0 +1,20 @@
+Summary:
+
+To help support the growth of a key investment of ours in the NYC, we're looking to network with talented ML Engineers with strong backgrounds in Generative AI, NLP, and Search who are interested in joining a high-profile startup with significant revenue.
+
+Target scope: Staff/TLM/Sr. Staff
+Core focus: Applying GenAI to an enterprise search platform
+Experience: 6+ years industry experience as an MLE in NLP, Search, Deep Learning, etc. (1+ years industry exp with LLM's required). Must have prior experience with model re-architecture work as well (CNN, DNN, RNN, etc.).
+Hybrid work: Candidate must be local, but the company is flexible on the amount of time spent in office / week
+
+About Us:
+
+Greylock is an early-stage investor in hundreds of remarkable companies including Airbnb, LinkedIn, Dropbox, Workday, Cloudera, Facebook, Instagram, Roblox, Coinbase, Palo Alto Networks, among others. More can be found about us here: https://greylock.com/
+
+How We Work:
+
+We are full-time, salaried employees of Greylock and provide free candidate referrals/introductions to our active investments. We will contact anyone who looks like a potential match--requesting to schedule a call with you immediately.
+
+Due to the selective nature of this service and the volume of applicants we typically receive from our job postings, a follow-up email will not be sent until a match is identified with one of our investments.
+
+Please note: We are not recruiting for any roles within Greylock at this time. This job posting is for direct employment with a startup in our portfolio.

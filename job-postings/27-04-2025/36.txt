@@ -1,0 +1,10 @@
+Weon.ai is a Swedish tech startup launched in 2020, with a mission to transform the online fashion shopping experience. The company’s core offering is an AI-driven virtual fitting solution that enables users to try on clothes digitally. As part of our mission to revolutionize the online fashion experience, we are expanding our Applied Machine Learning group with a key role focused on developing and deploying state-of-the-art machine learning models.
+
+The role
+You will join the founding team and work alongside a dedicated and skilled team in a high-growth startup environment. Your contribution will be centered around development of state-of-the-art computer vision models, ranging from more traditional models such as segmentation and detection to the latest generative diffusion approaches. 
+
+Qualifications:
+Mater's degree from Computer Science, Engineering Physics or similar
+Experience from developing computer vision models
+Ability to thrive in fast-paced environment
+Work from our offices in Sweden (Stockholm or Gothenburg)

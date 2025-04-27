@@ -1,0 +1,54 @@
+McKesson is an impact-driven, Fortune 10 company that touches virtually every aspect of healthcare. We are known for delivering insights, products, and services that make quality care more accessible and affordable. Here, we focus on the health, happiness, and well-being of you and those we serve – we care.
+
+What you do at McKesson matters. We foster a culture where you can grow, make an impact, and are empowered to bring new ideas. Together, we thrive as we shape the future of health for patients, our communities, and our people. If you want to be part of tomorrow’s health today, we want to hear from you.
+
+Are you ready to lead the charge in transforming enterprise AI initiatives? As a Senior Machine Learning Engineer at McKesson, you'll be at the forefront of our big bet AI projects, harnessing the power of machine learning to drive innovation across the organization. You'll take the helm in the full project lifecycle, focusing on deploying and managing solutions within our MLOps enterprise platform.
+
+In this role, you will be part of a dynamic team dedicated to crafting robust machine learning applications at scale. Your expertise will guide the detailed technical design, development, and implementation of state-of-the-art ML solutions. You'll not only design and review model architectures but also ensure the seamless integration and performance of these applications. If you're passionate about pushing the boundaries of what's possible with AI, this position offers a playground of opportunities.
+
+Role/Responsibilities:
+
+End-to-End ML Engineering: Engage in a wide array of ML engineering activities, from Ops and Modeling to Data Engineering, ensuring a comprehensive approach to enterprise solutions.
+Innovative Model Design: Collaborate with business leadership and Data Science teams to design, build, and deliver ML models that tackle real-world business challenges.
+Strategic Infrastructure Decisions: Utilize your deep understanding of ML techniques to inform infrastructure choices, considering model types, data selection, hyperparameter tuning, and validation.
+Complex Problem Solving: Write and test application code, develop and validate ML models, and automate testing and deployment processes to tackle complex problems.
+Model Management: Retrain, maintain, and monitor models in production, ensuring they perform optimally and adapt to changing data landscapes.
+Cloud-Based Optimization: Leverage cloud-based architectures to deliver scalable and efficient ML models.
+Data Pipeline Construction: Develop optimized data pipelines to support ML models with high-quality data in collaboration with data engineering.
+CI/CD Excellence: Implement continuous integration and deployment best practices, including test automation and monitoring, to ensure successful model deployments.
+Governance and Best Practices: Manage code to minimize vulnerabilities, govern models from a risk perspective, and adhere to Responsible and Explainable AI principles.
+Programming Proficiency: Utilize Python, Rust, C++ to develop high-quality, maintainable code.
+
+
+Minimum Qualifications:
+
+Bachelor's degree or equivalent work experience.
+4+ years programming experience with Python. Rust and C++ are nice to have.
+3+ years designing and building data-intensive solutions with distributed computing.
+2+ years with industry-recognized ML frameworks (scikit-learn, PyTorch, TensorFlow, Spark, Ray).
+1+ year productionizing, monitoring, and maintaining models.
+
+
+Preferred Qualifications:
+
+1+ years building, scaling, and optimizing ML systems.
+1+ years in data gathering and preparation for ML models.
+2+ years developing performant, resilient, and maintainable code.
+Experience with Azure for developing, deploying, and monitoring of production ML solutions.
+Advanced degree in computer science, electrical engineering, mathematics, or a related field.
+3+ years with distributed file systems or multi-node database paradigms.
+3+ years building production-ready data pipelines for ML models.
+Experience with Terraform and DevOps principles, including CI/CD pipelines.
+
+
+We are proud to offer a competitive compensation package at McKesson as part of our Total Rewards. This is determined by several factors, including performance, experience and skills, equity, regular job market evaluations, and geographical markets. The pay range shown below is aligned with McKesson's pay philosophy, and pay will always be compliant with any applicable regulations. In addition to base pay, other compensation, such as an annual bonus or long-term incentive opportunities may be offered. For more information regarding benefits at McKesson, please click here.
+
+Our Base Pay Range for this position
+
+$155,600 - $259,300
+
+McKesson is an Equal Opportunity Employer
+
+McKesson provides equal employment opportunities to applicants and employees and is committed to a diverse and inclusive environment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, protected veteran status, disability, age or genetic information. For additional information on McKesson’s full Equal Employment Opportunity policies, visit our Equal Employment Opportunity page.
+
+Join us at McKesson!

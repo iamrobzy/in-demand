@@ -1,0 +1,111 @@
+Data Scientist - Machine Learning H/F AFD.TECH
+
+Paris - 75
+
+CDI
+
+Super recruteur
+
+Offre d’une ESN -
+
+input-checker#uncheck:self click->modal#dispatchDiscardedEvent:self">
+
+toggle-on-body#add intersect:exit->toggle-on-body#remove" role="dialog" data-cy="modalContainer" class=" tw-bg-white tw-shadow-modal tw-overflow-auto tw-col-span-full sm:tw-col-start-4 xl:tw-col-start-5 sm:tw-col-span-6 tw-rounded-t-sm tw-mt-4 sm:tw-rounded-sm tw-px-6 sm:tw-px-10 tw-pt-6 sm:tw-pt-8 tw-pb-8 sm:tw-my-6">
+
+Offre d’une ESN
+
+Cette offre est publiée par une ESN. Il ne s'agit pas de l'entreprise dans laquelle vous travaillerez au quotidien. 
+
+Résumé de l'offre
+
+49 000 - 55 000 € / an
+🏠 Télétravail partiel
+Bac +5
+Secteur informatique
+ESN
+Exp. 1 à 7 ans
+
+Les missions du poste
+
+Dans le cadre de notre croissance, nous recrutons un(e) Data Scientist avec des compétences solides en Machine Learning, Python, SQL, et Power BI pour intervenir sur des missions chez nos clients dans des environnements dynamiques.
+
+Vous interviendrez sur des projets de transformation numérique, où vous serez en charge de l'analyse de données complexes, de la création de modèles prédictifs, ainsi que de la mise en place de tableaux de bord interactifs pour aider à la prise de décision.
+
+Le poste est basé à Paris (possibilité de télétravail selon la mission).
+
+Votre rôle s'articule autour de différents axes :
+
+Analyse de données et exploration des datasets : Traiter et analyser des volumes importants de données structurées et non structurées en utilisant des outils Python et SQL pour extraire des insights significatifs.
+Développement de modèles de Machine Learning : Concevoir, développer et déployer des modèles prédictifs (régression, classification, clustering, etc.) en utilisant Python et des librairies telles que Scikit-learn, TensorFlow, ou PyTorch.
+Optimisation et validation des modèles : Tester et améliorer les performances des modèles à l'aide de techniques de validation croisée et d'évaluation continue, en utilisant des métriques pertinentes (précision, rappel, F1-score, etc.).
+Intégration des modèles dans les systèmes existants : Travailler avec les équipes IT pour intégrer les solutions de Machine Learning dans l'infrastructure du client, en veillant à ce que les modèles fonctionnent de manière fluide en production.
+Création de dashboards Power BI : Créer des visualisations interactives et des rapports Power BI pour présenter les résultats des analyses et des prédictions aux parties prenantes de l'entreprise.
+Optimisation des requêtes SQL : Développer des requêtes SQL complexes pour extraire et manipuler les données issues de bases de données relationnelles.
+Support à la prise de décision : Aider les équipes métiers à interpréter les résultats des modèles et des dashboards pour prendre des décisions éclairées, en présentant des résultats sous une forme compréhensible et exploitables.
+Veille technologique : Assurer une veille continue sur les dernières avancées en Machine Learning, Python, SQL et Power BI, et proposer des améliorations ou des évolutions des modèles et outils utilisés.
+
+Le profil recherché
+
+Pour ce poste, vous disposez du background et des compétences suivants :
+
+Vous êtes diplômé(e) d'une Ecole d'Ingénieur ou d'une formation universitaire technique avec une spécialité en Infrastructures réseaux (Bac +5)
+
+Expérience de 5 ans minimum en tant que Data Scientist ou Data Analyst avec une expertise en Machine Learning, Python, SQL et Power BI.
+
+Maîtrise des bibliothèques de Machine Learning (Scikit-learn, Pandas, NumPy, TensorFlow, PyTorch, etc.).
+Expérience avec des bases de données relationnelles et capacité à écrire des requêtes SQL complexes pour manipuler des données volumineuses.
+Connaissance approfondie de Power BI pour la création de rapports interactifs et de visualisations dynamiques.
+Compétences analytiques : Forte capacité d'analyse et de modélisation des données, avec une approche rigoureuse de validation et d'évaluation des modèles.
+Compétences en visualisation : Capacité à transformer des résultats complexes en visualisations claires et exploitables pour les parties prenantes non techniques.
+Connaissances en statistiques : Bonnes bases en statistiques et en analyse de données pour comprendre les implications des résultats des modèles et des tests.
+
+Bienvenue chez AFD.TECH
+
+AFD.TECH part of Accenture, spécialiste du conseil en IT et Télécommunications, a rejoint le groupe Accenture en 2022. Accenture est le Leader mondial des services aux entreprises et administrations, avec une expertise de pointe dans les domaines du numérique, du cloud, et de la sécurité. C'est aussi une communauté de plus de 730 000 talents et une mission commune : réaliser la promesse technologique alliée à l'ingéniosité humaine.
+
+En 2024, AFD.Tech, filiale d'Accenture, regroupe plus de 2000 talents répartis dans 3 pays (France, Belgique et Maroc), pour un chiffre d'affaires annuel de plus de 130M€.
+
+analytics#push:once">
+
+input-checker#uncheck:self click->modal#dispatchDiscardedEvent:self">
+
+toggle-on-body#add intersect:exit->toggle-on-body#remove" role="dialog" data-cy="modalContainer" class=" tw-bg-white tw-shadow-modal tw-overflow-auto tw-col-span-full sm:tw-col-start-4 xl:tw-col-start-5 sm:tw-col-span-6 tw-rounded-t-sm tw-mt-4 sm:tw-rounded-sm tw-px-6 sm:tw-px-10 tw-pt-6 sm:tw-pt-8 tw-pb-8 sm:tw-my-6">
+
+Nous nous engageons avec Hellowork sur la transparence et communiquons :
+
+Un salaire sur la majorité de nos offres
+Notre process de recrutement
+Diverses informations sur notre entreprise (CA, parité, avantages...)
+L'évolution de votre candidature
+Notre politique de télétravail
+Notre réponse aux candidats dans les 7 jours
+
+gallery#open click->toggle-on-body#toggle" data-gallery-index-param="0" for="showLightBox" class=" sm:tw-col-[span_3] tw-cursor-pointer tw-block tw-rounded-sm tw-overflow-hidden tw-relative tw-h-[206px] tw-snap-start tw-min-w-[87%] tw-pl-6 first:tw-pl-0 sm:hover:tw-scale-95 sm:tw-transition-all sm:tw-duration-500 sm:tw-h-[240px] sm:tw-min-w-0 sm:tw-pl-0 sm:last:tw-pr-0 "> gallery#open click->toggle-on-body#toggle" data-gallery-index-param="1" for="showLightBox" class=" sm:tw-col-[span_3] tw-cursor-pointer tw-block tw-rounded-sm tw-overflow-hidden tw-relative tw-h-[206px] tw-snap-start tw-min-w-[87%] tw-pl-6 first:tw-pl-0 sm:hover:tw-scale-95 sm:tw-transition-all sm:tw-duration-500 sm:tw-h-[240px] sm:tw-min-w-0 sm:tw-pl-0 sm:last:tw-pr-0 "> gallery#open click->toggle-on-body#toggle" data-gallery-index-param="2" for="showLightBox" class=" sm:tw-col-[span_2] tw-cursor-pointer tw-block tw-rounded-sm tw-overflow-hidden tw-relative tw-h-[206px] tw-snap-start tw-min-w-[87%] tw-pl-6 first:tw-pl-0 sm:hover:tw-scale-95 sm:tw-transition-all sm:tw-duration-500 sm:tw-h-[240px] sm:tw-min-w-0 sm:tw-pl-0 sm:last:tw-pr-0 "> gallery#open click->toggle-on-body#toggle" data-gallery-index-param="3" for="showLightBox" class=" sm:tw-col-[span_2] tw-cursor-pointer tw-block tw-rounded-sm tw-overflow-hidden tw-relative tw-h-[206px] tw-snap-start tw-min-w-[87%] tw-pl-6 first:tw-pl-0 sm:hover:tw-scale-95 sm:tw-transition-all sm:tw-duration-500 sm:tw-h-[240px] sm:tw-min-w-0 sm:tw-pl-0 sm:last:tw-pr-0 "> gallery#open click->toggle-on-body#toggle" data-gallery-index-param="4" for="showLightBox" class=" sm:tw-col-[span_2] tw-cursor-pointer tw-block tw-rounded-sm tw-overflow-hidden tw-relative tw-h-[206px] tw-snap-start tw-min-w-[87%] tw-pl-6 first:tw-pl-0 sm:hover:tw-scale-95 sm:tw-transition-all sm:tw-duration-500 sm:tw-h-[240px] sm:tw-min-w-0 sm:tw-pl-0 sm:last:tw-pr-0 ">
+
+3 de plus
+
+gallery#previous keydown.right->gallery#next" class=" peer-parent-checked:tw-flex tw-fixed tw-hidden tw-inset-0 tw-z-30 tw-justify-end tw-overflow-y-scroll tw-bg-black tw-p-4 tw-text-white sm:tw-pt-2 sm:tw-p-6 ">toggle-on-body#toggle" data-cy="galleryCrossButton" for="showLightBox" class="tw-absolute tw-z-40 tw-flex tw-btn-icon-secondary-s md:tw-btn-icon-secondary-l tw-text-primary focus:!tw-outline focus:!tw-outline-secondary focus:!tw-outline-1 focus:tw-outline-offset-2">
+
+0 / 8
+
+Infos complémentaires
+
+Votre parcours candidat optimal, en 10 jours maximum !
+
+Un premier échange par téléphone et par Teams (ou dans nos locaux) avec un membre de l'équipe People & Project pour parler de votre profil, du poste, et de l'entreprise
+Un second entretien avec un Business Manager ou un Expert technique (par Teams ou dans nos locaux)
+
+De la réactivité, des échanges rythmés, une expérience candidat optimale garantie avec une proposition dans les 10 jours maximum.
+
+Les raisons de rejoindre part of Accenture, et tous nos avantages :
+
+Bénéficiez d'un accompagnement personnalisé dès votre 1er jour d'arrivée par nos Talent Managers et votre futur Manager (accueil au siège d'Accenture ou en agence en régions, journée d'onboarding, déjeuner offert)
+Développez vos compétences techniques, fonctionnelles ou de management, grâce au catalogue de formations Accenture
+Faîtes évoluer votre carrière grâce à notre politique de mobilité
+Une team E-sports engagée sur League Of Legend en Ligue Corpo Riot X Vitality, coachée par Yellowstar
+Rémunération selon profil + prime de participation + prime vacances + tickets restaurant
+Vivez des expériences hors du commun avec des événements réguliers et une ambiance familiale
+
+Nos recrutements sont fondés sur les compétences, sans distinction d'origine, d'âge, ou de genre et tous nos postes sont ouverts aux personnes en situation de handicap.
+
+A très bientôt chez part of Accenture !

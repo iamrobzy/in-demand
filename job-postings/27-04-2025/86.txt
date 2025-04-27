@@ -1,0 +1,64 @@
+Sede: Spresiano (TV) – Presenza richiesta 3 giorni a settimana
+Tipologia: Tempo pieno, possibilità di formazione interna
+
+
+Chi siamo
+
+In Chiron, costruiamo soluzioni di intelligenza artificiale e marketing intelligence che aiutano aziende e startup a valorizzare dati e tecnologia per crescere.
+Siamo un team snello, appassionato e orientato all’innovazione, dove ogni persona ha l’opportunità di lasciare un segno concreto.
+
+Ora vogliamo potenziare il nostro team tecnologico con una figura di Machine Learning Engineer, anche junior o da formare internamente, che abbia una forte propensione all’apprendimento, alla ricerca applicata (R&D) e voglia di lavorare su progetti reali sin dall’inizio.
+
+
+Cosa farai
+
+Progettazione e sviluppo di modelli di Machine Learning, con focus su NLP, Recommendation Systems, Predictive Analytics.
+Prototipazione di sistemi AI-based end-to-end, dal preprocessing dei dati fino al deployment.
+Addestramento, fine-tuning e monitoraggio di modelli, anche in ambito Generative AI e Diffusion Models.
+Collaborazione con il team di sviluppo software per integrare soluzioni ML nei prodotti Chiron.
+Contributo alla definizione di strategie di R&D interne per sperimentare nuove tecnologie.
+Monitoraggio delle performance dei modelli e ottimizzazione continua.
+
+
+Competenze richieste
+
+Buona conoscenza di Python per sviluppo ML (preferibilmente con esperienza su Tensorflow, PyTorch, HuggingFace, Scikit-Learn).
+Conoscenze di base in Machine Learning supervisionato, non supervisionato e Deep Learning.
+Conoscenza base di database relazionali (SQL) e/o NoSQL.
+Esperienza (anche di base) con pipeline di dati, ETL e strumenti come PySpark, Airflow, MLFlow è un plus.
+Familiarità con sistemi di versionamento dei modelli e MLOps.
+Conoscenze di modelli generativi (Diffusion Models) rappresentano un plus importante.
+Attitudine al lavoro di squadra e volontà di crescita continua.
+Ottima conoscenza della lingua italiana (preferibilmente madrelingua) e inglese tecnico.
+
+
+Nice to Have
+
+Esperienza precedente con Large Language Models (LLM) o framework tipo LangChain, RAG Systems.
+Conoscenza di ambienti cloud (AWS, GCP, Azure).
+Conoscenza di database verticali e a grafo cloud (Clickhouse, Neo4j).
+Capacità di costruire API per ML (FastAPI, Flask, Django).
+Competenze base di front-end (React, Vue.js) per prototipi veloci.
+
+
+Cosa offriamo
+
+Inserimento su progetti reali fin dal primo giorno, con affiancamento iniziale.
+Formazione interna strutturata e possibilità di lavorare su casi d’uso concreti e innovativi.
+Ambiente dinamico, stimolante, orientato alla crescita personale.
+Lavoro ibrido: presenza in sede a Spresiano (TV) almeno 3 giorni a settimana.
+RAL competitiva, con possibilità di evoluzione rapida sulla base delle competenze.
+Possibilità di partecipare a progetti di R&D su nuove tecnologie AI/ML.
+
+
+Processo di selezione
+
+
+Colloquio conoscitivo
+Test tecnico (hard skills): breve esercizio pratico su Machine Learning e logica di programmazione.
+Test attitudinale (soft skills): per valutare mindset, capacità di apprendimento e adattamento.
+Colloquio tecnico con il team di sviluppo e il CTO.
+Offerta formale.
+
+
+Se hai passione per l’intelligenza artificiale, voglia di imparare in fretta e costruire soluzioni che fanno davvero la differenza, Chiron è il posto giusto per te!

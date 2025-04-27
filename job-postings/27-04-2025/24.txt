@@ -1,0 +1,73 @@
+The Enterprise Data Warehouse Machine Learning Engineering Team is at the forefront of driving data-driven innovation and operational excellence across MSCI’s business processes. This team is dedicated to developing, delivering, and maintaining advanced insights that enhance business quality and efficiency. By leveraging state-of-the-art techniques in data engineering, machine learning, AI, and business intelligence, the team supports various sectors including coverage, product management, and finance.
+
+Team Level Key Responsibilities
+
+Develop and maintain data-driven insights to optimize business processes and improve quality across MSCI.
+Establish and enhance an analytical framework within the data lakehousing/warehousing center of excellence.
+Maintain and refine machine learning and AI-focused data processing, augmentation, and insight generation pipelines.
+Enhance the effectiveness of machine learning models and AI systems through feature engineering, model training, validation, decay analysis, prompt engineering, and AI agentic design.
+Analyze and formalize business challenges, translating them into executable software projects.
+Implement and deploy analytical solutions in production environments to facilitate data-driven decision-making.
+Enhance the software development lifecycle through the application of DEVOPS and MLOPS methodologies.
+Design and maintain distributed big data and AI computation environments in containerized and cloud settings.
+
+
+Mission Statement
+
+The Machine Learning Engineering Team's mission is to empower MSCI with cutting-edge, data-driven insights and solutions that drive business excellence and innovation. By harnessing the power of machine learning, AI, and advanced analytics, we aim to transform complex data into actionable strategies, thereby enabling informed decision-making and sustainable growth across the organization. Our commitment to continuous improvement and technological advancement ensures that MSCI remains a leader in its field, providing value to its stakeholders.
+
+Explore and Analyze New Data Assets Investigate and evaluate new data sources to enhance the data lakehouse, ensuring they align with business objectives and can provide valuable insights.
+Prepare Data Acquisition Projects Design and implement data acquisition strategies to efficiently onboard new data into the lakehouse environment.
+Establish Feature Engineering and Data Transformation Pipelines Develop feature engineering techniques and data transformation pipelines to enhance the analytical process and improve model performance.
+Build, Train, Validate, and Deploy Machine Learning Models Design, implement, and maintain machine learning models, ensuring they are robust, accurate, and effectively deployed to meet business needs.
+Build and Deploy AI Agents and Pipelines Develop and operationalize AI agents and pipelines to automate and optimize data-driven tasks and processes.
+Build and Deploy BI Models and APIs Create and implement business intelligence models and APIs to serve as a consumption layer, enabling seamless access to insights and data-driven decision-making.
+Maintain High-Quality Codebase Ensure the codebase is well-maintained and adheres to industry best practices, utilizing Python, SQL, and Terraform to achieve efficient and scalable solutions.
+
+
+Skills
+
+Must Have
+
+5+ Years of Experience Demonstrated expertise in machine learning engineering or a related field.
+Strong Python Background Proficiency in Python for developing robust machine learning and data processing solutions.
+Strong SQL Background to design and implement effective feature engineering strategies.
+
+
+Nice to Have
+
+CI/CD Pipelines in Azure/GCP Experience in developing and managing continuous integration and continuous deployment pipelines within Azure or GCP environments.
+Analytical Platform Services in Azure/GCP Familiarity with analytical services offered by Azure or GCP maintaining the Databricks platform for collaborative data science and analytics.
+Azure/GCP Environment Management with Terraform Proficiency in using Terraform for managing infrastructure as code in Azure environments.
+Experience in Supporting Business Functions Background in for enhanced data processing and analytics.
+Databricks Platform Administration/Architectural Design/Unity Catalog Experience in administering and designing architectures on the Databricks platform.
+PowerBI Platform Administration/Architectural Design Proficiency in managing and designing solutions using the PowerBI platform.
+Azure Environment Management with Terraform Skilled in using Terraform for managing Azure environments through infrastructure as supporting analytical needs in sales, presales, finance, and product management.
+MLOps Practices Knowledge and application of MLOps practices to streamline machine learning workflows and deployment.
+Containerization and Kubernetes Experience with containerization technologies and managing applications using Kubernetes for scalable deployment solutions.
+
+
+What We Offer You
+
+Transparent compensation schemes and comprehensive employee benefits, tailored to your location, ensuring your financial security, health, and overall wellbeing.
+Flexible working arrangements, advanced technology, and collaborative workspaces.
+A culture of high performance and innovation where we experiment with new ideas and take responsibility for achieving results.
+A global network of talented colleagues, who inspire, support, and share their expertise to innovate and deliver for our clients.
+Global Orientation program to kickstart your journey, followed by access to our Learning@MSCI platform, LinkedIn Learning Pro and tailored learning opportunities for ongoing skills development.
+Multi-directional career paths that offer professional growth and development through new challenges, internal mobility and expanded roles.
+We actively nurture an environment that builds a sense of inclusion belonging and connection, including eight Employee Resource Groups. All Abilities, Asian Support Network, Black Leadership Network, Climate Action Network, Hola! MSCI, Pride & Allies, Women in Tech, and Women’s Leadership Forum.
+
+
+At MSCI we are passionate about what we do, and we are inspired by our purpose - to power better investment decisions. You’ll be part of an industry-leading network of creative, curious, and entrepreneurial pioneers. This is a space where you can challenge yourself, set new standards and perform beyond expectations for yourself, our clients, and our industry.
+
+MSCI is a leading provider of critical decision support tools and services for the global investment community. With over 50 years of expertise in research, data, and technology, we power better investment decisions by enabling clients to understand and analyze key drivers of risk and return and confidently build more effective portfolios. We create industry-leading research-enhanced solutions that clients use to gain insight into and improve transparency across the investment process.
+
+MSCI Inc. is an equal opportunity employer. It is the policy of the firm to ensure equal employment opportunity without discrimination or harassment on the basis of race, color, religion, creed, age, sex, gender, gender identity, sexual orientation, national origin, citizenship, disability, marital and civil partnership/union status, pregnancy (including unlawful discrimination on the basis of a legally protected parental leave), veteran status, or any other characteristic protected by law. MSCI is also committed to working with and providing reasonable accommodations to individuals with disabilities. If you are an individual with a disability and would like to request a reasonable accommodation for any part of the application process, please email Disability.Assistance@msci.com and indicate the specifics of the assistance needed. Please note, this e-mail is intended only for individuals who are requesting a reasonable workplace accommodation; it is not intended for other inquiries.
+
+To all recruitment agencies
+
+MSCI does not accept unsolicited CVs/Resumes. Please do not forward CVs/Resumes to any MSCI employee, location, or website. MSCI is not responsible for any fees related to unsolicited CVs/Resumes.
+
+Note on recruitment scams
+
+We are aware of recruitment scams where fraudsters impersonating MSCI personnel may try and elicit personal information from job seekers. Read our full note on careers.msci.com

@@ -1,0 +1,37 @@
+Job Description: Senior Machine Learning/AI Engineer
+Are you a Machine Learning and AI guru with a knack for optical bet recognition? If you dream in algorithms and can spot patterns faster than a Vegas bookmaker, we want you! Join our team as a Senior Machine Learning/AI Engineer, where you’ll design cutting-edge systems that will revolutionize the betting industry. You’ll be working on real-time, scalable algorithms with all the bells and whistles of computer vision and AI. Sounds fun, right? Well, it gets better.
+Key Responsibilities:
+Algorithm Development: Lead the charge in designing, developing, and optimizing machine learning and AI algorithms that make our optical bet recognition system smarter, faster, and more accurate. Scalability? Performance? You’ve got it covered.
+Computer Vision: Apply your wizardry in computer vision to process images and video feeds, extracting the betting data that’ll make the house win (but not really, because we're ethical like that).
+Data Analysis: Dive into large datasets like a treasure hunt, identifying patterns, boosting performance, and ensuring our models don’t just work—they thrive.
+Model Training & Evaluation: Train and fine-tune models until they’re so good, they practically predict the future. Supervised, unsupervised—you name it, you’ll optimize it.
+Collaboration: Work with product managers, software engineers, and stakeholders to seamlessly integrate AI models into the system. You’ll be the glue that holds it all together.
+Real-Time Processing: Optimize models for lightning-fast processing. Low-latency? Easy. Real-time operations in a fast-paced environment? Bring it on.
+R&D and Innovation: Keep your finger on the pulse of the latest ML, AI, and computer vision trends. If there's a new tech out there, you’ll probably be the one pushing it.
+Mentorship: Guide junior engineers through best practices. You’ll be their Yoda, but cooler.
+Required Qualifications:
+Education: Bachelor’s or Master’s degree in Computer Science, Engineering, Mathematics, or a related field. Ph.D.? Even better, but not a dealbreaker.
+Experience:
+5+ years in the field of machine learning, computer vision, and AI.
+Proven track record designing, developing, and deploying algorithms for real-time systems.
+Extensive experience with optical image recognition and video processing.
+Mastery of machine learning frameworks (TensorFlow, PyTorch, Keras—pick your poison).
+Technical Skills:
+Expertise in computer vision (image segmentation, object detection, tracking... you name it).
+Programming wizardry in Python, C++, or Java.
+Deep understanding of machine learning algorithms (CNNs, RNNs, classification, regression, clustering—you get the idea).
+Experience deploying and optimizing models in production environments.
+Familiarity with large-scale data processing and distributed systems? Bonus points.
+Bonus #2: Know reinforcement learning or other advanced techniques? We’re impressed.
+Soft Skills:
+Strong problem-solving and analytical thinking. You see puzzles where others see chaos.
+Excellent communication skills. You’ll explain complex tech to non-techies without making their heads explode.
+Thrives in a fast-paced environment with multiple priorities. You don’t break a sweat under pressure—because you’re just that good.
+Benefits:
+Competitive salary and benefits (we pay well so you can focus on the fun stuff).
+Career growth opportunities that’ll make your professional life as exciting as your work.
+A collaborative, innovative environment that supports and challenges you.
+Flexible working hours (work hard, but on your own terms).
+Ready to put your Machine Learning/AI expertise to the test in a high-stakes, fast-paced environment? Apply now and let’s make some magic happen.
+
+4o mini

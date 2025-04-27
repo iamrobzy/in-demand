@@ -1,0 +1,46 @@
+Every day, tens of millions of people come to Roblox to explore, create, play, learn, and connect with friends in 3D immersive digital experiences– all created by our global community of developers and creators.
+
+At Roblox, we’re building the tools and platform that empower our community to bring any experience that they can imagine to life. Our vision is to reimagine the way people come together, from anywhere in the world, and on any device. We’re on a mission to connect a billion people with optimism and civility, and looking for amazing talent to help us get there.
+
+A career at Roblox means you’ll be working to shape the future of human interaction, solving unique technical challenges at scale, and helping to create safer, more civil shared experiences for everyone.
+
+As a Senior Machine Learning Engineer, you will be building models to power search, recommendation and personalization across all of the Marketplace. The Marketplace Search and Recommendation team drives the discovery of avatar content, including avatar bodies, clothing, accessories, as well as complete outfits and avatars clothing, both in the Roblox app as well as across Roblox experiences. We are reimagining how the Marketplace can best serve our entire Roblox community including our users and creators. We work on a diverse range of technical problems from new modeling approaches for our deep learning ranking and retrieval models, text and visual content understanding for avatars, integrating long-term rewards into our model objective, and improving query understanding for search ranking. This team also builds and supports the production systems to serve these high-scale search and recommendation requests.
+
+You Will
+
+Work backwards from product problems to build innovative end-to-end ML solutions for search, recommendation and content understanding. 
+Work with cross-functional teams on defining the roadmap and lead the project execution.
+Build and deliver complex technical projects from the planning stage through execution.
+Define, develop, and implement engineering best practices and strategies.
+Mentor less experienced engineers and help us build a renowned ML team.
+Ensure that our systems are scalable, reliable, and extensible.
+
+You Have
+
+Battle ready: BS, MS or Ph.D. in computer science, engineering, mathematics, machine learning, (computational) physics or statistics or equivalent experience.
+Experienced: 5+ years experience with one or more of the following areas: search, recommendation, or advertising for a high-scale product.
+Knowledgeable: Experience building and working on end-to-end ML systems, including data analysis, ML modeling and data pipelines.
+Collaborative: You enjoy working with and leading engineers, love to earn their respect and can help them to accomplish the impossible.
+Creative: You take a creative and strategic approach to solving hard people and technical problems. You engage well with Product and can navigate an organization to promote clarity and improvement.
+
+For roles that are based at our headquarters in San Mateo, CA: The starting base pay for this position is as shown below. The actual base pay is dependent upon a variety of job-related factors such as professional background, training, work experience, location, business needs and market demand. Therefore, in some circumstances, the actual salary could fall outside of this expected range. This pay range is subject to change and may be modified in the future. All full-time employees are also eligible for equity compensation and for benefits.
+
+Annual Salary Range
+
+$238,520—$289,460 USD
+
+Roles that are based in our San Mateo, CA Headquarters are in-office Tuesday, Wednesday, and Thursday, with optional in-office on Monday and Friday (unless otherwise noted).
+
+You’ll Love
+
+Industry-leading compensation package
+Excellent medical, dental, and vision coverage
+A rewarding 401k program
+Flexible vacation policy (varies by exemption status)
+Roflex - Flexible and supportive work policy 
+Roblox Admin badge for your avatar
+At Roblox HQ: 
+Free catered lunches five times a week and several fully stocked kitchens with unlimited snacks
+Onsite fitness center and fitness program credit
+Annual CalTrain Go Pass
+Roblox provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state or local laws. Roblox also provides reasonable accommodations for all candidates during the interview process.

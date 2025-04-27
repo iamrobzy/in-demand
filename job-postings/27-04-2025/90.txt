@@ -1,0 +1,43 @@
+Description
+
+Amazon is investing heavily in building a world-class advertising business and we are responsible for defining and delivering a collection of self-service performance advertising solutions that drive discovery and sales. Our Sponsored Products helps merchants, retail vendors, and brand owners succeed via native advertising that grows incremental sales of their products sold through Amazon. We optimize systems and ad placements to match advertiser’s demand with publisher’s supply using a combination of deep learning and multi-objective constrained optimization, as well as ultra-low latency and high-volume engineering systems. Our goals are to help buyers discover new products they love, be the most efficient way for advertisers to meet their business objectives, and to build a sustainable business that helps Amazon continuously innovate on behalf of all customers. We are highly motivated, collaborative and fun-loving with an entrepreneurial spirit and bias for action.
+
+Sponsored Products organization builds advanced deep-learning models, large-scale machine-learning pipelines, and real-time serving infra to match shoppers’ intent to relevant ads on all devices, for all contexts and in all marketplaces. Through precise estimation of shoppers’ interaction with ads and their long-term value, we aim to drive optimal ads allocation and pricing, and help to deliver a relevant, engaging and delightful ads experience to Amazon shoppers. As the business and the complexity of various new initiatives we take continues to grow, we are looking for entrepreneurial and self-driven technical leaders to join the team.
+
+Key job responsibilities
+
+As a Software Development Manager - Machine Learning, you will
+
+Lead a stellar team of machine learning engineers to build the next generation of large-scale low-latency ML feature serving infrastructure to empower a wide range of business initiatives (e.g., deep-learning-powered predictive models, large language models, and generative AI) in Amazon Advertising.
+Focus on the automation, quality, optimization to improve team’s machine learning productivity, and to advance the technical foundation to empower science innovation.
+Advance team's engineering craftsmanship and operational excellence and drive continued technical innovation as a thought leader and practitioner.
+Drive efficient planning and execution of new initiatives, including collaboration with scientists, product managers and partner teams
+Hire and develop top talents, provide technical and career development guidance to engineers in the organization.
+
+Joining the team, you’ll experience the benefits of working in a dynamic, entrepreneurial environment, while leveraging the resources of Amazon.com, one of the world's leading Internet companies.
+
+Basic Qualifications
+
+3+ years of engineering team management experience
+7+ years of working directly within engineering teams experience
+3+ years of designing or architecting (design patterns, reliability and scaling) of new and existing systems experience
+Knowledge of engineering practices and patterns for the full software/hardware/networks development life cycle, including coding standards, code reviews, source control management, build processes, testing, certification, and livesite operations
+Experience partnering with product or program management teams
+Experience in owning and operating business-critical applications and services, and the ability to manage operational health in terms of relevant KPIs and mechanisms for improvement
+
+Preferred Qualifications
+
+Experience in communicating with users, other technical teams, and senior leadership to collect requirements, describe software product features, technical designs, and product strategy
+Experience in recruiting, hiring, mentoring/coaching and managing teams of Software Engineers to improve their skills, and make them more effective, product software engineers
+Experience in building large-scale machine-learning feature serving infrastructure for online recommendation, personalization, or search.
+
+Amazon is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status.
+
+Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.
+
+Our compensation reflects the cost of labor across several US geographic markets. The base pay for this position ranges from $166,400/year in our lowest geographic market up to $287,700/year in our highest geographic market. Pay is based on a number of factors including market location and may vary depending on job-related knowledge, skills, and experience. Amazon is a total compensation company. Dependent on the position offered, equity, sign-on payments, and other forms of compensation may be provided as part of a total compensation package, in addition to a full range of medical, financial, and/or other benefits. For more information, please visit https://www.aboutamazon.com/workplace/employee-benefits. This position will remain posted until filled. Applicants should apply via our internal or external career site.
+
+
+Company - Amazon.com Services LLC
+
+Job ID: A2966498

@@ -1,0 +1,18 @@
+Seja Arquiteto de automação e Machine Learning na Núclea!
+
+Híbrido em São Paulo | CLT | Sênior
+
+Arquiteto de automação e Machine Learning no âmbito de processos é o responsável por analisar processos de negócios existentes, identificar áreas de melhoria, documentar fluxos de trabalho, colaborar com stakeholders para entender necessidades. No âmbito técnico é responsável por apoiar o líder no planejamento junto com os executores, além de ter competência para executar ou demandar e monitorar as atividades de automação e IA, desde a análise das necessidades, o levantamento dos requisitos, o desenho das soluções, a implementação, o teste, a documentação, a entrega e o suporte. Explorar e avaliar novas tecnologias, conduzir experimentos, prototipar novas soluções, acompanhar tendências de mercado.
+
+É Necessário Ter Experiência Em
+
+Projetos de automação
+Conhecimento das metodologias, ferramentas e tecnologias de automação
+Conhecimento em geração, otimização e padronização de LLMs, RAG, OCR, NLP, IA generativa, monitorar o seu desempenho.
+Engenharia de prompt, habilidades de análise, lógica, programação e teste, e capacidade de autogestão, trabalho em equipe e aprendizado contínuo
+Forte conhecimento em arquitetura de software, experiência com microservices, APIs, cloud computing, práticas de segurança.
+
+Competências Necessárias
+
+São as habilidades, atitudes e comportamentos que os profissionais devem demonstrar no desempenho de suas funções, tais como: proatividade, criatividade, adaptabilidade, flexibilidade, resiliência, colaboração, comunicação, liderança, planejamento, organização, foco em resultados, orientação ao cliente, qualidade, ética, mentalidade voltada para a inovação, aprender com erros, capacidade de pesquisa e aplicabilidade do conhecimento adquirido, etc.
+Conhecimentos: são as informações, conceitos e teorias que os profissionais devem dominar para realizar suas atividades, tais como: metodologias ágeis, DevOps, Scrum, Kanban, Lean, ITIL, COBIT, BPM, RPA, IA, ML, cloud computing, AWS, Google Cloud, Azure, Docker, Kubernetes, Jenkins, Git, Python, Java, C#, SQL, HTML, CSS, JavaScript, Selenium, Robot Framework, Automation Anywhere, etc.

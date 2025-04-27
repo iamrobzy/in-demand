@@ -1,0 +1,44 @@
+About Us
+We are an innovative AI-driven company dedicated to solving real-world problems through cutting-edge machine learning and artificial intelligence. Our collaborative environment empowers young talent to learn, experiment, and build impactful solutions using the latest AI tooling, including ChatGPT, Gemini, PyTorch, TensorFlow, and more.
+Role Overview
+As a Junior Machine Learning Engineer, you will:
+Apply your strong foundation in machine learning and Python to develop end-to-end AI solutions.
+Leverage generative AI assistants (e.g., ChatGPT, Gemini) to accelerate prototyping, data exploration, and code generation.
+Design, implement, and train models from scratch using frameworks such as PyTorch and TensorFlow.
+Collaborate with senior engineers and data scientists to integrate models into production systems.
+Continuously learn and experiment with emerging AI/ML tools, techniques, and best practices.
+Key Responsibilities
+Model Development:
+Build and train supervised, unsupervised, and deep learning models from the ground up.
+Implement data preprocessing, feature engineering, and augmentation pipelines in Python.
+AI Tooling & Automation:
+Utilize ChatGPT, Gemini, and similar large-language-model tools to streamline coding tasks, generate documentation, and explore novel solution approaches.
+Automate routine workflows (data cleaning, model evaluation) to improve team productivity.
+Collaboration & Integration:
+Work closely with cross-functional teams (data engineering, product, DevOps) to understand requirements and deploy ML solutions.
+Write clean, maintainable code and contribute to version-controlled repositories.
+Evaluation & Optimization:
+Evaluate model performance using appropriate metrics; identify areas for improvement.
+Optimize model architectures, hyperparameters, and training procedures for efficiency and accuracy.
+Continuous Learning:
+Stay current with the latest research in machine learning, deep learning, and AI tooling.
+Share learnings and best practices through knowledge-sharing sessions and documentation.
+Required Qualifications
+Bachelor’s or Master’s degree in Computer Science, Engineering, Statistics, Mathematics, or a related field.
+Strong proficiency in Python, including libraries such as NumPy, Pandas, and scikit-learn.
+Solid understanding of machine learning fundamentals: regression, classification, clustering, and neural networks.
+Experience building and training models in PyTorch and/or TensorFlow (academic projects, internships, or personal initiatives).
+Familiarity with generative AI tools (e.g., ChatGPT, Gemini) for code assistance and prototyping.
+Good grasp of version control (Git), collaborative development workflows, and basic software engineering principles.
+Excellent problem-solving skills and a proactive, self-driven attitude.
+Preferred Skills
+Knowledge of advanced deep learning architectures (CNNs, RNNs, Transformers).
+Experience with cloud ML platforms (e.g., AWS SageMaker, Google AI Platform, Azure ML).
+Understanding of MLOps practices: containerization (Docker), CI/CD, model monitoring.
+Familiarity with data visualization tools (Matplotlib, Seaborn, Plotly).
+Experience with SQL and NoSQL databases.
+What We Offer
+Mentorship & Growth: Work alongside seasoned ML engineers and data scientists.
+Cutting-Edge Projects: Tackle challenging AI problems with real-world impact.
+Learning Culture: Access to online courses, conferences, and internal workshops.
+Collaborative Environment: Supportive team that values innovation, experimentation, and knowledge sharing.

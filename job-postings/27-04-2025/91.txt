@@ -1,0 +1,74 @@
+Description
+
+The Customer Engagement Technologies (CET) organization powers Customer Service (CS) by developing elegant Customer and Customer Service Associate (CSA) facing products globally. These products offer effortless self-service and automated solutions to our customers. If customers prefer to interact with a human, we enable CSAs to effectively and elegantly solve customers’ issues using our associate-facing products powered through human-centered design. One of these solutions is a new translation system deploying neural machine translation technology (through AWS Translate models) that aims to support high-quality, real-time translations for up to 39 languages. By applying automated translations to text-based customer service channels (e-mail, chat, Message Us, and CS Chatbot), the product’s vision is to remove language as a barrier and enable flexibility in the CS labor force. Ultimately, Amazon will be capable of supporting customers anywhere around the world, irrespective of the language the CSA is speaking.
+
+Our team is looking for a talented Machine Learning Data Associate (MLDA)- Specialist Italian to drive Italian-to-English and English-to-Italian machine translation improvements in partnership with the Machine Learning team. Specifically, you will audit cross-language interactions on text-based channels, review and assess the quality of the machine translations in each direction, and inform on the highest priority machine translation improvement opportunities that will enhance the customer experience. You will work with Program and Product Managers to determine opportunities for optimizing the quality auditing and machine translations improvement processes, augmenting the customer experience through product testing, and executing the machine learning roadmap for the product. You will be part of a Global Product Management team whose innovations and strategies will influence what we build and how we surface information to solve customers’ issues globally.
+
+A successful candidate is a native Italian speaker who also speaks English fluently, is extremely detail-oriented, an effective communicator, has demonstrated the ability to earn the trust of stakeholders across a cross-functional team of individuals, is data-driven, and has a strong eye for opportunities. You should be customer-obsessed and not afraid to analyze thousands of interactions. You are willing to experiment, fail fast, learn, and iterate to improve. Furthermore, you understand and account for the implications of your work on front line operations.
+
+Key job responsibilities
+
+Native-level translation and localization skills in Italian
+Proficiency in testing and content reading in Italian, with the ability to document outcomes in English for stakeholders
+Utilization of Italian skills to support internal and external customers and related products
+Competence in navigating various internal tools to understand the customer journey
+Strong attention to detail and commitment to quality
+Adaptability to work in a dynamic environment and willingness to change priorities on short notice
+Must be fluent in Italian and English
+
+A day in the life
+
+Key Daily Activities Include But Are Not Limited To
+
+Localization/Translation
+Testing various workstreams
+Contact Reading in native language while documenting findings in English
+Stakeholder management
+
+Benefits Summary
+
+Amazon offers a full range of benefits that support you and eligible family members, including domestic partners and their children. Benefits can vary by location, the number of regularly scheduled hours you work, length of employment, and job status such as seasonal or temporary employment. The benefits that generally apply to regular, full-time employees include:
+
+Medical, Dental, and Vision Coverage
+Maternity and Parental Leave Options
+Paid Time Off (PTO)
+401(k) Plan
+
+About The Team
+
+Omni MLDA is a division of Customer Engagement Technologies (CET), partnering with key stakeholders to:
+
+Automate customer service processes
+Enhance the end-to-end customer experience
+
+Basic Qualifications
+
+Fluency in Italian and English (verbal and written communication)
+1+ years business experience in localization and translation
+Strong attention to details
+Exceptional communicational skills
+Customer service experience
+Experience working in complex and frequently-changing environments
+Ability to interpret customer need and being able to frame that as clear requirements
+
+Preferred Qualifications
+
+Project planning experience, including project scoping, deadline-setting, backlog maintenance, and reporting
+Bachelor's Degree
+Practical knowledge of data processing needs and trade-offs
+Experience working with machine learning, Artificial intelligence, natural language understanding data
+
+Amazon is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status.
+
+Los Angeles County applicants: Job duties for this position include: work safely and cooperatively with other employees, supervisors, and staff; adhere to standards of excellence despite stressful conditions; communicate effectively and respectfully with employees, supervisors, and staff to ensure exceptional customer service; and follow all federal, state, and local laws and Company policies. Criminal history may have a direct, adverse, and negative relationship with some of the material job duties of this position. These include the duties and responsibilities listed above, as well as the abilities to adhere to company policies, exercise sound judgment, effectively manage stress and work safely and respectfully with others, exhibit trustworthiness and professionalism, and safeguard business operations and the Company’s reputation. Pursuant to the Los Angeles County Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.
+
+Pursuant to the San Francisco Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.
+
+Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.
+
+Our compensation reflects the cost of labor across several US geographic markets. The base pay for this position ranges from $32,700/year in our lowest geographic market up to $70,000/year in our highest geographic market. Pay is based on a number of factors including market location and may vary depending on job-related knowledge, skills, and experience. Amazon is a total compensation company. Dependent on the position offered, equity, sign-on payments, and other forms of compensation may be provided as part of a total compensation package, in addition to a full range of medical, financial, and/or other benefits. For more information, please visit https://www.aboutamazon.com/workplace/employee-benefits. This position will remain posted until filled. Applicants should apply via our internal or external career site.
+
+
+Company - Amazon.com Services LLC
+
+Job ID: A2966533

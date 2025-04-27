@@ -1,0 +1,23 @@
+Job Overview
+We're looking for self-starting team members with experience in data engineering, full-stack development, or product development who are keen to join our small, tight-knit Analytics team. We operate like a startup within a large mining organization, working passionately to uplift its machine learning capabilities and overall engineering practices.
+If you enjoy end-to-end ownership of data solutions, are passionate about the quality of your work, have a high level of curiosity, and thrive on learning and developing your skills on the job, you'll find our team both engaging and rewarding.
+We foster a strong culture of inclusion, independence, and creativity, supporting flexible and remote work arrangements for our team.
+
+About the Role: We typically work in small product teams alongside Developers, Scientists, Product Owners, Delivery Professionals, and end-users, usually over 3–6-month project cycles. We take ownership of the full product lifecycle—from problem formulation and system/data discovery to the design and implementation of machine learning solutions. Our outputs range from Proofs of Concept (POCs) to Minimum Viable Products (MVPs), aiming to establish support for further industrialization and future product development. We're paving the road as we go, so you'll have the opportunity to influence our engineering practices, model development lifecycles, software quality standards, peer review culture, and more. Our Developers collaborate with ML-Ops and Data professionals to build products based on algorithms developed by our Data Scientists. A typical day may include:
+Designing and building ML pipelines for a wide range of industrial data sources
+Running technical spikes to inform our broader ML Engineering and Operations roadmap
+Promoting our technology, culture, and practices.
+Engaging with Industrial Systems, Safety, Ethics, and Cybersecurity teams
+Mentoring emerging developers and scientists.
+
+What You'll Bring
+There's no one-size-fits-all for our team. Our strongest candidates come from a wide range of technical backgrounds and career paths. Attitude, motivation, curiosity, and intuition are just as important as your ability to wire up a DAG or push a clean pull request.
+(Even if you just looked up what a DAG is and thought it looked cool—we still want to hear from you!)
+If you've built apps, backends, or data systems at any scale, we want to talk to you. Exposure to data engineering, ML, or AI is a plus—but we also welcome passionate individuals eager to grow in these areas.
+Relevant education or experience in Computer Science, Software Engineering, Machine Learning Engineering, or Mathematical/Statistical disciplines will be considered favorably.
+
+Some Tools and Tech We Use:
+Data: Time-series, spatial, relational; streaming, batching, micro-batching; versioning, serialization
+Languages: Python, R, Java, YAML, Bash; frameworks/libraries such as Pandas, Tidyverse, PyTorch, PySpark, Scikit-learn
+Infrastructure: AWS, Postgres, Airflow, SageMaker, ECS, Lambda, Glue
+Dev Tools: DVC, Terraform, Azure DevOps, Docker, VS-Code, PyCharm – mostly Linux-based environments

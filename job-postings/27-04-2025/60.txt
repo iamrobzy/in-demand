@@ -1,0 +1,14 @@
+We are looking for a highly skilled AI/ML Engineer and Machine Learning to design, develop, and implement AI-driven solutions that enhance our products and services in the Retail Theft Prevention domain.
+
+Must have experience in building models for edge deployment for camera-based object detection and classification. 
+
+Responsibilities
+Design and implement real-time object detection, tracking, and classification solutions using machine learning and computer vision techniques.
+Optimize models for real-time processing on various platforms, including edge devices, cloud-based systems, and embedded hardware, ensuring low-latency performance.
+Develop and manage end-to-end machine learning pipelines to automate and optimize data curation, preprocessing, and model training workflows.
+
+Qualifications:
+Master's degree (preferred) in CS, CE, ML or related field experience
+Experience working with MobileNetV2 and YOLOv8 models.
+Experience programming in Python (preferred) or C/C++
+Experience with deep learning frameworks like PyTorch or TensorFlow.
