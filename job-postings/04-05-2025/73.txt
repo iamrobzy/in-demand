@@ -1,0 +1,30 @@
+Waymo is an autonomous driving technology company with the mission to be the most trusted driver. Since its start as the Google Self-Driving Car Project in 2009, Waymo has focused on building the Waymo Driver—The World's Most Experienced Driver™—to improve access to mobility while saving thousands of lives now lost to traffic crashes. The Waymo Driver powers Waymo One, a fully autonomous ride-hailing service, and can also be applied to a range of vehicle platforms and product use cases. The Waymo Driver has provided over one million rider-only trips, enabled by its experience autonomously driving tens of millions of miles on public roads and tens of billions in simulation across 13+ U.S. states.
+
+Our team maintains and improves a high impact system that is a critical part of Waymo's Planner. You will work at the intersection of robotics and modern ML, collaborating across our teams, to build solutions that can handle situations from everyday driving to ones that happen once in a million miles.
+
+In this hybrid role, you will report to a Staff Engineering Manager within Planner.
+
+You Will
+
+Work with a creative team of people who ensure that the behavior of our cars is safe, smooth, and predictable to other road users, which includes gracefully handling many complex situations involving social aspects (merging, negotiating narrow roads), while dealing with noisy, uncertain, and incomplete information.
+Frame the open-ended real-world problems into well-defined ML problems; apply deep learning, reinforcement learning, imitation learning to these problems; scale them to Google-sized data pipelines; and refine them to run in real-time on the cars.
+
+You Have
+
+BS in Computer Science, ML, Robotics, similar technical field of study, or equivalent practical experience
+5+ years of experience solving problems using Machine Learning with Tensorflow or equivalent tools and integrating ML in a production system
+Experience evaluating ML-based systems
+
+We Prefer
+
+Experience applying machine learning to solve motion planning or related robotics problems
+PhD in Computer Science, ML, Robotics
+Experience with Deep Neural Networks or Regression Models
+
+The expected base salary range for this full-time position across US locations is listed below. Actual starting pay will be based on job-related factors, including exact work location, experience, relevant training and education, and skill level. Your recruiter can share more about the specific salary range for the role location or, if the role can be performed remote, the specific salary range for your preferred location, during the hiring process.
+
+Waymo employees are also eligible to participate in Waymo’s discretionary annual bonus program, equity incentive plan, and generous Company benefits program, subject to eligibility requirements.
+
+Salary Range
+
+$204,000—$259,000 USD

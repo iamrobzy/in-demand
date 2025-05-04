@@ -1,0 +1,66 @@
+Lensa is the leading career site for job seekers at every stage of their career. Our client, Molina Healthcare, is seeking professionals. Apply via Lensa today!
+
+Job Description
+
+Job Summary
+
+Responsible for overseeing data science projects, managing and mentoring a team, and aligning data initiatives with business goals. Lead the development and implementation of data models, collaborate with cross-functional teams, and stay updated on industry trends. Ensure ethical data use and communicate complex technical concepts to non-technical stakeholders. Lead initiatives on model governance and model ops to align with regulatory and security requirements. This role requires technical expertise, strategic thinking, and leadership to drive data-driven decision-making within the organization and be the pioneer on generative AI healthcare solutions, aimed at revolutionizing healthcare operations as well as enhancing member experience.
+
+Job Duties
+
+Research and Development: Stay current with the latest advancements in AI and machine learning and apply these insights to improve existing models and develop new methodologies.
+AI Model Deployment, Monitoring & Model Governance: Deploy AI models into production environments, monitor their performance, and adjust as necessary to maintain accuracy and effectiveness and meet all governance and regulatory requirements.
+Innovation Projects: Lead pilot projects to test and implement new AI technologies within the organization
+Data Analysis and Interpretation: Extract meaningful insights from complex datasets, identify patterns, and interpret data to inform strategic decision-making.
+Machine Learning Model Development : Design, develop, and train machine learning models using a variety of algorithms and techniques, including supervised and unsupervised learning, deep learning, and reinforcement learning.
+Agentic Workflows Implementation: Develop and implement agentic workflows that utilize AI agents for autonomous task execution, enhancing operational efficiency and decision-making capabilities.
+RAG Pattern Utilization: Employ retrieval-augmented generation patterns to improve the performance of language models, ensuring they can access and utilize external knowledge effectively to enhance their outputs.
+Model Fine-Tuning : Fine-tune pre-trained models to adapt them to specific tasks or datasets, ensuring optimal performance and relevance in various applications.
+Data Cleaning and Preprocessing: Prepare data for analysis by performing data cleaning, handling missing values, and removing outliers to ensure high-quality inputs for modeling.
+Collaboration: Work closely with cross-functional teams, including software engineers, product managers, and business analysts, to integrate AI solutions into existing systems and processes.
+Documentation and Reporting: Create comprehensive documentation of models, methodologies, and results; communicate findings clearly to non-technical stakeholders.
+Mentors, coaches, and provides guidance to newer data scientists.
+Partner closely with business and other technology teams to build ML models which helps in improving Star ratings, reduce care gap and other business objectives.
+Present complex analytical information to all level of audiences in a clear and concise manner Collaborate with analytics team, assigning and managing delivery of analytical projects as appropriate
+Perform other duties as business requirements change, looking out for data solutions and technology enabled solution opportunities and make referrals to the appropriate team members in building out payment integrity solutions.
+Use a broad range of tools and techniques to extract insights from current industry or sector trends
+
+Job Qualifications
+
+REQUIRED EDUCATION:
+
+Master’s Degree in Computer Science, Data Science, Statistics, or a related field
+
+Required Experience/Knowledge, Skills & Abilities
+
+10+ years’ work experience as a data scientist preferably in healthcare environment but candidates with suitable experience in other industries will be considered
+Knowledge of big data technologies (e.g., Hadoop, Spark)
+Familiar with relational database concepts, and SDLC concepts
+Demonstrate critical thinking and the ability to bring order to unstructured problems
+Technical Proficiency: Strong programming skills in languages such as Python and R, and experience with machine learning frameworks like TensorFlow, Keras, or PyTorch.
+Statistical Analysis: Excellent understanding of statistical methods and machine learning algorithms, including k-NN, Naive Bayes, SVM, and neural networks.
+Experience with Agentic Workflows: Familiarity with designing and implementing agentic workflows that leverage AI agents for autonomous operations.
+RAG Techniques: Knowledge of retrieval-augmented generation techniques and their application in enhancing AI model outputs.
+Model Fine-Tuning Expertise: Proven experience in fine-tuning models for specific tasks, ensuring they meet the required performance metrics.
+Data Visualization: Proficiency in data visualization tools (e.g., Tableau, Power BI) to present complex data insights effectively.
+Database Management: Experience with SQL and NoSQL databases, data warehousing, and ETL processes.
+Problem-Solving Skills: Strong analytical and problem-solving abilities, with a focus on developing innovative solutions to complex challenges.
+
+Preferred Education
+
+PHD or additional experience
+
+Preferred Experience
+
+Experience with cloud platforms (e.g., Databricks, Snowflake, Azure AI Studio etc.) for working with AI workflows and deploying models.
+Familiarity with natural language processing (NLP) and computer vision techniques.
+
+#PJCorp2
+
+To all current Molina employees: If you are interested in applying for this position, please apply through the intranet job listing.
+
+Molina Healthcare offers a competitive benefits and compensation package. Molina Healthcare is an Equal Opportunity Employer (EOE) M/F/D/V.
+
+Pay Range: $117,731 - $275,491 / ANNUAL
+
+Actual compensation may vary from posting based on geographic location, work experience, education and/or skill level.

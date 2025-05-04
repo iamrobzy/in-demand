@@ -1,0 +1,31 @@
+The Personalization team makes decisions about what to play next easier and more enjoyable for every listener. From Blend to Discover Weekly, we’re behind some of Spotify’s most-loved features. We built them by understanding the world of music and podcasts better than anyone else. Join us and you’ll keep millions of users listening by making great recommendations to each and every one of them.
+
+We are looking for a Machine Learning Engineer II to join our product area of hardworking engineers that are passionate about connecting new and emerging creators with users via recommendation algorithms. As an integral part of the squad, you will collaborate with engineers, research scientists and data scientists in prototyping and productizing state-of-the-art ML.
+
+What You'll Do
+
+Contribute to designing, building, evaluating, shipping, and refining Spotify’s personalization products by hands-on ML development
+Collaborate with a cross functional agile team spanning user research, design, data science, product management, and engineering to build new product features that advance our mission to connect artists and fans in personalized and relevant ways
+Prototype new approaches and productionize solutions at scale for our hundreds of millions of active users
+Promote and role-model best practices of ML systems development, testing, evaluation, etc., both inside the team as well as throughout the organization
+Be part of an active group of machine learning practitioners in Europe (and across Spotify) collaborating with one another
+Together with a wide range of collaborators, help develop a creator-first vision and strategy that keeps Spotify at the forefront of innovation in the field.
+
+Who You Are
+
+You have a strong background in machine learning, enjoy applying theory to develop real-world applications, with experience and expertise in bandit algorithms, LLMs, general neural networks, and/or other methods relevant to recommendation systems
+You have hands-on experience implementing production machine learning systems at scale in Java, Scala, Python, or similar languages. Experience with TensorFlow, PyTorch, Scikit-learn, etc. is a strong plus
+You have some experience with large scale, distributed data processing frameworks/tools like Apache Beam, Apache Spark, or even our open source API for it - Scio, and cloud platforms like GCP or AWS
+You care about agile software processes, data-driven development, reliability, and disciplined experimentation
+You love your customers even more than your code
+
+Where You'll Be
+
+We offer you the flexibility to work where you work best! For this role, you can be within the European region as long as we have a work location.
+This team operates within the GMT/CET time zone for collaboration.
+
+Spotify is an equal opportunity employer. You are welcome at Spotify for who you are, no matter where you come from, what you look like, or what’s playing in your headphones. Our platform is for everyone, and so is our workplace. The more voices we have represented and amplified in our business, the more we will all thrive, contribute, and be forward-thinking! So bring us your personal experience, your perspectives, and your background. It’s in our differences that we will find the power to keep revolutionizing the way the world listens.
+
+At Spotify, we are passionate about inclusivity and making sure our entire recruitment process is accessible to everyone. We have ways to request reasonable accommodations during the interview process and help assist in what you need. If you need accommodations at any stage of the application or interview process, please let us know - we’re here to support you in any way we can.
+
+Spotify transformed music listening forever when we launched in 2008. Our mission is to unlock the potential of human creativity by giving a million creative artists the opportunity to live off their art and billions of fans the chance to enjoy and be passionate about these creators. Everything we do is driven by our love for music and podcasting. Today, we are the world’s most popular audio streaming subscription service.

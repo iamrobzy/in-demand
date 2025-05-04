@@ -1,0 +1,102 @@
+One Thousand Berlin, Germany (On-site)
+
+We are looking for you to complement our team of round pegs in square holes!
+
+AI is transforming everything, and we make sure the right people are ahead of the curve. We do so by creating AI breakthroughs with our clients.
+
+For us, creating breakthroughs is an irresistible adventure that we want to do 1000 times over. That’s why we are called One Thousand. And as a profitable, fast-growing company, we are on track as never before!
+
+To create AI breakthroughs, our team of 15 friendly nerds identifies pain points and solves them with fast-paced MVPs.
+
+And: We enable the broader transformation of our clients into an AI powerhouse.
+
+If you are keen to help Europe finally speed up in AI and would love to have warm outliers around you, join us now!
+
+Tasks
+We are looking for a Machine Learning Engineer (m/w/d) who identifies with most of the following:
+
+What we care about:
+
+
+Inherent Drive for Greatness: Our world-class team of outliers ships AI breakthroughs extremely fast while ensuring quality standards are met. We are people who feel like they still have something to prove – and we do so by working on something 1000x greater than us.
+
+Relentless Resourcefulness: Creating AI breakthroughs requires the ability to thrive in uncertainty. We have the strength to bounce back and a tenacity to keep pushing to go where it hurts. We balance persistence with lightness.
+
+Infectious Enthusiasm: We care about making AI a blast for everyone involved. With electrifying empathy, we propel our clients forward in understanding, building, and thriving with AI and boost our team with the opportunity to shape our future.
+
+
+What the role is about:
+
+
+You will have the chance to shape fast-paced AI breakthrough projects. You will ensure our Proof-of-Concepts (PoCs) are productionized as MVPs to generate business value.
+
+You will be responsible for building data pipelines, running ML workows, developing web services, deploying them on cloud environments, and supporting integration with our clients’ systems.
+
+You will be a key contributor in growing our high-impact start-up and shaping our identity – both internally and externally.
+
+You will be working not only with corporates but also be bringing AI to large international NGOs, the “Mittelstand,” scale-ups, unions, or the public sector.
+
+You will have the chance to fully be yourself and will be embraced if you respect the others :-)
+
+
+Requirements
+What we would love to see:
+
+
+Knowing how to execute real-life software projects: You have at least 3 years of experience in building scalable software projects in a professional manner.
+
+Leveraging AI Expertise: You have hands-on experience implementing machine learning models in production environments, including model training, deployment, and monitoring. You are proficient with machine learning frameworks (e.g., TensorFlow, PyTorch, or scikit-learn) and understand the full ML lifecycle, from data preprocessing to model evaluation and optimization. You thrive on solving practical ML problems and are comfortable working within a team to deliver impactful solutions.
+
+Bringing technical depth: You can solve diverse software engineering challenges with a exible toolbox and love fostering good quality code. You have a strong foundation in Python and SQL. Besides that, you have experience with setting up secure web applications (e.g., working with SSL certicates). You bring experience with RDBMS (preferably PostgreSQL) and with at least one cloud platform (preferably, Microsoft Azure), too.
+
+Being dedicated: You don't have to master everything, yet you fully support the team to reach our goals in a resultoriented way of working while fostering a culture of caring.
+
+Dealing with ambiguity: Even if some challenges are vaguely defined, you make sense of what needs to be done.
+
+Conversing in German: Ability to communicate in German with our clients with level B1 or higher.
+
+
+Ideally, you also bring the following
+
+
+Experience with data science tools (pandas, matplotlib, scikit-learn, ...).
+
+Experience working with LLMs (OpenAI / Claude API).
+
+Experience in building front-end solutions.
+
+Experience with Docker.
+
+Experience integrating web services with SAP.
+
+Openness to travel to clients location 2-3 times a month.
+
+
+Benefits
+What we offer:
+
+
+Ascension – as we are going to push and enable you to do the best work of your life.
+
+Anti-Mimeticism – as we are on the journey to 1000 AI breakthroughs since long before the recent hype.
+
+Captivating AI breakthrough projects with a lot of room for personal development, experimentation, continuous learning, and growth.
+
+A unique role in a pioneering AI company with autonomy in shaping and leading key endeavors that contribute to the advancement of AI applications.
+
+A professional, yet exible work environment, innovative work practices along “No rules rules,” and continuous mutual support.
+
+A value-driven business with top-of-market pay for a Machine Learning Engineer.
+
+All the other start-up stuff such as free drinks and snacks, game nights, ...
+
+Work Life Balance: Flexible hours & remote work, Family-friendly policies
+
+Female Empowerment: Equal opportunities & diversity, Mentorship & career development, Leadership support for women
+
+
+We are determined to foster and embrace diversity – not just among our clients but especially within our own walls. We believe that this will make our organization and quality of work better, but more importantly, we strongly believe it is the right thing to do.
+
+Sounds like a “wow” opportunity? You would like to get to know us and the One Thousand better? Great – we can’t wait to hear from you!
+
+Don't meet all the criteria? Apply anyway - we look forward to hearing from you!

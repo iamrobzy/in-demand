@@ -1,0 +1,61 @@
+About Eightfold.ai
+
+Eightfold.ai is at the forefront of innovation in the AI-driven HR tech space. We're not just building software; we're shaping the future of how organizations find, manage, and empower their talent. Our groundbreaking AI platform is revolutionizing the industry, and we're looking for exceptional engineers to join our team and drive the next wave of advancements.
+
+Our AI-native enterprise talent intelligence platform leverages Gen AI, LLM, NNLP and deep Learning algorithms, global talent insights, and matching engines to empower organizations and individuals alike.
+
+About AI Team
+
+Our AI/ML team is the driving force behind Eightfold's cutting-edge solutions. We're a group of passionate experts who thrive on pushing the boundaries of applied machine learning. We work with massive datasets, tackle complex challenges, and collaborate to create AI models that are transforming the way companies approach talent management.
+
+The AI Agents team at Eightfold.ai is at the forefront of developing intelligent, autonomous systems that will redefine talent management. We are building cutting-edge agentic AI that can proactively assist users, automate complex workflows, and provide personalized insights. Our work directly impacts millions of users and shapes the future of how people connect with opportunities.
+
+Responsibilities
+
+Lead the research, design, development, and deployment of advanced AI agents and agentic systems.
+Architect and implement complex multi-agent systems, including planning, decision-making, and execution capabilities.
+Develop and integrate large language models (LLMs) and other state-of-the-art AI techniques to enhance agent autonomy and intelligence.
+Build robust, scalable, and reliable infrastructure to support the deployment and operation of AI agents at scale.
+Collaborate with product managers, UX designers, and other engineers to define requirements and deliver impactful solutions.
+Diagnose and troubleshoot issues in complex distributed environments and optimize system performance.
+Mentor junior engineers and contribute to the team's technical growth and knowledge sharing.
+Stay up-to-date with the latest advancements in AI research and agentic AI and apply them to our products.
+Leverage enterprise data, market data, and user interactions to build intelligent and personalized agent experiences.
+Contribute to the development of Copilot GenAI Workflows for Users, enabling chat-like command execution.
+
+Qualifications
+
+Expertise in machine learning, large language models (LLM) and natural language processing (NLP).
+Strong understanding of agent-based modeling, reinforcement learning, and autonomous systems.
+Experience with large language models (LLMs), Generative models and their applications in agentic AI.
+Proficiency in programming languages such as Python, and experience with machine learning frameworks like TensorFlow or PyTorch.
+Min 6+ years of relevant AI and ML work experience.
+Experience including research work in agentic AI or related fields.
+Publications in top-tier AI conferences or journals is preferred
+Experience building and deploying AI agents in real-world applications.
+Strong understanding of distributed system design patterns and microservices architecture.
+Experience with message queuing systems (AWS SQS, Kafka).
+Hands-on experience with system integration patterns and API design.
+Excellent problem-solving and data analysis skills.
+Strong communication and collaboration skills.
+Master’s or Ph.D. in Computer Science, Artificial Intelligence, or a related field, or equivalent years of experience.
+
+Why Join Eightfold.ai?
+
+Be part of a team that is revolutionizing HR technology with AI.
+Work on cutting-edge AI agents and agentic AI that will shape the future of work.
+Collaborate with talented and passionate individuals.
+Make a real impact on millions of users worldwide.
+Enjoy a dynamic and supportive work environment.
+
+Pay Transparency
+
+Please note this role is categorized as onsite or hybrid in Santa Clara, CA The base salary ranges below are provided for pay transparency. Base pay is only one piece of our total compensation package as this role may be eligible for bonus and equity awards. Compensation varies depending on a number of factors including qualifications, skills, competencies, experience and zones determined by location. SF Bay Area, CA is in Zone A.
+
+Base annual salary range: $213,000 to 250,000 + discretionary bonus up to 20% + preIPO equity (stock options).
+
+Hybrid Work @ Eightfold: We embrace a hybrid work model that aims to boost collaboration, enhance our culture, and drive innovation through a blend of remote and in-person work. We are committed to creating a dynamic and flexible work environment that nurtures the collaborative spirit of our team. Starting May 1, 2025, employees residing near Santa Clara, CA office location will return to the office three days a week.
+
+Eightfold.ai provides equal employment opportunities (EEO) to all employees and applicants for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age, veteran or disability status.
+
+Experience our comprehensive benefits with family medical, vision and dental coverage, a competitive base salary, and eligibility for equity awards and discretionary bonuses or commissions.

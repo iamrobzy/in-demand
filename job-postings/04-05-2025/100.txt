@@ -1,0 +1,44 @@
+Introduction to the job
+
+Do you enjoy solving algorithm design problems for the semiconductor metrology industry, with demanding time, accuracy, and memory requirements? Do you like to use your creativity, your in-depth knowledge of physics principles, numerical math's and machine learning, and your hands-on experience with practical problem solving, being part of a highly talented group of algorithm experts?
+
+Role and responsibilities
+
+In this role you will focus on optical and mathematical models and methods required to infer physical model parameters from optical metrology data. Relevant new metrics, calibrations and algorithms as well as new measurement functions, with optimum performance characteristics, are identified, designed and implemented. The availability and development of fast and accurate machine learning models and metrology inference strategies is essential.
+
+As a Mathematics Machine Learning Engineer you will be doing the following:
+
+Develop optical metrology solutions with statistically correct parameter inference, machine learning and optimization algorithms, and system calibrations, to improve semiconductor metrology and enable high-volume fab control solutions and Contribute to and drive the ASML competences in the group, for this position particularly focused on the machine learning side, and stay up-to-date with machine learning approaches for metrology applications.
+Implement machine learning and deep learning metrology applications, with a mindset for scalable data-intensive and distributed software architectures, at the interface with colleague data science, functional and software groups at ASML.
+Drive for data and code quality, and collaborate and help to implement along industry coding best practices and work as a team with similar-minded people, benefitting from each other’s specific competences.
+Communicate crystal clearly on physical principles, algorithm solutions and design decision to stakeholders, without omitting the essentials.
+Design and realize fully functional proof-of-concept subsystems on the edge of system specifications, costs and project planning, thereby contributing directly to products for B2B customers world-wide.
+Review technical analyses from the team, and structure team contributions keeping the overview and consolidate technical-team identity in communication with other departments.
+Contribute to technical product roadmaps and generate intellectual property protecting ASML products, while developing the best metrology solutions and a well-founded vision on semiconductor metrology.
+
+Education and experience
+
+Ph.D. in Applied Mathematics, Physics, Computer Science, or Electrical Engineering.
+0-3 year of working experience.
+
+Skills
+
+Demonstrated expertise in machine learning and numerically stable modeling, code development, using sound physical-mathematical principles and insights
+Excellence in numerical mathematics, and in machine learning methods, data-intensive and distributed software architecture (cloud) as environment for metrology applications
+Ability to explain physical principles and algorithmic solutions in a crisp way, without omitting the essentials
+Drive for structuring the scripting code base in the cluster, and be energized by helping colleagues in this
+Fluency in the languages Python, Julia, MATLAB, or C++, and awareness of compatibility with other software
+Sound understanding of the fundamentals such as optics, linear algebra, probability theory, robust optimization and (deep) learning methods
+Drive creative solutions -within the bigger picture- with the product and customer in mind
+Initiating, self-propelling and decisive in an ambiguous environment
+Team worker, and ability to influence without power and you have a pragmatic approach and pro-active attitude, with result focus and a ‘can do’ spirit
+
+This position requires access to controlled technology, as defined in the United States Export Administration Regulations (15 C.F.R.
+
+730, et seq.). Qualified candidates must be legally authorized to access such controlled technology prior to beginning work. Business demands may require ASML to proceed with candidates who are immediately eligible to access controlled technology.
+
+Diversity and inclusion
+
+ASML is an Equal Opportunity Employer that values and respects the importance of a diverse and inclusive workforce. It is the policy of the company to recruit, hire, train and promote persons in all job titles without regard to race, color, religion, sex, age, national origin, veteran status, disability, sexual orientation, or gender identity. We recognize that diversity and inclusion is a driving force in the success of our company.
+
+Need to know more about applying for a job at ASML? Read our frequently asked questions.

@@ -1,0 +1,45 @@
+About Us: 
+EcoEdge AI is a leader in sustainability, utilizing advanced AI and machine learning to optimize HVAC systems, reduce energy consumption, and lower carbon emissions. Our technology integrates seamlessly with existing building automation systems, making it easy to deploy and driving energy efficiency across various types of buildings.
+
+Opportunity: 
+We are looking for a motivated and talented MLOps Engineer to join our team. This role is ideal for someone with a strong foundation in Python, FastAPI, Docker, and model lifecycle management, particularly in the deep learning domain. If you have a keen understanding of ML model drift, production-ready coding skills, and a solid grasp of Linux OS, we encourage you to apply.
+
+Key Responsibilities:
+
+Model Lifecycle Management:
+Manage end-to-end model lifecycle, including checkpointing, versioning, and monitoring for deep learning models.
+Implement and monitor model drift detection techniques to maintain model accuracy over time.
+
+API Development:
+Develop, manage, and optimize APIs using FastAPI for seamless integration and deployment of ML models into production environments.
+Ensure APIs are robust, secure, and scalable.
+
+Containerization and Docker Management:
+Build, deploy, and manage Docker containers for reproducibility and scalability in model deployment.
+Implement best practices for container security and resource optimization.
+
+Linux Proficiency:
+Utilize Linux-based systems for MLOps pipeline setup, configuration, and troubleshooting.
+Manage and automate server-level tasks and deployments using shell scripting and other Linux tools.
+
+Production-Grade Code Development:
+Write clean, maintainable, and efficient code for production environments, following best coding practices and standards.
+
+Work with cross-functional teams to ensure smooth model deployment and operational support.
+
+Must Have:
+Education: Bachelor's degree in Computer Science, Engineering, or a related field.
+Experience: 2+ years of hands-on experience in an MLOps or related engineering role.
+Technical Skills:
+Programming: Proficiency in Python, with the ability to write production-grade code.
+API Management: Solid experience with FastAPI and API development.
+Containerization: Hands-on experience with Docker, including container management, orchestration, and optimization.
+Model Lifecycle Management: Familiarity with deep learning model checkpointing, versioning, and drift detection.
+Operating System: Strong knowledge of Linux environments and shell scripting.
+Nice to Have
+Familiarity with cloud platforms (AWS) for model deployment and monitoring.
+Basic knowledge of CI/CD pipelines in a machine learning context.
+
+If you are excited to be a part of a team that's creating a greener future through AI and technology, we want to hear from you! Apply now and help us drive positive change. 
+
+You can directly apply at: https://docs.google.com/forms/d/e/1FAIpQLSfGdJuQ0WczA6OTC6l94Tkg_ZR-7fJoH6-t1dlmo2w_tJ8tZw/viewform?usp=sharing

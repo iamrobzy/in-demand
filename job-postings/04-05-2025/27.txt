@@ -1,0 +1,55 @@
+Na Yandeh, Estamos Dando Um Passo Ousado
+
+Vamos construir nosso próprio MCP Server (Message Context Protocol) para orquestrar agentes de IA capazes de analisar dados de vendas, gerar insights automáticos e transformar como o varejo opera no Brasil.
+
+Estamos usando o que há de mais avançado em IA, LangChain, OpenAI, Snowflake e arquitetura orientada a agentes.
+
+Buscamos um Cientista de Dados com forte conhecimento em modelagem de dados, desenvolvimento de algoritmos preditivos e experiência prática em Python. O profissional deve ser capaz de aplicar técnicas de machine learning e deep learning utilizando bibliotecas como scikit-learn, TensorFlow, PyTorch e pandas. Além disso, o candidato deve ter familiaridade com a implementação de modelos utilizando a API da OpenAI, integração com serviços de NLP, e ser capaz de desenvolver interfaces utilizando Flutter para exibir os resultados de forma visual e interativa.
+
+Responsabilidades
+
+Desenvolver e implementar modelos preditivos e de machine learning para suportar a tomada de decisão.
+Integrar modelos de machine learning com a API da OpenAI para construção de soluções baseadas em NLP.
+Analisar grandes volumes de dados para identificar padrões e gerar insights para o negócio.
+Construir pipelines de dados e automatizar processos analíticos.
+Desenvolver APIs e scripts em Python para execução de processos e integração de modelos.
+Criar interfaces interativas em Flutter para visualização de resultados e dashboards dinâmicos.
+Participar de discussões técnicas para propor melhorias e soluções inovadoras.
+Documentar processos e resultados de forma clara e organizada.
+
+Diferenciais
+
+Graduação em Ciência de Dados, Engenharia, Matemática, Estatística, Computação ou áreas relacionadas.
+Experiência prática com bibliotecas de machine learning (scikit-learn, pandas, TensorFlow, PyTorch).
+Familiaridade com desenvolvimento e integração de modelos utilizando a OpenAI API.
+Conhecimentos em análise de dados e técnicas de NLP.
+Experiência em construção de scripts e automações em Python.
+Conhecimento em desenvolvimento de interfaces no Flutter para construção de visualizações.
+Experiência com ferramentas de visualização de dados (Streamlit, Plotly).
+Habilidade em comunicação e apresentação de resultados para públicos não técnicos.
+Experiência com bancos de dados relacionais e NoSQL.
+Conhecimentos em arquitetura de soluções de dados (ETL, Data Lake, etc).
+Experiência em projetos de inovação utilizando IA.
+Capacidade de trabalhar de forma autônoma e em equipe, com forte orientação para resultados.
+
+O que você vai encontrar de benefícios por aqui:
+
+Ambiente dinâmico, acelerado e com muitas oportunidades de desenvolvimento e crescimento;
+
+Cartão Flash para usar como quiser para refeição e alimentação;
+
+Plano de Saúde SulAmerica, com ótima rede credenciada nacional, reembolso e consultas online;
+
+Plano Odontológico SulAmerica;
+
+Wellhub, e você escolhe seu plano para para academias, estúdios de pilates, crossfit e mais;
+
+Allya oferece promoções em diversos locais, como farmácias, cinemas, lojas de produtos ergonômicos e muito mais!
+
+Day off no mês de aniversário;
+
+Auxílio creche;
+
+Localidade
+
+Presencial ou remoto, com disponibilidade para reuniões pontuais presenciais quando necessário.

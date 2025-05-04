@@ -1,0 +1,88 @@
+Work Location:
+
+Montréal, Quebec, Canada
+
+Hours
+
+35
+
+Line Of Business
+
+Analytics, Insights, & Artificial Intelligence
+
+Pay Details
+
+TD is committed to providing fair and equitable compensation opportunities to all colleagues. Growth opportunities and skill development are defining features of the colleague experience at TD. Our compensation policies and practices have been designed to allow colleagues to progress through the salary range over time as they progress in their role. The base pay actually offered may vary based upon the candidate's skills and experience, job-related knowledge, geographic location, and other specific business and organizational needs.
+
+As a candidate, you are encouraged to ask compensation related questions and have an open dialogue with your recruiter who can provide you more specific details for this role.
+
+Job Description
+
+The Model Support Team ensures compliance with enterprise policies, procedures, and standards by providing governance, process standardization, and effective communication to support model-related activities. The team plays a critical role in centralizing processes, maintaining model inventory and documentation, and ensuring that all modelling activities align with enterprise expectations.
+
+As a Applied ML Scientist I, You Will
+
+Facilitate discussions and ensure all stakeholders clearly understand the policies, procedures and standards established by Enterprise Model Risk Management ('MRM') and Compliance Oversight of Models Office ('COMO"), etc.
+Establish uniform processes and templates to ensure consistency across all model-related activities.
+Define and maintain clear rules for variable usage and ensure all modelling teams consistently follow the established glossary.
+Maintain the model inventory and ensure traceability and accessibility of model-related records for governance purposes.
+Support modelling teams in preparing prepopulated documents for submission and ensure that the governance components of model documents align accurately with model inventory.
+Assist modelling teams in creating a checklist for each project to ensure all necessary steps are completed and timelines are followed.
+Establish regular touchpoints with all modelling teams to communicate the current review status and ensure awareness of upcoming submissions.
+Provide guidance to modelling teams by regularly sharing expertise and participating in knowledge transfer activities.
+Manage relationships within and across various business lines and ensure alignment with enterprise requirements.
+Prioritize work based on emergencies and business impacts.
+
+Job Requirements
+
+Degree in Actuarial Science, Statistics, Mathematics, or a related field.
+Five (5) or more years relevant experience
+Prior experience in an insurance company or with model risk governance frameworks is preferred.
+Excellent verbal and written communication skills, with the ability to explain complex policies and procedures clearly.
+Experience in developing standardized workflows and processes to support compliance and governance.
+Strong understanding of model lifecycle management (e.g., development, validation, implementation, and monitoring).
+Strong organizational skills to manage multiple tasks and deadlines.
+Excellent problem solving, analytical, and strategic thinking skills, with the capability to remove obstacles and recommend implementable solutions.
+Proven ability to collaborate effectively with cross-functional teams such as MRM/MV and COMO; facilitate alignment on governance requirements.
+Skill in using Microsoft office such as Word, Excel, PowerPoint; knowledge of data analytical tools is an asset.
+A proactive approach to process improvement and identifying best practices for compliance.
+
+Who We Are
+
+As part of TD Bank Group, one of Canada's largest financial institutions, at TD Insurance, we care for Canadian families, making it easy to get the best advice, protection, and support in their moments of need, always.
+
+TD Insurance offers a wide range of products, including General Insurance and Life and Health. More than four million customers count on us.
+
+As the largest direct to consumer insurer in Canada, we are always innovating and providing exciting and rewarding career opportunities for our Canada-wide workforce.
+
+Our Total Rewards Package
+
+Our Total Rewards package reflects the investments we make in our colleagues to help them and their families achieve their financial, physical, and mental well-being goals. Total Rewards at TD includes a base salary, variable compensation, and several other key plans such as health and well-being benefits, savings and retirement programs, paid time off, banking benefits and discounts, career development, and reward and recognition programs. Learn more
+
+Additional Information
+
+We’re delighted that you’re considering building a career with TD. Through regular development conversations, training programs, and a competitive benefits plan, we’re committed to providing the support our colleagues need to thrive both at work and at home.
+
+Please be advised that this job opportunity is subject to provincial regulation for employment purposes. It is imperative to acknowledge that each province or territory within the jurisdiction of Canada may have its own set of regulations, requirements.
+
+Colleague Development 
+
+If you’re interested in a specific career path or are looking to build certain skills, we want to help you succeed. You’ll have regular career, development, and performance conversations with your manager, as well as access to an online learning platform and a variety of mentoring programs to help you unlock future opportunities. Whether you have a passion for helping customers and want to expand your experience, or you want to coach and inspire your colleagues, there are many different career paths within our organization at TD – and we’re committed to helping you identify opportunities that support your goals.
+
+Training & Onboarding
+
+We will provide training and onboarding sessions to ensure that you’ve got everything you need to succeed in your new role.
+
+Interview Process 
+
+We’ll reach out to candidates of interest to schedule an interview. We do our best to communicate outcomes to all applicants by email or phone call.
+
+Accommodation 
+
+Your accessibility is important to us. Please let us know if you’d like accommodations (including accessible meeting rooms, captioning for virtual interviews, etc.) to help us remove barriers so that you can participate throughout the interview process.
+
+We look forward to hearing from you!
+
+Language Requirement (Quebec Only)
+
+Maîtrise d’une langue autre que le français pour offrir du soutien ou traiter avec des employés ou des collègues qui ont besoin de services et de soutien dans une langue autre que le français.

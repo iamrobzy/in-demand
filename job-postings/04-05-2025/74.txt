@@ -1,0 +1,63 @@
+About Viator
+
+Viator, a Tripadvisor company, is the leading marketplace for travel experiences. We believe that making memories is what travel is all about. And with 300,000+ travel experiences to explore—everything from simple tours to extreme adventures (and all the niche, interesting stuff in between)—making memories that will last a lifetime has never been easier. With industry- leading flexibility and last-minute availability, it's never too late to make any day extraordinary. Viator. One app, 300,000+ travel experiences you’ll remember.
+
+Perks of Working at Viator
+
+Competitive compensation packages (routinely benchmarked against the latest industry data), including base salary and annual bonus.
+“Work your way” with flexibility to suit your lifestyle. Viator takes a remote-friendly approach to collaboration across a worldwide team, with the option to join on-site as often as you’d like.
+Flexible schedule. Work-life balance is ingrained in our culture by design. Trust and accountability make it work.
+Donation matching. Give back? Give more! We match qualifying charitable donations annually.
+Tuition assistance. Want to level up your career? We love to hear it! Receive annual support for qualified programs.
+Lifestyle benefit. An annual benefit to spend on yourself. Use it on travel, wellness, or whatever suits you.
+Travel perks. We believe that travel is employee development, so we provide discounts and more.
+Employee assistance program. We’re here for you with resources and programs to help you through life’s challenges.
+Health benefits. We offer great coverage and competitive premiums.
+
+Our Values
+
+We aspire to lead. Tap into your talent, ambition, and knowledge to bring us – and you – to new heights.
+We’re relentlessly curious. We push beyond the usual, the known, the “that’s just how it’s done.”
+We’re better together. We learn from, accept, respect, support, and value one another– and are creating something remarkable in the process.
+We serve our customers, always. We listen, question, respond, and strive for wow moments.
+We strive for better, not perfect. We won’t get it right the first time – or every time. We’ll provide a safe environment in which to make mistakes, iterate, improve, and grow.
+Our workplace is for everyone, as is our people powered platform. At Tripadvisor, we want you to bring your unique identities, abilities, and experiences, so we can collectively revolutionize travel and together find the good out there.
+
+You Will Work On
+
+Research, prototype, and productionize generative AI models.
+Develop scalable GenAI pipelines that generate high-quality content, from product descriptions, reviews, titles, and other product content.
+Design and evaluate prompt tuning strategies and RAG systems to ensure factual and engaging outputs.
+Fine-tune foundation models and develop domain-specific adapters using techniques like LoRA, PEFT, and instruction tuning.
+Define best practices for model monitoring, including output quality, hallucination detection, and user feedback loops.
+Understanding use cases for Agentic AI communicating your findings with the wider ML team and product.
+Utilize RLHF methodologies to build feedback mechanisms that directly shape the behavior and quality of our generative AI outputs.
+Collaborate cross-functionally with product, design, and engineering to integrate models into user-facing applications.
+Stay up to date with the latest in GenAI research and help shape internal best practices.
+Design, code, experiment and implement models and algorithms to enhance customer satisfaction, increase supplier value, optimize business results, and ensure infrastructure efficiency.
+Collaborate with product managers and various business stakeholders to ensure top-quality outcomes to meet internal objectives.
+Investigate and adopt innovative concepts that offer tangible benefits.
+
+To Be Successful In The Role, You'll Need
+
+5+ years of hands-on data science experience with at least 2 years of experience with LLM
+Awareness of current LLM techniques, prompt tuning, evaluations and model monitoring.
+In-depth knowledge of AI/ML/DL, Statistics, and related open-source libraries.
+Strong skills in SQL and at least one programming language.
+To be comfortable in code reviews, discussing architecture, and collaborating with a multidisciplinary team for regular model deployments.
+Experience in deploying online solutions and analysing real-time results through A/B testing.
+To be passionate about mentoring junior members of the team, and have a strong desire to help us perform to the best of our ability.
+Leadership qualities, autonomy, and team collaboration skills.
+Clear communication skills, awareness of the audience, and proactive sharing of findings. Actively involved in business networking and able to communicate complex ideas across the business simply and effectively.
+
+Desired Qualifications
+
+Master's or PhD in Computer Science, Operations Research, Statistics, or related quantitative disciplines.
+Knowledge in (any or all) User Modelling, Representation Learning, RecSys, Large Language Models (LLM)
+Prior experience in e-commerce or at an Online Travel Agency.
+
+Job Location: This role is a remote position or hybrid in the UK, Poland or Portugal. Occasional travel to company offices as necessary.
+
+If you need a reasonable accommodation or support during the application or the recruiting process due to a medical condition or disability, please reach out to your individual recruiter or send an email to AccessibleRecruiting@Tripadvisor.com and let us know the nature of your request. Please include the job requisition number in your message.
+
+#Viator

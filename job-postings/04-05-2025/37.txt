@@ -1,0 +1,47 @@
+3-SRQ144167
+
+Vacaturetitel: Machine Learning Engineer Adviseur ICT (JP1217)
+
+Opdrachtgever: Gasunie
+
+Locatie: Groningen, Nederland
+
+Afdeling: ICT / Data & Innovatie
+
+Functie: Adviseur ICT 70
+
+Aantal posities: 1
+
+Startdatum: 12 mei 2025
+
+Einddatum: 31 december 2026
+
+Status: Distributieproces gestart
+
+Functieomschrijving:
+
+Gasunie is op zoek naar een ervaren Machine Learning Engineer die de brug vormt tussen data science en software engineering. In deze functie werk je aan innovatieve toepassingen op het gebied van dataverwerking, predictive maintenance en energietransitieprojecten.
+
+Je ontwikkelt, test en implementeert machine learning modellen binnen de IT-infrastructuur van Gasunie. Je werkt nauw samen met data scientists, software engineers en domeinexperts om data-oplossingen te realiseren die écht waarde toevoegen aan de bedrijfsvoering.
+
+Taken en verantwoordelijkheden:
+
+Ontwikkelen, trainen en optimaliseren van machine learning modellen (supervised & unsupervised) 
+In productie brengen van modellen in samenwerking met DevOps-teams 
+Ontwerpen en bouwen van schaalbare data pipelines en ML-workflows 
+Meewerken aan use-cases zoals asset monitoring, energievraag-voorspellingen, en anomaliedetectie 
+Werken met cloudomgevingen (bijv. Azure, AWS) en containerisatie (Docker/Kubernetes) 
+Documenteren, evalueren en verbeteren van ML-oplossingen 
+Samenwerken met multidisciplinaire teams en bijdragen aan kennisdeling 
+
+
+Eisen:
+
+Afgeronde wo-opleiding in een relevant vakgebied (Informatica, Kunstmatige Intelligentie, Data Science, etc.) 
+Minimaal 3 jaar werkervaring als Machine Learning Engineer of Data Scientist 
+Ervaring met programmeertalen zoals Python en ML-libraries zoals scikit-learn, TensorFlow, PyTorch 
+Kennis van MLOps, CI/CD voor ML, en model deployment (bijv. MLFlow, Airflow) 
+Ervaring met data engineering en tools zoals Spark, Databricks, SQL 
+Bekendheid met cloudplatforms zoals Azure, AWS of GCP 
+Sterke communicatieve vaardigheden en proactieve houding 
+Uitstekende beheersing van Nederlands en Engels

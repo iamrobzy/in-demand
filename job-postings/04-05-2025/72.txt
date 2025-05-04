@@ -1,0 +1,22 @@
+Job Title: Senior Machine Learning Engineer 5 years
+Experience: 5+ years
+Employment Type: Full-time
+About the Role:
+We are seeking a highly motivated and experienced Senior Machine Learning Engineer with expertise in Artificial Intelligence, Machine Learning, Generative AI, Natural Language Processing (NLP), Large Language Models (LLMs), and Chatbot development. You will play a key role in designing, building, and deploying AI-driven applications that power intelligent, human-like interactions.
+Key Responsibilities:
+Design, develop, and deploy scalable ML/AI solutions using Generative AI and NLP techniques.
+Work with LLMs (e.g., GPT, LLaMA, Claude, PaLM) for building advanced chatbot applications.
+Fine-tune pre-trained language models for specific use cases using prompt engineering and transfer learning.
+Collaborate with data engineers, product teams, and UX designers to integrate ML solutions into products.
+Research and prototype innovative solutions using state-of-the-art NLP and GenAI technologies.
+Ensure model performance, scalability, and robustness in production environments.
+Monitor and maintain deployed models; retrain and update as needed.
+Required Skills:
+Bachelor’s/Master’s degree in Computer Science, AI, Data Science, or a related field.
+5+ years of experience in Machine Learning and AI.
+Hands-on experience with NLP libraries and frameworks: Hugging Face Transformers, spaCy, NLTK, etc.
+Experience working with LLMs and GenAI frameworks like OpenAI, LangChain, Cohere, etc.
+Proficiency in Python and ML libraries (TensorFlow, PyTorch, Scikit-learn).
+Strong knowledge of prompt engineering, RAG (retrieval augmented generation), and fine-tuning techniques.
+Practical experience building and deploying AI/ML-based chatbots.
+Familiarity with cloud platforms (AWS/GCP/Azure) and MLOps tools.

@@ -1,0 +1,67 @@
+Overview
+
+Role: Senior Scientist – Machine Learning
+
+Location: Abu Dhabi
+
+About Presight
+
+Presight is an ADX-listed public company with Abu Dhabi based G42 as its majority shareholder and is the region’s leading big data analytics company powered by GenAI. It combines big data, analytics, and AI expertise to serve every sector, of every scale, to create business and positive societal impact. Presight excels at all-source data interpretation to support insight-driven decision-making that shapes policy and creates safer, healthier, happier, and more sustainable societies. Today, through its range of GenAI-driven products and solutions, Presight is bringing Applied AI to the private and public sector, enabling them to realize their AI strategy and ambitions faster.
+
+The Opportunity
+
+Seeking a highly proficient and innovative Senior Scientist – Machine Learning to help design and implement a cutting-edge AI platform through Machine Learning and software development techniques.
+
+Responsibilities
+
+As a Senior Scientist – Machine Learning, you will focus on designing, implementing, and maintaining various Deep Learning and Reinforcement Learning codes. You will work with a multidisciplinary team of smart people, including Product Managers, and Software Developers, to advance a state-of-the-art AI platform that can be applied to domains like Robotics, Optimization, Control, Anomaly detection and Machine Vision.
+
+Functional
+
+Use generative AI for most aspects of your work, from data preparation and code generation to ideas validation and publications summarization.
+Have an end-to-end hands-on ownership of ML features and various projects.
+Create POCs focused on Deep Learning as well as other traditional approaches within Data Science.
+Develop algorithms in key areas in Machine Learning.
+Work closely with other colleagues while maintaining a clear vision of the value of our diverse offerings.
+Lead the path of value-driven AI features that are innovative and deployable to real customers.
+Collaborate in a multicultural and diverse environment that expands to include various geographic locations and spans numerous cultures.
+Comply with QHSE (Quality Health Safety and Environment), Business Continuity, Information Security, Privacy, Risk, Compliance Management and Governance of Organizations policies, procedures, plans and related risk assessments.
+
+Requirements
+
+Qualifications 
+
+Bachelor's Degree in Artificial Intelligence, Business Analytics, Data Science, Computer Science, Mathematics, Engineering or related field.
+5+ years' experience with Software Engineering. Understanding of NoSQL, Message Queues, Kubernetes, Microservices. Big plus if there is experience with any.
+5+ years' experience in AI and ML algorithm development.
+Proven track of programming in Python. Preferably experience with any of Go/Java/C++/Scala.
+Strong knowledge of data structures and algorithms.
+Strong experience debugging and tuning applications/ML pipelines for production.
+Production experience deploying, configuring and monitoring ML pipelines.
+Experience with sci-kit learn library (clustering, dimensionality reduction, classification, regression).
+Experience with embeddings and few-shot learning, vector DBs like Vespa, Qdrant, Milvus, etc.
+Nice to have experience with LLM prompt engineering, structured generation, fine tuning, quantization.
+Experience with deep learning frameworks (PyTorch) for training and inference on the problems like (two domains at least):
+NLP (seq-to-seq, semantic search, topic classification, sentiment analysis, translation);
+Image (OCR, detection, recognition);
+Video (objects tracking, retrieval, anomaly detection);
+Audio (speaker recognition, speech to text, etc.);
+Recommendation Systems (retrieval, ranking, session based recommendations, ad tech, etc.)
+Ideally, you’ll also need
+
+A commitment to research
+A highly data-focused and investigative approach to problem-solving
+In-depth domain and market knowledge
+Excellent communication skills
+
+What We Look For
+
+If you are a performance-driven, inquisitive mind with the agility to adapt to ambiguity, you will fit right in. You should be eager to explore opportunities to build meaningful collaborations with stakeholders and aspire to create unique customer-centric solutions. Bias for action and a passion to conquer new frontiers in the AI space is at the heart of the Presight community.
+
+What Working At Presight Offers
+
+Culture: An open, diverse and inclusive environment with a global vision that encourages personal growth and focuses on ground-breaking, industry-first innovations.
+
+Career: Outstanding learning, development & growth opportunities via structured training programs and innovative, high-tech projects.
+
+Rewards: A competitive remuneration package with a host of perks including healthcare, education support, leave benefits and more.

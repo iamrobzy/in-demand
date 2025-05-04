@@ -1,0 +1,48 @@
+Description
+
+Are you seeking an environment where you can drive innovation? Do you want to be at the forefront of applying Machine Learning to solve real world problems? Do you want to play a key role in the future of Amazon's Supply Chain? Come and join us!
+
+Supply Chain Optimization Technologies (SCOT) owns Amazon’s global inventory planning systems. We decide what, when, where, and how much we should buy to meet Amazon’s business goals and to make our customers happy. We decide how to buy and move inventory within Amazon’s fulfillment network. We do this for hundreds of millions of items and hundreds of product lines worth billions of dollars of world-wide. Venturing beyond traditional operations research methods for sequential decision-making in inventory planning, the Reinforcement Learning team is pioneering the application of reinforcement learning techniques for these applications. The team combines empirical research and real world testing, backed by a robust theoretical foundation.
+
+As a Machine Learning Engineer, you will work closely with science teams to bring research to production. This is a role that combines engineering knowledge, technical strength, and product focus. It will be your job to implement novel ML systems, product integrations, and performance optimizations. In this role, you will work alongside other engineers and scientists to develop and implement novel, scalable algorithms and modeling techniques that advance the state-of-the-art in areas at the intersection of Reinforcement Learning and Optimization within Machine Learning. It will be your job to implement novel ML systems, product integrations, and performance optimizations releases into production while also ensuring CI/CD compliance and ensuring best practices in software development and cloud infrastructure are followed (in the realm of scalability, security and availability).
+
+Key job responsibilities
+
+Collaborate closely with applied scientists on machine learning tasks ranging from ML code & data management to training and deployment of ML models.
+Own the development and operationalization of solutions deployed in production.
+Research and Develop stability and optimizations to continuously improve training KPIs, such as uptime, throughput and goodput.
+Collaborate with software engineering team to operationalize and scale training improvements across experimentation and production workloads.
+Design model experimentation processes and frameworks in synergy with our scientists.
+
+A day in the life
+
+You will design, develop and evaluate highly innovative Reinforcement Learning models for solving complex business problems. Furthermore, you will create scalable, efficient and automated processes for large scale data analyses, model development, validation and implementation. Our teams embrace agile methodologies with a focus on test automation and continuous deployment.
+
+About The Team
+
+Inclusive Team Culture
+
+In SCOT, we embrace diversity through innovative benefits, annual conferences and Amazon's 16 Leadership Principles, which promote curiosity, diverse perspectives, trust, and inclusion.
+
+Basic Qualifications
+
+3+ years of machine learning, statistical modeling, data mining, and analytics techniques experience
+2+ years of non-internship design or architecture (design patterns, reliability and scaling) of new and existing systems experience
+Experience programming with at least one software programming language
+
+Preferred Qualifications
+
+Bachelor's degree in computer science or equivalent
+Experience with machine learning libraries and deep learning frameworks (TensorFlow, PyTorch, etc.)
+Experience with Apache Spark and Amazon AWS platform (SageMaker, Redshift, EMR, Glue, Step Functions, Lambda, Batch, etc.)
+
+Amazon is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status.
+
+Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.
+
+Our compensation reflects the cost of labor across several US geographic markets. The base pay for this position ranges from $129,300/year in our lowest geographic market up to $223,600/year in our highest geographic market. Pay is based on a number of factors including market location and may vary depending on job-related knowledge, skills, and experience. Amazon is a total compensation company. Dependent on the position offered, equity, sign-on payments, and other forms of compensation may be provided as part of a total compensation package, in addition to a full range of medical, financial, and/or other benefits. For more information, please visit https://www.aboutamazon.com/workplace/employee-benefits. This position will remain posted until filled. Applicants should apply via our internal or external career site.
+
+
+Company - Amazon.com Services LLC
+
+Job ID: A2910128

@@ -1,0 +1,24 @@
+Project Overview:
+Yap.market (@yapdotmarket | yap.market) is a Web3-native platform that rewards users for high-quality social engagement. We use data-driven systems to measure impact and distribute incentives. You’ll be building the intelligence layer behind a next-gen creator economy product.
+
+Role Overview:
+We are looking for a backend-focused engineer with strong data and ML experience. You will be responsible for developing backend infrastructure, ML-powered scoring algorithms, and systems that handle data at scale from social networks.
+
+Responsibilities:
+Design and develop robust backend services and APIs
+Build, train, and integrate ML models (e.g., relevance scoring, classification)
+Manage job queues, webhooks, rate limits, and data ingestion pipelines
+Process and analyze large datasets from public social APIs
+Collaborate with product to translate scoring ideas into measurable systems
+
+Requirements:
+3+ years experience in backend engineering (Node.js, Python, or Go)
+Experience with machine learning fundamentals and model deployment
+Strong foundation in data structures, algorithms, and systems architecture
+Familiarity with real-time processing and caching solutions (e.g., Redis, Kafka)
+Comfortable working with APIs (especially social data APIs like Twitter)
+
+Nice to Have:
+Previous experience building scoring engines or ranking models
+Familiarity with content moderation, embedding models, or vector similarity
+Exposure to token-incentive or Web3-based reward systems

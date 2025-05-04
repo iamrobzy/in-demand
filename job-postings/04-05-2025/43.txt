@@ -1,0 +1,48 @@
+The Position
+
+We advance science so that we all have more time with the people we love.
+
+A position is available for a postdoctoral fellow to join the Genentech Computational Sciences (gCS) organization which uses data, by developing best in class computational methods, and applying them to the most relevant scientific problems across all stages of the pipeline. This position is based within the Sterne-Weiler Lab in Computational Biology / Discovery Oncology and co-mentored by the Frey Lab in Prescient Design (Machine Learning for Drug Discovery).
+
+The postdoctoral position is focused on developing and applying foundational AI models to investigate clinically relevant cancer vulnerabilities and their relationship with molecular context. Spanning functional genomics and large-scale clinical genomics, the postdoctoral fellow will build and train new models to understand the impact of mutation on protein structure and the role of genomic alterations on cancer cell state. While this position is computational, the project is highly collaborative, involving regular interaction with laboratory colleagues in the Discovery Oncology therapeutic area.
+
+The Opportunity:
+
+Opportunity to work closely with computational colleagues to build, train, and evaluate cutting edge AI models using large proprietary oncology datasets
+Leverage multimodal high dimensional data to investigate relationship between heterogeneous cancer alterations and cancer cell states
+Exploratory research in a fast-paced setting with the potential for real impact on patients
+Technical and scientific mentorship from computational and laboratory colleagues in the development and testing of biological hypotheses 
+Present at external scientific conferences and publish models and scientific insights in high-impact journals
+
+Who You Are:
+
+Ph.D. in Computational Biology, Bioinformatics, Computer Science or Machine Learning related field
+Demonstrated proficiency with Python, and machine learning libraries; pytorch, sklearn
+Experience with transformer architectures, and interpretable AI methods and libraries, concept-bottleneck architectures, attribution packages: shap, captum, etc.
+Experience with bulk and/or single-cell omics data analysis (e.g. bulk genomics and transcriptomics, single-cell RNA-seq, Perturb-seq)
+Demonstrated ability to clearly and effectively communicate about complex bioinformatics problems to both technical and non-technical audiences; this should be both in written and verbal form, as evidenced by first-author publications in high-impact journals
+Independent, highly motivated, and highly collaborative with the ability to work together with multi-disciplinary teams of computational and laboratory biologists
+
+Preferred Qualifications:
+
+Background in cancer genomics and pre- and/or post-training of foundation models for biology is preferred
+Passionate about working in a scientific environment, especially one that is related to drug discovery and development
+You have lots of ideas: some good, some great; you are quickly able to prioritize, prototype and pressure-test new ideas to reduce time between iterations
+Quick learner, are curious about new areas and the opportunity to build expertise, and courageously boldly and creatively take initiative to see your ideas implemented
+Able to perform at a high level in a fast changing and demanding environment
+
+The expected salary range for this position based on the primary location of California is $110,000 to $120,000. Actual pay will be determined based on experience, qualifications, geographic location, and other job-related factors permitted by law. This position also qualifies for the benefits detailed at the link provided below.
+
+Benefits
+
+Relocation benefits are available for this job posting.
+
+About Genentech’s Postdoctoral Program:
+
+Elevate your research career to new heights with Genetech’s Postdoctoral Program! Join a prestigious community of early career scientists and kick-start your journey toward becoming a scientific leader in biotechnology and bioengineering. With competitive salaries and fully funded research expenses, you can dedicate yourself to groundbreaking research that aligns with Genentech strategic ambitions.
+
+The postdoc program is designed to empower recent Ph.D. graduates to conduct world-class research, publish in top-tier journals, and build a robust scientific network. By joining us, you will receive the mentorship and support necessary to develop into an independent scientist and leader. The Genentech Postdoc Program provides access to world-class seminars, professional development workshops, and networking opportunities. Apply now to Genentech’s Postdoctoral Program and unlock your full potential!
+
+Genentech is an equal opportunity employer. It is our policy and practice to employ, promote, and otherwise treat any and all employees and applicants on the basis of merit, qualifications, and competence. The company's policy prohibits unlawful discrimination, including but not limited to, discrimination on the basis of Protected Veteran status, individuals with disabilities status, and consistent with all federal, state, or local laws.
+
+If you have a disability and need an accommodation in relation to the online application process, please contact us by completing this form Accommodations for Applicants.

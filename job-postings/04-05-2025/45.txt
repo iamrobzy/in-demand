@@ -1,0 +1,49 @@
+Job Description
+
+The Compute Network Storage(CNS) group, within Global Technology Infrastructure (GTI) is responsible for defining, developing and operating cloud products consumed by our Application Development Partners across the firm. Our Product Portfolio includes Private and Public Cloud Platforms and a wide range of services such as databases, messaging and telemetry.
+
+As a Machine Learning Engineer at JPMorgan Chase within the Infrastructure Platform (IP) Storage Product Line, you will have the opportunity to leverage your deep knowledge of advanced Python programming and machine learning techniques to design, develop, and implement cutting-edge solutions. In this role, you will collaborate with cross-functional teams to create secure and high-quality production code, ensuring adherence to coding standards and best practices. This role is perfect for those with a strong foundation in programming, expertise in advanced Python concepts, and a passion for applying machine learning algorithms to solve complex problems.
+
+Job Responsibilities
+
+Apply machine learning algorithms and techniques to solve complex problems, using libraries such as TensorFlow, PyTorch, or scikit-learn.
+Collaborate with cross-functional teams to gather requirements and design machine learning models and algorithms that meet the needs of our customers.
+Create secure and high-quality production code, ensuring adherence to coding standards and best practices.
+Gather, analyze, and preprocess large, diverse datasets to train and evaluate machine learning models.
+Apply advanced feature engineering techniques to extract meaningful insights from data and improve model performance.
+Deploy and integrate machine learning models into production systems, considering the impact on upstream and downstream systems.
+Monitor and maintain deployed models, ensuring their performance and reliability.
+Stay up-to-date with the latest advancements in Python programming and machine learning techniques, and explore their potential applications within the organization.
+
+Required Qualifications, Capabilities, And Skills
+
+Bachelor’s degree in Computer Science or equivalent practical experience.
+5 + years of experience as a software developer with a focus on integrating AI/ML solutions.
+Solid understanding of software engineering principles and best practices.
+Expertise in advanced Python programming concepts, including object-oriented programming, decorators, generators, and context managers.
+Proficiency in coding in Python, with a focus on machine learning libraries and frameworks.
+Experience in machine learning model development, including data preprocessing, feature engineering, model selection, training, and evaluation.
+Familiarity with agile methodologies and practices.
+Strong problem-solving and analytical skills.
+Excellent communication and collaboration abilities.
+Ability to work effectively in a team environment.
+Desire to learn and grow within the field of advanced Python programming and machine learning.
+
+Preferred Qualifications, Capabilities, And Skills
+
+Familiarity with AI/ML implementation in cloud platforms, such as AWS or Azure.
+Knowledge of AI/ML deployment techniques, including model serving, containerization, and cloud-based deployment.
+
+ABOUT US
+
+JPMorganChase, one of the oldest financial institutions, offers innovative financial solutions to millions of consumers, small businesses and many of the world’s most prominent corporate, institutional and government clients under the J.P. Morgan and Chase brands. Our history spans over 200 years and today we are a leader in investment banking, consumer and small business banking, commercial banking, financial transaction processing and asset management.
+
+We offer a competitive total rewards package including base salary determined based on the role, experience, skill set and location. Those in eligible roles may receive commission-based pay and/or discretionary incentive compensation, paid in the form of cash and/or forfeitable equity, awarded in recognition of individual achievements and contributions. We also offer a range of benefits and programs to meet employee needs, based on eligibility. These benefits include comprehensive health care coverage, on-site health and wellness centers, a retirement savings plan, backup childcare, tuition reimbursement, mental health support, financial coaching and more. Additional details about total compensation and benefits will be provided during the hiring process.
+
+We recognize that our people are our strength and the diverse talents they bring to our global workforce are directly linked to our success. We are an equal opportunity employer and place a high value on diversity and inclusion at our company. We do not discriminate on the basis of any protected attribute, including race, religion, color, national origin, gender, sexual orientation, gender identity, gender expression, age, marital or veteran status, pregnancy or disability, or any other basis protected under applicable law. We also make reasonable accommodations for applicants’ and employees’ religious practices and beliefs, as well as mental health or physical disability needs. Visit our FAQs for more information about requesting an accommodation.
+
+JPMorgan Chase & Co. is an Equal Opportunity Employer, including Disability/Veterans
+
+About The Team
+
+Our professionals in our Corporate Functions cover a diverse range of areas from finance and risk to human resources and marketing. Our corporate teams are an essential part of our company, ensuring that we’re setting our businesses, clients, customers and employees up for success.

@@ -1,0 +1,75 @@
+Founded by Michael Lahyani in 2005 as a magazine (Al Bab World), Property Finder today is a single technology platform and brand across multiple countries in the MENA region. We offer the most advanced tools and best-in-class user experience for homeseekers, real estate brokers, and developers. Property Finder's most recent valuation secures our status among the Middle East's emerging unicorns, affirming a growth-oriented identity.
+
+Over the years, we've expanded our operations to Bahrain, Egypt, Qatar, Saudi Arabia, and secured a strategic shareholding in Hepsiemlak, the leading property portal in Turkey. With over 600+ dedicated people in 5 regional offices, we facilitate more than 14 million monthly visits across our platforms, solidifying our position as a regional powerhouse in the proptech space.
+
+As the pioneering portal for homeseekers in the region, we are on a mission to motivate and inspire people to live the life they deserve.
+
+Reports To
+
+Engineering Manager - Advanced Data Services
+
+Summary
+
+We’re looking for a curious and motivated AI & Data Science Intern to join our innovative team at Property Finder. This internship is a unique opportunity to gain hands-on experience with cutting-edge technologies like Generative AI, Large Language Models (LLMs), and transformer-based architectures. You’ll work alongside experienced Machine Learning Engineers and Data Scientists on impactful projects that drive personalization, automation, and innovation across our platforms.
+
+This role is ideal for someone eager to explore the frontiers of AI, learn from industry professionals, and contribute to real-world applications that make a difference in the real estate tech space.
+
+Key Responsibilities
+
+Support the development and evaluation of generative models and LLM-based solutions. 
+Assist in building prototypes using models like GPT, BERT, or T5 for tasks such as content generation and personalization. 
+Conduct research on recent advances in Generative AI and summarize key findings. 
+Help fine-tune and test transformer models for specific use cases. 
+Work with data engineers and scientists to prepare datasets, perform data cleaning, and explore features. 
+Contribute to experiments, evaluations, and metrics tracking for model performance. 
+Participate in brainstorming sessions and team discussions on AI applications and innovation. 
+Learn how to work within modern MLOps environments using tools like Docker, MLflow, and Hugging Face. 
+
+The Person
+
+Desired Qualifications
+
+Enrolled in or recently graduated from a Bachelor’s or Master’s program in Computer Science, Data Science, Machine Learning, or a related field. 
+A foundational understanding of machine learning and deep learning concepts. 
+Familiarity with Python and libraries like PyTorch, TensorFlow, or scikit-learn. 
+Interest in or basic knowledge of transformer architectures and LLMs. 
+Experience with personal or academic projects in AI/ML is a strong plus. 
+Enthusiastic, eager to learn, and able to work in a team-oriented environment. 
+Strong communication skills and an analytical mindset. 
+
+What You'll Gain:
+
+Practical experience in building and deploying AI solutions with real business impact. 
+Exposure to modern AI infrastructure and workflows (MLOps, cloud environments, etc.). 
+Mentorship and guidance from a team of skilled ML Engineers and Data Scientists. 
+A deeper understanding of working with LLMs and GenAI in production environments. 
+An opportunity to contribute to exciting, high-impact projects in a fast-moving company. 
+
+Our promise to talent
+
+We encourage our people, called creators, to move fast, to be bold and offer them countless ways to make an impact in a fast-growing and talent-centric organisation.
+
+Our goal is to ensure that our people find their time at Property Finder a rewarding experience where the company’s growth also means personal growth.
+
+Overall it is a place for you to be your best self. 
+
+Property Finder Guiding Principles
+
+Think Future First
+Data Beats Opinions, Speed Beats Perfection
+Optimise for Impact
+No Ostriches Allowed
+Our People, Our Power
+The Biggest Risk is Taking no Risk at All
+
+Find us at:
+
+Twitter
+
+Facebook
+
+Instagram
+
+Linkedin
+
+Glassdoor

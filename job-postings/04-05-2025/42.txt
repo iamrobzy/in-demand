@@ -1,0 +1,9 @@
+At FastCodeAI, we’re building intelligent perception and search systems that power real-world ADAS platforms. This is a rare opportunity to work on models that don’t just stay in research notebooks they ship. You'll join a high-performing team working on cutting-edge multimodal systems that combine vision and language to enable high-impact inference and data labeling at scale.
+It’s a great opportunity to work on complex, real-world ADAS challenges and build systems used in production across global automotive platforms. The role offers a high learning curve, collaborative environment, and the chance to shape core product infrastructure from the ground up.
+Requirements:
+3 to 6 years of experience in deep learning and computer vision
+Strong understanding of CNNs, ViTs, or vision-language models 
+Hands-on with PyTorch, ONNXRuntime, or TensorRT
+Proficient in data structures, algorithms, OOPs, and operating system concepts
+Location: Bengaluru
+CTC: ₹35 - 60 LPA

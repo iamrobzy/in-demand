@@ -1,0 +1,18 @@
+About
+
+DAS ERWARTET DICH:Als Teil eines agil arbeitenden Teams entwickelst du unsere Plattform für generative KI-Lösungen weiter und evaluierst neue Technologien und Methoden hinsichtlich praktischer Anwendbarkeit in unserem Bereich.Neue Technologien sind für uns eine wichtige Investition und Treiber für Innovation und Fortschritt.Als Team übernehmen wir ein hohes Maß an Eigenverantwortung und entscheiden gemeinsam, wie wir das Produkt in der komplexen Systemlandschaft bestmöglich weiterentwickeln können.Bei uns wird eine Kultur gelebt, die auf Verantwortung, Freiraum und Miteinander auf Augenhöhe basiert.In der dynamischen KI-Landschaft sind kontinuierliches Lernen und das Ausprobieren neuer Techniken ein integraler Bestandteil unserer Arbeit.Wir arbeiten sehr eng mit anderen Fachbereichen und Produktteams zusammen, um pragmatische und innovative Lösungen zu entwickeln.Wenn du bei kniffligen Fragestellungen nicht weiter weißt, findest Du in unserer Community Fachkolleg:innen, mit denen Du Dich austauschen kannst und die Dir Hinweise und Feedback geben.DAS BRINGST DU MIT:Ein erfolgreich abgeschlossenes (Fach-) Hochschulstudium im Bereich Informatik, Wirtschaftsinformatik, Mathematik, Physik eine einschlägige Ausbildung oder eine vergleichbare gleichwertige Qualifikation.Darüber hinaus hast du fundierte Berufserfahrung in der Softwareentwicklung (Python), sowie umfassende Kenntnisse im Betreiben und Anwenden von Machine Learning Modellen im produktiven Umfeld.Dein Schwerpunkt liegt in der Verarbeitung natürlichsprachlicher Texte (NLP) in deutscher Sprache. Darüber hinaus beherrscht du den Prozess von Datenerhebung, über das Trainineren von ML Modellen und Optimierung bis hin zur Evaluierung.In der Kommunikation von komplexen Sachverhalten trittst du sicher und strukturiert auf. Du gehst gerne auf Kolleg:innen zu, kommunizierst zielgerichtet und kannst dabei zwischen fachlicher Tiefe und abstraktem Verständnis variieren.Deutschkenntnisse sind von Vorteil, aber nicht erforderlich - unser Team kommuniziert auch auf Englisch.DAS BIETEN WIR DIR:In der Haufe Group schaffen wir wegweisende Arbeitsbedingungen, in denen sich jede:r von uns optimal einbringen und entfalten kann.Bei uns erhältst du Raum und Verantwortung sowie die Möglichkeit, hybrid zu arbeiten – das bedeutet eine Kombination aus Büropräsenz und Homeoffice, je nach Bedarf und Vereinbarung in deinem Team.Zudem profitierst du von flexiblen Arbeitszeiten und hast vielfältige Weiterbildungs- und Entwicklungsmöglichkeiten.Wir sind erlebbar und ganz offiziell ein Great Place to Work®.
+
+Nice-to-have skills
+
+Python
+Machine Learning
+Freiburg im Breisgau, Baden-Württemberg, Germany
+
+Work experience
+
+Machine Learning
+NLP
+
+Languages
+
+German

@@ -1,0 +1,84 @@
+Description
+
+AWS Utility Computing (UC) provides product innovations — from foundational services such as Amazon’s Simple Storage Service (S3) and Amazon Elastic Compute Cloud (EC2), to consistently released new product innovations that continue to set AWS’s services and features apart in the industry. As a member of the UC organization, you’ll support the development and management of Compute, Database, Storage, Internet of Things (IoT), Platform, and Productivity Apps services in AWS, including support for customers who require specialized security solutions for their cloud services.
+
+Our Machine Learning Acceleration (MLA) team develops the Inferentia and Trainium SOCs that are used to power today’s AI workloads in datacenters all around the world. As a Circuit & Design Analysis engineer, you’ll collaborate with multiple teams to drive improvements in silicon yield & performance - it’s still Day One here at Amazon!
+
+We’re searching for an experienced Circuit Design & Analysis engineer with a background in custom circuit design & analysis, system level thermal & power analysis with a proven track record of handling challenges at scale. In this role, you’ll be working directly with product engineers, signal & power integrity engineers and physical design experts - defining best practices, driving correlation of pre-silicon simulation of thermal & power integrity to post silicon analysis and developing custom circuits that help raise the bar in implementing state-of-the-art machine learning hardware.
+
+Key job responsibilities
+
+Design and implement custom cells / IP.
+Develop & run characterization flows for custom cells / IP developed.
+Own integration & post-silicon qualification of IPs like PLL, PCIE, UCIE, HBM, sensors/monitors.
+Develop scripts to automate running analysis and collect reports.
+Develop test-plan and perform measurements in the lab to correlate with simulation data.
+Be a highly-valued member of our start-up like team through excellent collaboration and teamwork with other physical design engineers, product engineers, hardware engineers as well as with the RTL/Arch. teams.
+
+A day in the life
+
+Depending on the state of the project, you may find yourself working on the following:
+
+Evaluate IPs (like sensors, process monitors) from a 3rd party
+Develop an characterize custom IPs like ganged buffers, custom logic cells for specialized operations (like MACs)
+Work with designers and architects to identify pain-points and areas where custom solutions can improve PPAS
+Do post-silicon quality checks for key IP like PLLs, UCIE/PCIE, HBM
+Do post-silicon power measurements of jitter, sensor calibration, power and correlate with simulation
+
+About The Team
+
+Why AWS
+
+Amazon Web Services (AWS) is the world’s most comprehensive and broadly adopted cloud platform. We pioneered cloud computing and never stopped innovating — that’s why customers from the most successful startups to Global 500 companies trust our robust suite of products and services to power their businesses.
+
+Utility Computing (UC)
+
+AWS Utility Computing (UC) provides product innovations — from foundational services such as Amazon’s Simple Storage Service (S3) and Amazon Elastic Compute Cloud (EC2), to consistently released new product innovations that continue to set AWS’s services and features apart in the industry. As a member of the UC organization, you’ll support the development and management of Compute, Database, Storage, Internet of Things (IoT), Platform, and Productivity Apps services in AWS, including support for customers who require specialized security solutions for their cloud services.
+
+Inclusive Team Culture
+
+Here at AWS, it’s in our nature to learn and be curious. Our employee-led affinity groups foster a culture of inclusion that empower us to be proud of our differences. Ongoing events and learning experiences, including our Conversations on Race and Ethnicity (CORE) and AmazeCon (gender diversity) conferences, inspire us to never stop embracing our uniqueness.
+
+Work/Life Balance
+
+We value work-life harmony. Achieving success at work should never come at the expense of sacrifices at home, which is why we strive for flexibility as part of our working culture. When we feel supported in the workplace and at home, there’s nothing we can’t achieve in the cloud.
+
+Mentorship and Career Growth
+
+We’re continuously raising our performance bar as we strive to become Earth’s Best Employer. That’s why you’ll find endless knowledge-sharing, mentorship and other career-advancing resources here to help you develop into a better-rounded professional.
+
+Diverse Experiences
+
+Amazon values diverse experiences. Even if you do not meet all of the preferred qualifications and skills listed in the job description, we encourage candidates to apply. If your career is just starting, hasn’t followed a traditional path, or includes alternative experiences, don’t let it stop you from applying.
+
+Basic Qualifications
+
+BS + 8yrs or MS + 6yrs or PhD + 3yr in EE/CS
+Expertise on circuit level analysis using tools like SPICE / SPECTRE
+Expertise in interconnect & transistor fundamentals in deep sub-micron processes
+Understanding of ASIC Physical Design from RTL-to-GDSII
+Understanding of other sign-off activities (ir/em, physical verification, timing closure, DFT)
+3+ years of scripting experience with Tcl, Perl or Python
+
+Preferred Qualifications
+
+Experience in advanced nodes - 5nm or below
+Expertise with Thermal & IR analysis tools (examples: Ansys Redhawk_SC-ET, Cadence Voltus & Celsius)
+Experience with timing of IO interfaces like DDR, HBM, PCIe, Die-to-Die etc
+Experience with using lab equipement like oscilloscopes, logic analyzers
+Leadership and mentoring skills
+Meets/exceeds Amazon’s leadership principles requirements for this role
+Meets/exceeds Amazon’s functional/technical depth and complexity for this role
+
+Amazon is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status.
+
+Los Angeles County applicants: Job duties for this position include: work safely and cooperatively with other employees, supervisors, and staff; adhere to standards of excellence despite stressful conditions; communicate effectively and respectfully with employees, supervisors, and staff to ensure exceptional customer service; and follow all federal, state, and local laws and Company policies. Criminal history may have a direct, adverse, and negative relationship with some of the material job duties of this position. These include the duties and responsibilities listed above, as well as the abilities to adhere to company policies, exercise sound judgment, effectively manage stress and work safely and respectfully with others, exhibit trustworthiness and professionalism, and safeguard business operations and the Company’s reputation. Pursuant to the Los Angeles County Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.
+
+Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.
+
+Our compensation reflects the cost of labor across several US geographic markets. The base pay for this position ranges from $143,300/year in our lowest geographic market up to $247,600/year in our highest geographic market. Pay is based on a number of factors including market location and may vary depending on job-related knowledge, skills, and experience. Amazon is a total compensation company. Dependent on the position offered, equity, sign-on payments, and other forms of compensation may be provided as part of a total compensation package, in addition to a full range of medical, financial, and/or other benefits. For more information, please visit https://www.aboutamazon.com/workplace/employee-benefits. This position will remain posted until filled. Applicants should apply via our internal or external career site.
+
+
+Company - Annapurna Labs (U.S.) Inc.
+
+Job ID: A2932437

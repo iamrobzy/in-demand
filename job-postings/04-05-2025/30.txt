@@ -1,0 +1,53 @@
+At Toyota Research Institute (TRI), we’re on a mission to improve the quality of human life. We’re developing new tools and capabilities to amplify the human experience. To lead this transformative shift in mobility, we’ve built a world-class team in Energy & Materials, Human-Centered AI, Human Interactive Driving, Large Behavioral Models, and Robotics.
+
+The Mission
+Make general-purpose robots a reality via large-scale embodied AI.
+
+The Challenge
+We envision a future where robots assist with household chores and cooking, aid the elderly in maintaining their independence, and enable people to spend more time on the activities they enjoy most. To achieve this, robots need to be able to operate reliably in messy, unstructured environments. Our mission is to answer the question, “What will it take to create truly general-purpose robots that can accomplish a wide variety of tasks in settings like human homes with minimal human supervision?”. To answer this, we are gathering large datasets of physical interaction from a variety of sources (including robots and people) and training large generative foundation models on this physical interaction data along with language, video, audio, and other rich modalities. 
+
+The Team
+Our goal is to revolutionize the field of robotic manipulation, enabling long-horizon dexterous behaviors to be efficiently taught, learned, and improved over time in diverse, real-world environments.
+
+Our team has deep cross-functional expertise across simulation, perception, controls, language, vision, multimodal learning, and generative modeling. Success is measured by the advancement of robot capabilities and we’re strong believers in open research. Our north star is fundamental technological advancement in building robots which can flexibly perform a wide variety of tasks in diverse environments with minimal human supervision. Come join us, and let’s make general-purpose robots a reality.
+
+We operate a fleet of robots, and robot-embodied teaching and deployment are key parts of our strategy. Some of our previous work is highlighted here.
+
+The Opportunity
+We’re looking for a driven machine learning engineer comfortable working on large integrated machine learning systems. Experience with robots or other embodied systems (such as autonomous vehicles) is a bonus.
+
+If our mission of revolutionizing robotics through machine learning resonates with you, get in touch and let’s talk about how we can create the next generation of AI-powered capable robots, together.
+
+Responsibilities
+Collaborate with internal research scientists and our partner labs at top academic research universities, including MIT, Stanford, Berkeley, CMU, Columbia, and Princeton to drive pioneering research at scale.
+Build, improve, and robustify end-to-end integrated ML pipelines for training multimodal (language, images, video, actions) models at scale.
+Build large-scale data pipelines to ensure data quality through automated validation, filtering, and deduplication.
+Develop ML ecosystem from data ingestion to dataset management for large scale ML model training.
+Train, finetune, and serve robot foundation models with a strong MLOps mindset.
+Apply MLOps best practices to automate and monitor training, validation, and deployment processes
+Build processes for integrating collaboration-produced and open-source advancements and code into our internal stack.
+Be a key member of the team and play a critical role in rapid progress measured by both the development of internal capabilities and high-impact external publications.
+
+Qualifications
+2+ years of professional ML engineering experience at an AI/ML-focused organization.
+Familiarity with the state-of-the-art in behavior learning, language, and/or computer vision.
+Experience training large-scale foundation models (VLMs, text-to-video models, etc) utilizing distributed training and high-performance optimization techniques such as quantization, mixed precision, model parallelism, data parallelism or FSDP.
+Extensive practical experience with PyTorch.
+Strong proficiency in Python and software development best practices such as unit testing, documentation, code review, continuous integration, and dependency management.
+Familiarity with cloud service and workflow (such as AWS, GCP Azure) for data pipelines, model serving and optimization, cloud training, and dataset management.
+An ability to move fast and switch between modes of rapid prototyping and robust implementation as required.
+
+Bonus Qualifications
+Experience deploying models on embodied systems/robots.
+Experience working in mixed teams of research scientists and engineers.
+Experience Amazon EC2, S3, and/or Sagemaker.
+Experience with Bazel.
+
+
+The pay range for this position at commencement of employment is expected to be between $165,760 and $248,640/year for California-based roles; however, base pay offered may vary depending on multiple individualized factors, including market location, job-related knowledge, skills, and experience. Note that TRI offers a generous benefits package (including 401(k) eligibility and various paid time off benefits, such as vacation, sick time, and parental leave) and an annual cash bonus structure. Details of participation in these benefit plans will be provided if an employee receives an offer of employment.
+
+Please reference this Candidate Privacy Notice to inform you of the categories of personal information that we collect from individuals who inquire about and/or apply to work for Toyota Research Institute, Inc. or its subsidiaries, including Toyota A.I. Ventures GP, L.P., and the purposes for which we use such personal information.
+
+TRI is fueled by a diverse and inclusive community of people with unique backgrounds, education and life experiences. We are dedicated to fostering an innovative and collaborative environment by living the values that are an essential part of our culture. We believe diversity makes us stronger and are proud to provide Equal Employment Opportunity for all, without regard to an applicant’s race, color, creed, gender, gender identity or expression, sexual orientation, national origin, age, physical or mental disability, medical condition, religion, marital status, genetic information, veteran status, or any other status protected under federal, state or local laws.
+
+It is unlawful in Massachusetts to require or administer a lie detector test as a condition of employment or continued employment. An employer who violates this law shall be subject to criminal penalties and civil liability. Pursuant to the San Francisco Fair Chance Ordinance, we will consider qualified applicants with arrest and conviction records for employment.

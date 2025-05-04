@@ -1,0 +1,33 @@
+What Will You Do
+
+Design, develop, test, deploy, maintain and improve ML models/infrastructure and software that uses these models.
+
+Analyze machine learning algorithms that could be used to solve a given problem and rank them based on their cost & benefit.
+
+Develop and maintain existing application (chatbot) using generative AI (LLM).
+
+Communicate technical concern to other parties, such as Teammates, Project Manager, Team from other division, client.
+
+What Will You Need
+
+1-2 years of proven relevant work experience in Data Science.
+
+Have industry experience in Artificial Intelligence, Machine Learning (ML) models, ML infrastructure, Natural Language Processing or Deep Learning.
+
+Able to solve complex business problem and apply machine learning to optimize critical business metrics.
+
+Have solid knowledge in root-cause analysis, statistical, time-series, or predictive modelling skills.
+
+Able to manage multiple projects with competing priorities.
+
+Proficiency in using various database platform such as MySQL, PostgreSQL, Hive, Bigquery, etc.
+
+Proficiency in Python.
+
+Have an understanding of generative AI, LLM and how to implement it.
+
+Have an understanding of REST API best practices using Fast API, Flask, or Django.
+
+Have a high sense of ownership of the task or project being worked on.
+
+⁠Having experience in cloud environment such as GCP, Azure, AWS is plus point.

@@ -1,0 +1,49 @@
+Descrição da vaga
+
+PcDs são sempre bem-vindas.
+
+Remoto para as pessoas que moram na região Centro Oeste
+
+Estamos em busca de um desenvolvedor sênior de Inteligência Artificial para integrar uma equipe inovadora focada em desenvolver soluções avançadas de IA. A posição envolve a implementação conjunta de ML para identificação de padrões e o uso de Large Language Models (LLMs), como ChatGPT, LlaMA ou outros, para a criação de prompts e soluções adaptadas a casos de uso específicos e personalização de interfaces, com soluções on-premises garantindo escalabilidade e segurança
+
+Responsabilidades e atribuições
+
+Implementar solução de ML para identificação de padrões;
+Adaptar e manipular modelos de IA Gerativos, incluindo (mas não se limitando) a LLMs (Large Language Models) para a criação de prompts e soluções adaptadas a casos de uso específicos.
+Desenvolver e incorporar soluções de IA em ambientes on-premises respeitando as melhores práticas do setor, incluindo padrões de segurança, monitoramento, conformidade e alta performance. Criar soluções de personalização dinâmica utilizando técnicas como RAG (Retrieval-Augmented Generation).
+Trabalhar com coleta, pré-processamento e análise de grandes volumes de dados para alimentar modelos de IA.
+Colaborar no desenvolvimento de sistemas de recomendação, notificações personalizadas e assistentes contextuais baseados em IA.
+Apoio no aprendizado contínuo e otimizações para manter a relevância dos modelos implementados.
+
+Requisitos e qualificações
+
+Graduação em Ciência da Computação, Engenharia de Software ou áreas correlatas.
+Experiência sólida no desenvolvimento de soluções de IA e NLP.
+Conhecimento prático em Large Language Models (ChatGPT, LlaMA ou equivalentes) e sua implementação em ambientes on-premises.
+Experiência com técnicas de personalização, incluindo RAG (Retrieval-Augmented Generation).
+Habilidades em análise de dados e construção de pipelines para processamento em larga escala.
+Inglês avançado para leitura, escrita e comunicação com times internacionais.
+
+Diferenciais
+
+Experiência com sistemas de recomendação e personalização de interfaces.
+Conhecimento em ferramentas de visualização de dados e dashboards interativos.
+Experiência com integração de microsserviços e arquitetura escalável.
+Experiência com soluções de IA aplicadas em ambientes on-premises.
+Inglês Fluente.
+
+Informações adicionais
+
+O Instituto de Pesquisas Eldorado valoriza um ambiente diversificado e se orgulha de ser uma organização que oferece oportunidades de forma igualitária. Todos que se candidatarem serão avaliados, independentemente de raça, deficiência, cor, religião, sexo, identidade ou expressão de gênero, orientação sexual, nacionalidade ou idade.
+
+Nosso trabalho transforma o mundo, o futuro e as pessoas.
+
+Impulsione a sua carreira em um dos maiores centros de P&D do país. Há 25 anos, desenvolvemos soluções sob medida em software e hardware para diversos segmentos em parceria com grandes players globais da área de tecnologia. Atuamos também com testes de laboratório, consultoria de inovação, capacitação, treinamento e certificação de produtos para telecomunicações.
+
+É a sua chance de adquirir novas experiências e aplicar seu conhecimento em projetos relevantes que impactam positivamente a vida das pessoas.
+
+Somos mais de 1.600 profissionais e reconhecidos como um dos Lugares Incríveis para se Trabalhar pelo prêmio FIA/UOL. 
+Estamos em grandes polos tecnológicos do país, com unidades em Brasília, Campinas, Manaus e Porto Alegre. 
+Temos infraestrutura completa de laboratórios, especialmente o de microeletrônica, que é referência em todo o país.
+Somos o único membro da América Latina da associação europeia EARTO. 
+Temos expertise em tecnologias como inteligência artificial, visão computacional, computação gráfica, realidade virtual e aumentada, assistentes virtuais e interface por voz, big data e analytics, openRAN, sistemas embarcados, IoT e blockchain.
